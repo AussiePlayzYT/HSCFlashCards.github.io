@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#2563eb">
+<title>Study Flashcards</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+  <div class="top">
+    <h1>Study Flashcards</h1>
+    <div class="stats">
+      <span class="pill">✓ <b id="sK">0</b></span><span class="pill">✕ <b id="sR">0</b></span><span class="pill">Quiz <b id="sQ">0%</b></span>
+    </div>
+  </div>
+
+  <div class="label">Subject</div>
+  <div class="chips" id="subjChips"></div>
+  <div id="topicWrap" style="display:none"><div class="label">Topic</div><div class="chips" id="topicChips"></div></div>
+
+  <div class="tools"><input type="search" id="search" placeholder="Search cards..."></div>
+  <details class="more"><summary>⚙︎ More options</summary>
+    <div class="more-body">
+      <div><label for="subSel">Subtopic</label><select id="subSel"></select></div>
+      <div><label for="qFreq">Auto quiz</label>
+        <select id="qFreq"><option value="0">Off</option><option value="1">Every card</option><option value="3">Every 3 cards</option><option value="5">Every 5 cards</option><option value="10">Every 10 cards</option></select></div>
+      <div><label for="qType">Question type</label>
+        <select id="qType"><option value="random">Random</option><option value="multiple">Multiple choice</option><option value="short">Short answer</option></select></div>
+      <div style="display:flex;gap:10px;align-items:flex-end"><button class="btn" id="reset">Reset</button><button class="btn pri" id="shuf">Shuffle</button></div>
+    </div>
+  </details>
+
+  <div id="empty" class="empty" style="display:none"><h2>No flashcards found</h2><p>Add cards in your subject .js files or change the filters.</p></div>
+  <div id="area">
+    <div class="meta"><div class="tags" id="tags"></div><div class="fsrow"><div class="cnt" id="cnt"></div><button class="btn" id="fsb">⛶ Full screen</button></div></div>
+    <div class="scene"><div class="card" id="card">
+      <div class="face front" id="front"><span class="side">Question</span><h2 id="q"></h2><span class="hint">Tap to reveal</span></div>
+      <div class="face back" id="back"><span class="side">Answer</span><p id="a"></p><span class="hint">Tap to flip back</span></div>
+    </div></div>
+    <div class="bar">
+      <button class="nav" id="prev" aria-label="Previous">←</button>
+      <button class="rev" id="rev">✕ Review</button>
+      <button class="flipb" id="flip">Flip</button>
+      <button class="kn" id="kn">✓ Know it</button>
+      <button class="nav" id="next" aria-label="Next">→</button>
+    </div>
+    <div class="prog"><div id="pf"></div></div><div class="ptx" id="pt"></div>
+  </div>
+</div>
+
+<div class="ov" id="ov"><div class="modal">
+  <div class="qh"><h2>Quick Quiz</h2><span class="pill" id="qtl"></span></div>
+  <div class="qctx" id="qctx"></div><div class="qq" id="qq"></div>
+  <div class="ans" id="qa"></div>
+  <div class="sa" id="sa"><textarea id="si" placeholder="Type your answer..."></textarea><button class="btn pri" id="sub">Submit</button></div>
+  <div class="fb" id="fb"></div>
+  <div style="text-align:right;margin-top:16px"><button class="btn" id="cq" style="display:none">Continue</button></div>
+</div></div>
+
+<script src="flashcards-core.js"></script>
+<script src="maths-standard.js"></script>
+<script src="english-studies.js"></script>
+<script src="multimedia.js"></script>
+<script src="software-engineering.js"></script>
+<script src="enterprise-computing.js"></script>
+<script>
+const cards = ALL_FLASHCARDS, $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const ld = (k, d) => { try { return JSON.parse(localStorage.getItem(k)) || d; } catch (e) { return d; } };
+const sv = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
+const uniq = a => [...new Set(a)];
+const shuf = a => { for (let i = a.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; [a[i], a[j]] = [a[j], a[i]]; } return a; };
+
+/* colour coding: subject = its own colour; main topic = hue-shifted shade of the subject colour */
+const hue = h => { const [r,g,b] = [1,3,5].map(i => parseInt(h.substr(i,2),16)/255), m = Math.max(r,g,b), d = m - Math.min(r,g,b);
+  if (!d) return 0; const H = m==r ? ((g-b)/d)%6 : m==g ? (b-r)/d+2 : (r-g)/d+4; return (H*60+360)%360; };
+const topicsOf = s => uniq(cards.filter(c => c.subject === s).map(c => c.topic));
+const tCol = (s, t) => { const sj = SUBJECTS.find(x => x.name === s); return `hsl(${(hue(sj.colour) + topicsOf(s).indexOf(t) * 24) % 360} 62% 42%)`; };
+
+let known = ld("knownFlashcards", []), rev = ld("reviewFlashcards", []);
+let qs = ld("quizSettings", {f:0, t:"random"}), st = ld("quizStats", {n:0, ok:0});
+let subj = "all", topic = "all", list = [...cards], i = 0, seen = 0, ac = null;
+
+function chips() {
+  $("subjChips").innerHTML = [{name:"all", colour:"#475569", label:"All", n:cards.length}].concat(SUBJECTS.map(s => ({...s, label:s.name, n:cards.filter(c => c.subject === s.name).length})))
+    .map(s => `<button class="chip${subj===s.name?" on":""}" style="--c:${esc(s.colour)}" data-s="${esc(s.name)}">${esc(s.label)} <small>${s.n}</small></button>`).join("");
+  const tw = $("topicWrap"); tw.style.display = subj === "all" ? "none" : "block";
+  if (subj !== "all") $("topicChips").innerHTML = [`<button class="chip${topic==="all"?" on":""}" style="--c:${esc(SUBJECTS.find(s=>s.name===subj).colour)}" data-t="all">All topics</button>`]
+    .concat(topicsOf(subj).map(t => `<button class="chip${topic===t?" on":""}" style="--c:${tCol(subj,t)}" data-t="${esc(t)}">${esc(t)}</button>`)).join("");
+  const subs = uniq(cards.filter(c => (subj==="all"||c.subject===subj) && (topic==="all"||c.topic===topic)).map(c => c.subtopic));
+  $("subSel").innerHTML = `<option value="all">All subtopics</option>` + subs.map(x => `<option value="${esc(x)}">${esc(x)}</option>`).join("");
+}
+function filt() {
+  const sb = $("subSel").value, q = $("search").value.trim().toLowerCase();
+  list = cards.filter(c => (subj==="all"||c.subject===subj) && (topic==="all"||c.topic===topic) && (sb==="all"||c.subtopic===sb) &&
+    (!q || (c.question+" "+c.answer+" "+c.topic+" "+c.subtopic).toLowerCase().includes(q)));
+  i = 0; show();
+}
+function show() {
+  $("card").classList.remove("flipped");
+  const none = !list.length; $("empty").style.display = none ? "block" : "none"; $("area").style.display = none ? "none" : "block";
+  if (none) return;
+  const c = list[i], tc = tCol(c.subject, c.topic);
+  $("q").textContent = c.question; $("a").textContent = c.answer;
+  $("front").style.setProperty("--sc", c.colour); $("back").style.setProperty("--tc", tc);
+  $("tags").innerHTML = `<span class="tag" style="background:${esc(c.colour)}">${esc(c.subject)}</span><span class="tag" style="background:${tc}">${esc(c.topic)}</span><span class="tag">${esc(c.subtopic)}</span>`;
+  $("cnt").textContent = `${i+1} / ${list.length}`;
+  const p = Math.round(list.filter(x => known.includes(x.id)).length / list.length * 100);
+  $("pf").style.width = p + "%"; $("pt").textContent = p + "% known in this set";
+}
+function stats() {
+  $("sK").textContent = known.filter(id => cards.some(c => c.id===id)).length; $("sR").textContent = rev.filter(id => cards.some(c => c.id===id)).length;
+  $("sQ").textContent = (st.n ? Math.round(st.ok/st.n*100) : 0) + "%";
+}
+const flip = () => list.length && $("card").classList.toggle("flipped");
+function go(d) { if (!list.length) return; i = (i + d + list.length) % list.length; if (d > 0) { seen++; if (qs.f && seen % qs.f === 0) setTimeout(quiz, 250); } show(); }
+function mark(k) {
+  if (!list.length) return; const id = list[i].id;
+  if (k) { if (!known.includes(id)) known.push(id); rev = rev.filter(x => x!==id); } else { if (!rev.includes(id)) rev.push(id); known = known.filter(x => x!==id); }
+  sv("knownFlashcards", known); sv("reviewFlashcards", rev); stats(); go(1);
+}
+
+/* quiz */
+function quiz() {
+  const pool = list.length ? list : cards; if (!pool.length) return;
+  ac = pool[Math.random()*pool.length|0];
+  const opts = shuf([ac.answer, ...shuf(uniq(pool.concat(cards).map(c => c.answer).filter(a => a !== ac.answer))).slice(0,3)]);
+  const mc = (qs.t==="random" ? Math.random()<.5 : qs.t==="multiple") && opts.length > 1;
+  $("qtl").textContent = mc ? "Multiple choice" : "Short answer"; $("qq").textContent = ac.question;
+  $("qctx").textContent = `${ac.subject} • ${ac.topic} • ${ac.subtopic}`; $("fb").className = "fb"; $("cq").style.display = "none"; $("ov").classList.add("on");
+  $("qa").style.display = mc ? "flex" : "none"; $("sa").style.display = mc ? "none" : "flex"; $("qa").innerHTML = "";
+  if (mc) opts.forEach(o => { const b = document.createElement("button"); b.className = "a"; b.textContent = o; b.onclick = () => pick(b, o); $("qa").appendChild(b); });
+  else { $("si").value = ""; $("si").focus(); }
+}
+function pick(b, o) { const all = [...document.querySelectorAll(".a")]; all.forEach(x => x.disabled = true);
+  const ok = o === ac.answer; b.classList.add(ok ? "c" : "w"); if (!ok) all.forEach(x => x.textContent === ac.answer && x.classList.add("c")); done(ok); }
+const nm = v => v.toLowerCase().replace(/[^\w\s]/g,"").replace(/\s+/g," ").trim();
+function chk() { if ($("cq").style.display === "block") return; const u = nm($("si").value), c = nm(ac.answer); let ok = u === c;
+  if (!ok && c.length > 35) { const k = c.split(" ").filter(w => w.length > 4); ok = k.filter(w => u.includes(w)).length >= Math.ceil(k.length*.45); } done(ok); }
+function done(ok) { st.n++; if (ok) st.ok++; sv("quizStats", st); $("fb").className = "fb " + (ok ? "c" : "w");
+  $("fb").innerHTML = ok ? "<b>Correct!</b>" : "<b>Not quite.</b><br>Answer: " + esc(ac.answer); $("cq").style.display = "block"; stats(); }
+
+/* events */
+$("subjChips").onclick = e => { const b = e.target.closest("[data-s]"); if (b) { subj = b.dataset.s; topic = "all"; chips(); filt(); } };
+$("topicChips").onclick = e => { const b = e.target.closest("[data-t]"); if (b) { topic = b.dataset.t; chips(); filt(); } };
+$("subSel").onchange = filt; $("search").oninput = filt;
+$("reset").onclick = () => { subj = topic = "all"; $("search").value = ""; chips(); filt(); };
+$("shuf").onclick = () => { shuf(list); i = 0; show(); };
+$("card").onclick = flip; $("flip").onclick = flip; $("next").onclick = () => go(1); $("prev").onclick = () => go(-1);
+$("kn").onclick = () => mark(true); $("rev").onclick = () => mark(false);
+$("qFreq").onchange = $("qType").onchange = () => { qs = {f:+$("qFreq").value, t:$("qType").value}; sv("quizSettings", qs); };
+$("sub").onclick = chk; $("cq").onclick = () => $("ov").classList.remove("on");
+$("si").onkeydown = e => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); chk(); } };
+document.onkeydown = e => { if (e.key === "Escape" && !document.fullscreenElement && document.body.classList.contains("fs")) { setFs(false); return; } if (/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName) || $("ov").classList.contains("on")) return;
+  if (e.code === "Space") { e.preventDefault(); flip(); } else if (e.key === "ArrowRight") go(1); else if (e.key === "ArrowLeft") go(-1); };
+let x0 = 0; const sc = document.querySelector(".scene");   /* swipe on phones */
+sc.addEventListener("touchstart", e => x0 = e.touches[0].clientX, {passive:true});
+sc.addEventListener("touchend", e => { const dx = e.changedTouches[0].clientX - x0; if (Math.abs(dx) > 60) go(dx < 0 ? 1 : -1); });
+
+
+/* full screen / focus mode (CSS-based so it also works on iPhone; uses the browser Fullscreen API where available) */
+const fsb = $("fsb"), de = document.documentElement;
+function setFs(on) { document.body.classList.toggle("fs", on); fsb.textContent = on ? "✕ Exit" : "⛶ Full screen"; }
+fsb.onclick = () => { const on = !document.body.classList.contains("fs"); setFs(on);
+  if (on && de.requestFullscreen) de.requestFullscreen().catch(() => {});
+  else if (on && de.webkitRequestFullscreen) de.webkitRequestFullscreen();
+  else if (!on && document.fullscreenElement) document.exitFullscreen(); };
+document.addEventListener("fullscreenchange", () => { if (!document.fullscreenElement) setFs(false); });
+
+$("qFreq").value = qs.f; $("qType").value = qs.t; chips(); stats(); filt();
+</script>
+</body>
+</html>
