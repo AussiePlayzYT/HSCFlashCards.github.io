@@ -11,7 +11,6 @@ function registerSubject(name, colour, cards, units) {
         unit: c.unit || "",
         topic: c.topic || "General",
         subtopic: c.subtopic || "General",
-        subsubtopic: c.subsubtopic || "",
         question: c.question || "",
         answer: c.answer || "",
         questionImage: c.questionImage || "",
