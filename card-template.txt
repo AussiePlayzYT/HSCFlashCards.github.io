@@ -1,0 +1,8 @@
+    {
+        unit: "Unit name (must match a unit listed at the bottom of the subject file)",
+        topic: "Topic name",
+        subtopic: "Subtopic name",
+        subsubtopic: "Sub-subtopic (optional, can be left out)",
+        question: "Your question here?",
+        answer: "Your answer here."
+    },

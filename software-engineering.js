@@ -2,6 +2,7 @@
 registerSubject("Software Engineering", "#2563eb", [
 
     {
+        unit: "Secure Software Architecture",
         topic: "Example Topic",
         subtopic: "Example Subtopic",
         question: "Replace this question",
@@ -10,4 +11,4 @@ registerSubject("Software Engineering", "#2563eb", [
 
     // ---- paste new cards above this line (keep the comma after each }) ----
 
-]);
+], ["Secure Software Architecture", "Programming for the Web", "Software Automation", "Software Engineering Project"]);

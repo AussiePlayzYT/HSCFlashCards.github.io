@@ -1,0 +1,16 @@
+    {
+        unit: "Unit name (must match a unit listed at the bottom of the subject file)",
+        topic: "Topic name",
+        subtopic: "Subtopic name",
+        subsubtopic: "Sub-subtopic (optional, can be left out)",
+        question: "What does this diagram show?",   // text is optional if you use an image
+        questionImage: "images/my-diagram.png",     // OPTIONAL: shown on the card front AND in quizzes
+        answer: "A flowchart of the process.",      // keep a text answer if the card should appear in quizzes
+        answerImage: "images/my-answer.png"         // OPTIONAL: card back only, never shown in quizzes
+    },
+
+/* NOTES
+ - Put pictures in an "images" folder next to index.html.
+ - Use any of the 4 optional parts: questionImage only, answerImage only, or both.
+ - Quizzes show text answer choices only. Cards with no text answer are skipped in quizzes.
+*/

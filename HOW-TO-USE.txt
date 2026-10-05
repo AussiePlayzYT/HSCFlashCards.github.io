@@ -1,0 +1,29 @@
+FOLDER SETUP
+Keep index.html (your flashcard page) in the same folder as these .js files.
+
+EDIT 1 - in index.html, replace the whole  const flashcards = [ ... ];  block
+(from "FLASHCARD DATA" down to the "];" before "STATE") with:
+
+    const flashcards = ALL_FLASHCARDS;
+
+EDIT 2 - just before the main <script> tag in index.html, add:
+
+<script src="flashcards-core.js"></script>
+<script src="maths-standard.js"></script>
+<script src="english-studies.js"></script>
+<script src="multimedia.js"></script>
+<script src="software-engineering.js"></script>
+<script src="enterprise-computing.js"></script>
+
+EDIT 3 - so every subject shows in the dropdown and legend even with no cards:
+ a) In initialiseFilters(), replace the "const subjects = [ ... ];" with:
+        const subjects = SUBJECTS.map(s => s.name);
+ b) Replace everything inside <div class="legend-items"> ... </div> with nothing,
+    give it id="legendItems", then add this just above initialiseFilters(); at the bottom:
+        document.getElementById("legendItems").innerHTML = SUBJECTS.map(s =>
+            `<div class="legend-item"><span class="legend-dot" style="background:${s.colour}"></span>${s.name}</div>`
+        ).join("");
+
+ADDING CARDS: open the subject's .js file, paste card-template.txt above the
+"paste new cards" line, and fill in the 4 fields. IDs are automatic, so keep each
+question unique within a subject (progress is saved by subject + question).
