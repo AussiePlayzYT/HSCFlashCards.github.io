@@ -37,6 +37,14 @@ input:focus,select:focus,textarea:focus{outline:2px solid var(--pr);outline-offs
 select{appearance:none;-webkit-appearance:none;padding-right:44px;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%2364708a' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 16px center;background-size:14px}
 #oov .modal{max-width:420px}
 #ssearch{margin-bottom:12px}
+.tf{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px}
+.tf .sfield{min-width:0;order:0;flex:none}
+@media(max-width:650px){.tf{grid-template-columns:1fr}}
+.btn.danger{background:var(--no);color:#fff}
+#rov .modal{max-width:460px}
+.rl{margin:12px 0 4px;padding-left:22px;color:var(--mu);font-size:15px;line-height:1.7}
+.rn{font-size:14px;color:var(--mu);text-align:center;margin-top:8px}
+.racts{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:18px}
 .btn{min-height:44px;padding:0 18px;border:0;border-radius:12px;font-weight:700;background:var(--sf2);display:inline-flex;align-items:center;justify-content:center;gap:8px}
 .btn.pri{background:var(--pr);color:#fff}
 
@@ -231,6 +239,7 @@ kbd{background:var(--sf);border:1px solid var(--bd);border-bottom-width:2px;bord
       <div class="stat">Review: <strong id="sR">0</strong></div>
     </div>
     <button class="btn pri sm" id="help">Help</button>
+    <button class="btn danger sm" id="reset">Reset</button>
   </div>
 </div></header>
 
@@ -250,7 +259,7 @@ kbd{background:var(--sf);border:1px solid var(--bd);border-bottom-width:2px;bord
   </div>
   </section>
 
-  <div id="empty" class="empty" style="display:none"><h2>No flashcards found</h2><p>No cards found.</p></div>
+  <div id="empty" class="empty" style="display:none"><h2>No flashcards found</h2><p>Add cards in your subject .js files or change the filters.</p></div>
   <div id="area">
     <div class="meta"><div class="tags" id="tags"></div><div class="fsrow"><div class="mprog" title="Completion"><div id="pf"></div></div><div class="cnt" id="cnt"></div><button class="btn" id="fsb"><img class="ico" src="images/icons/fullscreen.png" alt=""><span>Full screen</span></button></div></div>
     <div class="scene"><div class="card" id="card">
@@ -278,6 +287,10 @@ kbd{background:var(--sf);border:1px solid var(--bd);border-bottom-width:2px;bord
 
 <div class="ov" id="sov"><div class="modal wide">
   <div class="qh ctr"><h2 id="stl">Topics</h2><button class="btn sm" id="sdone">Done</button></div>
+  <div class="tf">
+    <div class="sfield"><label for="sOrder">Order by</label><select id="sOrder"><option value="az">A–Z</option><option value="za">Z–A</option><option value="hi">High number of cards</option><option value="lo">Low number of cards</option></select></div>
+    <div class="sfield" id="sUnitWrap"><label for="sUnit">Filter by unit</label><select id="sUnit"></select></div>
+  </div>
   <input type="search" id="ssearch" placeholder="Search topics and subtopics...">
   <div class="tbar"><button class="btn sm" id="sall">Select all</button><button class="btn sm" id="snone">Clear all</button><span class="ptx" id="sinfo"></span></div>
   <div id="slist"></div>
@@ -290,6 +303,20 @@ kbd{background:var(--sf);border:1px solid var(--bd);border-bottom-width:2px;bord
     <div><label for="qType">Question type</label><select id="qType"><option value="random">Random</option><option value="multiple">Multiple choice</option><option value="short">Short answer</option></select></div>
     <div><label>Card order</label><button class="btn pri" id="shuf" style="width:100%">Shuffle cards</button></div>
   </div>
+</div></div>
+
+<div class="ov" id="rov"><div class="modal">
+  <div class="qh ctr"><h2>⚠ Reset everything?</h2></div>
+  <p class="rn"><b>This cannot be undone.</b> Resetting will permanently erase the following from this device:</p>
+  <ul class="rl">
+    <li>All cards you marked "Know it"</li>
+    <li>All cards you marked "Review"</li>
+    <li>Your quiz score</li>
+    <li>Your quiz settings (auto quiz and question type)</li>
+    <li>Your saved study position (the card you're up to)</li>
+    <li>Your selected subject, unit, topic and subtopic filters, and search</li>
+  </ul>
+  <div class="racts"><button class="btn" id="rcancel">Cancel</button><button class="btn danger" id="rconfirm">Yes, reset everything</button></div>
 </div></div>
 
 <div class="ov" id="hov"><div class="modal">
@@ -332,11 +359,10 @@ kbd{background:var(--sf);border:1px solid var(--bd);border-bottom-width:2px;bord
     <div class="ver"><h3>Latest update</h3>
       <p class="lu">Last updated: <b id="lastUpd">—</b></p>
       <ul>
-        <li>Multiple choice quiz answers are now labelled A–D, with keyboard shortcuts and Enter to continue.</li>
-        <li>Answers show an outline when you hover over them.</li>
-        <li>Fixed the quiz score showing NaN%.</li>
-        <li>The filters panel is wider so all units fit on screen.</li>
-        <li>Redesigned the Help window.</li>
+        <li>The topics window can now be ordered (A–Z, Z–A, most or fewest cards) and filtered by unit.</li>
+        <li>Your study position and filters are now saved automatically, so you can pick up where you left off.</li>
+        <li>Added a Reset button that clears all saved progress after you confirm.</li>
+        <li>The Topic filter row shows 5 topics, with the rest under "More topics".</li>
       </ul>
     </div>
   </div>
@@ -369,6 +395,9 @@ let known = ld("knownFlashcards", []), rev = ld("reviewFlashcards", []);
 let qs = ld("quizSettings", {f:0, t:"random"}), st = ld("quizStats", {n:0, ok:0});
 st = {n:+st.n||0, ok:Math.min(+st.ok||0, +st.n||0)};
 let subj = SUBJECTS[0].name, topics = new Set(), units = new Set(), subtops = new Set(), list = [...cards], i = 0, seen = 0, ac = null;
+const sS = ld("studyState", null);
+if (sS && SUBJECTS.some(x => x.name === sS.subj)) { subj = sS.subj; units = new Set(sS.units || []); topics = new Set(sS.topics || []); subtops = new Set(sS.subtops || []); }
+const saveState = () => sv("studyState", {subj, units:[...units], topics:[...topics], subtops:[...subtops], i, search:$("search").value});
 
 function subOK(c) {
   return !subtops.size || subtops.has(c.subject + "||" + c.topic + "||" + c.subtopic);
@@ -384,7 +413,7 @@ function chips() {
   const keys = topicsFiltered(subj).map(t => subj + "||" + t);
   $("topicChips").style.display = keys.length ? "flex" : "none";
   $("topicChips").innerHTML = `<button class="chip${topics.size ? "" : " on"}" style="--c:${esc(sj.colour)}" data-t="*">All topics</button>` +
-    keys.filter((k, n) => n < 5 || topics.has(k)).map(k => { const [s, t] = k.split("||"); return `<button class="chip${topics.has(k) ? " on" : ""}" style="--c:${tCol(s, t)}" data-t="${esc(k)}">${esc(t)}</button>`; }).join("");
+    keys.slice(0, 5).map(k => { const [s, t] = k.split("||"); return `<button class="chip${topics.has(k) ? " on" : ""}" style="--c:${tCol(s, t)}" data-t="${esc(k)}">${esc(t)}</button>`; }).join("");
   $("tcount").textContent = topics.size ? `(${topics.size} selected)` : "";
   subtops = new Set([...subtops].filter(k => { const [s, t] = k.split("||"); return s === subj && (!topics.size || topics.has(s + "||" + t)); }));
 }
@@ -397,6 +426,7 @@ function filt() {
 function show() {
   $("card").classList.remove("flipped");
   const none = !list.length; $("empty").style.display = none ? "block" : "none"; $("area").style.display = none ? "none" : "block";
+  saveState();
   if (none) return;
   const c = list[i], tc = tCol(c.subject, c.topic);
   $("q").textContent = c.question; $("a").textContent = c.answer; setImg($("qimg"), c.questionImage); setImg($("aimg"), c.answerImage);
@@ -454,6 +484,10 @@ function slist() {
   $("stl").textContent = subj + " topics";
   const rows = all.map(t => { const k = subj + "||" + t, inT = inTopic(k), tm = !q || t.toLowerCase().includes(q), subs = uniq(inT.map(c => c.subtopic)).filter(x => tm || x.toLowerCase().includes(q));
     return {t, k, n:inT.length, subs, show:tm || subs.length}; }).filter(r => r.show);
+  const o = $("sOrder").value, nc = (a, b) => a.t.localeCompare(b.t);
+  rows.sort((a, b) => o === "za" ? nc(b, a) : o === "hi" ? b.n - a.n || nc(a, b) : o === "lo" ? a.n - b.n || nc(a, b) : nc(a, b));
+  const us = sj.units || []; $("sUnitWrap").style.display = us.length ? "" : "none";
+  $("sUnit").innerHTML = `<option value="">All units</option>` + us.map(u => `<option value="${esc(u)}"${units.size === 1 && units.has(u) ? " selected" : ""}>${esc(u)}</option>`).join("") + (units.size > 1 ? `<option value="__m" selected>Multiple units</option>` : "");
   $("slist").innerHTML = rows.length ? `<div class="tsub" style="--c:${esc(sj.colour)}">${esc(sj.name)}</div>` + rows.map(({t, k, n, subs}) => { const op = openT.has(k) || !!q;
     return `<div class="stg"><div class="trow top"><button class="arr" data-to="${esc(k)}" aria-label="Expand or collapse ${esc(t)}">${ico(op ? "arrow-up" : "arrow-down")}</button><label class="tl"><input type="checkbox" data-k="${esc(k)}"${topics.has(k) ? " checked" : ""}><span class="dot" style="background:${tCol(subj, t)}"></span><span>${esc(t)} <small>(${n})</small></span></label></div>` +
       (op ? `<div class="sgrid">` + subs.map(x => { const sk = k + "||" + x;
@@ -464,6 +498,8 @@ function slist() {
   $("slist").scrollTop = y;
 }
 $("ssearch").oninput = slist;
+$("sOrder").onchange = slist;
+$("sUnit").onchange = () => { const v = $("sUnit").value; if (v === "__m") return; units = v ? new Set([v]) : new Set(); chips(); filt(); slist(); };
 $("moreT").onclick = () => { $("ssearch").value = ""; slist(); $("sov").classList.add("on"); };
 $("sdone").onclick = () => $("sov").classList.remove("on");
 $("slist").onclick = e => { const b = e.target.closest("[data-to]"); if (!b) return; const k = b.dataset.to; openT.has(k) ? openT.delete(k) : openT.add(k); slist(); };
@@ -483,6 +519,16 @@ $("kn").onclick = () => mark(true); $("rev").onclick = () => mark(false);
 $("qFreq").onchange = $("qType").onchange = () => { qs = {f:+$("qFreq").value, t:$("qType").value}; sv("quizSettings", qs); };
 $("sub").onclick = chk; $("cq").onclick = () => $("ov").classList.remove("on");
 $("si").onkeydown = e => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); $("cq").style.display === "block" ? $("cq").click() : chk(); } };
+
+/* reset all saved progress */
+$("reset").onclick = () => $("rov").classList.add("on");
+$("rcancel").onclick = () => $("rov").classList.remove("on");
+$("rconfirm").onclick = () => {
+  ["knownFlashcards","reviewFlashcards","quizStats","quizSettings","studyState"].forEach(k => { try { localStorage.removeItem(k); } catch (e) {} });
+  known = []; rev = []; st = {n:0, ok:0}; qs = {f:0, t:"random"}; seen = 0;
+  subj = SUBJECTS[0].name; topics = new Set(); units = new Set(); subtops = new Set(); openT.clear(); $("search").value = "";
+  $("qFreq").value = 0; $("qType").value = "random"; $("rov").classList.remove("on"); chips(); stats(); filt();
+};
 
 /* help module with tabs */
 $("help").onclick = () => $("hov").classList.add("on");
@@ -512,7 +558,10 @@ fsb.onclick = () => { const on = !document.body.classList.contains("fs"); setFs(
 document.addEventListener("fullscreenchange", () => { if (!document.fullscreenElement) setFs(false); });
 
 const lm = new Date(document.lastModified); if (!isNaN(lm)) $("lastUpd").textContent = lm.toLocaleString(undefined, {dateStyle:"long", timeStyle:"short"});
-$("qFreq").value = qs.f; $("qType").value = qs.t; chips(); stats(); filt();
+$("qFreq").value = qs.f; $("qType").value = qs.t;
+if (sS && sS.search) $("search").value = sS.search;
+chips(); stats(); filt();
+if (sS && sS.i > 0 && sS.i < list.length) { i = sS.i; show(); }
 </script>
 </body>
 </html>
