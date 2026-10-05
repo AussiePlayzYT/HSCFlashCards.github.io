@@ -10,4 +10,4 @@ registerSubject("Multimedia", "#ec4899", [
 
     // ---- paste new cards above this line (keep the comma after each }) ----
 
-], []);
+], ["Major Project (Product & Management Portfolio)", "Industry Related Manufacturing Technology", "Industry Study"]);

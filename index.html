@@ -10,21 +10,19 @@
 
 <style>
 	/* ===== Flashcards: clean responsive stylesheet (laptop + iPhone) ===== */
-:root{--bg:#f5f6fa;--sf:#fff;--sf2:#eceff4;--tx:#18202f;--mu:#64708a;--bd:#dde2ea;--pr:#2563eb;--ok:#16a34a;--no:#dc2626;--r:16px;--sh:0 6px 20px rgba(20,30,60,.08)}
-@media(prefers-color-scheme:dark){:root{--bg:#0f1420;--sf:#181f2e;--sf2:#222b3d;--tx:#eef1f7;--mu:#98a3bb;--bd:#2c3649;--sh:none}}
+:root{--bg:#f5f6fa;--sf:#fff;--sf2:#eceff4;--tx:#18202f;--mu:#64708a;--bd:#dde2ea;--pr:#2563eb;--ok:#16a34a;--no:#dc2626;--r:16px;--sh:0 6px 20px rgba(20,30,60,.08);--ol:#000}
+@media(prefers-color-scheme:dark){:root{--bg:#0f1420;--sf:#181f2e;--sf2:#222b3d;--tx:#eef1f7;--mu:#98a3bb;--bd:#2c3649;--sh:none;--ol:#fff}}
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
 html{-webkit-text-size-adjust:100%}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,sans-serif;background:var(--bg);color:var(--tx);line-height:1.4;min-height:100dvh;
   padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)}
 button,input,select{font:inherit;color:inherit}
 button{cursor:pointer;touch-action:manipulation}
-.app{max-width:1000px;margin:0 auto;padding:16px 16px 110px}
+.app{max-width:1200px;margin:0 auto;padding:16px 16px 110px}
+#area{max-width:1000px;margin:0 auto}
 
-/* top bar */
-.top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:14px}
-.top h1{font-size:22px}
-.stats{display:flex;gap:6px;flex-wrap:wrap}
-.pill{background:var(--sf2);border-radius:99px;padding:6px 12px;font-size:13px;font-weight:700;white-space:nowrap}
+/* custom icons */
+.ico{width:20px;height:20px;object-fit:contain;display:block;flex:none;pointer-events:none}
 
 /* colour-coded chips */
 .label{font-size:11px;font-weight:800;color:var(--mu);text-transform:uppercase;letter-spacing:.6px;margin:12px 0 6px}
@@ -34,16 +32,12 @@ button{cursor:pointer;touch-action:manipulation}
 .chip.on{background:var(--c);color:#fff}
 
 /* tools */
-.tools{display:flex;gap:10px;margin-top:6px}
-.tools input[type=search]{flex:1;min-width:0}
 input,select{width:100%;min-height:44px;padding:0 14px;border:1px solid var(--bd);border-radius:12px;background:var(--sf);font-size:16px}
 input:focus,select:focus,textarea:focus{outline:2px solid var(--pr);outline-offset:0}
-details.more{margin-top:10px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--r)}
-details.more summary{list-style:none;min-height:44px;padding:0 16px;display:flex;align-items:center;font-weight:700;cursor:pointer}
-details.more summary::-webkit-details-marker{display:none}
-.more-body{padding:4px 16px 16px;display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
-.more-body label{font-size:12px;font-weight:700;color:var(--mu);display:block;margin-bottom:5px}
-.btn{min-height:44px;padding:0 18px;border:0;border-radius:12px;font-weight:700;background:var(--sf2)}
+select{appearance:none;-webkit-appearance:none;padding-right:44px;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%2364708a' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 16px center;background-size:14px}
+#oov .modal{max-width:420px}
+#ssearch{margin-bottom:12px}
+.btn{min-height:44px;padding:0 18px;border:0;border-radius:12px;font-weight:700;background:var(--sf2);display:inline-flex;align-items:center;justify-content:center;gap:8px}
 .btn.pri{background:var(--pr);color:#fff}
 
 /* card */
@@ -68,23 +62,25 @@ details.more summary::-webkit-details-marker{display:none}
 /* action bar: sticky bottom on phones, inline on laptops */
 .bar{display:flex;gap:8px;align-items:center;justify-content:center;margin-top:16px}
 .bar button{min-height:52px;border-radius:14px;border:0;font-weight:800;font-size:15px}
-.nav{width:56px;background:var(--sf);border:1px solid var(--bd)!important;font-size:20px}
+.nav{width:56px;background:var(--sf);border:1px solid var(--bd)!important;display:flex;align-items:center;justify-content:center}
+.nav .ico{width:24px;height:24px}
 .flipb{padding:0 22px;background:var(--sf2)}
 .rev{background:var(--no);color:#fff;padding:0 16px;flex:1;max-width:190px}
 .kn{background:var(--ok);color:#fff;padding:0 16px;flex:1;max-width:190px}
-.prog{height:8px;background:var(--sf2);border-radius:99px;overflow:hidden;margin-top:18px}
-.prog div{height:100%;width:0;background:var(--pr);transition:width .3s}
 .ptx{font-size:13px;color:var(--mu);margin-top:6px;text-align:center}
+.pill{background:var(--sf2);border-radius:99px;padding:6px 12px;font-size:13px;font-weight:700;white-space:nowrap}
 
 /* quiz */
 .ov{position:fixed;inset:0;background:rgba(10,15,30,.75);display:none;align-items:center;justify-content:center;padding:16px;z-index:50}
 .ov.on{display:flex}
 .modal{background:var(--sf);border-radius:22px;padding:24px;width:100%;max-width:640px;max-height:90dvh;overflow-y:auto}
-.qh{display:flex;justify-content:space-between;gap:10px;margin-bottom:6px}
+.qh{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:6px}
 .qctx{color:var(--mu);font-size:13px;margin-bottom:14px}
 .qq{font-size:clamp(19px,4.5vw,24px);line-height:1.35;margin-bottom:18px}
 .ans{display:flex;flex-direction:column;gap:10px}
-.a{min-height:48px;padding:12px 16px;text-align:left;font-weight:600;background:var(--sf);border:1px solid var(--bd);border-radius:12px}
+.a{min-height:48px;padding:12px 16px;text-align:left;font-weight:600;background:var(--sf);border:1px solid var(--bd);border-radius:12px;display:flex;align-items:center;gap:12px}
+.a:not(:disabled):hover{outline:2px solid var(--ol);outline-offset:0}
+.lt{flex:none;width:28px;height:28px;border-radius:8px;background:var(--sf2);color:var(--tx);display:flex;align-items:center;justify-content:center;font-weight:800;font-size:14px}
 .a.c{background:#dcfce7;border-color:var(--ok);color:#166534}
 .a.w{background:#fee2e2;border-color:var(--no);color:#991b1b}
 .sa{display:none;flex-direction:column;gap:10px}
@@ -96,15 +92,13 @@ details.more summary::-webkit-details-marker{display:none}
 /* phones: fixed bottom bar */
 @media(max-width:700px){
   .app{padding:12px 12px 120px}
-  .more-body{grid-template-columns:1fr}
   .bar{position:fixed;left:0;right:0;bottom:0;margin:0;padding:10px 12px calc(10px + env(safe-area-inset-bottom));background:var(--sf);border-top:1px solid var(--bd);z-index:20}
   .flipb{padding:0 14px}
-  .stats .pill{padding:5px 9px;font-size:12px}
 }
 
 /* ===== Full screen / focus mode: only card + controls (+ quiz) ===== */
 body.fs{overflow:hidden}
-body.fs .top,body.fs .label,body.fs .chips,body.fs #topicWrap,body.fs .tools,body.fs details.more{display:none!important}
+body.fs .label,body.fs .chips,body.fs #topicWrap{display:none!important}
 body.fs #area{position:fixed;inset:0;z-index:10;display:flex!important;flex-direction:column;background:var(--bg);
   padding:max(12px,env(safe-area-inset-top)) max(14px,env(safe-area-inset-right)) max(12px,env(safe-area-inset-bottom)) max(14px,env(safe-area-inset-left))}
 body.fs .meta{margin-top:0}
@@ -112,33 +106,30 @@ body.fs .scene{flex:1;height:auto;min-height:0}
 body.fs .bar{position:static;border:0;background:none;padding:14px 0 0;margin:0}
 body.fs .face h2{font-size:clamp(22px,5vw,38px)}
 body.fs .face p{font-size:clamp(20px,4.4vw,30px)}
+body.fs #area{max-width:none;margin:0}
 .fsrow{display:flex;align-items:center;gap:10px}
 .fsrow .btn{min-height:40px;padding:0 14px;font-size:14px}
 
-/* ===== Header + original-style panels ===== */
+/* ===== Header (title centred) ===== */
 header.site{background:var(--sf);border-bottom:1px solid var(--bd);position:sticky;top:0;z-index:30}
-.wrap.hd{max-width:1000px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:20px;padding:14px 16px}
+.wrap.hd{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:16px;padding:14px 16px}
 .brand{display:flex;align-items:center;gap:12px;min-width:0}
 .logo{flex:none;width:44px;height:44px;border-radius:12px;background:var(--pr);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:20px}
 .brand h1{font-size:20px}
 .brand p{color:var(--mu);font-size:13px}
+.htitle{font-size:26px;text-align:center;white-space:nowrap}
+.hr{justify-self:end;display:flex;align-items:center;gap:10px}
 .hstats{display:flex;gap:10px}
 .stat{background:var(--sf2);padding:8px 12px;border-radius:10px;font-size:13px;white-space:nowrap}
 .stat strong{color:var(--pr)}
-.ptitle{margin:6px 0 18px}
-.ptitle h2{font-size:28px;margin-bottom:6px}
-.ptitle p{color:var(--mu)}
 .panel{background:var(--sf);border:1px solid var(--bd);border-radius:18px;padding:20px;box-shadow:var(--sh);margin-bottom:18px}
-.panel>.label:first-child{margin-top:0}
-.panel details.more{border:0;background:var(--sf2)}
-body.fs header.site,body.fs .ptitle{display:none!important}
+body.fs header.site{display:none!important}
 
-/* phones (matches the original mobile sizing) */
 @media(max-width:650px){
-  .hstats{display:none}
-  .wrap.hd{align-items:flex-start}
+  .wrap.hd{grid-template-columns:auto 1fr auto;gap:10px}
+  .brand div:last-child,.hstats{display:none}
+  .htitle{font-size:20px}
   .app{padding:20px 15px 120px}
-  .ptitle h2{font-size:24px}
   .panel{padding:16px}
   .scene{height:400px}
   .face{padding:30px}
@@ -150,14 +141,15 @@ body.fs header.site,body.fs .ptitle{display:none!important}
   .qq{font-size:21px}
 }
 
-/* ===== Collapsible panel, topic modal, images ===== */
-.phead{display:flex;align-items:center;justify-content:space-between;gap:10px}
-.phead h3{font-size:16px}
-.pact{display:flex;gap:8px}
+/* ===== Collapsible panel, topic/subtopic modal ===== */
+.phead{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.phead h3{font-size:28px;font-weight:800;line-height:1.1}
+.pact{display:flex;gap:8px;align-items:flex-end;flex-wrap:wrap;margin-left:auto}
 .btn.sm{min-height:40px;padding:0 14px;font-size:14px}
-#ptog{min-width:44px;font-size:16px}
+#ptog{min-width:44px}
 .pbody{margin-top:6px}
 .panel.collapsed .pbody{display:none}
+.panel>.label:first-child{margin-top:0}
 .lrow{display:flex;justify-content:space-between;align-items:center}
 .lrow b{color:var(--pr)}
 .link{background:none;border:0;color:var(--pr);font-weight:700;font-size:14px;min-height:36px;padding:0 4px}
@@ -166,99 +158,112 @@ body.fs header.site,body.fs .ptitle{display:none!important}
 .tsub{margin:14px 0 6px;font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;color:var(--c);border-bottom:2px solid var(--c);padding-bottom:4px}
 .trow{display:flex;align-items:center;gap:10px;min-height:44px;padding:4px 6px;border-radius:10px;cursor:pointer}
 .trow:hover{background:var(--sf2)}
-.trow input{width:20px;height:20px;min-height:0;flex:none;padding:0;accent-color:var(--pr)}
 .trow small{color:var(--mu)}
-#tlist{max-height:55dvh;overflow-y:auto}
 .pic{display:none;max-width:100%;max-height:200px;object-fit:contain;border-radius:12px;margin-top:12px}
 .pic.big{max-height:240px;margin:0 auto 16px}
 body.fs .pic{max-height:40dvh}
 body.fs .panel{display:none!important}
-
-/* ===== Subtopic chips (replaces dropdown) ===== */
-.chips.wrap{flex-wrap:wrap;overflow:visible;padding-bottom:2px}
-.chip.sm{min-height:38px;padding:0 13px;font-size:13px}
-.sg{margin-bottom:10px}
-.sgl{font-size:12px;font-weight:800;margin:2px 2px 6px}
-.hint2{color:var(--mu);font-size:13px;padding:2px 2px 6px}
-.trow.sub{margin-left:34px;min-height:38px;font-size:14px;color:var(--mu)}
-
-/* ===== Wider layout, header tools, modules ===== */
-.app{max-width:1400px}
-.wrap.hd{max-width:1400px}
-#area{max-width:1000px;margin:0 auto}
-body.fs #area{max-width:none;margin:0}
-.chips.wrapall{flex-wrap:wrap;overflow:visible}
-.phead{flex-wrap:wrap;align-items:flex-end}
-.pact{display:flex;gap:8px;align-items:flex-end;flex-wrap:wrap;margin-left:auto}
 .sfield{display:flex;flex-direction:column;gap:4px;min-width:240px}
 .sfield label{font-size:11px;font-weight:800;color:var(--mu);text-transform:uppercase;letter-spacing:.6px}
 .sfield input{min-height:40px}
+.chips.wrapall{flex-wrap:wrap;overflow:visible}
 .more-body{display:grid;grid-template-columns:1fr;gap:14px;padding:0}
 .more-body label{font-size:12px;font-weight:700;color:var(--mu);display:block;margin-bottom:5px}
 .mprog{width:90px;height:8px;background:var(--sf2);border-radius:99px;overflow:hidden;flex:none}
 .mprog div{height:100%;width:0;background:var(--pr);transition:width .3s}
 .modal.wide{max-width:980px}
 #slist{max-height:60dvh;overflow-y:auto;padding-right:4px}
-.stg{margin-bottom:14px}
-.sgl{border-bottom:2px solid;padding-bottom:4px}
-.sgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;align-items:start}
+.stg{margin-bottom:10px}
+.sgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;align-items:start;margin:2px 0 8px 34px}
 .scell{background:var(--sf2);border-radius:12px;padding:4px 8px}
-.srow{display:flex;align-items:center;gap:6px}
-.trow.top{padding:0;gap:6px}
+.trow.top{padding:0 6px 0 0;gap:6px}
 .tl{display:flex;align-items:center;gap:10px;flex:1;min-height:44px;cursor:pointer;min-width:0}
-.tl input,.trow input{width:20px;height:20px;min-height:0;flex:none;padding:0;accent-color:var(--pr)}
-.arr{flex:none;width:40px;min-height:40px;border:0;border-radius:10px;background:var(--sf2);color:var(--mu);font-size:12px}
-.scell .trow.sub{margin-left:8px}
+.tl input{width:20px;height:20px;min-height:0;flex:none;padding:0;accent-color:var(--pr)}
+.arr{flex:none;width:40px;min-height:40px;border:0;border-radius:10px;background:var(--sf2);display:flex;align-items:center;justify-content:center}
+.arr .ico{width:16px;height:16px}
 @media(max-width:900px){.sgrid{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:650px){.sgrid{grid-template-columns:1fr}.sfield{flex:1 1 100%;order:-1}.pact{width:100%}}
+@media(max-width:650px){.sgrid{grid-template-columns:1fr;margin-left:8px}.sfield{flex:1 1 100%;order:-1}.pact{width:100%}}
+
+/* ===== Help modal ===== */
+.tabs{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin:10px 0 16px}
+.tp{display:none}
+.tp.on{display:block}
+.tp h3{margin:14px 0 6px;font-size:16px}
+.tp h3:first-child{margin-top:0}
+.tp p,.tp li{color:var(--mu);font-size:15px;line-height:1.55}
+.tp ul,.tp ol{padding-left:22px;margin:6px 0}
+.tp b{color:var(--tx)}
+details.faq{border:1px solid var(--bd);border-radius:12px;margin-bottom:8px;background:var(--sf2)}
+details.faq summary{list-style:none;cursor:pointer;min-height:44px;padding:10px 14px;font-weight:700;display:flex;align-items:center;justify-content:space-between;gap:10px}
+details.faq summary::-webkit-details-marker{display:none}
+details.faq summary::after{content:"+";font-size:20px;color:var(--pr);flex:none}
+details.faq[open] summary::after{content:"\2212"}
+details.faq p{padding:0 14px 14px}
+.qh.ctr{position:relative;justify-content:center;min-height:40px}
+.qh.ctr h2{text-align:center;font-size:26px}
+.qh.ctr .btn{position:absolute;right:0;top:50%;transform:translateY(-50%)}
+.intro{text-align:center;margin-bottom:16px}
+.steps{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+.step{background:var(--sf2);border:1px solid var(--bd);border-radius:16px;padding:18px 16px;text-align:center}
+.step .n{width:34px;height:34px;border-radius:50%;background:var(--pr);color:#fff;font-weight:800;display:flex;align-items:center;justify-content:center;margin:0 auto 10px}
+.tp .step h3{margin:0 0 6px;font-size:16px;color:var(--tx);text-align:center}
+.step p{font-size:14px}
+.keys{margin-top:18px;text-align:center}
+.tp .keys h3{text-align:center;margin:0 0 10px}
+.krow{display:flex;flex-wrap:wrap;justify-content:center;gap:8px}
+.k{background:var(--sf2);border-radius:10px;padding:6px 10px;font-size:13px;color:var(--mu)}
+kbd{background:var(--sf);border:1px solid var(--bd);border-bottom-width:2px;border-radius:6px;padding:1px 7px;font-size:12px;font-weight:700;color:var(--tx);font-family:inherit}
+.ver{text-align:center}
+.ver ul{display:inline-block;text-align:left}
+.lu{margin-bottom:10px}
+@media(max-width:650px){.steps{grid-template-columns:1fr}}
+.ver h3 small{color:var(--mu);font-weight:600;margin-left:6px}
 	</style>
 </head>
 <body>
 <header class="site"><div class="wrap hd">
   <div class="brand"><div class="logo">F</div><div><h1>Study Flashcards</h1><p>Subjects • Topics • Subtopics</p></div></div>
-  <div class="hstats">
-    <div class="stat">Cards: <strong id="sC">0</strong></div>
-    <div class="stat">Known: <strong id="sK">0</strong></div>
-    <div class="stat">Review: <strong id="sR">0</strong></div>
-    <div class="stat">Quiz: <strong id="sQ">0%</strong></div>
+  <h2 class="htitle">Flashcard Study</h2>
+  <div class="hr">
+    <div class="hstats">
+      <div class="stat">Cards: <strong id="sC">0</strong></div>
+      <div class="stat">Known: <strong id="sK">0</strong></div>
+      <div class="stat">Review: <strong id="sR">0</strong></div>
+    </div>
+    <button class="btn pri sm" id="help">Help</button>
   </div>
 </div></header>
 
 <div class="app">
-  <div class="ptitle"><h2>Flashcard Study</h2><p>Filter by subject, topic and subtopic. Tap a card to reveal the answer.</p></div>
-
   <section class="panel" id="panel">
   <div class="phead"><h3>Filters</h3><div class="pact">
     <div class="sfield"><label for="search">Search</label><input type="search" id="search" placeholder="Search cards..."></div>
-    <button class="btn sm" id="opt">⚙︎ More options</button>
+    <button class="btn sm" id="opt"><img class="ico" src="images/icons/settings.png" alt="">More options</button>
     <button class="btn sm" id="clr">Clear</button>
-    <button class="btn sm" id="ptog" aria-expanded="true" aria-label="Collapse filters">▲</button></div></div>
+    <button class="btn sm" id="ptog" aria-expanded="true" aria-label="Collapse filters"><img class="ico" src="images/icons/arrow-up.png" alt=""></button></div></div>
   <div class="pbody" id="pbody">
   <div class="label">Subject</div>
   <div class="chips wrapall" id="subjChips"></div>
   <div id="unitWrap" style="display:none"><div class="label">Unit <b id="ucount"></b></div><div class="chips wrapall" id="unitChips"></div></div>
   <div class="label lrow"><span>Topic <b id="tcount"></b></span><button class="link" id="moreT">⋯ More topics</button></div>
-  <div class="chips" id="topicChips" style="display:none"></div>
-  <div class="label lrow"><span>Subtopic <b id="scount"></b></span><button class="link" id="moreS">⋯ More subtopics</button></div>
-
+  <div class="chips wrapall" id="topicChips" style="display:none"></div>
   </div>
   </section>
 
-  <div id="empty" class="empty" style="display:none"><h2>No flashcards found</h2><p>Add cards in your subject .js files or change the filters.</p></div>
+  <div id="empty" class="empty" style="display:none"><h2>No flashcards found</h2><p>No cards found.</p></div>
   <div id="area">
-    <div class="meta"><div class="tags" id="tags"></div><div class="fsrow"><div class="mprog" title="Completion"><div id="pf"></div></div><div class="cnt" id="cnt"></div><button class="btn" id="fsb">⛶ Full screen</button></div></div>
+    <div class="meta"><div class="tags" id="tags"></div><div class="fsrow"><div class="mprog" title="Completion"><div id="pf"></div></div><div class="cnt" id="cnt"></div><button class="btn" id="fsb"><img class="ico" src="images/icons/fullscreen.png" alt=""><span>Full screen</span></button></div></div>
     <div class="scene"><div class="card" id="card">
       <div class="face front" id="front"><span class="side">Question</span><h2 id="q"></h2><img class="pic" id="qimg" alt="Question image"><span class="hint">Tap to reveal</span></div>
       <div class="face back" id="back"><span class="side">Answer</span><p id="a"></p><img class="pic" id="aimg" alt="Answer image"><span class="hint">Tap to flip back</span></div>
     </div></div>
     <div class="bar">
-      <button class="nav" id="prev" aria-label="Previous">←</button>
+      <button class="nav" id="prev" aria-label="Previous"><img class="ico" src="images/icons/arrow-left.png" alt=""></button>
       <button class="rev" id="rev">✕ Review</button>
       <button class="flipb" id="flip">Flip</button>
       <button class="kn" id="kn">✓ Know it</button>
-      <button class="nav" id="next" aria-label="Next">→</button>
+      <button class="nav" id="next" aria-label="Next"><img class="ico" src="images/icons/arrow-right.png" alt=""></button>
     </div>
-    
   </div>
 </div>
 
@@ -268,17 +273,12 @@ body.fs #area{max-width:none;margin:0}
   <div class="ans" id="qa"></div>
   <div class="sa" id="sa"><textarea id="si" placeholder="Type your answer..."></textarea><button class="btn pri" id="sub">Submit</button></div>
   <div class="fb" id="fb"></div>
-  <div style="text-align:right;margin-top:16px"><button class="btn" id="cq" style="display:none">Continue</button></div>
-</div></div>
-
-<div class="ov" id="tov"><div class="modal">
-  <div class="qh"><h2 id="ttl">All topics</h2><button class="btn sm" id="tdone">Done</button></div>
-  <div class="tbar"><button class="btn sm" id="tall">Select all</button><button class="btn sm" id="tnone">Clear all</button><span class="ptx" id="tinfo"></span></div>
-  <div id="tlist"></div>
+  <div style="text-align:right;margin-top:16px"><button class="btn" id="cq" style="display:none">Continue (Enter)</button></div>
 </div></div>
 
 <div class="ov" id="sov"><div class="modal wide">
-  <div class="qh"><h2 id="stl">Subtopics</h2><button class="btn sm" id="sdone">Done</button></div>
+  <div class="qh ctr"><h2 id="stl">Topics</h2><button class="btn sm" id="sdone">Done</button></div>
+  <input type="search" id="ssearch" placeholder="Search topics and subtopics...">
   <div class="tbar"><button class="btn sm" id="sall">Select all</button><button class="btn sm" id="snone">Clear all</button><span class="ptx" id="sinfo"></span></div>
   <div id="slist"></div>
 </div></div>
@@ -289,6 +289,56 @@ body.fs #area{max-width:none;margin:0}
     <div><label for="qFreq">Auto quiz</label><select id="qFreq"><option value="0">Off</option><option value="1">Every card</option><option value="3">Every 3 cards</option><option value="5">Every 5 cards</option><option value="10">Every 10 cards</option></select></div>
     <div><label for="qType">Question type</label><select id="qType"><option value="random">Random</option><option value="multiple">Multiple choice</option><option value="short">Short answer</option></select></div>
     <div><label>Card order</label><button class="btn pri" id="shuf" style="width:100%">Shuffle cards</button></div>
+  </div>
+</div></div>
+
+<div class="ov" id="hov"><div class="modal">
+  <div class="qh ctr"><h2>Help</h2><button class="btn sm" id="hdone">Done</button></div>
+  <div class="tabs">
+    <button class="btn sm pri" data-tab="how">How to use</button>
+    <button class="btn sm" data-tab="faq">FAQ</button>
+    <button class="btn sm" data-tab="upd">Updates</button>
+  </div>
+
+  <div class="tp on" id="tp-how">
+    <p class="intro">Get started in four quick steps.</p>
+    <div class="steps">
+      <div class="step"><div class="n">1</div><h3>Pick what to study</h3><p>Choose a <b>Subject</b>, then optionally a <b>Unit</b> or <b>Topics</b>. Leave topics unselected to study everything.</p></div>
+      <div class="step"><div class="n">2</div><h3>Narrow it down</h3><p>Tap <b>⋯ More topics</b>, tick a topic or expand it to choose individual subtopics.</p></div>
+      <div class="step"><div class="n">3</div><h3>Study the cards</h3><p>Tap the card to flip it. Use the arrows or swipe to move on, then mark <b>Know it</b> or <b>Review</b>.</p></div>
+      <div class="step"><div class="n">4</div><h3>Test yourself</h3><p>Open <b>More options</b> to turn on quick quizzes, pick the question type or shuffle your cards.</p></div>
+    </div>
+    <div class="keys"><h3>Keyboard shortcuts</h3><div class="krow">
+      <span class="k"><kbd>Space</kbd> Flip card</span>
+      <span class="k"><kbd>←</kbd> <kbd>→</kbd> Previous / next</span>
+      <span class="k"><kbd>A</kbd>–<kbd>D</kbd> Quiz answer</span>
+      <span class="k"><kbd>Enter</kbd> Quiz continue</span>
+      <span class="k"><kbd>Esc</kbd> Exit full screen</span>
+    </div></div>
+  </div>
+
+  <div class="tp" id="tp-faq">
+    <details class="faq"><summary>How do I choose what to study?</summary><p>Select a subject at the top, then narrow it down with units and topics. Tap "More topics" to pick specific subtopics. If nothing is selected, you'll see every card in that subject.</p></details>
+    <details class="faq"><summary>Is my progress saved?</summary><p>Yes. Your Known and Review cards and your quiz score are saved in your browser on this device, so they'll still be here next time you visit. They won't carry over to a different device or browser.</p></details>
+    <details class="faq"><summary>How do I reset my progress?</summary><p>Clear this website's data in your browser settings. This removes your saved Known and Review cards and your quiz score.</p></details>
+    <details class="faq"><summary>What do "Know it" and "Review" do?</summary><p>They let you mark how you're going. "Know it" means you're confident with the card, and "Review" flags it for more practice. Your totals appear at the top of the page.</p></details>
+    <details class="faq"><summary>How do the quick quizzes work?</summary><p>Open "More options" to have a quiz pop up every few cards. You can choose multiple choice, short answer or a mix. For multiple choice, press A, B, C or D on your keyboard, then Enter to continue.</p></details>
+    <details class="faq"><summary>Why can't I find a card I'm looking for?</summary><p>Check that the right subject, unit and topic are selected and that the search box is empty. Press "Clear" to reset your filters.</p></details>
+    <details class="faq"><summary>Can I use this on my phone?</summary><p>Yes. Swipe left or right on the card to move between cards, and use Full screen for a distraction-free view.</p></details>
+    <details class="faq"><summary>Is my data shared with anyone?</summary><p>No. Your progress is stored only on your own device and isn't sent anywhere.</p></details>
+  </div>
+
+  <div class="tp" id="tp-upd">
+    <div class="ver"><h3>Latest update</h3>
+      <p class="lu">Last updated: <b id="lastUpd">—</b></p>
+      <ul>
+        <li>Multiple choice quiz answers are now labelled A–D, with keyboard shortcuts and Enter to continue.</li>
+        <li>Answers show an outline when you hover over them.</li>
+        <li>Fixed the quiz score showing NaN%.</li>
+        <li>The filters panel is wider so all units fit on screen.</li>
+        <li>Redesigned the Help window.</li>
+      </ul>
+    </div>
   </div>
 </div></div>
 
@@ -305,6 +355,7 @@ const ld = (k, d) => { try { return JSON.parse(localStorage.getItem(k)) || d; } 
 const sv = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
 const uniq = a => [...new Set(a)];
 const shuf = a => { for (let i = a.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const ico = (n, cls) => `<img class="ico" src="images/icons/${n}.png" alt="">`;
 
 /* colour coding: subject = its own colour; main topic = hue-shifted shade of the subject colour */
 const hue = h => { const [r,g,b] = [1,3,5].map(i => parseInt(h.substr(i,2),16)/255), m = Math.max(r,g,b), d = m - Math.min(r,g,b);
@@ -316,32 +367,30 @@ const tCol = (s, t) => { const sj = SUBJECTS.find(x => x.name === s); return `hs
 
 let known = ld("knownFlashcards", []), rev = ld("reviewFlashcards", []);
 let qs = ld("quizSettings", {f:0, t:"random"}), st = ld("quizStats", {n:0, ok:0});
-let subj = "all", topics = new Set(), units = new Set(), subtops = new Set(), list = [...cards], i = 0, seen = 0, ac = null;
+st = {n:+st.n||0, ok:Math.min(+st.ok||0, +st.n||0)};
+let subj = SUBJECTS[0].name, topics = new Set(), units = new Set(), subtops = new Set(), list = [...cards], i = 0, seen = 0, ac = null;
 
 function subOK(c) {
   return !subtops.size || subtops.has(c.subject + "||" + c.topic + "||" + c.subtopic);
 }
 function chips() {
-  const sj = SUBJECTS.find(s => s.name === subj), us = sj ? sj.units : [];
+  const sj = SUBJECTS.find(s => s.name === subj), us = sj.units || [];
   units = new Set([...units].filter(u => us.includes(u)));
   $("unitWrap").style.display = us.length ? "block" : "none";
   $("ucount").textContent = units.size ? `(${units.size} selected)` : "";
   $("unitChips").innerHTML = us.length ? `<button class="chip${units.size ? "" : " on"}" style="--c:${esc(sj.colour)}" data-u="*">All units</button>` + us.map(u => `<button class="chip${units.has(u) ? " on" : ""}" style="--c:${esc(sj.colour)}" data-u="${esc(u)}">${esc(u)}</button>`).join("") : "";
-  topics = new Set([...topics].filter(k => { const [s, t] = k.split("||"); return cards.some(c => c.subject === s && c.topic === t && inUnits(c)); }));
-  $("subjChips").innerHTML = [{name:"all", colour:"#475569", label:"All", n:cards.length}].concat(SUBJECTS.map(s => ({...s, label:s.name, n:cards.filter(c => c.subject === s.name).length})))
-    .map(s => `<button class="chip${subj===s.name?" on":""}" style="--c:${esc(s.colour)}" data-s="${esc(s.name)}">${esc(s.label)} <small>${s.n}</small></button>`).join("");
-  const keys = subj === "all" ? [...topics] : topicsFiltered(subj).map(t => subj + "||" + t);
+  topics = new Set([...topics].filter(k => { const [s, t] = k.split("||"); return s === subj && cards.some(c => c.subject === s && c.topic === t && inUnits(c)); }));
+  $("subjChips").innerHTML = SUBJECTS.map(s => `<button class="chip${subj===s.name?" on":""}" style="--c:${esc(s.colour)}" data-s="${esc(s.name)}">${esc(s.name)} <small>${cards.filter(c => c.subject === s.name).length}</small></button>`).join("");
+  const keys = topicsFiltered(subj).map(t => subj + "||" + t);
   $("topicChips").style.display = keys.length ? "flex" : "none";
-  $("topicChips").innerHTML = (subj !== "all" ? `<button class="chip${topics.size ? "" : " on"}" style="--c:${esc(SUBJECTS.find(s => s.name === subj).colour)}" data-t="*">All topics</button>` : "") +
-    keys.map(k => { const [s, t] = k.split("||"); return `<button class="chip${topics.has(k) ? " on" : ""}" style="--c:${tCol(s, t)}" data-t="${esc(k)}">${esc(t)}</button>`; }).join("");
+  $("topicChips").innerHTML = `<button class="chip${topics.size ? "" : " on"}" style="--c:${esc(sj.colour)}" data-t="*">All topics</button>` +
+    keys.filter((k, n) => n < 5 || topics.has(k)).map(k => { const [s, t] = k.split("||"); return `<button class="chip${topics.has(k) ? " on" : ""}" style="--c:${tCol(s, t)}" data-t="${esc(k)}">${esc(t)}</button>`; }).join("");
   $("tcount").textContent = topics.size ? `(${topics.size} selected)` : "";
-  const inScope = k => { const [s, t] = k.split("||"); return (subj === "all" || s === subj) && (!topics.size || topics.has(s + "||" + t)) && cards.some(c => c.subject === s && c.topic === t && inUnits(c)); };
-  subtops = new Set([...subtops].filter(inScope));
-  const sn = subtops.size; $("scount").textContent = sn ? `(${sn} selected)` : "";
+  subtops = new Set([...subtops].filter(k => { const [s, t] = k.split("||"); return s === subj && (!topics.size || topics.has(s + "||" + t)); }));
 }
 function filt() {
   const q = $("search").value.trim().toLowerCase();
-  list = cards.filter(c => (subj==="all"||c.subject===subj) && inUnits(c) && (!topics.size||topics.has(c.subject+"||"+c.topic)) && subOK(c) &&
+  list = cards.filter(c => c.subject===subj && inUnits(c) && (!topics.size||topics.has(c.subject+"||"+c.topic)) && subOK(c) &&
     (!q || (c.question+" "+c.answer+" "+c.topic+" "+c.subtopic).toLowerCase().includes(q)));
   i = 0; show();
 }
@@ -360,7 +409,6 @@ function setImg(el, src) { el.onerror = () => el.style.display = "none"; if (src
 function stats() {
   $("sC").textContent = cards.length;
   $("sK").textContent = known.filter(id => cards.some(c => c.id===id)).length; $("sR").textContent = rev.filter(id => cards.some(c => c.id===id)).length;
-  $("sQ").textContent = (st.n ? Math.round(st.ok/st.n*100) : 0) + "%";
 }
 const flip = () => list.length && $("card").classList.toggle("flipped");
 function go(d) { if (!list.length) return; i = (i + d + list.length) % list.length; if (d > 0) { seen++; if (qs.f && seen % qs.f === 0) setTimeout(quiz, 250); } show(); }
@@ -379,11 +427,11 @@ function quiz() {
   $("qtl").textContent = mc ? "Multiple choice" : "Short answer"; $("qq").textContent = ac.question; setImg($("qimgQ"), ac.questionImage);
   $("qctx").textContent = `${ac.subject} • ${ac.topic} • ${ac.subtopic}`; $("fb").className = "fb"; $("cq").style.display = "none"; $("ov").classList.add("on");
   $("qa").style.display = mc ? "flex" : "none"; $("sa").style.display = mc ? "none" : "flex"; $("qa").innerHTML = "";
-  if (mc) opts.forEach(o => { const b = document.createElement("button"); b.className = "a"; b.textContent = o; b.onclick = () => pick(b, o); $("qa").appendChild(b); });
+  if (mc) opts.forEach((o, n) => { const b = document.createElement("button"); b.className = "a"; b.dataset.v = o; b.innerHTML = `<span class="lt">${"ABCD"[n]}</span><span></span>`; b.lastChild.textContent = o; b.onclick = () => pick(b, o); $("qa").appendChild(b); });
   else { $("si").value = ""; $("si").focus(); }
 }
 function pick(b, o) { const all = [...document.querySelectorAll(".a")]; all.forEach(x => x.disabled = true);
-  const ok = o === ac.answer; b.classList.add(ok ? "c" : "w"); if (!ok) all.forEach(x => x.textContent === ac.answer && x.classList.add("c")); done(ok); }
+  const ok = o === ac.answer; b.classList.add(ok ? "c" : "w"); if (!ok) all.forEach(x => x.dataset.v === ac.answer && x.classList.add("c")); done(ok); }
 const nm = v => v.toLowerCase().replace(/[^\w\s]/g,"").replace(/\s+/g," ").trim();
 function chk() { if ($("cq").style.display === "block") return; const u = nm($("si").value), c = nm(ac.answer); let ok = u === c;
   if (!ok && c.length > 35) { const k = c.split(" ").filter(w => w.length > 4); ok = k.filter(w => u.includes(w)).length >= Math.ceil(k.length*.45); } done(ok); }
@@ -391,79 +439,79 @@ function done(ok) { st.n++; if (ok) st.ok++; sv("quizStats", st); $("fb").classN
   $("fb").innerHTML = ok ? "<b>Correct!</b>" : "<b>Not quite.</b><br>Answer: " + esc(ac.answer); $("cq").style.display = "block"; stats(); }
 
 /* events */
-$("subjChips").onclick = e => { const b = e.target.closest("[data-s]"); if (b) { subj = b.dataset.s; if (subj !== "all") topics = new Set([...topics].filter(k => k.split("||")[0] === subj)); chips(); filt(); } };
+$("subjChips").onclick = e => { const b = e.target.closest("[data-s]"); if (b) { subj = b.dataset.s; topics = new Set(); subtops = new Set(); units = new Set(); chips(); filt(); } };
 $("unitChips").onclick = e => { const b = e.target.closest("[data-u]"); if (!b) return; const u = b.dataset.u; if (u === "*") units.clear(); else units.has(u) ? units.delete(u) : units.add(u); chips(); filt(); };
-$("topicChips").onclick = e => { const b = e.target.closest("[data-t]"); if (!b) return; const k = b.dataset.t; if (k === "*") topics.clear(); else topics.has(k) ? topics.delete(k) : topics.add(k); chips(); filt(); };
+$("topicChips").onclick = e => { const b = e.target.closest("[data-t]"); if (!b) return; const k = b.dataset.t; if (k === "*") { topics.clear(); subtops.clear(); } else topics.has(k) ? topics.delete(k) : topics.add(k); chips(); filt(); };
 $("search").oninput = filt;
-$("clr").onclick = () => { subj = "all"; topics = new Set(); units = new Set(); subtops = new Set(); $("search").value = ""; chips(); filt(); };
-$("ptog").onclick = () => { const c = $("panel").classList.toggle("collapsed"); $("ptog").textContent = c ? "▼" : "▲"; $("ptog").setAttribute("aria-expanded", !c); $("ptog").setAttribute("aria-label", c ? "Expand filters" : "Collapse filters"); };
-const allKeys = () => SUBJECTS.flatMap(s => topicsFiltered(s.name).map(t => s.name + "||" + t));
-const openT = new Set();
-const scopeTopics = () => (topics.size ? [...topics] : allKeys()).filter(k => subj === "all" || k.split("||")[0] === subj);
-const inTopic = tk => { const [s, t] = tk.split("||"); return cards.filter(c => c.subject === s && c.topic === t && inUnits(c)); };
-function tlist() {
-  const y = $("tlist").scrollTop, subs = subj === "all" ? SUBJECTS : SUBJECTS.filter(s => s.name === subj);
-  $("ttl").textContent = subj === "all" ? "All topics" : subj + " topics";
-  $("tlist").innerHTML = subs.map(s => { const ts = topicsFiltered(s.name); if (!ts.length) return "";
-    return `<div class="tsub" style="--c:${esc(s.colour)}">${esc(s.name)}</div>` + ts.map(t => { const k = s.name + "||" + t, inT = inTopic(k), op = openT.has(k);
-      return `<div class="trow top"><button class="arr" data-to="${esc(k)}" aria-label="Expand or collapse ${esc(t)}">${op ? "▲" : "▼"}</button><label class="tl"><input type="checkbox" data-k="${esc(k)}"${topics.has(k) ? " checked" : ""}><span class="dot" style="background:${tCol(s.name, t)}"></span><span>${esc(t)} <small>(${inT.length})</small></span></label></div>` +
-        (op ? uniq(inT.map(c => c.subtopic)).map(x => { const sk = k + "||" + x;
-          return `<label class="trow sub"><input type="checkbox" data-sk="${esc(sk)}"${subtops.has(sk) ? " checked" : ""}><span>${esc(x)}</span></label>`; }).join("") : ""); }).join(""); }).join("") || '<p class="ptx">No topics yet.</p>';
-  $("tinfo").textContent = topics.size || subtops.size ? `${topics.size} topics, ${subtops.size} subtopics selected` : "None selected = show everything";
-  $("tlist").scrollTop = y;
-}
-$("moreT").onclick = () => { tlist(); $("tov").classList.add("on"); };
-$("tdone").onclick = () => $("tov").classList.remove("on");
-$("tlist").onclick = e => { const b = e.target.closest("[data-to]"); if (!b) return; const k = b.dataset.to; openT.has(k) ? openT.delete(k) : openT.add(k); tlist(); };
-$("tlist").onchange = e => { const k = e.target.dataset.k, sk = e.target.dataset.sk;
-  if (k) { e.target.checked ? topics.add(k) : topics.delete(k); }
-  else if (sk) { if (e.target.checked) { topics.add(sk.split("||").slice(0, 2).join("||")); subtops.add(sk); } else subtops.delete(sk); }
-  else return;
-  chips(); filt(); tlist(); };
-$("tall").onclick = () => { topics = new Set(allKeys().filter(k => subj === "all" || k.split("||")[0] === subj)); chips(); filt(); tlist(); };
-$("tnone").onclick = () => { topics = new Set(); subtops = new Set(); chips(); filt(); tlist(); };
+$("clr").onclick = () => { topics = new Set(); units = new Set(); subtops = new Set(); $("search").value = ""; chips(); filt(); };
+$("ptog").onclick = () => { const c = $("panel").classList.toggle("collapsed"); $("ptog").innerHTML = ico(c ? "arrow-down" : "arrow-up"); $("ptog").setAttribute("aria-expanded", !c); $("ptog").setAttribute("aria-label", c ? "Expand filters" : "Collapse filters"); };
 
-/* subtopic module: subtopics in 3 columns with checkboxes */
+/* topic module: selected subject only; topics collapse/expand, subtopics in 3 columns */
+const openT = new Set();
+const inTopic = tk => { const [s, t] = tk.split("||"); return cards.filter(c => c.subject === s && c.topic === t && inUnits(c)); };
 function slist() {
-  const y = $("slist").scrollTop;
-  $("stl").textContent = subj === "all" ? "Subtopics" : subj + " subtopics";
-  $("slist").innerHTML = scopeTopics().map(tk => { const [s, t] = tk.split("||"), col = tCol(s, t), inT = inTopic(tk);
-    return `<div class="stg"><div class="sgl" style="color:${col};border-color:${col}">${esc(t)}</div><div class="sgrid">` +
-      uniq(inT.map(c => c.subtopic)).map(x => { const sk = tk + "||" + x;
-        return `<div class="scell"><label class="tl"><input type="checkbox" data-sk="${esc(sk)}"${subtops.has(sk) ? " checked" : ""}><span>${esc(x)}</span></label></div>`; }).join("") + `</div></div>`; }).join("") || '<p class="ptx">No subtopics yet.</p>';
-  const n = subtops.size; $("sinfo").textContent = n ? `${n} subtopics selected` : "None selected = show everything";
+  const y = $("slist").scrollTop, sj = SUBJECTS.find(s => s.name === subj), q = $("ssearch").value.trim().toLowerCase(), all = topicsFiltered(subj);
+  $("stl").textContent = subj + " topics";
+  const rows = all.map(t => { const k = subj + "||" + t, inT = inTopic(k), tm = !q || t.toLowerCase().includes(q), subs = uniq(inT.map(c => c.subtopic)).filter(x => tm || x.toLowerCase().includes(q));
+    return {t, k, n:inT.length, subs, show:tm || subs.length}; }).filter(r => r.show);
+  $("slist").innerHTML = rows.length ? `<div class="tsub" style="--c:${esc(sj.colour)}">${esc(sj.name)}</div>` + rows.map(({t, k, n, subs}) => { const op = openT.has(k) || !!q;
+    return `<div class="stg"><div class="trow top"><button class="arr" data-to="${esc(k)}" aria-label="Expand or collapse ${esc(t)}">${ico(op ? "arrow-up" : "arrow-down")}</button><label class="tl"><input type="checkbox" data-k="${esc(k)}"${topics.has(k) ? " checked" : ""}><span class="dot" style="background:${tCol(subj, t)}"></span><span>${esc(t)} <small>(${n})</small></span></label></div>` +
+      (op ? `<div class="sgrid">` + subs.map(x => { const sk = k + "||" + x;
+        return `<div class="scell"><label class="tl"><input type="checkbox" data-sk="${esc(sk)}"${subtops.has(sk) ? " checked" : ""}><span>${esc(x)}</span></label></div>`; }).join("") + `</div>` : "") + `</div>`; }).join("") : '<p class="ptx">No matching topics.</p>';
+  $("sinfo").textContent = topics.size || subtops.size ? `${topics.size} topics, ${subtops.size} subtopics selected` : "";
+  $("sall").classList.toggle("pri", all.length > 0 && all.every(t => topics.has(subj + "||" + t)));
+  $("snone").classList.toggle("pri", !topics.size && !subtops.size);
   $("slist").scrollTop = y;
 }
-$("moreS").onclick = () => { slist(); $("sov").classList.add("on"); };
+$("ssearch").oninput = slist;
+$("moreT").onclick = () => { $("ssearch").value = ""; slist(); $("sov").classList.add("on"); };
 $("sdone").onclick = () => $("sov").classList.remove("on");
-$("slist").onchange = e => { const sk = e.target.dataset.sk; if (!sk) return; e.target.checked ? subtops.add(sk) : subtops.delete(sk); chips(); filt(); slist(); };
-$("sall").onclick = () => { subtops = new Set(scopeTopics().flatMap(tk => uniq(inTopic(tk).map(c => tk + "||" + c.subtopic)))); chips(); filt(); slist(); };
-$("snone").onclick = () => { subtops = new Set(); chips(); filt(); slist(); };
+$("slist").onclick = e => { const b = e.target.closest("[data-to]"); if (!b) return; const k = b.dataset.to; openT.has(k) ? openT.delete(k) : openT.add(k); slist(); };
+$("slist").onchange = e => { const k = e.target.dataset.k, sk = e.target.dataset.sk;
+  if (k) { if (e.target.checked) topics.add(k); else { topics.delete(k); subtops = new Set([...subtops].filter(x => !x.startsWith(k + "||"))); } }
+  else if (sk) { if (e.target.checked) { topics.add(sk.split("||").slice(0, 2).join("||")); subtops.add(sk); } else subtops.delete(sk); }
+  else return;
+  chips(); filt(); slist(); };
+$("sall").onclick = () => { topics = new Set(topicsFiltered(subj).map(t => subj + "||" + t)); chips(); filt(); slist(); };
+$("snone").onclick = () => { topics = new Set(); subtops = new Set(); chips(); filt(); slist(); };
+
 $("opt").onclick = () => $("oov").classList.add("on");
 $("odone").onclick = () => $("oov").classList.remove("on");
-$("shuf").addEventListener("click", () => $("oov").classList.remove("on"));
-$("shuf").onclick = () => { shuf(list); i = 0; show(); };
+$("shuf").onclick = () => { shuf(list); i = 0; show(); $("oov").classList.remove("on"); };
 $("card").onclick = flip; $("flip").onclick = flip; $("next").onclick = () => go(1); $("prev").onclick = () => go(-1);
 $("kn").onclick = () => mark(true); $("rev").onclick = () => mark(false);
 $("qFreq").onchange = $("qType").onchange = () => { qs = {f:+$("qFreq").value, t:$("qType").value}; sv("quizSettings", qs); };
 $("sub").onclick = chk; $("cq").onclick = () => $("ov").classList.remove("on");
-$("si").onkeydown = e => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); chk(); } };
-document.onkeydown = e => { if (e.key === "Escape" && !document.fullscreenElement && document.body.classList.contains("fs")) { setFs(false); return; } if (/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName) || $("ov").classList.contains("on")) return;
+$("si").onkeydown = e => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); $("cq").style.display === "block" ? $("cq").click() : chk(); } };
+
+/* help module with tabs */
+$("help").onclick = () => $("hov").classList.add("on");
+$("hdone").onclick = () => $("hov").classList.remove("on");
+document.querySelectorAll("[data-tab]").forEach(b => b.onclick = () => {
+  document.querySelectorAll("[data-tab]").forEach(x => x.classList.toggle("pri", x === b));
+  document.querySelectorAll(".tp").forEach(p => p.classList.toggle("on", p.id === "tp-" + b.dataset.tab)); });
+
+document.onkeydown = e => {
+  if ($("ov").classList.contains("on")) { if (document.activeElement.tagName === "TEXTAREA") return;
+    if (e.key === "Enter" && $("cq").style.display === "block") { e.preventDefault(); $("cq").click(); }
+    else if (e.key.length === 1 && !e.ctrlKey && !e.metaKey) { const b = document.querySelectorAll(".a")["abcd".indexOf(e.key.toLowerCase())]; if (b && !b.disabled) b.click(); }
+    return; }
+  if (e.key === "Escape" && !document.fullscreenElement && document.body.classList.contains("fs")) { setFs(false); return; } if (/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName) || document.querySelector(".ov.on")) return;
   if (e.code === "Space") { e.preventDefault(); flip(); } else if (e.key === "ArrowRight") go(1); else if (e.key === "ArrowLeft") go(-1); };
 let x0 = 0; const sc = document.querySelector(".scene");   /* swipe on phones */
 sc.addEventListener("touchstart", e => x0 = e.touches[0].clientX, {passive:true});
 sc.addEventListener("touchend", e => { const dx = e.changedTouches[0].clientX - x0; if (Math.abs(dx) > 60) go(dx < 0 ? 1 : -1); });
 
-
 /* full screen / focus mode (CSS-based so it also works on iPhone; uses the browser Fullscreen API where available) */
 const fsb = $("fsb"), de = document.documentElement;
-function setFs(on) { document.body.classList.toggle("fs", on); fsb.textContent = on ? "✕ Exit" : "⛶ Full screen"; }
+function setFs(on) { document.body.classList.toggle("fs", on); fsb.querySelector("span").textContent = on ? "Exit" : "Full screen"; }
 fsb.onclick = () => { const on = !document.body.classList.contains("fs"); setFs(on);
   if (on && de.requestFullscreen) de.requestFullscreen().catch(() => {});
   else if (on && de.webkitRequestFullscreen) de.webkitRequestFullscreen();
   else if (!on && document.fullscreenElement) document.exitFullscreen(); };
 document.addEventListener("fullscreenchange", () => { if (!document.fullscreenElement) setFs(false); });
 
+const lm = new Date(document.lastModified); if (!isNaN(lm)) $("lastUpd").textContent = lm.toLocaleString(undefined, {dateStyle:"long", timeStyle:"short"});
 $("qFreq").value = qs.f; $("qType").value = qs.t; chips(); stats(); filt();
 </script>
 </body>
