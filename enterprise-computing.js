@@ -21918,6 +21918,6321 @@ registerSubject("Enterprise Computing", "#7c3aed", [
     question: "How do expert systems contribute differently across industries?",
     answer: "Supercomputers support complex calculations, digital assistants automate routine tasks, autonomous vehicles support driving decisions, and streaming services personalise recommendations."
   },
+	
+ {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of the Enterprise Project unit?",
+    answer: "To design, develop and evaluate a digital solution that addresses an identified problem or need within a real-world enterprise."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Basic Concepts",
+    question: "What is an enterprise in the context of an Enterprise Computing project?",
+    answer: "An organisation or business that uses systems and technology to achieve its goals."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Basic Concepts",
+    question: "What is an enterprise solution?",
+    answer: "A digital system designed to address an enterprise's needs or solve a specific problem."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Basic Concepts",
+    question: "Why are project management principles used in the Enterprise Project?",
+    answer: "To organise project activities and follow a structured approach similar to real industry practice."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Requirements and Data Collection",
+    question: "What is the purpose of collecting data during an Enterprise Project?",
+    answer: "To identify user requirements, system needs and limitations before developing the solution."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Requirements and Data Collection",
+    question: "What data collection techniques can be used in an Enterprise Project?",
+    answer: "Interviews, surveys, analytical reports and prototypes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Requirements and Data Collection",
+    question: "How can interviews help determine system requirements?",
+    answer: "They allow developers to gather detailed information about users' needs, expectations and problems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Requirements and Data Collection",
+    question: "How can surveys help determine system requirements?",
+    answer: "They collect feedback and opinions from multiple users efficiently."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Requirements and Data Collection",
+    question: "How can analytical reports support project development?",
+    answer: "They provide information and evidence to guide decisions about the proposed solution."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Requirements and Data Collection",
+    question: "How can prototypes help identify requirements?",
+    answer: "They allow users to interact with an early version of the system and provide feedback."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "System Design and Modelling",
+    question: "What tools can be used to design and model an enterprise system?",
+    answer: "Decision trees, Data Flow Diagrams (DFDs), Gantt charts and storyboards."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "System Design and Modelling",
+    question: "What is the purpose of a decision tree in an Enterprise Project?",
+    answer: "To visually represent decisions, conditions and possible outcomes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "System Design and Modelling",
+    question: "What is the purpose of a Data Flow Diagram (DFD)?",
+    answer: "To show how data enters, moves through and leaves a system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "System Design and Modelling",
+    question: "What is the purpose of a Gantt chart?",
+    answer: "To schedule project tasks and show their durations, start and finish dates, and progress."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "System Design and Modelling",
+    question: "What is the purpose of a storyboard?",
+    answer: "To plan the sequence, layout or interactions of a digital solution visually."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Development, Testing and Evaluation",
+    question: "Why must an enterprise solution be tested?",
+    answer: "To identify errors and verify that the system functions according to its requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Development, Testing and Evaluation",
+    question: "What is the purpose of evaluating an enterprise solution?",
+    answer: "To determine whether it is feasible, functional and effective in meeting user needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Development, Testing and Evaluation",
+    question: "What does refining a digital solution involve?",
+    answer: "Making improvements based on testing results, user feedback and evaluation findings."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Development, Testing and Evaluation",
+    question: "What does feasibility mean in an Enterprise Project?",
+    answer: "Whether the proposed solution can realistically be developed and implemented within the available constraints."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Development, Testing and Evaluation",
+    question: "Why is usability important when evaluating an enterprise solution?",
+    answer: "It determines how easily and effectively users can interact with the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Implementation and Project Management",
+    question: "Why is collaboration important during an Enterprise Project?",
+    answer: "It allows people to share ideas, coordinate tasks and work towards common project goals."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Implementation and Project Management",
+    question: "Why is project communication important?",
+    answer: "It keeps stakeholders informed, supports coordination and helps prevent misunderstandings."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Implementation and Project Management",
+    question: "What implementation elements must be documented in an Enterprise Project?",
+    answer: "Training, risk analysis, hardware and software integration, and system maintenance."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Implementation and Project Management",
+    question: "What is the purpose of training when implementing a new system?",
+    answer: "To ensure users understand how to operate the system correctly and effectively."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Implementation and Project Management",
+    question: "What is risk analysis in an Enterprise Project?",
+    answer: "Identifying potential risks, assessing their likelihood and impact, and planning ways to manage them."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Implementation and Project Management",
+    question: "What is hardware and software integration?",
+    answer: "Connecting hardware components and software applications so they work together as a functioning system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Implementation and Project Management",
+    question: "What is system maintenance?",
+    answer: "Ongoing activities that keep a system functional, secure, reliable and up to date."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Project Outcomes",
+    question: "What should a completed Enterprise Project demonstrate?",
+    answer: "A well-documented enterprise solution that meets identified requirements and reflects authentic industry practices."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Project Outcomes",
+    question: "How can an enterprise solution benefit an organisation?",
+    answer: "It can improve efficiency, solve operational problems, support decision-making and better meet user needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to the Enterprise Project",
+    subtopic: "Project Outcomes",
+    question: "What are the main stages of the Enterprise Project?",
+    answer: "Identify a need, collect and analyse data, plan and model the solution, develop it, test and evaluate it, refine it, and document its implementation."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Basic Concepts",
+    question: "What is the Identifying & Defining stage of system development?",
+    answer: "The stage where an existing system is investigated, problems are identified and requirements for a new system are established."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of the Identifying & Defining stage?",
+    answer: "To establish the foundations for developing a system that meets user needs and solves an identified problem."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Basic Concepts",
+    question: "What is identifying in system development?",
+    answer: "Recognising and documenting stakeholders, system elements, requirements, issues, constraints and risks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Basic Concepts",
+    question: "What is defining in system development?",
+    answer: "Documenting project goals, tasks, activities, success criteria and project boundaries."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Basic Concepts",
+    question: "What is the difference between identifying and defining?",
+    answer: "Identifying investigates the problem and gathers information, while defining uses that information to establish project goals and requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Investigating Existing Systems",
+    question: "What information should be gathered when investigating an existing system?",
+    answer: "Information about its operation, stakeholders, requirements, problems, limitations, constraints and risks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Investigating Existing Systems",
+    question: "Why is it important to identify stakeholders?",
+    answer: "To understand who is affected by the system and whose needs must be considered."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Investigating Existing Systems",
+    question: "Why must project constraints and risks be identified?",
+    answer: "To anticipate potential problems and determine what limitations may affect the project's success."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Investigating Existing Systems",
+    question: "What is a problem definition?",
+    answer: "A clear statement describing the problem or need that the proposed system must address."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Defining Project Requirements",
+    question: "Why must project goals be documented?",
+    answer: "To clarify what the project aims to achieve and guide development decisions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Defining Project Requirements",
+    question: "What are success criteria?",
+    answer: "Measurable or clearly defined conditions used to determine whether a system meets its objectives."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Defining Project Requirements",
+    question: "Why must a project’s scope be defined?",
+    answer: "To establish what is included and excluded, preventing unnecessary work and uncontrolled expansion."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Defining Project Requirements",
+    question: "Why is time and resource management important during this stage?",
+    answer: "It helps determine whether the project can be completed within available time, budget, personnel and equipment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Development Tools and Processes",
+    question: "What tools and processes help manage and document enterprise system development?",
+    answer: "Problem definitions, schedules, resource plans, iterative approaches, production processes, technical skills, and testing and evaluation."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Development Tools and Processes",
+    question: "What is an iterative approach to system development?",
+    answer: "Developing a system through repeated cycles of design, implementation, testing, evaluation and refinement."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Development Tools and Processes",
+    question: "Why should an existing system be tested and evaluated?",
+    answer: "To identify strengths, weaknesses and areas that need improvement in the proposed solution."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "Development Tools and Processes",
+    question: "Why are technical skills important when planning a system development project?",
+    answer: "They help determine whether the team has the expertise needed to design, develop, test and maintain the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "The Changing Nature of Enterprise",
+    question: "How has the changing nature of enterprise affected system development?",
+    answer: "Projects increasingly involve remote teams, offshore development, freelance workers and start-ups."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "The Changing Nature of Enterprise",
+    question: "What is offshore development?",
+    answer: "When some system development work is completed by workers or organisations in another country."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "The Changing Nature of Enterprise",
+    question: "What is remote work in system development?",
+    answer: "Working on a project from different locations using digital communication and collaboration tools."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "The Changing Nature of Enterprise",
+    question: "How can freelance workers contribute to system development?",
+    answer: "They can provide specialised skills or complete specific project tasks on a contract basis."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "The Changing Nature of Enterprise",
+    question: "How can start-ups influence enterprise system development?",
+    answer: "They often develop innovative solutions, requiring flexible planning and efficient use of limited resources."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Identifying & Defining",
+    subtopic: "The Changing Nature of Enterprise",
+    question: "Why must project managers consider changing enterprise practices?",
+    answer: "To plan for different work arrangements, communication needs, skill requirements and resource constraints."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Basic Concepts",
+    question: "What is a problem definition?",
+    answer: "A concise description of an enterprise's problem, needs, challenges or opportunities that a new system aims to address."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of a problem definition?",
+    answer: "To clarify what a project must achieve and identify the requirements the solution needs to meet."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Basic Concepts",
+    question: "How does a problem definition support a development team?",
+    answer: "It provides a shared reference point that guides project planning, design and development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Basic Concepts",
+    question: "What methods can be used to gather information for a problem definition?",
+    answer: "Observations, interviews and surveys."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Basic Concepts",
+    question: "Why is data collected from an existing system?",
+    answer: "To understand current issues, user needs, limitations and potential opportunities for improvement."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Elements of a Problem Definition",
+    question: "What does the purpose of a system describe?",
+    answer: "What the system is intended to do and the problem it will solve."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Elements of a Problem Definition",
+    question: "What are design elements in a problem definition?",
+    answer: "The intended look, feel and user experience of the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Elements of a Problem Definition",
+    question: "Why must user needs be identified?",
+    answer: "To ensure the system meets users' requirements and is suitable for its intended audience."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Elements of a Problem Definition",
+    question: "Why must a project’s time frame be defined?",
+    answer: "To establish how long development should take and when the system needs to be completed."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Elements of a Problem Definition",
+    question: "Why must a project’s budget be identified?",
+    answer: "To determine the money available for development, technology, resources and other costs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Elements of a Problem Definition",
+    question: "What does required technology include?",
+    answer: "The hardware and software needed to develop, operate and maintain the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Elements of a Problem Definition",
+    question: "What are enterprise requirements?",
+    answer: "The specific needs, objectives and constraints that the system must satisfy for the enterprise."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Importance of Problem Definition",
+    question: "Why should a problem definition be concise?",
+    answer: "To communicate the problem and requirements clearly without unnecessary detail."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Importance of Problem Definition",
+    question: "How does a problem definition guide project development?",
+    answer: "It helps the team make decisions, prioritise requirements and keep the project focused on its objectives."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Importance of Problem Definition",
+    question: "What can happen if a problem is poorly defined?",
+    answer: "The system may fail to meet user needs, exceed the budget or time frame, or solve the wrong problem."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Problem Definition",
+    subtopic: "Importance of Problem Definition",
+    question: "How does a problem definition help evaluate a completed system?",
+    answer: "It provides the original objectives and requirements against which the final solution can be assessed."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Basic Concepts",
+    question: "What is time management in system development?",
+    answer: "Planning, scheduling and monitoring tasks to ensure they are completed within deadlines."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Basic Concepts",
+    question: "What is resource management?",
+    answer: "Efficiently allocating and using resources such as personnel, budget, materials and technology."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Basic Concepts",
+    question: "Why are time and resource management important in project management?",
+    answer: "Time and resources are limited, so they must be managed efficiently to achieve project goals."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Basic Concepts",
+    question: "What resources may be required for system development?",
+    answer: "Human resources, money, materials, hardware, software and other technology."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Basic Concepts",
+    question: "What can happen if time and resources are poorly managed?",
+    answer: "The project may experience delays, exceed its budget or fail to meet its objectives."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Gantt Charts",
+    question: "What is a Gantt chart?",
+    answer: "A project planning tool that displays tasks and their scheduled time frames on a timeline."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Gantt Charts",
+    question: "What are Gantt charts used for?",
+    answer: "Scheduling tasks, allocating resources and tracking development progress."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Gantt Charts",
+    question: "When is a Gantt chart usually created?",
+    answer: "At the beginning of system development to help plan and schedule the project."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Gantt Charts",
+    question: "How does a Gantt chart help keep a project on schedule?",
+    answer: "It shows task start and finish dates, deadlines and progress against the planned timeline."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Gantt Charts",
+    question: "How can a Gantt chart represent different project deadlines?",
+    answer: "It assigns time frames and completion dates to individual tasks or sub-projects."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Gantt Charts",
+    question: "Can tasks in a Gantt chart occur simultaneously?",
+    answer: "Yes. Different tasks can overlap when team members work on them at the same time."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Gantt Charts",
+    question: "How can Gantt charts help allocate resources?",
+    answer: "They help identify when people, equipment and other resources are needed for specific tasks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Gantt Charts",
+    question: "What is one limitation of a Gantt chart?",
+    answer: "It may not clearly show all task dependencies or the full impact of delays on other tasks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Applying Time & Resource Management",
+    question: "How does time management differ from resource management?",
+    answer: "Time management focuses on when tasks occur, while resource management focuses on how available resources are allocated and used."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time & Resource Management",
+    subtopic: "Applying Time & Resource Management",
+    question: "Why should a Gantt chart be updated during development?",
+    answer: "To reflect changes in progress, deadlines and task schedules so the project plan remains useful."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Basic Concepts",
+    question: "What is an iterative approach?",
+    answer: "Repeating development steps to improve a system through feedback, modifications and testing."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Basic Concepts",
+    question: "Why is an iterative approach used in system development?",
+    answer: "To refine a system over time, identify problems early and ensure it meets user needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Basic Concepts",
+    question: "What steps may be repeated in an iterative process?",
+    answer: "Gathering feedback, modifying the system and testing the updated version."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Basic Concepts",
+    question: "What is the main benefit of iterative development?",
+    answer: "Continuous improvement and early identification of problems, reducing the risk of costly redevelopment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in a Prototyping Approach",
+    question: "What is the prototyping approach?",
+    answer: "Developing a preliminary model of a system that is repeatedly tested, modified and refined."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in a Prototyping Approach",
+    question: "What is requirements gathering in prototyping?",
+    answer: "Identifying the core functions, goals and user requirements the prototype should demonstrate."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in a Prototyping Approach",
+    question: "What happens during prototype development?",
+    answer: "A preliminary version of the system is created to demonstrate its design or functionality."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in a Prototyping Approach",
+    question: "What is the difference between a low-fidelity and high-fidelity prototype?",
+    answer: "A low-fidelity prototype is a basic representation, such as a paper sketch, while a high-fidelity prototype closely resembles the intended system, such as a clickable digital mock-up."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in a Prototyping Approach",
+    question: "What happens during user evaluation and feedback?",
+    answer: "Users or stakeholders interact with the prototype and comment on its usability, appearance and functionality."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in a Prototyping Approach",
+    question: "What happens during the modification stage of prototyping?",
+    answer: "Developers use feedback to revise, improve or expand the prototype."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in a Prototyping Approach",
+    question: "When does the prototyping cycle end?",
+    answer: "When the prototype meets the agreed requirements and expectations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in a Prototyping Approach",
+    question: "Why is prototyping useful for user-focused projects?",
+    answer: "It allows users to influence the design and functionality before the final system is implemented."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in a Prototyping Approach",
+    question: "How can prototyping reduce development risks?",
+    answer: "It identifies design flaws early, reducing the likelihood of expensive changes later."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in an Agile Approach",
+    question: "What is the Agile approach?",
+    answer: "An iterative development approach that delivers working system components through short development cycles called sprints."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in an Agile Approach",
+    question: "What is a sprint in Agile development?",
+    answer: "A short, time-limited development cycle, typically lasting one to four weeks, focused on delivering selected features."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in an Agile Approach",
+    question: "What happens during Agile planning?",
+    answer: "The team establishes sprint goals and selects features from the product backlog based on priorities."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in an Agile Approach",
+    question: "What happens during Agile design and development?",
+    answer: "Team members collaboratively design and build the selected features."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in an Agile Approach",
+    question: "Why is testing performed during each Agile sprint?",
+    answer: "To identify defects early and make corrections before further development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in an Agile Approach",
+    question: "What happens during an Agile review and feedback session?",
+    answer: "Stakeholders assess the completed functionality and provide feedback."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in an Agile Approach",
+    question: "What happens during the modification stage of Agile?",
+    answer: "The team uses feedback and reflections to improve the system and the next sprint."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Iterative Stages in an Agile Approach",
+    question: "How does Agile respond to changing requirements?",
+    answer: "It allows teams to adjust priorities and incorporate feedback between development cycles."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Comparing Prototyping and Agile",
+    question: "What is the main difference between prototyping and Agile?",
+    answer: "Prototyping repeatedly refines a model of a system, while Agile delivers working features incrementally through sprints."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Comparing Prototyping and Agile",
+    question: "How do both prototyping and Agile improve user satisfaction?",
+    answer: "Both involve feedback and repeated improvements to help ensure the final system meets user needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "An Iterative Approach",
+    subtopic: "Comparing Prototyping and Agile",
+    question: "What are the key advantages of iterative development?",
+    answer: "Early problem detection, continuous improvement, flexibility, reduced redevelopment costs and better alignment with user requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Basic Concepts",
+    question: "What are production processes in system development?",
+    answer: "Procedures businesses follow to plan, develop and deliver products or projects."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Basic Concepts",
+    question: "Why are production processes important?",
+    answer: "They promote consistency, efficiency and quality within and between projects."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Basic Concepts",
+    question: "How are production processes selected for a project?",
+    answer: "They are chosen based on the specific requirements and needs of the enterprise system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Production Processes",
+    question: "What is data collection in system development?",
+    answer: "Gathering information about user needs, existing systems and project requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Production Processes",
+    question: "Why is analysing feedback important?",
+    answer: "It helps identify problems, evaluate user satisfaction and determine improvements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Production Processes",
+    question: "What is risk assessment?",
+    answer: "Identifying potential problems, evaluating their likelihood and impact, and planning ways to manage them."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Production Processes",
+    question: "What is prototyping as a production process?",
+    answer: "Creating an early model of a system to test ideas, gather feedback and refine the design."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Production Processes",
+    question: "What is resource planning?",
+    answer: "Identifying and allocating the people, time, budget, equipment and technology needed for a project."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Production Processes",
+    question: "What are development procedures?",
+    answer: "Established steps and guidelines used to develop, test, document and maintain a system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Technical Skills",
+    question: "What are technical skills?",
+    answer: "The abilities and knowledge workers use to perform tasks effectively in their roles."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Technical Skills",
+    question: "Why are technical skills important in system development?",
+    answer: "They enable the development team to design, build, test and integrate a functional system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Technical Skills",
+    question: "What project management skills are useful in system development?",
+    answer: "Planning tasks, managing deadlines, allocating resources and monitoring progress."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Technical Skills",
+    question: "Why are data analysis skills important?",
+    answer: "They help developers interpret information, identify patterns and make informed decisions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Technical Skills",
+    question: "Why are communication skills important in a development team?",
+    answer: "They support collaboration, clarify requirements and help team members share information with stakeholders."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Technical Skills",
+    question: "What are practical skills in system development?",
+    answer: "Hands-on abilities used to operate tools, implement solutions, troubleshoot problems and test systems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Technical Skills",
+    question: "Why are programming and software development skills important?",
+    answer: "They allow developers to write code, implement features, debug errors and build software solutions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Technical Skills",
+    question: "What is system architecture?",
+    answer: "The overall structure of a system, including its components, how they interact and how they work together."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Technical Skills",
+    question: "Why is system architecture knowledge important?",
+    answer: "It helps developers design systems that are reliable, maintainable and compatible with existing platforms."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Applying Production Processes and Technical Skills",
+    question: "How do production processes and technical skills differ?",
+    answer: "Production processes are the procedures followed, while technical skills are the abilities workers use to carry them out."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Applying Production Processes and Technical Skills",
+    question: "How do production processes and technical skills work together?",
+    answer: "Processes provide a structured workflow, while technical skills enable the team to complete the required tasks effectively."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Production Processes & Technical Skills",
+    subtopic: "Applying Production Processes and Technical Skills",
+    question: "What could happen if a development team lacks appropriate processes or technical skills?",
+    answer: "The project may experience inconsistent quality, errors, delays, integration problems or failure to meet requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Basic Concepts",
+    question: "What is offshore development?",
+    answer: "Outsourcing manufacturing or services to another country, often to reduce costs or access specialised expertise."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Basic Concepts",
+    question: "Why do enterprises use offshore development?",
+    answer: "To reduce expenses, access global talent, increase productivity and scale projects efficiently."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Basic Concepts",
+    question: "What is global talent in offshore development?",
+    answer: "Skilled workers and specialists located in other countries who can contribute to a project."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Benefits of Offshore Development",
+    question: "How can offshore development reduce costs?",
+    answer: "By using countries where labour and other resources may be less expensive."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Benefits of Offshore Development",
+    question: "How does offshore development provide access to specialised expertise?",
+    answer: "It allows enterprises to employ or partner with skilled professionals who may not be available locally."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Benefits of Offshore Development",
+    question: "How can different time zones increase productivity?",
+    answer: "Teams in different time zones can work at different times, allowing work to continue for longer periods."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Benefits of Offshore Development",
+    question: "What is scalability in offshore development?",
+    answer: "The ability to increase or decrease project resources and workforce as requirements change."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Benefits of Offshore Development",
+    question: "How can offshore development improve an enterprise's competitiveness?",
+    answer: "It can lower costs, improve access to expertise and allow the enterprise to use resources more efficiently."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Challenges of Offshore Development",
+    question: "How can communication barriers affect offshore development?",
+    answer: "Language differences, cultural differences and time-zone gaps can cause misunderstandings and delays."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Challenges of Offshore Development",
+    question: "Why can quality assurance be challenging in offshore development?",
+    answer: "Different standards, processes and communication difficulties may lead to inconsistent quality."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Challenges of Offshore Development",
+    question: "What security risks are associated with offshore development?",
+    answer: "Sensitive data, intellectual property and business systems may be exposed to unauthorised access or misuse."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Challenges of Offshore Development",
+    question: "What ethical concerns can arise from offshore development?",
+    answer: "Worker exploitation, unfair wages, unsafe working conditions and poor labour standards."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Challenges of Offshore Development",
+    question: "How can enterprises manage offshore development risks?",
+    answer: "By setting clear communication procedures, quality standards, security controls, contracts and ethical labour requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Application to an Enterprise",
+    question: "When is offshore development particularly useful?",
+    answer: "When an enterprise has a limited budget or lacks the specialised skills needed locally."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Application to an Enterprise",
+    question: "How can offshore development benefit an enterprise with limited local talent?",
+    answer: "It provides access to skilled workers and expertise from other countries."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Application to an Enterprise",
+    question: "How can offshore development allow an enterprise to focus on domestic operations?",
+    answer: "External partners handle selected tasks, allowing local staff to concentrate on core business activities."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Application to an Enterprise",
+    question: "What should an enterprise consider before choosing offshore development?",
+    answer: "Cost savings, worker expertise, communication, quality, security, ethical practices and potential risks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Offshore Development",
+    subtopic: "Application to an Enterprise",
+    question: "What is the main disadvantage of offshore development?",
+    answer: "Cost savings may be offset by communication problems, quality issues, security risks or unethical labour practices."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Basic Concepts",
+    question: "What is remote work?",
+    answer: "An arrangement where employees perform their work from home or another location outside a traditional workplace."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Basic Concepts",
+    question: "What tools support remote work?",
+    answer: "Collaboration platforms, email, video conferencing and other digital communication tools."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Basic Concepts",
+    question: "Can remote work be full-time or part-time?",
+    answer: "Yes. Employees may work remotely full-time or combine remote work with office-based work."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Basic Concepts",
+    question: "How can remote work improve work-life balance?",
+    answer: "It reduces commuting time and can provide greater flexibility in managing work and personal responsibilities."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Benefits of Remote Work",
+    question: "How can remote work reduce costs for employees?",
+    answer: "It can reduce travel expenses, fuel costs and other commuting expenses."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Benefits of Remote Work",
+    question: "How can remote work reduce costs for enterprises?",
+    answer: "It can reduce spending on office space, utilities and other workplace expenses."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Benefits of Remote Work",
+    question: "How does remote work provide access to global talent?",
+    answer: "Enterprises can recruit skilled employees from different geographical locations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Benefits of Remote Work",
+    question: "How can remote work improve job satisfaction and productivity?",
+    answer: "Flexibility and reduced commuting can improve employee satisfaction and allow workers to manage their time more effectively."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Challenges of Remote Work",
+    question: "How can remote work affect communication?",
+    answer: "Delays, misunderstandings and limited face-to-face interaction can make communication more difficult."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Challenges of Remote Work",
+    question: "Why can collaboration be challenging for remote teams?",
+    answer: "Team members may be in different locations or time zones, making meetings and coordinated work more difficult."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Challenges of Remote Work",
+    question: "What cybersecurity risks are associated with remote work?",
+    answer: "Unsecured networks, vulnerable devices and unauthorised access can expose sensitive business information."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Challenges of Remote Work",
+    question: "How can enterprises improve remote work efficiency?",
+    answer: "By providing collaboration tools, cybersecurity training, clear communication procedures and a culture of trust."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Application to an Enterprise",
+    question: "How can remote work benefit global enterprises?",
+    answer: "It allows employees in different locations to collaborate and contribute to projects across geographical boundaries."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Application to an Enterprise",
+    question: "How can different time zones support a 24-hour development cycle?",
+    answer: "Teams in different time zones can work at different times, allowing development or support activities to continue across the day."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Application to an Enterprise",
+    question: "How can a 24-hour development cycle accelerate project timelines?",
+    answer: "Work can continue as one team finishes and another begins, reducing periods when tasks are waiting for attention."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Application to an Enterprise",
+    question: "How can remote work support continuous customer support?",
+    answer: "Teams in different time zones can provide assistance across a wider range of hours."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Application to an Enterprise",
+    question: "What is the difference between remote work and offshore development?",
+    answer: "Remote work describes where employees work, while offshore development involves moving or outsourcing work to another country. Offshore teams may also work remotely."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Working Remotely",
+    subtopic: "Application to an Enterprise",
+    question: "What should an enterprise consider when implementing remote work?",
+    answer: "Communication, collaboration, cybersecurity, employee training, productivity and the needs of workers in different time zones."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Basic Concepts",
+    question: "What is freelance work?",
+    answer: "Hiring independent contractors to complete specific tasks or projects for an enterprise."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Basic Concepts",
+    question: "Why do enterprises hire freelancers?",
+    answer: "To access specialised skills, reduce long-term employment costs and scale project teams as needed."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Basic Concepts",
+    question: "What are niche skills?",
+    answer: "Specialised abilities or knowledge in a particular area."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Basic Concepts",
+    question: "How does freelance work provide flexibility for enterprises?",
+    answer: "Enterprises can hire workers for specific tasks and adjust team size according to project requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Benefits of Freelance Work",
+    question: "How can freelance work reduce costs for an enterprise?",
+    answer: "It avoids some ongoing costs associated with permanent employment and allows payment for specific services."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Benefits of Freelance Work",
+    question: "How does freelance work provide access to specialised skills?",
+    answer: "Enterprises can hire experts for tasks that require knowledge not available within their existing team."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Benefits of Freelance Work",
+    question: "How can freelancers benefit from choosing their clients?",
+    answer: "They can select projects that suit their skills, interests and professional goals."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Benefits of Freelance Work",
+    question: "How can freelance work improve work-life balance?",
+    answer: "Freelancers often have greater control over their schedules and the projects they accept."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Benefits of Freelance Work",
+    question: "How can freelancers diversify their income?",
+    answer: "By working with multiple clients or completing different projects."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Benefits of Freelance Work",
+    question: "How can freelancers benefit enterprises through innovation?",
+    answer: "They may contribute fresh ideas, specialised expertise and up-to-date industry knowledge."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Challenges of Freelance Work",
+    question: "What reliability challenges can arise when hiring freelancers?",
+    answer: "A freelancer may miss deadlines, become unavailable or fail to deliver the expected standard of work."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Challenges of Freelance Work",
+    question: "What does integration mean when working with freelancers?",
+    answer: "Incorporating freelancers into the enterprise's team, workflows, systems and communication processes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Challenges of Freelance Work",
+    question: "Why is ownership of work important when hiring freelancers?",
+    answer: "The enterprise must clarify who owns the completed work and any associated intellectual property rights."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Challenges of Freelance Work",
+    question: "How can enterprises manage freelance work effectively?",
+    answer: "By establishing clear agreements covering deliverables, deadlines, payment, communication and intellectual property rights."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Application to an Enterprise",
+    question: "What tasks might an enterprise assign to freelancers when launching a new product?",
+    answer: "Content creation, social media management and data analysis."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Application to an Enterprise",
+    question: "How can freelancers help an enterprise avoid permanent hiring commitments?",
+    answer: "They can be engaged for specific projects without creating an ongoing permanent employment position."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Application to an Enterprise",
+    question: "Why might an enterprise combine freelancers with permanent employees?",
+    answer: "Permanent employees provide ongoing expertise, while freelancers supply additional or specialised skills when required."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Application to an Enterprise",
+    question: "What should an enterprise consider before hiring a freelancer?",
+    answer: "Their skills, reliability, cost, availability, communication, deadlines and intellectual property agreements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Application to an Enterprise",
+    question: "What is the main advantage of freelance work for system development?",
+    answer: "It provides flexible access to specialised skills without requiring long-term employment commitments."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Freelance Work",
+    subtopic: "Application to an Enterprise",
+    question: "What is the main risk of freelance work for an enterprise?",
+    answer: "Inconsistent reliability, difficulties integrating contractors or unclear ownership of completed work."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Basic Concepts",
+    question: "What is the Researching & Planning stage of system development?",
+    answer: "The stage where potential solutions are investigated, compared and planned before the most suitable solution is selected for development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Basic Concepts",
+    question: "What is researching in system development?",
+    answer: "Gathering and analysing information about requirements, constraints, risks, opportunities and possible solutions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of research during system development?",
+    answer: "To identify suitable technologies, best practices and potential solutions that meet the enterprise's needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Basic Concepts",
+    question: "What is planning in system development?",
+    answer: "Establishing the goals, tasks, timelines, resources and criteria needed to develop a system successfully."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Basic Concepts",
+    question: "How do researching and planning differ?",
+    answer: "Researching investigates possible solutions, while planning determines how the selected solution will be developed."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Researching Potential Solutions",
+    question: "Why should multiple potential solutions be researched?",
+    answer: "To compare alternatives and select the solution that best meets the enterprise's requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Researching Potential Solutions",
+    question: "What information should be investigated when researching a potential solution?",
+    answer: "Requirements, available technologies, costs, constraints, risks, opportunities and best practices."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Researching Potential Solutions",
+    question: "Why is it important to identify risks during research?",
+    answer: "To anticipate potential problems and determine how they can be prevented or managed."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Researching Potential Solutions",
+    question: "How does research help select suitable technologies?",
+    answer: "It allows the team to compare technologies based on functionality, compatibility, cost and project requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Planning the Project",
+    question: "Why should project goals be established?",
+    answer: "To clarify what the project aims to achieve and guide development decisions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Planning the Project",
+    question: "Why are timelines important in project planning?",
+    answer: "They establish deadlines and help ensure tasks are completed within the available time."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Planning the Project",
+    question: "Why must project resources be planned?",
+    answer: "To ensure sufficient personnel, budget, equipment and technology are available when needed."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Planning the Project",
+    question: "What are progress criteria?",
+    answer: "Conditions or milestones used to measure progress and determine whether the project is meeting its objectives."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Planning the Project",
+    question: "How does planning help control project costs?",
+    answer: "It estimates expenses, allocates the budget and monitors resource use to help prevent overspending."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Planning the Project",
+    question: "How does planning support risk management?",
+    answer: "It identifies potential risks and establishes strategies to reduce their likelihood or impact."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Tools, Thinking and Collaboration",
+    question: "Why are tools that support system design and development important?",
+    answer: "They help teams model, design, document, develop, test and manage an enterprise system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Tools, Thinking and Collaboration",
+    question: "What is computational thinking?",
+    answer: "A problem-solving approach that uses techniques such as decomposition, pattern recognition, abstraction and algorithm design."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Tools, Thinking and Collaboration",
+    question: "What is design thinking?",
+    answer: "A user-focused approach to understanding needs, generating ideas, prototyping solutions and testing them."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Tools, Thinking and Collaboration",
+    question: "What is systems thinking?",
+    answer: "Understanding how a system's components interact and how changes to one component can affect the whole system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Tools, Thinking and Collaboration",
+    question: "Why are computational, design and systems thinking skills useful together?",
+    answer: "They help teams solve problems logically, develop user-focused solutions and understand how system components work together."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Tools, Thinking and Collaboration",
+    question: "Why must collaboration criteria be selected for a project?",
+    answer: "To establish how team members communicate, share responsibilities, exchange feedback and work towards common goals."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Tools, Thinking and Collaboration",
+    question: "What managing criteria may be used during system development?",
+    answer: "Deadlines, budgets, milestones, task responsibilities, quality standards and progress measures."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Selecting the Best Solution",
+    question: "How should a development team select the most suitable solution?",
+    answer: "By comparing researched alternatives against user requirements, feasibility, costs, risks, available resources and project goals."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Researching & Planning",
+    subtopic: "Selecting the Best Solution",
+    question: "What is the main outcome of the Researching & Planning stage?",
+    answer: "A selected solution supported by research and a clear plan for its development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Basic Concepts",
+    question: "What is online collaboration?",
+    answer: "Using digital tools and platforms to communicate, share information and work together online."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Basic Concepts",
+    question: "Why is online collaboration important for enterprises?",
+    answer: "It allows employees and clients to work together across different locations and time zones, including when working remotely."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Basic Concepts",
+    question: "What are examples of online collaboration technologies?",
+    answer: "Mobile phones, video conferencing, email, instant messaging, social media and cloud-based platforms."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Mobile Phones",
+    question: "How do mobile phones support online collaboration?",
+    answer: "They enable communication through calls, messaging apps, social media and video conferencing."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Mobile Phones",
+    question: "How can mobile phones collect data for work?",
+    answer: "Their cameras, microphones and touchscreens can capture information through apps."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Mobile Phones",
+    question: "How do mobile phones help with time management?",
+    answer: "Calendar and scheduling apps help users organise meetings, tasks and deadlines."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Mobile Phones",
+    question: "What is a key advantage of using mobile phones for enterprise communication?",
+    answer: "Employees can communicate and access work information while away from the office."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Video Conferencing",
+    question: "What is video conferencing?",
+    answer: "A form of teleconferencing that allows people in different locations to see and hear one another in real time."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Video Conferencing",
+    question: "How does video conferencing work?",
+    answer: "It transmits live audio and video between participants over the internet."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Video Conferencing",
+    question: "How does video conferencing support file sharing?",
+    answer: "Participants can share documents and files through the conferencing platform."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Video Conferencing",
+    question: "How do mute controls support video conferencing?",
+    answer: "They allow participants to disable their microphones or cameras when needed."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Video Conferencing",
+    question: "How does chat support communication during video conferences?",
+    answer: "Participants can send text messages, links and information without interrupting the speaker."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Video Conferencing",
+    question: "What are breakout rooms in video conferencing?",
+    answer: "Private virtual spaces that divide meeting participants into smaller groups for discussions or tasks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Video Conferencing",
+    question: "How can filters be used in video conferencing?",
+    answer: "They can modify the camera background or appearance to provide privacy or display branding."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Video Conferencing",
+    question: "What is a major benefit of video conferencing for global enterprises?",
+    answer: "It enables face-to-face communication and collaboration without requiring participants to travel."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Other Online Collaboration Tools",
+    question: "How does email support online collaboration?",
+    answer: "It allows users to send messages, documents and updates that recipients can read and respond to later."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Other Online Collaboration Tools",
+    question: "What is instant messaging?",
+    answer: "A digital communication method that allows users to exchange messages quickly, usually in real time."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Other Online Collaboration Tools",
+    question: "How can social media support enterprise communication?",
+    answer: "It allows businesses to communicate with employees, clients and professional networks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Other Online Collaboration Tools",
+    question: "How do cloud-based platforms support collaboration?",
+    answer: "They allow users to access, share and sometimes edit files and information online from different locations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Other Online Collaboration Tools",
+    question: "What is the difference between synchronous and asynchronous communication?",
+    answer: "Synchronous communication occurs in real time, while asynchronous communication allows responses at different times."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Other Online Collaboration Tools",
+    question: "Which online collaboration tools are examples of synchronous communication?",
+    answer: "Live video conferences, phone calls and real-time instant messaging."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Other Online Collaboration Tools",
+    question: "Which online collaboration tools are examples of asynchronous communication?",
+    answer: "Email and shared documents that users can review or update at different times."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Benefits and Challenges",
+    question: "How does online collaboration improve productivity?",
+    answer: "It reduces communication delays, supports information sharing and allows teams to work together across locations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Benefits and Challenges",
+    question: "What challenges can arise when using online collaboration tools?",
+    answer: "Technical issues, internet connectivity problems, cybersecurity risks and communication misunderstandings."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Benefits and Challenges",
+    question: "Why is cybersecurity important when using online collaboration platforms?",
+    answer: "To protect confidential business information, shared files and communications from unauthorised access."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Online Collaboration",
+    subtopic: "Benefits and Challenges",
+    question: "How should an enterprise choose online collaboration tools?",
+    answer: "By considering its communication needs, workforce locations, security requirements, costs and available technology."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Basic Concepts",
+    question: "What are cloud computing services?",
+    answer: "Technology services delivered over the internet that provide flexible and accessible computing resources."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Basic Concepts",
+    question: "What are the three main types of cloud computing services?",
+    answer: "Infrastructure as a Service (IaaS), Software as a Service (SaaS) and Platform as a Service (PaaS)."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Basic Concepts",
+    question: "Why do enterprises use different cloud computing services?",
+    answer: "To meet different technical requirements and business goals, with varying levels of control, flexibility and management."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Infrastructure as a Service (IaaS)",
+    question: "What is Infrastructure as a Service (IaaS)?",
+    answer: "A cloud service that provides virtualised computing resources, such as servers and networking, over the internet."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Infrastructure as a Service (IaaS)",
+    question: "What resources can IaaS provide?",
+    answer: "Virtual servers, network connections, bandwidth, IP addresses and load balancers."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Infrastructure as a Service (IaaS)",
+    question: "When might an enterprise use IaaS?",
+    answer: "For temporary projects, experimentation or unexpected increases in workloads."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Infrastructure as a Service (IaaS)",
+    question: "What is a key benefit of IaaS?",
+    answer: "It allows enterprises to scale computing infrastructure without purchasing and maintaining all the physical hardware themselves."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Software as a Service (SaaS)",
+    question: "What is Software as a Service (SaaS)?",
+    answer: "Software applications delivered over the internet, often through a subscription."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Software as a Service (SaaS)",
+    question: "What types of applications can SaaS provide?",
+    answer: "Office software, communication tools and other business applications."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Software as a Service (SaaS)",
+    question: "Who typically uses SaaS?",
+    answer: "End-users who want to access and use software without managing its underlying infrastructure."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Software as a Service (SaaS)",
+    question: "What are the benefits of SaaS?",
+    answer: "It reduces the need to install, maintain and scale software, while allowing access through web browsers or mobile devices."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Platform as a Service (PaaS)",
+    question: "What is Platform as a Service (PaaS)?",
+    answer: "A cloud-based platform that allows developers to build, run and manage applications without managing the underlying infrastructure."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Platform as a Service (PaaS)",
+    question: "What tools can PaaS provide?",
+    answer: "Development tools, database management systems and business analytics services."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Platform as a Service (PaaS)",
+    question: "Who typically uses PaaS?",
+    answer: "Developers who want to create and deploy applications without configuring and maintaining servers, networks and storage."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Platform as a Service (PaaS)",
+    question: "What are the benefits of PaaS?",
+    answer: "It simplifies application development and supports faster development and deployment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Comparing Cloud Services",
+    question: "What is the main difference between IaaS, SaaS and PaaS?",
+    answer: "IaaS provides computing infrastructure, PaaS provides an application development platform, and SaaS provides ready-to-use software."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Comparing Cloud Services",
+    question: "Which cloud service is best suited to each task?",
+    answer: "IaaS for scalable infrastructure, PaaS for developing applications, and SaaS for using software over the internet."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Cloud Computing Services",
+    subtopic: "Comparing Cloud Services",
+    question: "Can an enterprise use multiple cloud service types?",
+    answer: "Yes. Enterprises can combine IaaS, PaaS and SaaS to meet different operational and technical needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Basic Concepts",
+    question: "What factors should an enterprise consider when choosing a data storage solution?",
+    answer: "Access requirements, control, security, cost, scalability and compliance needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Basic Concepts",
+    question: "What are the four main types of data storage environments?",
+    answer: "Public cloud, private cloud, hybrid cloud and non-cloud (on-premises) storage."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Public Cloud",
+    question: "What is public cloud storage?",
+    answer: "Storage provided over the internet that can be accessed from anywhere with an internet connection."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Public Cloud",
+    question: "What are the advantages of public cloud storage?",
+    answer: "It is generally cost-effective, scalable and accessible without requiring an enterprise to manage its own physical infrastructure."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Public Cloud",
+    question: "When is public cloud storage suitable?",
+    answer: "For businesses needing affordable, scalable storage without extensive customisation or strict security requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Private Cloud",
+    question: "What is private cloud storage?",
+    answer: "A cloud environment dedicated to a single enterprise, hosted on-premises or through a third-party provider."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Private Cloud",
+    question: "What are the advantages of private cloud storage?",
+    answer: "Greater control, customisation and security over the storage environment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Private Cloud",
+    question: "When is private cloud storage suitable?",
+    answer: "For organisations with strict data control, security or regulatory compliance requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Private Cloud",
+    question: "Who can access a private cloud?",
+    answer: "The enterprise and its authorised users."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Hybrid Cloud",
+    question: "What is hybrid cloud storage?",
+    answer: "A storage environment that combines public and private cloud services."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Hybrid Cloud",
+    question: "What is a key advantage of hybrid cloud storage?",
+    answer: "It balances the scalability of public cloud services with the control of private cloud services."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Hybrid Cloud",
+    question: "How can an enterprise use hybrid cloud storage?",
+    answer: "It can store non-sensitive data in the public cloud while keeping sensitive data in the private cloud."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Hybrid Cloud",
+    question: "Why might an enterprise choose hybrid cloud storage?",
+    answer: "To gain flexibility while managing security, cost and scalability requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Non-Cloud (On-Premises) Storage",
+    question: "What is non-cloud or on-premises storage?",
+    answer: "Data storage systems physically located within an organisation and usually accessed through its local network."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Non-Cloud (On-Premises) Storage",
+    question: "What are the advantages of on-premises storage?",
+    answer: "It provides direct control over data, hardware and IT infrastructure."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Non-Cloud (On-Premises) Storage",
+    question: "When is on-premises storage suitable?",
+    answer: "For enterprises requiring in-house data control or needing to meet regulations that restrict where data is stored."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Non-Cloud (On-Premises) Storage",
+    question: "What is a potential disadvantage of on-premises storage?",
+    answer: "The organisation must purchase, maintain and secure its own infrastructure, which can increase costs and limit scalability."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Comparing Storage Types",
+    question: "Which storage type is generally the most accessible over the internet?",
+    answer: "Public cloud storage."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Comparing Storage Types",
+    question: "Which storage type provides a dedicated cloud environment for one enterprise?",
+    answer: "Private cloud storage."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Comparing Storage Types",
+    question: "Which storage type combines public cloud scalability with private cloud control?",
+    answer: "Hybrid cloud storage."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Comparing Storage Types",
+    question: "Which storage type keeps infrastructure physically within the organisation?",
+    answer: "Non-cloud (on-premises) storage."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Comparing Storage Types",
+    question: "How do public and private cloud storage differ?",
+    answer: "Public cloud resources are provided for use by multiple customers, while a private cloud environment is dedicated to one enterprise."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Types of Cloud-Based Data Storage",
+    subtopic: "Comparing Storage Types",
+    question: "How do private cloud and on-premises storage differ?",
+    answer: "A private cloud is a dedicated cloud environment that may be hosted by a third party, while on-premises storage keeps the organisation’s physical storage infrastructure at its own premises."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Basic Concepts",
+    question: "What is a time/task action plan?",
+    answer: "A plan that organises tasks, deadlines and responsibilities to achieve project objectives within a set timeframe."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Basic Concepts",
+    question: "What information does a time/task action plan include?",
+    answer: "Project activities, deadlines, assigned team members and task progress."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Basic Concepts",
+    question: "How do time/task action plans help manage projects?",
+    answer: "They break projects into manageable tasks, improve organisation and help teams work efficiently."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Basic Concepts",
+    question: "What tool can help track project tasks and deadlines visually?",
+    answer: "A Gantt chart."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Resource Management",
+    question: "What is resource management in a time/task action plan?",
+    answer: "Allocating available resources effectively to complete project tasks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Resource Management",
+    question: "What resources must be managed in a project?",
+    answer: "Time, human resources and technology."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Resource Management",
+    question: "How do action plans improve resource allocation?",
+    answer: "By assigning tasks and deadlines to team members and making the best use of limited resources."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Resource Management",
+    question: "How do action plans help balance workloads?",
+    answer: "They distribute tasks among team members and help identify when workloads are uneven."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Resource Management",
+    question: "How can action plans reduce project delays?",
+    answer: "They identify scheduling conflicts early, allowing project managers to adjust tasks and timelines proactively."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Communication and Accountability",
+    question: "How do action plans improve communication?",
+    answer: "They provide a shared reference showing project tasks, deadlines and responsibilities."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Communication and Accountability",
+    question: "What is accountability in project management?",
+    answer: "Ensuring team members are responsible for completing their assigned tasks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Communication and Accountability",
+    question: "How do action plans promote accountability?",
+    answer: "They identify who is responsible for each task and when it must be completed."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Communication and Accountability",
+    question: "Why should action plans be reviewed and updated regularly?",
+    answer: "To reflect project progress, respond to changes and keep tasks and deadlines realistic."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Time / Task Action Plans",
+    subtopic: "Communication and Accountability",
+    question: "How do time/task action plans improve teamwork?",
+    answer: "They clarify responsibilities, coordinate activities and help team members work towards shared objectives."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Process Diaries",
+    subtopic: "Basic Concepts",
+    question: "What are process diaries and logbooks?",
+    answer: "Records used to document a project's progress, ideas, decisions and development process."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Process Diaries",
+    subtopic: "Basic Concepts",
+    question: "Who uses process diaries and logbooks?",
+    answer: "Project managers and team members."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Process Diaries",
+    subtopic: "Basic Concepts",
+    question: "What is the main purpose of a process diary?",
+    answer: "To record the development process, track progress and help ensure the project stays on schedule."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Process Diaries",
+    subtopic: "Basic Concepts",
+    question: "What information can be recorded in a process diary?",
+    answer: "Ideas, thoughts, decisions, findings, progress and changes made during development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Process Diaries",
+    subtopic: "Benefits of Process Diaries",
+    question: "How do process diaries help with project management?",
+    answer: "They track progress, record findings and help identify whether the project is meeting its schedule."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Process Diaries",
+    subtopic: "Benefits of Process Diaries",
+    question: "How do process diaries help justify design decisions?",
+    answer: "They provide a record of why particular ideas, methods or design choices were selected."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Process Diaries",
+    subtopic: "Benefits of Process Diaries",
+    question: "Why are process diaries useful to other people?",
+    answer: "They help others understand how the project developed and the reasoning behind decisions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Process Diaries",
+    subtopic: "Benefits of Process Diaries",
+    question: "How do process diaries support reflection?",
+    answer: "They allow team members to review their thoughts, decisions, challenges and progress throughout development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Process Diaries",
+    subtopic: "Recording Creative Thinking",
+    question: "What creative thinking techniques can be documented in a process diary?",
+    answer: "Brainstorming sessions, sketches, mind maps and other diagrams."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Process Diaries",
+    subtopic: "Recording Creative Thinking",
+    question: "How does a process diary tell the story of a project?",
+    answer: "It records the stages of development in sequence, showing how ideas evolve into the final solution."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Basic Concepts",
+    question: "What is a project budget?",
+    answer: "A financial plan outlining the expected costs of a project from start to finish."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Basic Concepts",
+    question: "Why is a budget important for a project?",
+    answer: "It helps ensure financial feasibility and that the project can be completed within available funds."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Financial Planning",
+    question: "When should a project budget be established?",
+    answer: "At the beginning of the project."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Financial Planning",
+    question: "How does a budget help prevent overspending?",
+    answer: "It sets spending limits and guides how funds are allocated."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Financial Planning",
+    question: "What costs should be included in a project budget?",
+    answer: "Labour, outsourcing, technology, training, consumables and unexpected expenses."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Financial Planning",
+    question: "What are human or worker labour costs?",
+    answer: "Payments for the people working on the project."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Financial Planning",
+    question: "Why should outsourcing costs be included in a budget?",
+    answer: "To account for payments to external companies or freelancers completing project tasks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Financial Planning",
+    question: "What technology costs may be included in a budget?",
+    answer: "Hardware, software and communications technology."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Financial Planning",
+    question: "Why should training costs be included in a budget?",
+    answer: "To cover the cost of preparing users and participants to use the new system or solution."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Financial Planning",
+    question: "What are consumable resources?",
+    answer: "Materials or supplies used up during project development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Financial Planning",
+    question: "Why should a budget include an allowance for unforeseen expenses?",
+    answer: "To provide funds for unexpected costs that arise during the project."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Monitoring Expenses",
+    question: "What is budget monitoring?",
+    answer: "Comparing actual project spending against the planned budget."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Monitoring Expenses",
+    question: "Why should a project budget be reviewed regularly?",
+    answer: "To identify cost changes early and prevent overspending."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Monitoring Expenses",
+    question: "What can project managers do if expenses exceed expectations?",
+    answer: "Adjust spending, reallocate resources or revise the project plan."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Budget",
+    subtopic: "Monitoring Expenses",
+    question: "How does budget monitoring help keep a project on track?",
+    answer: "It ensures spending remains controlled and the project adapts to changing financial needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Basic Concepts",
+    question: "What is a system flowchart?",
+    answer: "A diagram that uses standard symbols to represent a system's processes, components and data flow."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of a system flowchart?",
+    answer: "To show how data moves between components and how a system operates."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Basic Concepts",
+    question: "Why are standard symbols used in system flowcharts?",
+    answer: "They make system processes easier to understand and communicate consistently."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Basic Concepts",
+    question: "Why should system flowchart symbols be annotated?",
+    answer: "To explain what each symbol represents in the specific system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Collecting Data",
+    question: "What does collecting represent in a system flowchart?",
+    answer: "The process of obtaining data as input into a system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Collecting Data",
+    question: "What are two ways data can be collected?",
+    answer: "Online input from users and manual input from participants."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Displaying Data",
+    question: "What does displaying represent in a system flowchart?",
+    answer: "Presenting information to users."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Displaying Data",
+    question: "What are two ways a system can display data?",
+    answer: "Through a paper document, such as a receipt or report, or on a monitor."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Displaying Data",
+    question: "What is an example of displaying data on paper?",
+    answer: "Printing a receipt or report."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Storing Data",
+    question: "What does storing represent in a system flowchart?",
+    answer: "Saving data so it can be accessed or retrieved later."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Storing Data",
+    question: "What is direct access storage?",
+    answer: "Storage that allows data to be accessed directly, such as data stored on a local or networked server."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Storing Data",
+    question: "What is magnetic tape used for?",
+    answer: "Backing up data to provide an additional copy for recovery."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Storing Data",
+    question: "How can cloud storage be accessed?",
+    answer: "Through the internet."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Storing Data",
+    question: "What are three storage options that may appear in a system flowchart?",
+    answer: "Direct access storage, magnetic tape and cloud storage."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Applying System Flowcharts",
+    question: "How can system flowcharts represent collecting, displaying and storing?",
+    answer: "They use appropriate symbols to show where data enters the system, how information is presented and where data is saved."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to System Flowcharts",
+    subtopic: "Applying System Flowcharts",
+    question: "How can a system flowchart help someone understand a system?",
+    answer: "It provides a visual overview of the system's components, processes and movement of data."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Basic Concepts",
+    question: "What is a Data Flow Diagram (DFD)?",
+    answer: "A diagram that represents how data moves through an information system and is transformed into information."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Basic Concepts",
+    question: "Why are DFDs used during systems development?",
+    answer: "To visualise and understand the movement, processing and storage of data within a system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 0 Data Flow Diagrams",
+    question: "What is a Level 0 DFD?",
+    answer: "A high-level overview of an entire information system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 0 Data Flow Diagrams",
+    question: "How many processes are shown in a Level 0 DFD?",
+    answer: "One process, represented by a circle, which represents the entire system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 0 Data Flow Diagrams",
+    question: "What is the purpose of a Level 0 DFD?",
+    answer: "To show the system's expected inputs and outputs and how it interacts with external entities."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 0 Data Flow Diagrams",
+    question: "What are external entities in a DFD?",
+    answer: "People, organisations or other systems that provide data to, or receive data from, the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 1 Data Flow Diagrams",
+    question: "What is a Level 1 DFD?",
+    answer: "A more detailed diagram that breaks the overall system into its individual processes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 1 Data Flow Diagrams",
+    question: "How does a Level 1 DFD differ from a Level 0 DFD?",
+    answer: "Level 0 shows the entire system as one process, while Level 1 shows multiple individual processes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 1 Data Flow Diagrams",
+    question: "How are processes represented in a DFD?",
+    answer: "As circles."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 1 Data Flow Diagrams",
+    question: "What is a data store in a DFD?",
+    answer: "A location where data is stored and can later be retrieved, such as a database."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 1 Data Flow Diagrams",
+    question: "How is a data store represented in a DFD?",
+    answer: "As a three-sided rectangle."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 1 Data Flow Diagrams",
+    question: "What do data flow lines represent in a DFD?",
+    answer: "The movement of data between processes, external entities and data stores."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 1 Data Flow Diagrams",
+    question: "Why must data flow lines be labelled?",
+    answer: "To identify the data or information being transferred."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Comparing DFD Levels",
+    question: "What is the main difference between Level 0 and Level 1 DFDs?",
+    answer: "Level 0 provides a simple overview of the entire system, while Level 1 shows its individual processes and data stores."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Comparing DFD Levels",
+    question: "When would a Level 1 DFD be more useful than a Level 0 DFD?",
+    answer: "When analysing how specific processes operate and how data moves between processes and storage locations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Basic Concepts",
+    question: "What is a Level 0 Data Flow Diagram (DFD)?",
+    answer: "A high-level diagram showing the entire information system as a single process."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Basic Concepts",
+    question: "What is another name for a Level 0 DFD?",
+    answer: "A context diagram."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Basic Concepts",
+    question: "What is the main purpose of a Level 0 DFD?",
+    answer: "To show how a system interacts with external entities through expected data inputs and outputs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Symbols and Structure",
+    question: "How is the main system process represented in a Level 0 DFD?",
+    answer: "As a single circle representing the entire system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Symbols and Structure",
+    question: "How should the main process be labelled?",
+    answer: "With a name describing its purpose, usually followed by “System”."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Symbols and Structure",
+    question: "What are external entities in a Level 0 DFD?",
+    answer: "People, data sources or other systems that interact with the information system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Symbols and Structure",
+    question: "Where are external entities placed in a Level 0 DFD?",
+    answer: "Outside the main system process, around the system boundary."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Symbols and Structure",
+    question: "What do data flow arrows represent?",
+    answer: "The movement of data between the system and external entities."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Principles of a Level 0 DFD",
+    question: "What does a Level 0 DFD represent about a system?",
+    answer: "Its overall context, including its interactions with external entities."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Principles of a Level 0 DFD",
+    question: "What types of data flow are shown in a Level 0 DFD?",
+    answer: "Data entering the system and information leaving the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Principles of a Level 0 DFD",
+    question: "Why must data flow lines be labelled?",
+    answer: "To identify the specific data or information being transferred."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Principles of a Level 0 DFD",
+    question: "How does a Level 0 DFD help developers?",
+    answer: "It clarifies what data the system receives, how it interacts with external entities and what information it returns."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Principles of a Level 0 DFD",
+    question: "Does a Level 0 DFD show the individual internal processes of a system?",
+    answer: "No. It represents the entire system as one process; individual processes are shown in more detailed DFDs, such as Level 1."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Applying Level 0 DFDs",
+    question: "How could a Level 0 DFD represent a library system?",
+    answer: "It could show a library system process receiving book search requests from members and returning search results."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 0 Overview",
+    subtopic: "Applying Level 0 DFDs",
+    question: "What should a developer identify when creating a Level 0 DFD?",
+    answer: "The main system process, external entities, incoming and outgoing data flows, and clear labels for each flow."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Basic Concepts",
+    question: "What is a Level 1 Data Flow Diagram (DFD)?",
+    answer: "A detailed diagram that breaks an information system into its individual processes and shows how data moves between them."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Basic Concepts",
+    question: "How does a Level 1 DFD relate to a Level 0 DFD?",
+    answer: "It expands the single system process in a Level 0 DFD into smaller subprocesses."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Basic Concepts",
+    question: "What is the main purpose of a Level 1 DFD?",
+    answer: "To show how processes interact and transform data into information within a system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Symbols and Structure",
+    question: "How are processes represented in a Level 1 DFD?",
+    answer: "As individual circles, with each circle representing a specific process."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Symbols and Structure",
+    question: "What is a data store in a Level 1 DFD?",
+    answer: "A location where data is stored and can be retrieved, such as a database."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Symbols and Structure",
+    question: "How is a data store represented in a Level 1 DFD?",
+    answer: "As a three-sided rectangle."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Symbols and Structure",
+    question: "What do data flow lines represent in a Level 1 DFD?",
+    answer: "The movement of data between processes, data stores and other system components."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Symbols and Structure",
+    question: "Why must data flow lines be labelled?",
+    answer: "To identify the data being transferred between processes and storage locations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Principles of a Level 1 DFD",
+    question: "What happens when a Level 0 process is broken down in a Level 1 DFD?",
+    answer: "The overall system is divided into smaller, more specific subprocesses."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Principles of a Level 1 DFD",
+    question: "How does a Level 1 DFD show the journey of data?",
+    answer: "It traces data as it moves through processes and between data stores, showing how information is produced."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Principles of a Level 1 DFD",
+    question: "Why are data stores included in a Level 1 DFD?",
+    answer: "To show where data is saved, retrieved, used or updated."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Principles of a Level 1 DFD",
+    question: "How can data stores support future processing?",
+    answer: "They retain records that can be accessed, updated or processed later."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Principles of a Level 1 DFD",
+    question: "What do data flows between processes and data stores demonstrate?",
+    answer: "How data moves through the system and how it is transformed during processing."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Comparing DFD Levels",
+    question: "What is the main difference between Level 0 and Level 1 DFDs?",
+    answer: "Level 0 shows the entire system as one process, while Level 1 shows multiple processes and data stores in greater detail."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Data Flow Diagrams (DFD): Level 1 Overview",
+    subtopic: "Comparing DFD Levels",
+    question: "When should a developer use a Level 1 DFD?",
+    answer: "When they need to understand or document the internal processes, data storage and movement of data within a system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Basic Concepts",
+    question: "What is a decision tree?",
+    answer: "A visual diagram that shows decisions, conditions and the possible outcomes or actions in a system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of a decision tree?",
+    answer: "To represent decision-making logic and show how different conditions lead to specific outcomes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Basic Concepts",
+    question: "What does each branch in a decision tree represent?",
+    answer: "A possible outcome or pathway based on a decision or condition."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Basic Concepts",
+    question: "What types of conditions can decision trees use?",
+    answer: "True/false conditions or value-based criteria."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Uses and Benefits",
+    question: "How do decision trees help project teams?",
+    answer: "They visually compare options, possible outcomes and the pathways leading to them."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Uses and Benefits",
+    question: "Why are decision trees useful for systems with multiple variables?",
+    answer: "They organise complex conditions and show how combinations of variables affect decisions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Uses and Benefits",
+    question: "When are decision trees particularly useful?",
+    answer: "When a system must make decisions based on multiple conditions or uncertain situations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Uses and Benefits",
+    question: "How do decision trees help analyse consequences?",
+    answer: "They show the possible actions and outcomes resulting from each decision pathway."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Applying Decision Trees",
+    question: "How can a decision tree represent a true/false condition?",
+    answer: "It branches into different pathways depending on whether the condition is true or false."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Applying Decision Trees",
+    question: "How can a decision tree be used in a software system?",
+    answer: "It can determine which action to perform based on user input or system conditions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Applying Decision Trees",
+    question: "What is an example of a decision tree in an online shop?",
+    answer: "If an item is in stock, allow the purchase; otherwise, display an out-of-stock message."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Applying Decision Trees",
+    question: "What is the main benefit of representing decisions visually?",
+    answer: "It makes decision logic easier to understand, analyse and communicate."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Basic Concepts",
+    question: "What are computational, design and systems thinking?",
+    answer: "Thinking approaches used to solve problems, develop efficient processes and understand user needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Basic Concepts",
+    question: "Why are different thinking skills used during project development?",
+    answer: "To create effective, innovative solutions and address different types of challenges."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Computational Thinking",
+    question: "What is computational thinking?",
+    answer: "A problem-solving approach that breaks complex problems into smaller parts and develops logical, step-by-step solutions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Computational Thinking",
+    question: "What is decomposition in computational thinking?",
+    answer: "Breaking a complex problem into smaller, manageable parts."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Computational Thinking",
+    question: "What is pattern recognition in computational thinking?",
+    answer: "Identifying similarities or recurring patterns that can help solve a problem."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Computational Thinking",
+    question: "What is an algorithm?",
+    answer: "A logical, step-by-step set of instructions for completing a task or solving a problem."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Computational Thinking",
+    question: "What is the purpose of computational thinking?",
+    answer: "To develop logical and efficient solutions that can be followed by a computer or person."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Design Thinking",
+    question: "What is design thinking?",
+    answer: "A human-centred problem-solving approach that uses empathy, creativity and iterative testing to develop solutions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Design Thinking",
+    question: "What is the role of empathy in design thinking?",
+    answer: "To understand users' needs, experiences and problems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Design Thinking",
+    question: "Why is creativity important in design thinking?",
+    answer: "It helps generate innovative ideas and possible solutions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Design Thinking",
+    question: "What is iterative testing in design thinking?",
+    answer: "Repeatedly testing and improving a solution based on feedback and results."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Design Thinking",
+    question: "What is the main purpose of design thinking?",
+    answer: "To create effective solutions that meet user needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Systems Thinking",
+    question: "What is systems thinking?",
+    answer: "An approach that examines how components of a larger system interact and affect one another."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Systems Thinking",
+    question: "What does a holistic understanding of a system mean?",
+    answer: "Understanding the system as a whole rather than examining each component in isolation."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Systems Thinking",
+    question: "How does systems thinking help solve problems?",
+    answer: "It identifies relationships between components and considers how changes in one part affect the entire system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Comparing Thinking Skills",
+    question: "What is the main difference between computational and design thinking?",
+    answer: "Computational thinking focuses on logical problem-solving and algorithms, while design thinking focuses on user needs, creativity and testing."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Comparing Thinking Skills",
+    question: "What is the main difference between design and systems thinking?",
+    answer: "Design thinking focuses on developing user-centred solutions, while systems thinking focuses on relationships between components and the system as a whole."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Computational, Design & Systems Thinking Skills",
+    subtopic: "Comparing Thinking Skills",
+    question: "How can all three thinking approaches work together in a project?",
+    answer: "Design thinking identifies user needs, computational thinking develops logical solutions, and systems thinking considers how the solution affects the wider system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "Basic Concepts",
+    question: "Why are collaboration and management criteria important in a project?",
+    answer: "They guide teamwork, define responsibilities, manage resources and help achieve project goals efficiently."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "Basic Concepts",
+    question: "What factors should be considered when choosing project criteria?",
+    answer: "The project's size, complexity, requirements and available resources."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "Basic Concepts",
+    question: "How do effective collaboration criteria benefit a project?",
+    answer: "They encourage stakeholder involvement, idea sharing and innovative, user-centred solutions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "System Design and Informatics",
+    question: "Why should a system be designed for ease of operation and maintenance?",
+    answer: "To reduce training, troubleshooting and update requirements over the system's lifetime."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "System Design and Informatics",
+    question: "What does clarifying informatics within a new system involve?",
+    answer: "Defining how data is structured, processed, stored and shared."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "System Design and Informatics",
+    question: "Why is it important to clarify informatics within a system?",
+    answer: "It supports accurate decision-making, consistent data handling and efficient system operation."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "System Design and Informatics",
+    question: "Why should the roles of participants, data and system components be defined?",
+    answer: "To clarify responsibilities and interactions, streamline processes and avoid confusion."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "User and Client Requirements",
+    question: "What does negotiating user and client needs and wants involve?",
+    answer: "Balancing user expectations with system capabilities, available resources and enterprise objectives."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "User and Client Requirements",
+    question: "Why is it important to distinguish between user needs and wants?",
+    answer: "Needs are essential requirements, while wants are desirable features that may be optional."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "User and Client Requirements",
+    question: "How does negotiating requirements improve a project?",
+    answer: "It helps establish realistic expectations and ensures the solution meets the most important requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "Collaboration and Project Management",
+    question: "What does working collaboratively involve?",
+    answer: "Sharing ideas, communicating openly and working towards common project goals."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "Collaboration and Project Management",
+    question: "How does collaboration encourage innovation?",
+    answer: "It combines different perspectives, skills and expertise to develop better solutions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "Collaboration and Project Management",
+    question: "What are examples of project management criteria?",
+    answer: "Task allocation, timeline tracking, resource management and communication protocols."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "Collaboration and Project Management",
+    question: "How does task allocation improve project management?",
+    answer: "It assigns responsibilities clearly so team members understand what they must complete."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "Collaboration and Project Management",
+    question: "Why is timeline tracking important?",
+    answer: "It monitors progress against deadlines and helps identify potential delays."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "Collaboration and Project Management",
+    question: "How does resource management support a project?",
+    answer: "It ensures available time, people, technology and other resources are used effectively."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "Collaboration and Project Management",
+    question: "Why are communication protocols important?",
+    answer: "They establish how information is shared, helping prevent misunderstandings and keep stakeholders informed."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Key Collaboration & Managing Criteria",
+    subtopic: "Collaboration and Project Management",
+    question: "How can effective collaboration and management reduce project risks?",
+    answer: "Clear responsibilities, communication, planning and resource allocation help identify problems early and keep the project on track."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Producing & Implementing",
+    subtopic: "Basic Concepts",
+    question: "When does the Producing and Implementing stage occur?",
+    answer: "After the best solution has been selected during Researching and Planning, based on feasibility and requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Producing & Implementing",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of the Producing and Implementing stage?",
+    answer: "To develop the chosen solution, assess it and deploy it into the intended enterprise environment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Producing & Implementing",
+    subtopic: "Basic Concepts",
+    question: "What is producing in an enterprise computing project?",
+    answer: "Creating, coding or constructing system components according to design specifications."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Producing & Implementing",
+    subtopic: "Basic Concepts",
+    question: "What is implementing in an enterprise computing project?",
+    answer: "Deploying and integrating a developed system into its intended environment so it operates effectively and meets user requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Producing & Implementing",
+    subtopic: "Basic Concepts",
+    question: "What is the difference between producing and implementing?",
+    answer: "Producing involves building the system, while implementing involves installing, deploying and integrating it into the enterprise."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Producing & Implementing",
+    subtopic: "Key Steps in the Producing and Implementing Stage",
+    question: "How are tools used during producing and implementing?",
+    answer: "They help identify and understand the requirements and limitations of an enterprise system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Producing & Implementing",
+    subtopic: "Key Steps in the Producing and Implementing Stage",
+    question: "Why must a suitable development approach be selected?",
+    answer: "To ensure the system can be developed, modified and implemented effectively."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Producing & Implementing",
+    subtopic: "Key Steps in the Producing and Implementing Stage",
+    question: "What is an implementation plan?",
+    answer: "A plan outlining the steps, resources, responsibilities and schedule required to deploy a system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Producing & Implementing",
+    subtopic: "Key Steps in the Producing and Implementing Stage",
+    question: "Why should an implementation plan be tested for feasibility?",
+    answer: "To determine whether implementation is achievable within the available time, budget, resources and technical constraints."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Producing & Implementing",
+    subtopic: "Key Steps in the Producing and Implementing Stage",
+    question: "What are the three key activities in the Producing and Implementing stage?",
+    answer: "Applying tools to identify requirements and limitations, selecting suitable development approaches, and developing and assessing the feasibility of an implementation plan."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Basic Concepts",
+    question: "What are system requirements?",
+    answer: "The needs, functions and conditions a system must satisfy to support organisational goals."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Basic Concepts",
+    question: "What are system limitations?",
+    answer: "Constraints that restrict a system's performance, scope or feasibility, such as technical, financial, scheduling or operational issues."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Basic Concepts",
+    question: "Why is it important to identify system requirements and limitations?",
+    answer: "To ensure the system meets real-world needs and can be developed within existing constraints."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Interviews",
+    question: "What is an interview as a requirements-gathering tool?",
+    answer: "Directly asking people questions to understand their needs and experiences."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Interviews",
+    question: "How do interviews help identify system requirements?",
+    answer: "They allow clarification of business processes, problems and desired outcomes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Interviews",
+    question: "What limitations can interviews reveal?",
+    answer: "Hidden workflow problems, communication difficulties and cultural barriers."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Surveys",
+    question: "What is a survey as a requirements-gathering tool?",
+    answer: "A questionnaire used to collect feedback from a large group of users."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Surveys",
+    question: "How do surveys help identify system requirements?",
+    answer: "They reveal common user needs, preferences and frustrations using broad, often quantifiable feedback."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Surveys",
+    question: "What limitations can surveys uncover?",
+    answer: "Resource shortages, user concerns and system performance problems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Analytical Reports",
+    question: "What is an analytical report?",
+    answer: "A report that uses historical data, system usage or performance metrics to identify patterns and problems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Analytical Reports",
+    question: "How do analytical reports help identify system requirements?",
+    answer: "They provide evidence about performance, efficiency and scalability needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Analytical Reports",
+    question: "What limitations can analytical reports reveal?",
+    answer: "Bottlenecks, inefficiencies, system failures and technical constraints."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Prototypes",
+    question: "What is a prototype?",
+    answer: "An early model of a system that stakeholders can interact with and evaluate."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Prototypes",
+    question: "How do prototypes help identify system requirements?",
+    answer: "They allow stakeholders to validate features and identify missing functionality or usability issues."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Prototypes",
+    question: "What limitations can prototypes reveal?",
+    answer: "Design problems, usability issues and technical incompatibilities."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Presentation of Results",
+    question: "What is the purpose of presenting requirements-gathering results?",
+    answer: "To communicate findings and support decisions about system requirements and limitations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Presentation of Results",
+    question: "How can presentations help justify system requirements?",
+    answer: "They use evidence from feasibility studies, research and industry trends to explain why features are needed."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Presentation of Results",
+    question: "How do presentations help stakeholders?",
+    answer: "They improve understanding and help stakeholders prioritise important features and constraints."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Comparing Tools",
+    question: "Which tool is best for gathering detailed individual feedback?",
+    answer: "Interviews."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Comparing Tools",
+    question: "Which tool is useful for collecting quantifiable feedback from many users?",
+    answer: "Surveys."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Comparing Tools",
+    question: "Which tool identifies performance problems using existing data?",
+    answer: "Analytical reports."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Comparing Tools",
+    question: "Which tool allows stakeholders to test an early model of a system?",
+    answer: "Prototypes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Tools to Inform the Requirements & Limitations of an Enterprise System",
+    subtopic: "Comparing Tools",
+    question: "Which tool communicates findings and helps prioritise requirements?",
+    answer: "Presentation of results."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Basic Concepts",
+    question: "What is an interview in requirements gathering?",
+    answer: "A structured conversation with stakeholders to understand their needs, expectations and experiences with existing systems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Basic Concepts",
+    question: "Who may be interviewed when developing an enterprise system?",
+    answer: "End-users, managers and IT staff."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Basic Concepts",
+    question: "What type of data do interviews primarily collect?",
+    answer: "Qualitative data describing people's experiences, opinions and needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Basic Concepts",
+    question: "How do interviews support system development?",
+    answer: "They reveal user requirements, workflow problems and technical or non-technical challenges."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Interview Skills and Techniques",
+    question: "What are open questions?",
+    answer: "Questions that encourage detailed answers based on a person's experiences and opinions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Interview Skills and Techniques",
+    question: "What is the purpose of open questions?",
+    answer: "To gain deeper insights into user needs, experiences and problems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Interview Skills and Techniques",
+    question: "What are closed questions?",
+    answer: "Questions that require short, specific answers, such as yes or no."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Interview Skills and Techniques",
+    question: "When are closed questions useful?",
+    answer: "When confirming specific facts or checking whether a requirement has been met."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Interview Skills and Techniques",
+    question: "What are probing questions?",
+    answer: "Follow-up questions that explore or clarify information previously provided."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Interview Skills and Techniques",
+    question: "Why are probing questions useful?",
+    answer: "They uncover further details, clarify responses and reveal underlying issues."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Interview Skills and Techniques",
+    question: "Why is positive body language important during an interview?",
+    answer: "Friendly eye contact, posture and behaviour help interviewees feel comfortable sharing information."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Interview Skills and Techniques",
+    question: "What is active listening?",
+    answer: "Carefully concentrating on what a speaker says and responding appropriately, such as summarising or paraphrasing their points."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Interview Skills and Techniques",
+    question: "How does active listening improve interviews?",
+    answer: "It helps confirm understanding, build trust and reduce misunderstandings."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Identifying Requirements and Limitations",
+    question: "How do interviews help identify system requirements?",
+    answer: "They reveal users' tasks, goals, expectations and preferred features or integrations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Identifying Requirements and Limitations",
+    question: "What functional and non-functional requirements can interviews identify?",
+    answer: "Functional requirements describe what the system must do; non-functional requirements include performance, security and usability needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Identifying Requirements and Limitations",
+    question: "How do interviews reveal system limitations?",
+    answer: "Stakeholders can explain operational constraints, technical barriers and organisational challenges."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Identifying Requirements and Limitations",
+    question: "What process problems can interviews uncover?",
+    answer: "Inefficient workflows, unnecessary steps and difficulties using existing systems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Interviews",
+    subtopic: "Identifying Requirements and Limitations",
+    question: "Why should developers interview different stakeholder groups?",
+    answer: "Different groups have different responsibilities and perspectives, providing a more complete understanding of system requirements and limitations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Basic Concepts",
+    question: "What is a survey?",
+    answer: "A structured questionnaire distributed to a group of people to collect information."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Basic Concepts",
+    question: "What information can surveys collect?",
+    answer: "User needs, behaviours, satisfaction levels and system usage patterns."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Basic Concepts",
+    question: "How do surveys help a project team?",
+    answer: "They identify common trends and help prioritise system features based on user feedback."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Survey Tools & Techniques",
+    question: "What are text boxes used for in surveys?",
+    answer: "Allow users to enter short or long written responses."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Survey Tools & Techniques",
+    question: "What are radio buttons used for?",
+    answer: "Allow users to select only one option from a list."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Survey Tools & Techniques",
+    question: "What are check boxes used for?",
+    answer: "Allow users to select multiple options."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Survey Tools & Techniques",
+    question: "What are dropdown menus used for?",
+    answer: "Provide a compact list of options for users to select from."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Survey Tools & Techniques",
+    question: "What are date pickers used for?",
+    answer: "Allow users to select a date using an interactive calendar."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Survey Tools & Techniques",
+    question: "What is the purpose of file uploads in surveys?",
+    answer: "Allow users to attach supporting files, such as documents or images."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Survey Tools & Techniques",
+    question: "What are buttons used for in surveys?",
+    answer: "Perform actions, such as submitting responses or clearing entered information."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Informing Requirements & Limitations",
+    question: "How do surveys help identify system requirements?",
+    answer: "They collect a wide range of user perspectives to identify desired features and preferences."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Informing Requirements & Limitations",
+    question: "Why should surveys include multiple-choice and open-ended questions?",
+    answer: "Multiple-choice questions reveal common patterns, while open-ended questions provide detailed feedback."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Informing Requirements & Limitations",
+    question: "How can surveys improve data accuracy?",
+    answer: "Input validation tools, such as input masks, range checks and data type checks, help ensure valid data entry."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Informing Requirements & Limitations",
+    question: "How do surveys reveal system limitations?",
+    answer: "They identify common frustrations, barriers and problems users experience with current systems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Informing Requirements & Limitations",
+    question: "Why can anonymous surveys encourage honest feedback?",
+    answer: "Participants may feel more comfortable sharing criticism or concerns without revealing their identity."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Surveys",
+    subtopic: "Informing Requirements & Limitations",
+    question: "How can surveys reveal issues that interviews may miss?",
+    answer: "Anonymity can encourage participants to report problems they might hesitate to discuss in a formal interview."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Basic Concepts",
+    question: "What is an analytical report?",
+    answer: "A report that evaluates existing data to provide evidence-based insights into how a system operates."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Basic Concepts",
+    question: "What data sources can analytical reports use?",
+    answer: "System logs, performance metrics, usage statistics and financial reports."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Basic Concepts",
+    question: "How do analytical reports support decision-making?",
+    answer: "They identify trends, inefficiencies and user behaviours to guide system development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Basic Concepts",
+    question: "Why are analytical reports useful when developing an enterprise system?",
+    answer: "They help developers understand the current system's operations and technical performance using actual data."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Analytical Report Tools",
+    question: "What are dashboards used for?",
+    answer: "Display key metrics and visualisations in one place, often in real time."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Analytical Report Tools",
+    question: "What are tables used for in analytical reports?",
+    answer: "Organise structured data for easy comparison."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Analytical Report Tools",
+    question: "What are charts and graphs used for?",
+    answer: "Visually represent data trends, patterns and relationships."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Analytical Report Tools",
+    question: "What are pivot tables used for?",
+    answer: "Group, filter and summarise large datasets."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Analytical Report Tools",
+    question: "What are infographics?",
+    answer: "Visual presentations that combine text and graphics to communicate information or tell a story."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Analytical Report Tools",
+    question: "What is conditional formatting?",
+    answer: "A feature that highlights data when it meets specified rules or conditions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Analytical Report Tools",
+    question: "What are spreadsheet functions?",
+    answer: "Built-in formulas that perform calculations or process data."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Informing Requirements & Limitations",
+    question: "How do analytical reports help identify system requirements?",
+    answer: "They provide objective, data-driven insights into user needs and required system performance."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Informing Requirements & Limitations",
+    question: "How can usage statistics influence feature prioritisation?",
+    answer: "Frequently used functions may be prioritised when designing the new system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Informing Requirements & Limitations",
+    question: "How do analytical reports help identify system limitations?",
+    answer: "They reveal performance bottlenecks, high error rates and frequent user complaints."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Informing Requirements & Limitations",
+    question: "How can analytical reports help establish realistic project boundaries?",
+    answer: "They provide evidence for planning improvements and considering technical, financial and legal constraints."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Analytical Reports",
+    subtopic: "Informing Requirements & Limitations",
+    question: "Why should system development be based on actual data metrics?",
+    answer: "It helps ensure decisions reflect real system performance and user behaviour rather than assumptions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Prototyping",
+    subtopic: "Basic Concepts",
+    question: "What is a prototype?",
+    answer: "An early model or simulation of a proposed system that demonstrates its design, functionality and user experience."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Prototyping",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of prototyping?",
+    answer: "To validate ideas, gather user feedback and test workflows before full-scale development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Prototyping",
+    subtopic: "Basic Concepts",
+    question: "How does prototyping support iterative development?",
+    answer: "Stakeholders test early versions and provide feedback that guides repeated improvements to the design."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Prototyping",
+    subtopic: "Informing Requirements",
+    question: "How do prototypes help define system requirements?",
+    answer: "They turn initial ideas into visual or functional models that users can evaluate."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Prototyping",
+    subtopic: "Informing Requirements",
+    question: "How can stakeholders use prototypes to improve a proposed system?",
+    answer: "They interact with the prototype to confirm required features or suggest improvements to usability and efficiency."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Prototyping",
+    subtopic: "Informing Requirements",
+    question: "Why is early user feedback important when prototyping?",
+    answer: "It ensures the interface, functionality and workflows align with client expectations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Prototyping",
+    subtopic: "Informing Requirements",
+    question: "How does prototyping improve system relevance and usability?",
+    answer: "It allows the project team to refine the system based on users' actual needs and feedback."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Prototyping",
+    subtopic: "Identifying Limitations",
+    question: "How do prototypes help identify system limitations?",
+    answer: "They expose problems that may not be obvious in planning documents or discussions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Prototyping",
+    subtopic: "Identifying Limitations",
+    question: "What technical limitations can prototyping reveal?",
+    answer: "Slow response times, compatibility problems and other technical challenges."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Prototyping",
+    subtopic: "Identifying Limitations",
+    question: "What user experience limitations can prototyping reveal?",
+    answer: "Confusing layouts, inconsistent interactions and difficult workflows."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Prototyping",
+    subtopic: "Identifying Limitations",
+    question: "What organisational limitations can prototyping identify?",
+    answer: "Employee resistance to major design changes and resource constraints."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Prototyping",
+    subtopic: "Identifying Limitations",
+    question: "How can prototyping reduce development costs and risks?",
+    answer: "Early testing and repeated improvements identify problems before full development, helping prevent costly errors."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Basic Concepts",
+    question: "What is the presentation of research results?",
+    answer: "The organised communication of findings from investigations, such as feasibility studies, market research, user analysis and system comparisons."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Basic Concepts",
+    question: "Who are research results typically presented to?",
+    answer: "Stakeholders involved in decision-making and system development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Basic Concepts",
+    question: "Why are research results presented to stakeholders?",
+    answer: "To inform decisions, validate ideas and justify decisions using collected evidence."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Basic Concepts",
+    question: "How do presentations support system design?",
+    answer: "They align the team's understanding of research findings and guide design decisions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Presentation Tools",
+    question: "What are slide layouts used for?",
+    answer: "Organise content using predefined placeholders for titles, text, tables and media."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Presentation Tools",
+    question: "What are charts and graphs used for in presentations?",
+    answer: "Visually communicate data trends and relationships."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Presentation Tools",
+    question: "What are infographics used for?",
+    answer: "Combine text and visual elements to communicate information or tell a story."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Presentation Tools",
+    question: "Why are tables included in presentations?",
+    answer: "To organise data and make comparisons easier."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Presentation Tools",
+    question: "What are diagrams and flowcharts used for?",
+    answer: "Visually explain system processes and data flows."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Presentation Tools",
+    question: "What are Gantt charts used for?",
+    answer: "Display project task timelines, progress, deadlines and resource allocations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Presentation Tools",
+    question: "How do images and icons support presentations?",
+    answer: "They establish tone, illustrate concepts and show diagrams or prototypes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Presentation Tools",
+    question: "What are videos and animations used for?",
+    answer: "Demonstrate system functionality and improve understanding."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Presentation Tools",
+    question: "What are interactive elements used for?",
+    answer: "Allow users to explore data or dashboards at their own discretion."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Presentation Tools",
+    question: "What is the purpose of speaker notes and annotations?",
+    answer: "Provide extra explanations, reminders and context for the presenter or audience."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Informing Requirements & Limitations",
+    question: "How do presentations help define system requirements?",
+    answer: "They summarise complex research into clear, actionable insights about what the system should achieve."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Informing Requirements & Limitations",
+    question: "How can research presentations help stakeholders understand user needs?",
+    answer: "They communicate findings about user expectations, needs and industry trends."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Informing Requirements & Limitations",
+    question: "How do presentations help identify system limitations?",
+    answer: "They highlight constraints discovered during research that may affect development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Presentation of Research Results",
+    subtopic: "Informing Requirements & Limitations",
+    question: "What limitations might research presentations reveal?",
+    answer: "Technical barriers, external constraints and consumer feedback that may affect system development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Basic Concepts",
+    question: "Why is selecting a system development approach important?",
+    answer: "It affects project efficiency, quality and overall success."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Basic Concepts",
+    question: "What are common system development approaches?",
+    answer: "Waterfall, Agile, Prototyping, End-User Development and Outsourcing."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Basic Concepts",
+    question: "Can different system development approaches be combined?",
+    answer: "Yes. Approaches can be combined to meet a project's specific needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Project Scope & Complexity",
+    question: "How does project scope and complexity affect the choice of approach?",
+    answer: "Large, complex projects may need structured planning, while evolving projects benefit from flexible development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Project Scope & Complexity",
+    question: "When is Waterfall most suitable?",
+    answer: "For large, structured projects with clear and stable requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Project Scope & Complexity",
+    question: "When is Agile most suitable?",
+    answer: "For projects with changing requirements that need frequent updates and improvements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Project Scope & Complexity",
+    question: "When is Prototyping most suitable?",
+    answer: "When early user feedback is needed to refine the interface, user experience and functionality."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Flexibility & Adaptability",
+    question: "Why is Agile suitable for projects requiring frequent changes?",
+    answer: "It supports incremental releases, continuous feedback and iterative improvements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Flexibility & Adaptability",
+    question: "What is a limitation of Waterfall regarding flexibility?",
+    answer: "Its fixed stages make changes difficult and potentially costly once development progresses."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Budget & Resource Availability",
+    question: "How does budget influence the choice of development approach?",
+    answer: "Approaches must fit the project's financial limits and available resources."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Budget & Resource Availability",
+    question: "What is a budget advantage of Waterfall?",
+    answer: "Its structured stages make costs more predictable when requirements remain stable."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Budget & Resource Availability",
+    question: "What is a potential cost disadvantage of Waterfall?",
+    answer: "Changes made later can be expensive because earlier stages may need to be revisited."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Budget & Resource Availability",
+    question: "What is a potential resource disadvantage of Agile?",
+    answer: "Frequent iterations and ongoing feedback can require significant time and resources."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Budget & Resource Availability",
+    question: "How can Outsourcing benefit a project financially and technically?",
+    answer: "It provides access to specialised skills that may be more cost-effective than developing those skills internally."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Team Structure & User Input",
+    question: "How does team expertise affect the choice of approach?",
+    answer: "The approach must match the team's skills and available technical knowledge."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Team Structure & User Input",
+    question: "Why are Agile and Prototyping suitable for user-driven applications?",
+    answer: "They prioritise user feedback to guide design and development decisions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Team Structure & User Input",
+    question: "When is Outsourcing most beneficial?",
+    answer: "When an organisation lacks the internal expertise or resources needed for development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Comparing Approaches",
+    question: "What is the main difference between Waterfall and Agile?",
+    answer: "Waterfall follows fixed, sequential stages, while Agile uses iterative development and adapts to changing requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Comparing Approaches",
+    question: "What is the main purpose of Prototyping?",
+    answer: "To create early models that users can evaluate before the final system is developed."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Comparing Approaches",
+    question: "What is the main purpose of Outsourcing?",
+    answer: "To have external specialists or organisations develop all or part of a system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Selecting a Project Management Approach",
+    subtopic: "Comparing Approaches",
+    question: "What factors should be considered when selecting a development approach?",
+    answer: "Project scope and complexity, flexibility, budget, resources, team expertise and user input."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Waterfall (Structured)",
+    subtopic: "Basic Concepts",
+    question: "What is the Waterfall model?",
+    answer: "A structured system development approach that follows four fixed stages in a specific sequence."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Waterfall (Structured)",
+    subtopic: "Basic Concepts",
+    question: "How does the Waterfall model work?",
+    answer: "Each stage is completed in order, with its findings and decisions passed to the next stage."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Waterfall (Structured)",
+    subtopic: "Basic Concepts",
+    question: "Why is Waterfall considered a structured approach?",
+    answer: "It uses predefined stages and sequential progression to guide system development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Waterfall (Structured)",
+    subtopic: "Waterfall Model Stages",
+    question: "What are the four stages of the Waterfall model?",
+    answer: "Identifying & Defining, Research & Planning, Producing & Implementing, and Testing & Evaluating."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Waterfall (Structured)",
+    subtopic: "Waterfall Model Stages",
+    question: "What happens during Identifying & Defining?",
+    answer: "The team investigates problems with the existing system and defines the requirements for the new system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Waterfall (Structured)",
+    subtopic: "Waterfall Model Stages",
+    question: "What happens during Research & Planning?",
+    answer: "The team gathers primary and secondary data, develops ideas, assesses feasibility and selects the best solution."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Waterfall (Structured)",
+    subtopic: "Waterfall Model Stages",
+    question: "What happens during Producing & Implementing?",
+    answer: "The team models and develops the system, implements its technology and data, and trains users."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Waterfall (Structured)",
+    subtopic: "Waterfall Model Stages",
+    question: "What happens during Testing & Evaluating?",
+    answer: "The team checks that the system works and meets its original requirements, then plans for long-term maintenance."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Waterfall (Structured)",
+    subtopic: "Applying the Waterfall Model",
+    question: "Why must Waterfall stages be completed in order?",
+    answer: "Each stage relies on the findings and decisions made during the previous stage."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Waterfall (Structured)",
+    subtopic: "Applying the Waterfall Model",
+    question: "What is the purpose of defining requirements early in Waterfall?",
+    answer: "To establish a clear foundation and guide subsequent research, planning and development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Waterfall (Structured)",
+    subtopic: "Applying the Waterfall Model",
+    question: "Why is feasibility assessed during Research & Planning?",
+    answer: "To determine whether potential solutions are practical and suitable before selecting one for development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Waterfall (Structured)",
+    subtopic: "Applying the Waterfall Model",
+    question: "What is the purpose of user training during implementation?",
+    answer: "To ensure users understand how to operate and use the new system correctly."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Waterfall (Structured)",
+    subtopic: "Applying the Waterfall Model",
+    question: "Why is long-term maintenance considered during Testing & Evaluating?",
+    answer: "To help keep the system functional and reliable after initial development is complete."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Prototyping",
+    subtopic: "Basic Concepts",
+    question: "What is the prototyping approach to system development?",
+    answer: "An approach where developers create a working model that is repeatedly modified throughout development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Prototyping",
+    subtopic: "Basic Concepts",
+    question: "What happens before a prototype is created?",
+    answer: "Developers establish the system's basic requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Prototyping",
+    subtopic: "Basic Concepts",
+    question: "Why might a prototype be created?",
+    answer: "To test new ideas, model an existing system, clarify requirements or experiment with alternative designs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Prototyping",
+    subtopic: "Basic Concepts",
+    question: "How can prototypes help developers assess alternative ideas?",
+    answer: "They allow developers to compare possible designs for efficiency and functionality."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Prototyping",
+    subtopic: "User Feedback & Iterative Development",
+    question: "What role do users play in prototyping?",
+    answer: "They trial the developing system and provide feedback on its functionality and design."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Prototyping",
+    subtopic: "User Feedback & Iterative Development",
+    question: "What happens after user feedback is collected?",
+    answer: "Developers modify the prototype to address user needs and improve the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Prototyping",
+    subtopic: "User Feedback & Iterative Development",
+    question: "What is the prototyping feedback cycle?",
+    answer: "User trial → feedback → prototype modification, repeated throughout development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Prototyping",
+    subtopic: "User Feedback & Iterative Development",
+    question: "Why is the prototyping cycle repeated multiple times?",
+    answer: "To continually refine the system until its design and functionality better meet user requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Prototyping",
+    subtopic: "Advantages & Suitability",
+    question: "When is the prototyping approach particularly beneficial?",
+    answer: "When user requirements are complex, unclear or not fully understood."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Prototyping",
+    subtopic: "Advantages & Suitability",
+    question: "How does prototyping support a user-centred approach?",
+    answer: "It involves users throughout development so their feedback influences design decisions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Prototyping",
+    subtopic: "Advantages & Suitability",
+    question: "How does prototyping help clarify system requirements?",
+    answer: "Users can interact with a working model, revealing needs and problems that may not be obvious initially."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Prototyping",
+    subtopic: "Advantages & Suitability",
+    question: "What is a key advantage of prototyping compared with Waterfall?",
+    answer: "Prototyping allows repeated feedback and design changes, while Waterfall follows fixed stages in sequence."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Outsourcing",
+    subtopic: "Basic Concepts",
+    question: "What is outsourcing in system development?",
+    answer: "Contracting an external individual or company to complete part of a project."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Outsourcing",
+    subtopic: "Basic Concepts",
+    question: "When is outsourcing used?",
+    answer: "When an external provider can complete a task more efficiently or the internal team lacks the required skills or resources."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Outsourcing",
+    subtopic: "Basic Concepts",
+    question: "What is the role of the project manager in outsourcing?",
+    answer: "To identify the need for external expertise and contract a suitable specialist or business."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Outsourcing",
+    subtopic: "Basic Concepts",
+    question: "What is an example of outsourcing in system development?",
+    answer: "Hiring a web design company to develop the website component of a new system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Outsourcing",
+    subtopic: "Advantages of Outsourcing",
+    question: "How can outsourcing save time?",
+    answer: "External specialists complete specific tasks while the internal team focuses on other parts of the project."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Outsourcing",
+    subtopic: "Advantages of Outsourcing",
+    question: "How can outsourcing improve access to technical resources?",
+    answer: "External providers may already have the required hardware, software and specialist skills."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Outsourcing",
+    subtopic: "Advantages of Outsourcing",
+    question: "How can outsourcing reduce development costs?",
+    answer: "It can avoid the expense of acquiring specialised equipment, software or skills internally."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Outsourcing",
+    subtopic: "Advantages of Outsourcing",
+    question: "Why can outsourcing be cost-effective?",
+    answer: "It can save both time and money by allowing specialists to complete tasks efficiently."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Outsourcing",
+    subtopic: "Applying Outsourcing",
+    question: "Why might a project team outsource a task instead of completing it internally?",
+    answer: "The external provider may have greater expertise, better resources or the ability to complete the task more efficiently."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Outsourcing",
+    subtopic: "Applying Outsourcing",
+    question: "What is a key benefit of outsourcing for the internal development team?",
+    answer: "Team members can concentrate on tasks that match their own skills and responsibilities."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "Basic Concepts",
+    question: "What is the end-user approach to system development?",
+    answer: "An approach where clients or intended users actively participate in developing a new system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "Basic Concepts",
+    question: "Who may form part of an end-user development team?",
+    answer: "End-users, project managers and people with technical or other relevant skills."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "Basic Concepts",
+    question: "What is the main characteristic of the end-user approach?",
+    answer: "End-users are directly involved in the system development process."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "Basic Concepts",
+    question: "Can the end-user approach be combined with other development approaches?",
+    answer: "Yes. It can be used alongside approaches such as Waterfall or Agile."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "Basic Concepts",
+    question: "What is the main goal of the end-user approach?",
+    answer: "To create user-centred systems that meet the specific needs and requirements of their users."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "End-User Contributions",
+    question: "How can end-users help define system requirements?",
+    answer: "By identifying their needs, expectations and required system features."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "End-User Contributions",
+    question: "How can end-users contribute feedback?",
+    answer: "By sharing opinions and suggesting improvements throughout development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "End-User Contributions",
+    question: "How can end-users contribute to customising and personalising designs?",
+    answer: "By helping adapt layouts, features and settings to suit their preferences."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "End-User Contributions",
+    question: "How can end-users contribute to testing and validation?",
+    answer: "By testing the system and checking whether it works correctly and meets their needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "End-User Contributions",
+    question: "How can end-users contribute to content creation?",
+    answer: "By developing or supplying information and other content for the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "End-User Contributions",
+    question: "How can end-users help identify best practices?",
+    answer: "By sharing their experience and identifying effective ways to use or operate the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "End-User Contributions",
+    question: "How can end-users contribute to training and support?",
+    answer: "By helping other users learn how to use the system and providing practical assistance."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "Advantages & Suitability",
+    question: "How does end-user involvement improve system usability?",
+    answer: "It allows design decisions to reflect users' actual needs, preferences and experiences."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: End User",
+    subtopic: "Advantages & Suitability",
+    question: "Why can the end-user approach reduce the risk of developing an unsuitable system?",
+    answer: "Users can identify missing features and problems early, helping ensure the final system meets their requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Basic Concepts",
+    question: "What is the Agile approach to system development?",
+    answer: "An iterative approach that prioritises teamwork, flexibility and collaboration over extensive formal documentation."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Basic Concepts",
+    question: "Why can Agile development be fast?",
+    answer: "It reduces reliance on extensive documentation and develops the system in smaller parts."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Basic Concepts",
+    question: "How does Agile support changing requirements?",
+    answer: "It allows ideas, designs and features to be adapted throughout development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Basic Concepts",
+    question: "What is the role of clients in Agile development?",
+    answer: "Clients collaborate closely with the development team and provide feedback to guide improvements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Sprints & Iterative Development",
+    question: "What is a sprint in Agile development?",
+    answer: "A specific timeframe in which a team completes a set of development tasks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Sprints & Iterative Development",
+    question: "How is a system developed using Agile?",
+    answer: "The system is built in smaller parts, with each part tested, evaluated and implemented as it is completed."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Sprints & Iterative Development",
+    question: "What happens when an Agile development part is completed?",
+    answer: "It is tested, evaluated and implemented, creating an updated version of the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Sprints & Iterative Development",
+    question: "How does Agile differ from Waterfall?",
+    answer: "Agile develops and improves the system incrementally, while Waterfall completes fixed stages sequentially."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Teamwork & Communication",
+    question: "What factors are essential for successful Agile development?",
+    answer: "Effective team management, organisation and communication."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Teamwork & Communication",
+    question: "How can Agile teams maintain effective communication?",
+    answer: "Through frequent scheduled meetings, either face-to-face or using video conferencing software."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Teamwork & Communication",
+    question: "Why is frequent communication important in Agile?",
+    answer: "It keeps team members and clients aligned, allowing issues and changing requirements to be addressed quickly."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Advantages & Limitations",
+    question: "What is a key advantage of Agile?",
+    answer: "Its flexibility allows frequent feedback, rapid updates and adaptation to changing requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Advantages & Limitations",
+    question: "What is a potential limitation of Agile?",
+    answer: "Frequent collaboration, testing and iterations can require significant time, resources and coordination."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Project Management Approach: Agile",
+    subtopic: "Advantages & Limitations",
+    question: "Why is organisation important when using Agile?",
+    answer: "Teams must manage sprint deadlines, coordinate tasks and communicate progress to deliver working system updates efficiently."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Basic Concepts",
+    question: "What is an implementation plan?",
+    answer: "A step-by-step plan for deploying a system and introducing it into an enterprise environment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Basic Concepts",
+    question: "What tasks may be included in an implementation plan?",
+    answer: "Finalising software, setting up infrastructure, training users and scheduling the system rollout."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Basic Concepts",
+    question: "Why is an implementation plan important?",
+    answer: "It supports a smooth transition from design to real-world use while minimising downtime and confusion."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Basic Concepts",
+    question: "What should a successful implementation plan achieve?",
+    answer: "Introduce the system smoothly, meet user needs and align with enterprise goals."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Testing Feasibility of an Implementation Plan",
+    question: "What does testing the feasibility of an implementation plan involve?",
+    answer: "Evaluating its practicality, costs and alignment with project goals."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Testing Feasibility of an Implementation Plan",
+    question: "Why is feedback important when testing an implementation plan?",
+    answer: "It helps refine the plan, identify overlooked issues and confirm successful integration is achievable."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Testing Feasibility of an Implementation Plan",
+    question: "How does design thinking help test implementation feasibility?",
+    answer: "It uses a user-centred approach and empathy to identify problems and improve implementation processes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Testing Feasibility of an Implementation Plan",
+    question: "How can thinking and design tools support implementation planning?",
+    answer: "Tools such as storyboards, Gantt charts and decision trees help visualise and organise project processes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Testing Feasibility of an Implementation Plan",
+    question: "What is the purpose of risk analysis in implementation planning?",
+    answer: "To identify potential obstacles, such as budget constraints and cybersecurity risks, and develop contingency plans."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Testing Feasibility of an Implementation Plan",
+    question: "Why is hardware and software integration testing important?",
+    answer: "It checks that system components work together correctly and identifies compatibility issues."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Testing Feasibility of an Implementation Plan",
+    question: "How does training contribute to implementation feasibility?",
+    answer: "It prepares users to operate the system and checks whether they can use it effectively."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Testing Feasibility of an Implementation Plan",
+    question: "How does the choice of implementation method affect feasibility?",
+    answer: "Parallel, phased, direct and pilot implementation methods have different time, cost and risk requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Testing Feasibility of an Implementation Plan",
+    question: "Why should the system be tested before or during implementation?",
+    answer: "To assess performance and confirm that it meets user and enterprise requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Implementation Planning",
+    question: "What factors should be considered when evaluating an implementation plan?",
+    answer: "Practicality, costs, risks, available resources, user training, compatibility, time and project goals."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Developing an Implementation Plan",
+    subtopic: "Implementation Planning",
+    question: "How can an implementation plan minimise disruption?",
+    answer: "By scheduling tasks carefully, preparing infrastructure, training users and selecting a suitable rollout method."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Basic Concepts",
+    question: "What is design thinking?",
+    answer: "A human-centred problem-solving approach that uses empathy, creativity and iterative testing to develop innovative solutions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Basic Concepts",
+    question: "What is the main purpose of design thinking?",
+    answer: "To understand and satisfy user needs by creating functional, engaging and user-friendly solutions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Basic Concepts",
+    question: "What are the key stages of the design thinking process?",
+    answer: "Empathising with users, defining problems, generating ideas, prototyping, testing and refining solutions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Empathy Supporting Research",
+    question: "What is the purpose of empathy in design thinking?",
+    answer: "To understand users' experiences, challenges, expectations and needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Empathy Supporting Research",
+    question: "What techniques can be used to understand users?",
+    answer: "Interviews, surveys, observations and research."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Empathy Supporting Research",
+    question: "What types of data can be collected during user research?",
+    answer: "Qualitative data about experiences and opinions, and quantitative data about measurable behaviours and patterns."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Empathy Supporting Research",
+    question: "Why is understanding users' situational context important?",
+    answer: "It helps designers understand the circumstances affecting users' needs and behaviours."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Defining User Problems",
+    question: "What is the purpose of defining the user problem?",
+    answer: "To clearly identify the issue that the proposed solution must address."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Defining User Problems",
+    question: "How can flowcharts and decision trees help define user problems?",
+    answer: "They visualise user interactions and processes, revealing pain points and opportunities for improvement."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Defining User Problems",
+    question: "Why is a well-defined problem statement important?",
+    answer: "It guides the design process and ensures solutions address specific user needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Generating Creative Ideas",
+    question: "What is the ideation phase?",
+    answer: "The stage where designers generate a range of possible solutions to a defined problem."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Generating Creative Ideas",
+    question: "What techniques can support ideation?",
+    answer: "Brainstorming and mind mapping."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Generating Creative Ideas",
+    question: "Why should teams generate multiple ideas before selecting a solution?",
+    answer: "To explore different possibilities and identify the solution that best meets the target audience's needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Prototyping, Testing & Feedback",
+    question: "What is prototyping in design thinking?",
+    answer: "Creating a working model of a potential solution to explore and test its design and functionality."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Prototyping, Testing & Feedback",
+    question: "What aspects of a system can prototypes test?",
+    answer: "Designs, layouts, interactive elements and overall user experience."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Prototyping, Testing & Feedback",
+    question: "Who can test prototypes and provide feedback?",
+    answer: "Users and stakeholders."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Prototyping, Testing & Feedback",
+    question: "Why is user feedback important during prototyping?",
+    answer: "It reveals problems and identifies improvements needed to better meet user requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Prototyping, Testing & Feedback",
+    question: "What is iterative testing and refinement?",
+    answer: "Repeatedly testing a solution, collecting feedback and making improvements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Applying Design Thinking",
+    subtopic: "Prototyping, Testing & Feedback",
+    question: "How does design thinking help produce better solutions?",
+    answer: "It continuously incorporates user insights and testing to improve usability and ensure the solution addresses the original problem."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Gantt Charts",
+    subtopic: "Basic Concepts",
+    question: "What is a Gantt chart?",
+    answer: "A planning tool used to schedule tasks involved in developing an information system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Gantt Charts",
+    subtopic: "Basic Concepts",
+    question: "When is a Gantt chart created?",
+    answer: "Before system development begins."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Gantt Charts",
+    subtopic: "Basic Concepts",
+    question: "What is the main purpose of a Gantt chart?",
+    answer: "To organise tasks, set deadlines and monitor whether a project is progressing according to schedule."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Gantt Charts",
+    subtopic: "Basic Concepts",
+    question: "How do Gantt charts manage deadlines?",
+    answer: "They assign timeframes and deadlines to individual tasks and subprojects."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Gantt Charts",
+    subtopic: "Basic Concepts",
+    question: "Can tasks in a Gantt chart occur simultaneously?",
+    answer: "Yes. Different team members can work on separate tasks during the same time period."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Gantt Charts",
+    subtopic: "Basic Concepts",
+    question: "How do Gantt charts help project managers?",
+    answer: "They help coordinate team members, track progress and identify scheduling issues."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Storyboards",
+    subtopic: "Basic Concepts",
+    question: "What is a storyboard?",
+    answer: "A graphical tool used to illustrate systems with multiple interfaces and show how users navigate between them."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Storyboards",
+    subtopic: "Basic Concepts",
+    question: "What information does a storyboard display?",
+    answer: "The layout of different interfaces and the navigation tools connecting them."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Storyboards",
+    subtopic: "Basic Concepts",
+    question: "What are the four main storyboard layouts?",
+    answer: "Linear, hierarchical, non-linear and combination."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Storyboards",
+    subtopic: "Storyboard Layouts",
+    question: "What is a linear storyboard layout?",
+    answer: "Frames are arranged sequentially, one after another, to show a specific order of events or actions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Storyboards",
+    subtopic: "Storyboard Layouts",
+    question: "When is a linear storyboard layout useful?",
+    answer: "When showing a sequence of scenes, such as in a movie."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Storyboards",
+    subtopic: "Storyboard Layouts",
+    question: "What is a hierarchical storyboard layout?",
+    answer: "A top-down structure where an initial interface branches into other interfaces and subpages."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Storyboards",
+    subtopic: "Storyboard Layouts",
+    question: "When is a hierarchical storyboard layout useful?",
+    answer: "When mapping website navigation from the homepage to other pages and subpages."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Storyboards",
+    subtopic: "Storyboard Layouts",
+    question: "What is a non-linear storyboard layout?",
+    answer: "A flexible layout that allows interfaces and navigation paths to be arranged without a fixed structure."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Storyboards",
+    subtopic: "Storyboard Layouts",
+    question: "What is a combination storyboard layout?",
+    answer: "A layout that combines linear, hierarchical and non-linear structures in different parts of the design."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Storyboards",
+    subtopic: "Applying Storyboards",
+    question: "How do storyboards help during system development?",
+    answer: "They help developers plan interface layouts and understand how users move between different parts of a system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Storyboards",
+    subtopic: "Applying Storyboards",
+    question: "Why is choosing an appropriate storyboard layout important?",
+    answer: "It ensures the system's structure and navigation are clearly represented for its intended purpose."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Basic Concepts",
+    question: "What is risk analysis?",
+    answer: "The process of identifying, evaluating and managing potential threats that could affect a project's success."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Basic Concepts",
+    question: "Why is risk analysis important during implementation planning?",
+    answer: "It helps teams prepare for potential problems before they occur."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Basic Concepts",
+    question: "What types of risks can affect a system rollout?",
+    answer: "Technical, financial, operational and security-related risks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Basic Concepts",
+    question: "How does risk analysis support successful implementation?",
+    answer: "It helps teams develop strategies, allocate resources effectively and maintain stakeholder confidence."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Risk Analysis Tools & Techniques",
+    question: "What is a feasibility study?",
+    answer: "An assessment of whether a project is practical and achievable."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Risk Analysis Tools & Techniques",
+    question: "What types of feasibility are assessed in a feasibility study?",
+    answer: "Economic, technical, organisational and schedule feasibility."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Risk Analysis Tools & Techniques",
+    question: "What is a SWOT analysis?",
+    answer: "A tool that identifies a project's or system's Strengths, Weaknesses, Opportunities and Threats."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Risk Analysis Tools & Techniques",
+    question: "What is a risk matrix?",
+    answer: "A tool that rates risks according to their likelihood and impact to help prioritise responses."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Risk Analysis Tools & Techniques",
+    question: "What are checklists used for in risk analysis?",
+    answer: "To systematically identify common risks and ensure important areas are considered."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Risk Analysis Tools & Techniques",
+    question: "What is historical analysis?",
+    answer: "Reviewing previous or similar projects to learn from past risks and problems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Risk Analysis Tools & Techniques",
+    question: "What is expert consultation?",
+    answer: "Seeking advice from IT specialists or stakeholders to identify potential issues."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Risk Analysis Tools & Techniques",
+    question: "What is contingency planning?",
+    answer: "Developing alternative actions or backup plans to manage critical risks if they occur."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Applying Risk Analysis",
+    question: "How does a risk matrix help project managers prioritise risks?",
+    answer: "It highlights risks with high likelihood and serious consequences so they can be addressed first."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Applying Risk Analysis",
+    question: "How can historical analysis reduce implementation risks?",
+    answer: "It helps teams avoid repeating past mistakes and apply lessons learned from previous projects."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Risk Analysis",
+    subtopic: "Applying Risk Analysis",
+    question: "Why should contingency plans be developed before implementation?",
+    answer: "They allow the team to respond quickly to problems and reduce disruption if risks occur."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Basic Concepts",
+    question: "What is a feasibility study?",
+    answer: "An assessment of whether a proposed project is practical and worth undertaking based on its associated risks and constraints."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Basic Concepts",
+    question: "What are the four areas of feasibility?",
+    answer: "Economic, Technical, Operational and Schedule feasibility."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Basic Concepts",
+    question: "Why are feasibility studies conducted on multiple project ideas?",
+    answer: "To compare potential solutions and identify which are practical and achievable."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Basic Concepts",
+    question: "How does a feasibility study help a project manager make decisions?",
+    answer: "It determines whether a project is worth pursuing or whether its costs and constraints make it unfeasible."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Economic Feasibility",
+    question: "What is economic feasibility?",
+    answer: "Assessing a project's budget, costs and how money will be spent."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Economic Feasibility",
+    question: "What costs may affect economic feasibility?",
+    answer: "Hardware and software purchases, staff training and delays that extend project costs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Economic Feasibility",
+    question: "How does economic feasibility overlap with other feasibility areas?",
+    answer: "Technical upgrades, operational training and schedule delays can all create additional financial costs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Technical Feasibility",
+    question: "What is technical feasibility?",
+    answer: "Assessing whether the required hardware and software are available and suitable for the proposed system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Technical Feasibility",
+    question: "What does a technical feasibility assessment examine?",
+    answer: "Whether existing technology can support the system and whether purchasing new technology is practical."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Technical Feasibility",
+    question: "Why should hardware and software purchases be justified?",
+    answer: "To ensure that new technology is necessary and suitable for the proposed system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Operational Feasibility",
+    question: "What is operational feasibility?",
+    answer: "Assessing whether users can operate the new system effectively and efficiently."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Operational Feasibility",
+    question: "What factors are considered in operational feasibility?",
+    answer: "Employees' technical skills, training requirements and the availability of training materials."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Operational Feasibility",
+    question: "What are examples of operational training materials?",
+    answer: "Operations manuals, user guides and training resources."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Operational Feasibility",
+    question: "Why is operational feasibility important?",
+    answer: "It helps ensure users can adopt and use the new system successfully."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Schedule Feasibility",
+    question: "What is schedule feasibility?",
+    answer: "Assessing whether the system can be developed within the available timeframe."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Schedule Feasibility",
+    question: "Why is schedule feasibility important?",
+    answer: "Delays can increase costs and disrupt an organisation's operations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Schedule Feasibility",
+    question: "What can happen if a project exceeds its deadline?",
+    answer: "It may create additional financial costs and organisational disruption."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Comparing Feasibility Areas",
+    question: "What is the main difference between economic and technical feasibility?",
+    answer: "Economic feasibility examines costs and budgets, while technical feasibility examines the suitability and availability of hardware and software."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Comparing Feasibility Areas",
+    question: "What is the main difference between technical and operational feasibility?",
+    answer: "Technical feasibility assesses whether the technology can support the system, while operational feasibility assesses whether people can use it effectively."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Feasibility Study",
+    subtopic: "Comparing Feasibility Areas",
+    question: "What is the main difference between economic and schedule feasibility?",
+    answer: "Economic feasibility examines financial practicality, while schedule feasibility examines whether the project can be completed on time."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Managing Cyber Risk Using a Matrix",
+    subtopic: "Purpose of a Cyber Risk Matrix",
+    question: "What is a cyber risk matrix?",
+    answer: "A tool used to categorise, assess and manage cybersecurity risks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Managing Cyber Risk Using a Matrix",
+    subtopic: "Purpose of a Cyber Risk Matrix",
+    question: "Why do enterprises use a cyber risk matrix?",
+    answer: "To systematically evaluate and prioritise cybersecurity risks and protective measures."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Managing Cyber Risk Using a Matrix",
+    subtopic: "Purpose of a Cyber Risk Matrix",
+    question: "Why is prioritising cyber risks important for enterprises?",
+    answer: "Resources are finite, so enterprises must focus on the risks that require the most attention."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Managing Cyber Risk Using a Matrix",
+    subtopic: "Assessing Cyber Risks",
+    question: "What dimensions should be considered when assessing cyber risks?",
+    answer: "Internal and external vulnerabilities, the threat landscape, the impact of exposure and the likelihood of exploitation."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Managing Cyber Risk Using a Matrix",
+    subtopic: "Assessing Cyber Risks",
+    question: "What are internal vulnerabilities?",
+    answer: "Weaknesses within an enterprise, such as poor access controls or inadequate staff training."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Managing Cyber Risk Using a Matrix",
+    subtopic: "Assessing Cyber Risks",
+    question: "What are external vulnerabilities or threats?",
+    answer: "Weaknesses or threats originating outside the enterprise, such as exposed systems or cybercriminal attacks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Managing Cyber Risk Using a Matrix",
+    subtopic: "Assessing Cyber Risks",
+    question: "What is the impact of cyber risk exposure?",
+    answer: "The potential consequences of a cyber incident, such as data loss, financial damage or service disruption."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Managing Cyber Risk Using a Matrix",
+    subtopic: "Assessing Cyber Risks",
+    question: "What is the likelihood of exploitation?",
+    answer: "The probability that a vulnerability will be exploited by a threat."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Managing Cyber Risk Using a Matrix",
+    subtopic: "Managing and Prioritising Risks",
+    question: "How does a cyber risk matrix help enterprises allocate resources?",
+    answer: "It identifies which risks need the greatest attention so resources can be directed towards the most significant threats."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Managing Cyber Risk Using a Matrix",
+    subtopic: "Managing and Prioritising Risks",
+    question: "How can enterprises use a cyber risk matrix to improve cybersecurity?",
+    answer: "By identifying and prioritising risks, then implementing appropriate protective measures to reduce their likelihood or impact."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Basic Concepts",
+    question: "What is hardware and software integration?",
+    answer: "Ensuring physical devices and digital applications work together to deliver the intended system functionality."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Basic Concepts",
+    question: "Why is successful hardware and software integration important?",
+    answer: "It reduces technical failures, improves system performance and supports a smooth transition from development to deployment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Basic Concepts",
+    question: "What does aligning infrastructure with software requirements achieve?",
+    answer: "It ensures the enterprise system can operate effectively in real-world environments."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Hardware Integration",
+    question: "What is hardware integration?",
+    answer: "Ensuring the physical infrastructure supports the requirements of the enterprise system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Hardware Integration",
+    question: "What hardware components should be assessed during integration?",
+    answer: "Servers, networks, devices, storage systems and backup systems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Hardware Integration",
+    question: "Why must devices be checked for compatibility?",
+    answer: "To ensure devices such as tablets, printers and terminals work correctly with the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Hardware Integration",
+    question: "Why should device connectivity and interoperability be tested?",
+    answer: "To confirm that hardware components can connect and exchange information correctly."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Hardware Integration",
+    question: "Why must environmental requirements be considered?",
+    answer: "Hardware needs suitable power, cooling and physical space to operate reliably."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Hardware Integration",
+    question: "Why should hardware components be tested early?",
+    answer: "To identify configuration issues before they cause system failures."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Software Integration",
+    question: "What is software integration?",
+    answer: "Ensuring programs, platforms and services interact correctly within an enterprise system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Software Integration",
+    question: "What software installation and configuration tasks are required?",
+    answer: "Installing and configuring the operating system and application software."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Software Integration",
+    question: "Why must API connections and data synchronisation be tested?",
+    answer: "To ensure systems exchange and update data securely and accurately."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Software Integration",
+    question: "Why must compatibility with legacy systems be checked?",
+    answer: "To ensure the new system can work with existing software and infrastructure."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Software Integration",
+    question: "Why must software licensing, updates and security patches be addressed?",
+    answer: "To maintain legal compliance, software reliability and security."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Software Integration",
+    question: "What is the purpose of system testing during software integration?",
+    answer: "To verify that the integrated system functions correctly and meets performance requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Hardware & Software Integration",
+    subtopic: "Comparing Hardware and Software Integration",
+    question: "What is the main difference between hardware and software integration?",
+    answer: "Hardware integration focuses on physical devices and infrastructure, while software integration focuses on programs, platforms and data exchange."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Purpose of Training",
+    question: "Why is training important when implementing a new enterprise system?",
+    answer: "It helps users become confident and competent in operating the new system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Purpose of Training",
+    question: "How does effective training benefit an enterprise?",
+    answer: "It reduces resistance to change, increases system adoption and minimises user errors."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Purpose of Training",
+    question: "What should users gain from training?",
+    answer: "An understanding of system functions, new workflows and opportunities to ask questions in a supportive environment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Purpose of Training",
+    question: "How does well-planned training contribute to system success?",
+    answer: "It prepares users to operate the system effectively and adapt to new processes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Training Techniques and Practices",
+    question: "What are workshops and seminars?",
+    answer: "Individual or group sessions where users practise real-world tasks using the new system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Training Techniques and Practices",
+    question: "What is operation documentation?",
+    answer: "Printed or digital guides that provide visual, step-by-step instructions for using a system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Training Techniques and Practices",
+    question: "What is interactive eLearning?",
+    answer: "Self-paced online training that may include tutorials, activities and quizzes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Training Techniques and Practices",
+    question: "What are video demonstrations?",
+    answer: "Visual guides showing users how to complete specific processes using the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Training Techniques and Practices",
+    question: "What is the train-the-trainer approach?",
+    answer: "Selected staff receive in-depth training and then train or support other employees."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Training Techniques and Practices",
+    question: "What is on-the-job training?",
+    answer: "Learning to use a system in a real working environment with support available."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Training Techniques and Practices",
+    question: "Why are helpdesks and support channels important during implementation?",
+    answer: "They provide assistance when users encounter problems, particularly during early system use."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Training Techniques and Practices",
+    question: "How do feedback collection tools improve training?",
+    answer: "Surveys and forms identify knowledge gaps and help improve future training sessions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Choosing Effective Training",
+    question: "Why should enterprises use different training methods?",
+    answer: "Different methods support different learning needs and help users understand and practise system tasks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Training",
+    subtopic: "Choosing Effective Training",
+    question: "How can an enterprise determine whether training is effective?",
+    answer: "By collecting feedback, identifying knowledge gaps and assessing users' ability to perform system tasks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Basic Concepts",
+    question: "What are system implementation conversion methods?",
+    answer: "Methods used to transition an organisation from an old system to a new system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Basic Concepts",
+    question: "What are the four main system conversion methods?",
+    answer: "Direct, parallel, phased and pilot conversion."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Basic Concepts",
+    question: "What must happen after a new system is converted?",
+    answer: "Users must be trained to operate the system efficiently to support successful implementation and client satisfaction."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Direct Conversion",
+    question: "What is direct conversion?",
+    answer: "The new system is implemented immediately in full, completely replacing the old system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Direct Conversion",
+    question: "What is the main advantage of direct conversion?",
+    answer: "It allows the organisation to switch to the new system quickly, without maintaining two systems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Direct Conversion",
+    question: "What is the main disadvantage of direct conversion?",
+    answer: "If the new system fails, the old system is unavailable as a backup, creating significant operational risk."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Parallel Conversion",
+    question: "What is parallel conversion?",
+    answer: "The old and new systems operate side-by-side for a period of time."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Parallel Conversion",
+    question: "What is the main advantage of parallel conversion?",
+    answer: "The old system remains available as a backup if problems occur with the new system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Parallel Conversion",
+    question: "What is the main disadvantage of parallel conversion?",
+    answer: "Operating both systems requires additional time, resources and costs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Phased Conversion",
+    question: "What is phased conversion?",
+    answer: "The new system is introduced gradually in sections at designated intervals until it is fully implemented."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Phased Conversion",
+    question: "What is the main advantage of phased conversion?",
+    answer: "It reduces implementation risk by allowing each section to be introduced and checked gradually."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Phased Conversion",
+    question: "What is the main disadvantage of phased conversion?",
+    answer: "Implementation takes longer, and different system sections may need to operate together during the transition."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Pilot Conversion",
+    question: "What is pilot conversion?",
+    answer: "The complete new system is trialled in one part of an organisation while other parts continue using the old system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Pilot Conversion",
+    question: "What happens after a successful pilot conversion?",
+    answer: "The new system is rolled out to the remaining areas of the organisation."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Pilot Conversion",
+    question: "What is the main advantage of pilot conversion?",
+    answer: "Problems can be identified and resolved in a limited area before organisation-wide implementation."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Pilot Conversion",
+    question: "What is the main disadvantage of pilot conversion?",
+    answer: "Full implementation is delayed, and the pilot area may experience disruption if problems occur."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Comparing Conversion Methods",
+    question: "Which conversion method replaces the old system immediately?",
+    answer: "Direct conversion."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Comparing Conversion Methods",
+    question: "Which conversion method keeps both systems running simultaneously?",
+    answer: "Parallel conversion."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Comparing Conversion Methods",
+    question: "Which conversion method introduces the new system in stages?",
+    answer: "Phased conversion."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "System Implementation Methods",
+    subtopic: "Comparing Conversion Methods",
+    question: "Which conversion method tests the new system in one area before wider rollout?",
+    answer: "Pilot conversion."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Basic Concepts",
+    question: "What is system testing?",
+    answer: "Checking that a system functions correctly and delivers the expected results according to requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Basic Concepts",
+    question: "What is test data?",
+    answer: "Data entered into a system to check its responses, identify errors and verify functionality."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Basic Concepts",
+    question: "Why should different types of test data be used?",
+    answer: "To determine whether the system handles expected and unexpected inputs correctly."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Simulated Data and Live Data",
+    question: "What is simulated data?",
+    answer: "Artificially created data used to imitate real-world data or identify system errors."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Simulated Data and Live Data",
+    question: "What is live data?",
+    answer: "Real data entered into a system to test its performance under real-world conditions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Simulated Data and Live Data",
+    question: "What is the main difference between simulated data and live data?",
+    answer: "Simulated data is artificially created, while live data comes from real-world sources."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Beta Testing",
+    question: "What is beta testing?",
+    answer: "Testing a pre-release version of a system with a selected group of users."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Beta Testing",
+    question: "What is the purpose of beta testing?",
+    answer: "To identify problems and collect user feedback before the system is released fully."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Volume Testing",
+    question: "What is volume testing?",
+    answer: "Assessing how much data or how many simultaneous users a system can handle."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Volume Testing",
+    question: "Why is volume testing important?",
+    answer: "It helps determine whether the system can cope with expected workloads without performance problems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Functional Testing",
+    question: "What is functional testing?",
+    answer: "Checking whether a system performs the required functions according to its design specifications."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Functional Testing",
+    question: "What does functional testing assess?",
+    answer: "Whether the system meets its specified requirements and behaves as expected."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Acceptance Testing",
+    question: "What is acceptance testing?",
+    answer: "Testing performed by end-users to determine whether a system meets their needs and expectations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Acceptance Testing",
+    question: "What is the purpose of acceptance testing?",
+    answer: "To confirm that the system is suitable for its intended users and collect feedback before acceptance."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Comparing Testing Methods",
+    question: "Which testing method uses artificially created data?",
+    answer: "Simulated data testing."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Comparing Testing Methods",
+    question: "Which testing method uses real-world data?",
+    answer: "Live data testing."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Comparing Testing Methods",
+    question: "Which testing method involves selected users evaluating a pre-release system?",
+    answer: "Beta testing."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Comparing Testing Methods",
+    question: "Which testing method checks the system's capacity for data and simultaneous users?",
+    answer: "Volume testing."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Comparing Testing Methods",
+    question: "Which testing method checks that the system performs its specified functions?",
+    answer: "Functional testing."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Methodologies for Testing a System",
+    subtopic: "Comparing Testing Methods",
+    question: "Which testing method determines whether the system meets end-user needs?",
+    answer: "Acceptance testing."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of the testing and evaluating stage?",
+    answer: "To ensure the developed system works correctly, meets its original requirements and achieves its intended goals."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Basic Concepts",
+    question: "What is testing?",
+    answer: "Checking that a system functions as intended, meets requirements and is ready for deployment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Basic Concepts",
+    question: "What does system testing involve?",
+    answer: "Identifying and fixing errors, checking hardware and software compatibility, and verifying usability and reliability."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Basic Concepts",
+    question: "What is evaluating a system?",
+    answer: "Assessing how effectively a system meets user needs, achieves project goals and addresses the original problem."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Basic Concepts",
+    question: "What is the difference between testing and evaluating?",
+    answer: "Testing checks whether the system works correctly, while evaluation assesses its overall effectiveness and success."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Basic Concepts",
+    question: "Why is user feedback important during evaluation?",
+    answer: "It helps determine whether the system meets user needs and identifies areas for improvement."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Verifying and Validating a System",
+    question: "What is the purpose of verifying and validating an enterprise computing system?",
+    answer: "To confirm that the system meets its specifications and fulfils its intended purpose."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Verifying and Validating a System",
+    question: "Why should test data be evaluated?",
+    answer: "To identify errors, check system responses and determine whether requirements are met."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Verifying and Validating a System",
+    question: "Why should operation and maintenance documentation be trialled?",
+    answer: "To ensure instructions are accurate, understandable and useful for operating and maintaining the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Verifying and Validating a System",
+    question: "Why should the impact of system implementation be reviewed?",
+    answer: "To identify how the system affects users, workflows and the environments in which it operates."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Verifying and Validating a System",
+    question: "Why might system designs need to be modified after testing?",
+    answer: "To fix problems and improve functionality, usability, reliability or performance."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Ongoing Maintenance and Improvement",
+    question: "Why must an enterprise system be tested and evaluated after development?",
+    answer: "To confirm it continues to function effectively and meets changing user and organisational needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Ongoing Maintenance and Improvement",
+    question: "Why are long-term maintenance strategies important?",
+    answer: "They help keep the system functional, secure, reliable and efficient after development is complete."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Ongoing Maintenance and Improvement",
+    question: "How can testing and evaluation improve an enterprise system?",
+    answer: "By identifying weaknesses, collecting feedback and guiding modifications and ongoing maintenance."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Introduction to Testing & Evaluating",
+    subtopic: "Ongoing Maintenance and Improvement",
+    question: "What are the main activities involved in testing and evaluating an enterprise computing system?",
+    answer: "Evaluating test data, trialling documentation, reviewing implementation impacts, modifying designs and maintaining the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Verify & Validate an Enterprise Computing System",
+    subtopic: "Verification and Validation",
+    question: "What is verification?",
+    answer: "Checking that a system has been developed according to its specified design and technical requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Verify & Validate an Enterprise Computing System",
+    subtopic: "Verification and Validation",
+    question: "What activities are involved in verification?",
+    answer: "Reviewing code, checking technical specifications and confirming outputs match expected results."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Verify & Validate an Enterprise Computing System",
+    subtopic: "Verification and Validation",
+    question: "What is validation?",
+    answer: "Assessing whether a completed system fulfils its intended purpose, meets user needs and solves the identified problem."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Verify & Validate an Enterprise Computing System",
+    subtopic: "Verification and Validation",
+    question: "What is the difference between verification and validation?",
+    answer: "Verification checks whether the system was built correctly according to specifications, while validation checks whether it meets user needs and solves the intended problem."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Verify & Validate an Enterprise Computing System",
+    subtopic: "Verification and Validation",
+    question: "Why are verification and validation important?",
+    answer: "They reduce the risk of system failure and increase stakeholder confidence before full implementation."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Verify & Validate an Enterprise Computing System",
+    subtopic: "Processes for Verifying and Validating",
+    question: "What is involved in evaluating test data?",
+    answer: "Examining outputs from test scenarios, identifying errors and addressing problems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Verify & Validate an Enterprise Computing System",
+    subtopic: "Processes for Verifying and Validating",
+    question: "Why should operational and maintenance documentation be trialled?",
+    answer: "To ensure instructions are clear, accurate and effective for users and maintenance staff."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Verify & Validate an Enterprise Computing System",
+    subtopic: "Processes for Verifying and Validating",
+    question: "What is involved in reviewing system implementation?",
+    answer: "Assessing how effectively the system operates within the specific enterprise environment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Verify & Validate an Enterprise Computing System",
+    subtopic: "Processes for Verifying and Validating",
+    question: "Why might an enterprise system's design need to be modified?",
+    answer: "To improve functionality and user experience based on test results and user feedback."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Verify & Validate an Enterprise Computing System",
+    subtopic: "Processes for Verifying and Validating",
+    question: "What is involved in testing, evaluating and maintaining an enterprise system?",
+    answer: "Finalising development, confirming the system is ready for deployment and establishing long-term support."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Verify & Validate an Enterprise Computing System",
+    subtopic: "Applying Verification and Validation",
+    question: "How can test data help improve an enterprise system?",
+    answer: "It reveals errors and weaknesses that can be corrected before deployment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Verify & Validate an Enterprise Computing System",
+    subtopic: "Applying Verification and Validation",
+    question: "How does user feedback contribute to validation?",
+    answer: "It helps determine whether the system meets user expectations and solves the original problem."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Verify & Validate an Enterprise Computing System",
+    subtopic: "Applying Verification and Validation",
+    question: "How do verification and validation prepare a system for deployment?",
+    answer: "They confirm that technical requirements are met, the system fulfils its purpose and necessary improvements have been made."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Evaluate Test Data",
+    subtopic: "Purpose of Evaluating Test Data",
+    question: "What is evaluating test data?",
+    answer: "Examining system outputs from test scenarios to determine whether the system works accurately and meets its functional requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Evaluate Test Data",
+    subtopic: "Purpose of Evaluating Test Data",
+    question: "Why is evaluating test data important?",
+    answer: "It identifies errors and confirms that the system performs reliably before full implementation."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Evaluate Test Data",
+    subtopic: "Purpose of Evaluating Test Data",
+    question: "What should evaluating test data confirm?",
+    answer: "That the system processes valid inputs correctly, rejects invalid entries and handles unexpected conditions appropriately."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Evaluate Test Data",
+    subtopic: "Purpose of Evaluating Test Data",
+    question: "Which system functions can be assessed using test data?",
+    answer: "Calculations, data validation and system responses."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Evaluate Test Data",
+    subtopic: "Methods for Evaluating Test Data",
+    question: "What is an expected vs actual results table?",
+    answer: "A table comparing the predicted output with the system's actual output to identify discrepancies."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Evaluate Test Data",
+    subtopic: "Methods for Evaluating Test Data",
+    question: "Why are test cases created with known values?",
+    answer: "To check whether the system produces accurate and predictable results."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Evaluate Test Data",
+    subtopic: "Methods for Evaluating Test Data",
+    question: "Why should valid, invalid and boundary data be tested?",
+    answer: "To confirm the system accepts appropriate inputs, rejects inappropriate inputs and handles values at the limits correctly."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Evaluate Test Data",
+    subtopic: "Methods for Evaluating Test Data",
+    question: "What are peer reviews and walkthroughs of test results?",
+    answer: "Processes where team members examine testing procedures and results to identify errors or weaknesses."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Evaluate Test Data",
+    subtopic: "Methods for Evaluating Test Data",
+    question: "What is a test data evaluation log?",
+    answer: "A record used to document, track and monitor testing issues and errors."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Evaluate Test Data",
+    subtopic: "Methods for Evaluating Test Data",
+    question: "How can spreadsheets and database queries help evaluate test data?",
+    answer: "They help analyse large amounts of test data and identify patterns, inconsistencies and errors."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Evaluate Test Data",
+    subtopic: "Applying Test Data Evaluation",
+    question: "What should happen when actual results differ from expected results?",
+    answer: "The discrepancy should be investigated, documented and corrected where necessary."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Evaluate Test Data",
+    subtopic: "Applying Test Data Evaluation",
+    question: "How does evaluating test data improve system reliability?",
+    answer: "It identifies problems before deployment, helping ensure the system produces accurate and consistent results."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Evaluate Test Data",
+    subtopic: "Applying Test Data Evaluation",
+    question: "When should test data evaluation occur?",
+    answer: "During system testing and before full implementation, so problems can be resolved before users rely on the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Basic Concepts",
+    question: "Why should operation and maintenance documentation be trialled?",
+    answer: "To ensure documentation is accurate, clear, complete and effective before full system deployment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Basic Concepts",
+    question: "What does trialling documentation involve?",
+    answer: "Testing guides and procedures in simulated or real-use conditions to identify errors, confusing instructions and missing steps."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Basic Concepts",
+    question: "Why must documentation align with system functionality and workflows?",
+    answer: "To ensure users and technical staff can follow instructions that reflect how the system actually operates."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Operation Documentation",
+    question: "What is operation documentation?",
+    answer: "Guides, instructions, diagrams and resources that help end-users operate a system effectively."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Operation Documentation",
+    question: "What information may operation documentation contain?",
+    answer: "System navigation, task procedures, workflows and troubleshooting tips."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Operation Documentation",
+    question: "How can operation documentation be trialled?",
+    answer: "Conduct user walkthroughs using draft documentation and observe users completing tasks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Operation Documentation",
+    question: "How can feedback be collected when trialling operation documentation?",
+    answer: "Through surveys, observations and user comments."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Operation Documentation",
+    question: "Why should documented steps be compared with actual system behaviour?",
+    answer: "To confirm that instructions are accurate and match the system's real functions."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Operation Documentation",
+    question: "What should happen after operation documentation is trialled?",
+    answer: "Documents should be updated to correct errors, clarify instructions and address user feedback."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Maintenance Documentation",
+    question: "What is maintenance documentation?",
+    answer: "Instructions that help technical staff and administrators manage, update and troubleshoot a system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Maintenance Documentation",
+    question: "What information may maintenance documentation contain?",
+    answer: "System configurations, backup procedures, software patching and escalation procedures."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Maintenance Documentation",
+    question: "How can maintenance documentation be trialled?",
+    answer: "By simulating maintenance tasks, such as applying updates and recovering from errors."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Maintenance Documentation",
+    question: "Why are checklists used when trialling maintenance documentation?",
+    answer: "To verify that instructions are complete, clear and cover all necessary steps."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Maintenance Documentation",
+    question: "Why should technical staff validate maintenance documentation?",
+    answer: "To confirm that procedures are technically accurate and practical to perform."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Maintenance Documentation",
+    question: "Why should feedback from maintenance documentation trials be logged?",
+    answer: "To track issues and improve the documentation's usability, accuracy and consistency."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Comparing Documentation Types",
+    question: "What is the main difference between operation and maintenance documentation?",
+    answer: "Operation documentation helps end-users use the system, while maintenance documentation helps technical staff manage and repair it."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Operation & Maintenance Documentation",
+    subtopic: "Comparing Documentation Types",
+    question: "How does trialling documentation benefit an enterprise?",
+    answer: "It reduces user confusion, prevents mistakes and helps ensure the system can be operated and maintained effectively after deployment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Purpose of Reviewing Implementation",
+    question: "What is reviewing the impact of system implementation?",
+    answer: "Assessing how a new enterprise system affects users, workflows and organisational performance after deployment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Purpose of Reviewing Implementation",
+    question: "Why should the impact of system implementation be reviewed?",
+    answer: "To determine whether the system achieves its goals, improves efficiency and adds value to the organisation."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Purpose of Reviewing Implementation",
+    question: "What positive impacts should be assessed after implementation?",
+    answer: "Improved efficiency, increased user satisfaction and smoother integration into daily operations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Purpose of Reviewing Implementation",
+    question: "What unintended consequences should be considered?",
+    answer: "User frustration, performance issues and disruptions to existing workflows."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Purpose of Reviewing Implementation",
+    question: "How does reviewing implementation help an enterprise?",
+    answer: "It determines whether the system meets user needs and justifies the resources invested."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Methods for Reviewing Implementation",
+    question: "How can user feedback surveys help review implementation?",
+    answer: "They measure user satisfaction, usability and identify areas needing improvement."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Methods for Reviewing Implementation",
+    question: "Why are interviews and focus groups used?",
+    answer: "They gather detailed opinions and experiences from users and key stakeholders."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Methods for Reviewing Implementation",
+    question: "How can usage data be analysed after implementation?",
+    answer: "By examining information such as login frequency and error logs to identify usage patterns or problems."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Methods for Reviewing Implementation",
+    question: "What is a comparative performance review?",
+    answer: "Comparing performance before and after implementation to determine whether the system has improved outcomes."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Methods for Reviewing Implementation",
+    question: "Why should workflows be observed after implementation?",
+    answer: "To identify improvements, inefficiencies and new problems in everyday operations."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Methods for Reviewing Implementation",
+    question: "What is the purpose of evaluation checklists?",
+    answer: "To assess whether the implemented system meets its original project goals and requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Methods for Reviewing Implementation",
+    question: "How do issue-tracking tools support implementation reviews?",
+    answer: "They document, prioritise and monitor problems discovered after launch."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Applying Implementation Reviews",
+    question: "How can an enterprise determine whether implementation was successful?",
+    answer: "By comparing results against project goals, analysing performance data and gathering user feedback."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Applying Implementation Reviews",
+    question: "What should happen when problems are identified after implementation?",
+    answer: "Problems should be documented, prioritised and addressed through appropriate improvements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Reviewing the Impact of System Implementation",
+    subtopic: "Applying Implementation Reviews",
+    question: "How does reviewing implementation support continuous improvement?",
+    answer: "It identifies opportunities to refine the system, improve user experience and maintain organisational effectiveness."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Purpose of Modification and Improvement",
+    question: "What does modifying system designs involve?",
+    answer: "Making purposeful changes to system components, interfaces or workflows to improve functionality and usability."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Purpose of Modification and Improvement",
+    question: "Why are system designs modified?",
+    answer: "To address problems, meet user needs and improve the system's overall effectiveness."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Purpose of Modification and Improvement",
+    question: "What information can guide system design modifications?",
+    answer: "Testing results, user feedback and system performance data."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Purpose of Modification and Improvement",
+    question: "How can system design modifications vary?",
+    answer: "From small interface adjustments to major changes in system logic or workflows."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Strategies for Modifying System Designs",
+    question: "How can prototyping help improve a system?",
+    answer: "Modified features can be prototyped and retested with stakeholders before being fully implemented."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Strategies for Modifying System Designs",
+    question: "How can User Acceptance Testing (UAT) guide system improvements?",
+    answer: "User feedback identifies problems and suggests changes to better meet user needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Strategies for Modifying System Designs",
+    question: "How can system logs and test data support improvements?",
+    answer: "They reveal errors, performance issues and patterns that indicate where changes are needed."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Strategies for Modifying System Designs",
+    question: "Why are collaborative design reviews useful?",
+    answer: "Project teams and end-users can share perspectives, identify weaknesses and suggest improvements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Strategies for Modifying System Designs",
+    question: "Why should alternative design options be compared through testing?",
+    answer: "To determine which design provides the best functionality, usability and performance."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Strategies for Modifying System Designs",
+    question: "Why must documentation be updated after system modifications?",
+    answer: "To ensure operation and maintenance instructions, flowcharts and diagrams accurately reflect the improved system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Strategies for Modifying System Designs",
+    question: "What is scenario-based testing?",
+    answer: "Testing system changes using realistic situations to confirm that updated functionality works as intended."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Evaluating Improvements",
+    question: "Why should modified features be retested?",
+    answer: "To verify that changes resolve the original problems without introducing new errors."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Evaluating Improvements",
+    question: "How do system modifications improve user experience?",
+    answer: "They make the system easier to use, more effective and better suited to user needs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Modification & Improvement",
+    subtopic: "Evaluating Improvements",
+    question: "What is the overall goal of modification and improvement?",
+    answer: "To refine the system so it operates reliably and effectively within its intended environment."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Overview",
+    question: "What is the purpose of the final stage of system development?",
+    answer: "To ensure the system works correctly, meets original requirements and is ready for ongoing use within the organisation."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Overview",
+    question: "What are the three main processes in the final stage of system development?",
+    answer: "Testing, evaluating and maintaining."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Overview",
+    question: "What should be achieved by the end of this stage?",
+    answer: "The system is fully implemented, meets user requirements and is supported by appropriate documentation and maintenance strategies."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Testing",
+    question: "What is system testing?",
+    answer: "Checking that a system functions correctly and produces expected outputs according to user requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Testing",
+    question: "Why should different types of test data be used?",
+    answer: "To check how the system handles expected, unexpected, valid and invalid inputs."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Testing",
+    question: "What are the main system testing methods?",
+    answer: "Functional testing, acceptance testing, live data, simulated data, beta testing and volume testing."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Testing",
+    question: "What is test data used for?",
+    answer: "To examine system responses, identify errors and confirm that outputs are correct."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Testing",
+    question: "Why might testers deliberately enter data that causes errors?",
+    answer: "To identify weaknesses and develop strategies to prevent or handle errors."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Testing",
+    question: "How should a correctly functioning system respond to invalid data?",
+    answer: "It should reject invalid inputs and provide appropriate validation messages rather than crashing."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Testing",
+    question: "What might happen if a system does not handle unexpected data correctly?",
+    answer: "It may produce incorrect outputs, fail to validate inputs or crash."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Testing",
+    question: "How should a system respond if it expects a number but receives a letter?",
+    answer: "It should reject the invalid input and display a clear error or validation message."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Evaluating",
+    question: "What is system evaluation?",
+    answer: "Assessing how well a system meets user needs and its original documented requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Evaluating",
+    question: "Why should the original problem definition and requirements be reviewed during evaluation?",
+    answer: "To confirm that the system solves the identified problem and satisfies the needs established during development."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Evaluating",
+    question: "Why is user feedback important during evaluation?",
+    answer: "Users can identify strengths, weaknesses and possible improvements based on their experience with the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Evaluating",
+    question: "What methods can be used to collect evaluation feedback?",
+    answer: "Interviews, surveys and observations involving users and development team members."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Evaluating",
+    question: "Why should users provide detailed evaluation feedback?",
+    answer: "Their feedback helps improve system efficiency and usability for everyday tasks."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Evaluating",
+    question: "Why must operation and maintenance documentation be evaluated?",
+    answer: "To ensure manuals are clear, useful and help users complete tasks without unnecessary assistance."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Evaluating",
+    question: "What makes effective operation documentation?",
+    answer: "Clear, easy-to-follow instructions that guide users through system tasks and troubleshooting."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Maintaining",
+    question: "What is system maintenance?",
+    answer: "The ongoing process of keeping a system functional, efficient and reliable throughout its lifetime."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Maintaining",
+    question: "Why is a long-term maintenance strategy necessary?",
+    answer: "To ensure problems can be resolved and the system continues operating after implementation."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Maintaining",
+    question: "How can hardware-related system problems be resolved?",
+    answer: "By repairing or replacing faulty hardware components."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Maintaining",
+    question: "How can software-related system problems be resolved?",
+    answer: "By correcting software faults or installing updates and patches, including updates distributed over a network."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Maintaining",
+    question: "Why should system documentation be updated after maintenance?",
+    answer: "To record issues, solutions and system changes for future reference."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Maintaining",
+    question: "How can maintenance documentation help resolve recurring problems?",
+    answer: "It allows the team to review previous faults and solutions or identify changes known to cause issues."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Maintaining",
+    question: "Why is operation documentation important after project completion?",
+    answer: "It provides users with a first point of reference when they need help using the system."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Comparing Testing, Evaluating and Maintaining",
+    question: "What is the main difference between testing and evaluating?",
+    answer: "Testing checks whether the system works correctly, while evaluation assesses whether it meets user needs and original requirements."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Comparing Testing, Evaluating and Maintaining",
+    question: "What is the main difference between evaluation and maintenance?",
+    answer: "Evaluation assesses the system's effectiveness, while maintenance keeps the system functioning effectively over time."
+  },
+  {
+    unit: "Unit 4: Enterprise Project",
+    topic: "Testing, Evaluating & Maintaining",
+    subtopic: "Comparing Testing, Evaluating and Maintaining",
+    question: "How do testing, evaluation and maintenance work together?",
+    answer: "Testing identifies technical issues, evaluation assesses whether user needs are met, and maintenance resolves problems and supports long-term operation."
+  }
 
     // ---- paste new cards above this line (keep the comma after each }) ----
 
