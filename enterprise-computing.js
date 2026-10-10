@@ -9730,6 +9730,12195 @@ registerSubject("Enterprise Computing", "#7c3aed", [
     answer: "To ensure the imported data is correctly structured, identifiable and suitable for use within the database."
 },
 
+{
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What are data visualisations?",
+    answer: "Tools that transform raw data into a visual format to make information easier to understand."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What are examples of data visualisations?",
+    answer: "Charts, graphs and infographics."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "Why are data visualisations important?",
+    answer: "They help users quickly understand complex information and identify useful insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "Where are data visualisations commonly used?",
+    answer: "In fields such as business, science and education."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Simplify Understanding",
+    question: "What is one primary purpose of data visualisations?",
+    answer: "To simplify the interpretation of complex datasets."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Simplify Understanding",
+    question: "How do visualisations simplify complex datasets?",
+    answer: "They translate data into visual formats that make patterns, relationships and trends easier to identify."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Simplify Understanding",
+    question: "What visual formats can simplify complex data?",
+    answer: "Bar graphs, pie charts and heat maps."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Simplify Understanding",
+    question: "How do data visualisations reduce cognitive load?",
+    answer: "They make information easier to process and understand visually."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Simplify Understanding",
+    question: "How do data visualisations make insights accessible?",
+    answer: "They present complex information in a clear format that a broader audience can understand."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Telling a Story",
+    question: "How can data visualisations tell a story?",
+    answer: "They present data as a narrative that highlights trends, changes and relationships."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Telling a Story",
+    question: "How can the choice of visual format help tell a story?",
+    answer: "Graphs and infographics can highlight important changes and trends within a dataset."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Telling a Story",
+    question: "What can sequencing data presentations reveal?",
+    answer: "The journey or evolution of a dataset over time."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Telling a Story",
+    question: "How can data visualisations influence viewers?",
+    answer: "They can reveal trends, changes and causations that influence opinions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Highlighting Results",
+    question: "What is the purpose of highlighting results?",
+    answer: "To draw attention to significant results and key insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Highlighting Results",
+    question: "How can visualisations emphasise important results?",
+    answer: "By using colours, shapes and annotations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Highlighting Results",
+    question: "Why is visual emphasis used in data visualisations?",
+    answer: "To direct the audience's focus to the most important aspects of the data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Highlighting Results",
+    question: "How can a pie chart highlight important results?",
+    answer: "Larger segments can visually show areas of success or concern."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "What are the three main purposes of data visualisations?",
+    answer: "Simplify understanding, tell a story and highlight results."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "How do data visualisations help users understand data?",
+    answer: "They make complex information clearer, easier to process and easier to interpret."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Purposes of Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "What makes data visualisations effective?",
+    answer: "Choosing appropriate visual formats and using visual emphasis to communicate key insights clearly."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of software supporting data visualisations?",
+    answer: "To enhance understanding and analysis of datasets."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What features can data visualisation software provide?",
+    answer: "Data aggregation, filtering and interactive visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "How do data visualisation tools help users explore datasets?",
+    answer: "They allow users to view data from multiple perspectives."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What can data visualisation software help users identify?",
+    answer: "Trends and patterns that may not be obvious in raw data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What additional features can support effective data analysis?",
+    answer: "Real-time updates, customisation and integration with other tools."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What are the three main types of software supporting data visualisation?",
+    answer: "Spreadsheets, creative design applications and combining applications."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Spreadsheets",
+    question: "What are spreadsheets commonly used for in data visualisation?",
+    answer: "Creating charts, pivot tables and conditional formatting."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Spreadsheets",
+    question: "Why are spreadsheets useful for large datasets?",
+    answer: "They can quickly summarise data, identify trends and highlight key metrics."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Spreadsheets",
+    question: "How do spreadsheet formulas support data visualisation?",
+    answer: "They allow users to analyse and manipulate data to create useful visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Spreadsheets",
+    question: "How can spreadsheets be used to create dashboards?",
+    answer: "Their formulas and data analysis tools can create dashboards that provide clear insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Creative Design Applications",
+    question: "What are examples of creative design applications?",
+    answer: "Adobe Illustrator and Canva."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Creative Design Applications",
+    question: "What are creative design applications used for?",
+    answer: "Creating polished and visually appealing data visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Creative Design Applications",
+    question: "What types of visualisations are creative design applications ideal for?",
+    answer: "Infographics and presentations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Creative Design Applications",
+    question: "How can creative design applications customise visualisations?",
+    answer: "They allow users to add brand colours, logos and other design elements."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Creative Design Applications",
+    question: "Why is customisation useful in data visualisations?",
+    answer: "It can make data more engaging and accessible to a specific audience."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Combining Applications",
+    question: "Why can combining multiple applications improve data visualisation?",
+    answer: "It enhances the ability to track trends and forecast outcomes."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Combining Applications",
+    question: "How can different applications work together with data?",
+    answer: "They can connect to different data sources and combine datasets."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Combining Applications",
+    question: "What is a benefit of combining datasets from different applications?",
+    answer: "It allows users to create unified visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Combining Applications",
+    question: "How can combining applications support real-time analysis?",
+    answer: "Applications can connect to data sources and update and analyse data in real time."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Combining Applications",
+    question: "Why might data be exported between different applications?",
+    answer: "Different applications can perform different processes based on their strengths."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "What are the three main software categories for data visualisation?",
+    answer: "Spreadsheets, creative design applications and combining applications."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "What are three key features of data visualisation software?",
+    answer: "Aggregation, filtering and interactive visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Features Of Software Supporting Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "What are three additional features that support data analysis?",
+    answer: "Real-time updates, customisation and software integration."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Basic Concepts",
+    question: "What does analysing data involve?",
+    answer: "Interpreting and comparing datasets to uncover trends, relationships and anomalies."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Basic Concepts",
+    question: "What can data analysis uncover?",
+    answer: "Trends, relationships and anomalies within datasets."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Basic Concepts",
+    question: "What techniques can be used to analyse datasets?",
+    answer: "Aggregation, filtering and statistical analysis."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of analysing raw data?",
+    answer: "To transform it into actionable insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Basic Concepts",
+    question: "How can line charts help interpret datasets?",
+    answer: "They can reveal upward or downward trends over time."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Basic Concepts",
+    question: "How can pie charts help compare datasets?",
+    answer: "They can show values associated with different demographics or categories."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Basic Concepts",
+    question: "Why is interpreting and comparing datasets important?",
+    answer: "It supports predictive data analytics and forecasting future outcomes."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Basic Concepts",
+    question: "What is predictive data analytics?",
+    answer: "Using historical data to forecast future outcomes."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Support Enterprise",
+    question: "How can data analysis support enterprises?",
+    answer: "It can identify business performance trends and opportunities for growth."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Support Enterprise",
+    question: "How can analysing sales data benefit an enterprise?",
+    answer: "It can identify underperforming markets and seasonal fluctuations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Support Enterprise",
+    question: "How can analysed patterns improve business decisions?",
+    answer: "They can inform inventory management, marketing and resource allocation."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Support Enterprise",
+    question: "How can predictive analytics support supply chains?",
+    answer: "Forecasting customer demand can optimise supply chains and reduce costs."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Support Social Issues",
+    question: "How can data visualisation support social issues?",
+    answer: "It can identify societal trends and disparities."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Support Social Issues",
+    question: "How can comparing public health datasets reveal social issues?",
+    answer: "It can highlight areas of inequality or inequity between communities."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Support Social Issues",
+    question: "How can governments use data analysis to address social issues?",
+    answer: "To allocate resources effectively and develop targeted interventions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Support Social Issues",
+    question: "How can predictive analytics support public health?",
+    answer: "It can forecast potential public health crises using historical trends."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Support Ethical Issues",
+    question: "How can data analysis support ethical issues?",
+    answer: "It can identify concerns involving privacy, discrimination and bias."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Support Ethical Issues",
+    question: "What ethical risks can predictive analytics identify?",
+    answer: "Potential risks such as unintended bias in machine learning algorithms."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Support Ethical Issues",
+    question: "How can enterprises respond to ethical risks identified through data analysis?",
+    answer: "They can address risks proactively before they cause harm."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Quick Recall",
+    question: "What are the three areas supported by interpreting and comparing datasets?",
+    answer: "Enterprise, social issues and ethical issues."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Quick Recall",
+    question: "What are three key techniques for analysing datasets?",
+    answer: "Aggregation, filtering and statistical analysis."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interpreting & Comparing Datasets",
+    subtopic: "Quick Recall",
+    question: "What are three ethical concerns that data analysis can identify?",
+    answer: "Data privacy, discrimination and bias."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Basic Concepts",
+    question: "How has hardware evolution affected data analytics?",
+    answer: "It has enabled the processing and interpretation of larger and more complex datasets."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Basic Concepts",
+    question: "How have high-performance processors improved data analytics?",
+    answer: "They have reduced the time required to analyse data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Basic Concepts",
+    question: "How has hardware and software evolution expanded data analytics?",
+    answer: "It has enabled real-time decision-making and predictive modelling."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Basic Concepts",
+    question: "How has data analytics evolution benefited industries?",
+    answer: "It has expanded applications and driven progress across industries."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Processing Power",
+    question: "Why is processing power important for data analytics?",
+    answer: "It enables the rapid processing of large datasets and complex algorithms."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Processing Power",
+    question: "What hardware technologies have improved processing power?",
+    answer: "Multi-core CPUs, GPUs and dedicated AI accelerators."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Processing Power",
+    question: "How do multi-core CPUs support data analytics?",
+    answer: "They allow multiple processing tasks to occur simultaneously."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Processing Power",
+    question: "How do GPUs support data analytics?",
+    answer: "They provide high-speed parallel processing for large datasets and complex calculations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Processing Power",
+    question: "What are dedicated AI accelerators used for?",
+    answer: "They are designed to rapidly process AI and machine learning workloads."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Processing Power",
+    question: "What role does an operating system play in processing?",
+    answer: "It manages hardware resources and supports the execution of analytical software."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Storage / Memory",
+    question: "Why is storage and memory important for data analytics?",
+    answer: "They allow large amounts of data to be stored, accessed and processed efficiently."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Storage / Memory",
+    question: "What technologies have improved storage and memory?",
+    answer: "SSDs, cloud storage and RAM."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Storage / Memory",
+    question: "How do SSDs support data analytics?",
+    answer: "They provide fast data storage and retrieval."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Storage / Memory",
+    question: "How does cloud storage support data analytics?",
+    answer: "It provides scalable storage for large amounts of data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Storage / Memory",
+    question: "How does RAM support data analytics?",
+    answer: "It provides fast temporary storage for data and programs being processed."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Storage / Memory",
+    question: "What role does an operating system play in storage and memory?",
+    answer: "It manages storage and memory resources for applications and processes."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Communications Media",
+    question: "Why is communication media important for data analytics?",
+    answer: "It enables the fast transfer and sharing of data across networks."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Communications Media",
+    question: "What technologies have improved communication media?",
+    answer: "High-speed internet, 5G, optical fibre and communication protocols."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Communications Media",
+    question: "How does high-speed internet support data analytics?",
+    answer: "It enables the rapid transfer of large datasets between systems."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Communications Media",
+    question: "How does 5G support data analytics?",
+    answer: "It provides fast, low-latency communication for connected devices and systems."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Communications Media",
+    question: "How does optical fibre support data analytics?",
+    answer: "It enables high-speed transmission of large amounts of data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Communications Media",
+    question: "How do communication protocols support data transfer?",
+    answer: "They provide rules that allow systems to communicate and exchange data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Communications Media",
+    question: "How does communications media support IoT analytics?",
+    answer: "It enables real-time sharing of data from connected devices."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Communications Media",
+    question: "What role does a network operating system (NOS) play?",
+    answer: "It helps manage network resources and support data transfer between systems."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Quick Recall",
+    question: "What are the three main areas of hardware evolution supporting data analytics?",
+    answer: "Processing power, storage/memory and communications media."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Quick Recall",
+    question: "What hardware developments have improved processing?",
+    answer: "Multi-core CPUs, GPUs and AI accelerators."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Quick Recall",
+    question: "What developments have improved storage and memory?",
+    answer: "SSDs, cloud storage and RAM."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Evolution Of Hardware Supporting Data Analytics",
+    subtopic: "Quick Recall",
+    question: "What developments have improved communications?",
+    answer: "High-speed internet, 5G, optical fibre and communication protocols."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Basic Concepts",
+    question: "What are processing devices?",
+    answer: "Components that physically transform data into information."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Basic Concepts",
+    question: "What are the three main processing devices discussed?",
+    answer: "CPU, GPU and RAM."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Central Processing Unit (CPU)",
+    question: "What is the CPU?",
+    answer: "The main processor and brain of a computer system."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Central Processing Unit (CPU)",
+    question: "What is the main purpose of a CPU?",
+    answer: "To process data and perform calculations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Central Processing Unit (CPU)",
+    question: "How do fast CPUs improve system performance?",
+    answer: "They allow many calculations to be performed rapidly."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Central Processing Unit (CPU)",
+    question: "What are examples of CPU brands or series?",
+    answer: "Intel Core i5/i7/i9, AMD Ryzen 5/7/9 and Apple M-series."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Central Processing Unit (CPU)",
+    question: "What are CPU cores?",
+    answer: "Independent processing units that can process different tasks."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Central Processing Unit (CPU)",
+    question: "How do multiple CPU cores improve processing?",
+    answer: "They allow different tasks to be processed simultaneously."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Graphics Processing Unit (GPU)",
+    question: "What is a GPU?",
+    answer: "A processor designed specifically for graphical and parallel processing tasks."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Graphics Processing Unit (GPU)",
+    question: "What tasks can a GPU process?",
+    answer: "Video, graphics, video games and video editing."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Graphics Processing Unit (GPU)",
+    question: "Why are GPUs useful for video editing?",
+    answer: "Their processing power can speed up the processing of video media."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Graphics Processing Unit (GPU)",
+    question: "How can GPU processing power be upgraded?",
+    answer: "By installing a dedicated graphics card."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Random Access Memory (RAM)",
+    question: "What is RAM?",
+    answer: "Temporary storage that holds data and instructions waiting to be processed."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Random Access Memory (RAM)",
+    question: "How does RAM assist data processing?",
+    answer: "It provides a fast storage location for data and instructions before processing."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Random Access Memory (RAM)",
+    question: "What happens when a computer has more RAM?",
+    answer: "It can handle larger files and more data during processing."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Random Access Memory (RAM)",
+    question: "How does the CPU work with RAM?",
+    answer: "The CPU retrieves instructions from RAM, processes them and stores the results back in RAM."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Fetch-Execute Cycle",
+    question: "What is the fetch-execute cycle?",
+    answer: "The process where the CPU fetches, decodes and executes instructions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Fetch-Execute Cycle",
+    question: "What happens during the fetch stage?",
+    answer: "The CPU retrieves instructions from RAM."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Fetch-Execute Cycle",
+    question: "What happens during the decode stage?",
+    answer: "The CPU interprets the instruction it retrieved."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Fetch-Execute Cycle",
+    question: "What happens during the execute stage?",
+    answer: "The CPU processes and carries out the instruction."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Fetch-Execute Cycle",
+    question: "Where is processed information stored after execution?",
+    answer: "The processed information is stored back in RAM."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Quick Recall",
+    question: "What is the main role of the CPU?",
+    answer: "General data processing and calculations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Quick Recall",
+    question: "What is the main role of the GPU?",
+    answer: "Processing graphics, video and parallel tasks."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Quick Recall",
+    question: "What is the main role of RAM?",
+    answer: "Temporarily storing data and instructions for processing."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Processing Devices",
+    subtopic: "Quick Recall",
+    question: "How do CPU, GPU and RAM work together?",
+    answer: "RAM stores data for processing, while the CPU and GPU process different types of tasks."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of storage devices?",
+    answer: "To save data so it can be used or retrieved later."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Basic Concepts",
+    question: "What are the two main types of storage?",
+    answer: "Primary storage and secondary storage."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Basic Concepts",
+    question: "What is primary storage?",
+    answer: "Storage used to hold data during system use and processing."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Basic Concepts",
+    question: "What is secondary storage?",
+    answer: "Storage used to save data for access and retrieval at a later date."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Magnetic Disks",
+    question: "What type of storage does a hard drive use?",
+    answer: "Magnetic disk storage."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Magnetic Disks",
+    question: "How is data stored on a magnetic disk?",
+    answer: "Data is stored in sectors located along tracks on the disk."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Magnetic Disks",
+    question: "How does a hard disk drive read stored data?",
+    answer: "A read/write head reads data from the tracks as the disk rotates."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Magnetic Disks",
+    question: "How much data can a magnetic disk sector usually store?",
+    answer: "Approximately 512 bytes."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Magnetic Disks",
+    question: "What are tracks and sectors on a magnetic disk?",
+    answer: "Tracks are circular paths, while sectors are sections of those tracks that store data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Optical Disks",
+    question: "How is data stored on an optical disk?",
+    answer: "As small notches on the surface of the disc."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Optical Disks",
+    question: "How does an optical drive read data?",
+    answer: "A laser reads the notches and converts them into usable data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Optical Disks",
+    question: "How is data organised on optical disks?",
+    answer: "Data is organised into tracks and sectors."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Optical Disks",
+    question: "What are examples of optical disks?",
+    answer: "CDs, DVDs and Blu-ray discs."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Network Storage",
+    question: "What is network storage?",
+    answer: "Storage located on a network file server that multiple systems can access."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Network Storage",
+    question: "How do users access network storage?",
+    answer: "Through a private network or the internet."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Network Storage",
+    question: "What is stored on a network file server?",
+    answer: "Hard drives containing files and data that users can access through the network."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Network Storage",
+    question: "What is an advantage of network storage?",
+    answer: "Multiple systems can access shared data from the same storage location."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Flash Memory",
+    question: "What is flash memory?",
+    answer: "A type of storage that uses a chipset for high-speed data storage and retrieval."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Flash Memory",
+    question: "Where is flash memory commonly found?",
+    answer: "USB drives, SD cards and solid-state drives (SSDs)."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Flash Memory",
+    question: "What is an advantage of flash memory?",
+    answer: "It provides fast storage and retrieval of data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Flash Memory",
+    question: "How does flash memory connect to a computer system?",
+    answer: "Its chipset can connect directly to the motherboard."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Flash Memory",
+    question: "What type of storage does RAM use according to these notes?",
+    answer: "Flash memory."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Quick Recall",
+    question: "What are the four storage device types covered?",
+    answer: "Magnetic disks, optical disks, network storage and flash memory."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Quick Recall",
+    question: "Which storage device uses a rotating magnetic disk?",
+    answer: "A hard disk drive (HDD)."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Quick Recall",
+    question: "Which storage devices use lasers to read data?",
+    answer: "Optical disks such as CDs, DVDs and Blu-ray."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Quick Recall",
+    question: "Which storage type allows multiple systems to access shared files?",
+    answer: "Network storage."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Quick Recall",
+    question: "Which storage technology is used in USB drives, SD cards and SSDs?",
+    answer: "Flash memory."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Basic Concepts",
+    question: "What are communication devices?",
+    answer: "Devices that allow data to be transmitted and received between networked devices."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Basic Concepts",
+    question: "Why are communication devices important to an enterprise?",
+    answer: "They help establish the communications infrastructure needed to connect devices and users."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Basic Concepts",
+    question: "What are the main categories of communication technology?",
+    answer: "Central nodes, communication mediums, servers and other technology."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Central Nodes",
+    question: "What are central nodes?",
+    answer: "Devices that connect multiple networked devices together."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Central Nodes",
+    question: "What is a network switch?",
+    answer: "A device that connects multiple devices and sends data to a specific node on a local network."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Central Nodes",
+    question: "How does a switch direct data?",
+    answer: "It uses multiple communication channels to send data to the intended device."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Central Nodes",
+    question: "What is a router?",
+    answer: "A device that connects devices to external networks and the internet."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Central Nodes",
+    question: "What additional capability can routers provide?",
+    answer: "Wireless connectivity for networked devices."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Central Nodes",
+    question: "What is a Wireless Access Point (WAP)?",
+    answer: "A device used to connect multiple wireless users or devices to a network."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Communication Mediums",
+    question: "What are communication mediums?",
+    answer: "The wired or wireless methods used to transmit data between devices."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Communication Mediums",
+    question: "What are examples of wired communication mediums?",
+    answer: "Twisted pair, coaxial and optical fibre cabling."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Communication Mediums",
+    question: "What is twisted-pair cabling?",
+    answer: "A wired medium that uses pairs of twisted copper wires to transmit data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Communication Mediums",
+    question: "What is coaxial cabling?",
+    answer: "A wired medium used to transmit data through a central conductor and shielding."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Communication Mediums",
+    question: "What is optical fibre?",
+    answer: "A wired medium that uses light to transmit data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Communication Mediums",
+    question: "What are examples of wireless communication mediums?",
+    answer: "Microwave, satellite and radio waves."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Servers",
+    question: "What is a server?",
+    answer: "A system that provides resources or services to multiple devices over a network."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Servers",
+    question: "What architecture allows clients to access server resources?",
+    answer: "Client-server architecture."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Servers",
+    question: "What is a file server used for?",
+    answer: "Providing access to documents and media."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Servers",
+    question: "What is a mail server used for?",
+    answer: "Providing email services."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Servers",
+    question: "What is a print server used for?",
+    answer: "Providing network access to printers."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Servers",
+    question: "What is a web server used for?",
+    answer: "Hosting websites and making them available over a network."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Other Technology",
+    question: "What is a modem?",
+    answer: "A device that modulates and demodulates signals between analogue and digital formats."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Other Technology",
+    question: "What does \"modem\" refer to?",
+    answer: "MOdulator + DEModulator."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Other Technology",
+    question: "Why is a modem used?",
+    answer: "To allow data to be transmitted across different communication mediums."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Other Technology",
+    question: "How can mobile devices communicate with networks and other devices?",
+    answer: "Through cellular, Wi-Fi and Bluetooth connectivity."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Quick Recall",
+    question: "What are the four main categories of communication devices and technology?",
+    answer: "Central nodes, communication mediums, servers and other technology."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Quick Recall",
+    question: "What devices are examples of central nodes?",
+    answer: "Switches, routers and Wireless Access Points (WAPs)."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Quick Recall",
+    question: "What are three wired communication mediums?",
+    answer: "Twisted pair, coaxial and optical fibre."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Quick Recall",
+    question: "What are three wireless communication mediums?",
+    answer: "Microwave, satellite and radio waves."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types Of Hardware: Communication Devices",
+    subtopic: "Quick Recall",
+    question: "What are four common types of servers?",
+    answer: "File, mail, print and web servers."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Basic Concepts",
+    question: "What is transmission media?",
+    answer: "The pathway through which communication signals travel between devices."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Basic Concepts",
+    question: "What factors determine which transmission medium is suitable?",
+    answer: "Bandwidth, distance, cost and environmental influences."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Basic Concepts",
+    question: "What are the two main categories of transmission media?",
+    answer: "Wired and wireless media."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Wired Media",
+    question: "What are the three main types of wired media?",
+    answer: "Twisted pair, coaxial and optical fibre."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Twisted Pair",
+    question: "What is twisted-pair cabling?",
+    answer: "Two individually insulated copper wires twisted together."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Twisted Pair",
+    question: "Why are wires twisted together in twisted-pair cabling?",
+    answer: "To reduce interference from other cables."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Twisted Pair",
+    question: "What type of networking cable uses twisted-pair wires?",
+    answer: "Ethernet cabling."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Coaxial Cabling",
+    question: "What does a coaxial cable contain?",
+    answer: "A copper wire, insulator, grounded copper mesh and outer insulator."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Coaxial Cabling",
+    question: "How does coaxial cable reduce signal distortion?",
+    answer: "Its shielding layers protect the signal from interference."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Coaxial Cabling",
+    question: "Why is coaxial cable relatively rigid?",
+    answer: "Because it contains a copper mesh shielding layer."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Coaxial Cabling",
+    question: "Where is coaxial cable commonly used?",
+    answer: "As aerial cables connecting televisions to antennas."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Optical Fibre",
+    question: "How does optical fibre transmit data?",
+    answer: "It uses laser light travelling through thin glass fibres."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Optical Fibre",
+    question: "What are optical fibres made from?",
+    answer: "Very thin glass fibres, approximately the diameter of a human hair."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Optical Fibre",
+    question: "What protects the glass fibres in optical fibre cables?",
+    answer: "An insulation layer."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Optical Fibre",
+    question: "What is a major advantage of optical fibre?",
+    answer: "It is resistant to electromagnetic and radio interference."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Optical Fibre",
+    question: "Why is optical fibre suitable for long-distance communication?",
+    answer: "It can transmit data over long distances at very high speeds with minimal errors."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Optical Fibre",
+    question: "Why does optical fibre have high bandwidth?",
+    answer: "A single cable contains multiple glass fibres capable of carrying data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Wireless Media",
+    question: "What are the three main types of wireless media?",
+    answer: "Radio waves, microwaves and infrared."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Radio Waves",
+    question: "What is radio transmission used for?",
+    answer: "Wireless communication over line-of-sight or wider areas."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Radio Waves",
+    question: "What technologies use radio transmission?",
+    answer: "Wi-Fi, RFID, NFC and Bluetooth."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Radio Waves",
+    question: "What does RFID stand for?",
+    answer: "Radio Frequency Identification."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Radio Waves",
+    question: "What does NFC stand for?",
+    answer: "Near Field Communication."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Radio Waves",
+    question: "What does a wireless adapter do?",
+    answer: "It translates data so it can be transmitted using radio signals."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Microwaves & Satellites",
+    question: "What are microwaves?",
+    answer: "High-frequency radio signals used for wireless communication."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Microwaves & Satellites",
+    question: "How do microwave signals typically travel?",
+    answer: "Through line-of-sight transmission between transponders or satellites."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Microwaves & Satellites",
+    question: "What does a microwave transponder do?",
+    answer: "It receives, amplifies and retransmits signals."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Microwaves & Satellites",
+    question: "Why are microwave transponders placed strategically?",
+    answer: "They require line of sight, so they are often placed on high ground."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Microwaves & Satellites",
+    question: "How far apart can microwave transponders be?",
+    answer: "Approximately 40–50 km apart."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Microwaves & Satellites",
+    question: "Where are microwaves commonly used?",
+    answer: "Telephone networks, internet service providers and GPS."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Microwaves & Satellites",
+    question: "How do satellites support microwave communication?",
+    answer: "They receive and retransmit signals over large distances."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Microwaves & Satellites",
+    question: "What movement do satellites have relative to Earth?",
+    answer: "Some satellites move with the rotation of the Earth."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Infrared",
+    question: "Where does infrared sit in the electromagnetic spectrum?",
+    answer: "Between microwaves and visible light."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Infrared",
+    question: "What type of transmission is infrared suited for?",
+    answer: "Short-range, line-of-sight data transmission."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Infrared",
+    question: "Why can't infrared signals pass through walls?",
+    answer: "Infrared cannot penetrate objects such as walls."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Infrared",
+    question: "What is a limitation of infrared communication?",
+    answer: "Its short range and requirement for line of sight."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Infrared",
+    question: "What are common uses of infrared?",
+    answer: "Remote controls, security sensors and fire sensors."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Quick Recall",
+    question: "What are the three wired transmission media?",
+    answer: "Twisted pair, coaxial and optical fibre."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Quick Recall",
+    question: "What are the three wireless transmission media?",
+    answer: "Radio waves, microwaves and infrared."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Quick Recall",
+    question: "Which medium uses twisted copper wires?",
+    answer: "Twisted pair."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Quick Recall",
+    question: "Which medium uses a laser through glass fibres?",
+    answer: "Optical fibre."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Quick Recall",
+    question: "Which medium uses a copper mesh for shielding?",
+    answer: "Coaxial cable."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Quick Recall",
+    question: "Which wireless medium is commonly used by Wi-Fi and Bluetooth?",
+    answer: "Radio waves."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Quick Recall",
+    question: "Which wireless medium commonly requires line-of-sight transponders?",
+    answer: "Microwaves."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Transmission Media",
+    subtopic: "Quick Recall",
+    question: "Which medium is commonly used for remote controls?",
+    answer: "Infrared."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Basic Concepts",
+    question: "What is Online Analytical Processing (OLAP)?",
+    answer: "Technology used to organise large datasets into multidimensional structures."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of OLAP?",
+    answer: "To support complex queries, data analysis and exploration."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Basic Concepts",
+    question: "What does OLAP allow users to do with data?",
+    answer: "Slice and dice data across different dimensions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Basic Concepts",
+    question: "What does \"slice and dice\" mean in OLAP?",
+    answer: "Filtering and viewing data across different dimensions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Basic Concepts",
+    question: "What types of views can OLAP generate?",
+    answer: "Summarised or detailed views of data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Basic Concepts",
+    question: "Why is OLAP useful for data analysis?",
+    answer: "It provides fast and flexible exploration of large datasets."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Basic Concepts",
+    question: "What systems commonly use OLAP?",
+    answer: "Decision support systems and data visualisation systems."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Basic Concepts",
+    question: "How can OLAP be used as a data mining tool?",
+    answer: "It can analyse accumulated data stored in a data warehouse."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Using OLAP in Data Visualisations",
+    question: "How can OLAP support data visualisations?",
+    answer: "It allows users to dynamically explore and present datasets."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Using OLAP in Data Visualisations",
+    question: "What can OLAP reveal through data visualisations?",
+    answer: "Patterns and trends across multiple dimensions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Using OLAP in Data Visualisations",
+    question: "How could a business analyst use OLAP to analyse sales?",
+    answer: "By breaking sales data down by region, product line and time period."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Using OLAP in Data Visualisations",
+    question: "What can analysing sales by region, product and time reveal?",
+    answer: "Seasonal trends and high-performing markets."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Using OLAP in Data Visualisations",
+    question: "Why is interactive data manipulation useful in OLAP?",
+    answer: "It allows users to pivot and explore data from different perspectives."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Using OLAP in Data Visualisations",
+    question: "How can OLAP support dashboards and infographics?",
+    answer: "It provides high-level summaries and detailed insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Advantages of OLAP in Data Visualisations",
+    question: "What is an advantage of OLAP's multidimensional approach?",
+    answer: "It allows data to be analysed from various perspectives."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Advantages of OLAP in Data Visualisations",
+    question: "What can analysing data from multiple perspectives uncover?",
+    answer: "Hidden relationships that may not appear in flat data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Advantages of OLAP in Data Visualisations",
+    question: "How does OLAP support rapid querying?",
+    answer: "It enables quick retrieval and analysis of large datasets."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Advantages of OLAP in Data Visualisations",
+    question: "How does OLAP support data aggregation?",
+    answer: "It can quickly summarise data across different dimensions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Advantages of OLAP in Data Visualisations",
+    question: "How can OLAP enable real-time visualisation updates?",
+    answer: "Visualisations can update when data is adjusted or filtered."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Advantages of OLAP in Data Visualisations",
+    question: "Why is responsiveness important in dynamic environments?",
+    answer: "It provides timely insights for decision-making."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Advantages of OLAP in Data Visualisations",
+    question: "How does the hierarchical structure of OLAP data help visualisations?",
+    answer: "It simplifies the creation of layered visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Advantages of OLAP in Data Visualisations",
+    question: "What do layered visualisations allow audiences to do?",
+    answer: "Navigate from summary information to more detailed data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Quick Recall",
+    question: "What are the key features of OLAP?",
+    answer: "Multidimensional analysis, slicing and dicing, pivoting, querying and aggregation."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Quick Recall",
+    question: "What are three major advantages of OLAP?",
+    answer: "Flexible analysis, rapid querying and detailed data exploration."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Quick Recall",
+    question: "How does OLAP improve data visualisations?",
+    answer: "It enables interactive exploration, real-time updates and layered views of data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Online Analytical Processing (OLAP)",
+    subtopic: "Quick Recall",
+    question: "Where can OLAP data be sourced from?",
+    answer: "From accumulated data stored in a data warehouse."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What is data integrity?",
+    answer: "The accuracy, consistency and reliability of data throughout its lifecycle."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "Why is data integrity important when developing data visualisations?",
+    answer: "It ensures visualisations are meaningful, accurate and trustworthy."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What can poor data integrity cause?",
+    answer: "Misleading visualisations, poor decision-making and loss of trust."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What key areas should be considered to maintain data integrity?",
+    answer: "Ownership, source, validation and risk management."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Ownership",
+    question: "What does data ownership involve?",
+    answer: "Identifying the individuals or organisations responsible for the data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Ownership",
+    question: "Why is clear data ownership important?",
+    answer: "It creates accountability for data accuracy and ethical handling."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Ownership",
+    question: "How does ownership relate to intellectual property?",
+    answer: "It ensures proper acknowledgement and respect for IP and ICIP rights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Ownership",
+    question: "What does IP stand for?",
+    answer: "Intellectual Property."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Ownership",
+    question: "What does ICIP stand for?",
+    answer: "Indigenous Cultural and Intellectual Property."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Source",
+    question: "Why should credible and authentic data sources be used?",
+    answer: "To ensure the data's legitimacy and reliability."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Source",
+    question: "Why should data sources be documented?",
+    answer: "So users can trace where the data originated."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Source",
+    question: "How does documenting sources support data integrity?",
+    answer: "It helps users verify findings and assess the credibility of the data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Validation",
+    question: "What is data validation?",
+    answer: "Checking and verifying data to confirm its accuracy and relevance."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Validation",
+    question: "Why is validation important for data visualisations?",
+    answer: "It prevents errors and inconsistencies from distorting insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Validation",
+    question: "How can datasets be validated?",
+    answer: "By cross-checking data across multiple sources."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Validation",
+    question: "What should validated data represent?",
+    answer: "Accurate and up-to-date information."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Risk",
+    question: "What risks can threaten data integrity?",
+    answer: "Errors, data manipulation and security breaches."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Risk",
+    question: "What should be done to manage data integrity risks?",
+    answer: "Identify and address potential risks to the data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Risk",
+    question: "Why should limitations be stated to an audience?",
+    answer: "To maintain transparency about the accuracy and limitations of the information."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "What are the four key aspects of data integrity?",
+    answer: "Ownership, source, validation and risk."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "Why is data integrity essential for data visualisations?",
+    answer: "It ensures the visualisation is accurate, reliable and trustworthy."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "What can happen if data is not validated?",
+    answer: "Errors or inconsistencies may distort the insights presented."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Integrity In The Development Of Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "How does transparency support data integrity?",
+    answer: "By clearly communicating data limitations, sources and potential risks."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Basic Concepts",
+    question: "What is big data?",
+    answer: "Vast and complex datasets that traditional processing systems cannot easily handle."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Basic Concepts",
+    question: "Where can big data be collected from?",
+    answer: "Sources such as social media, sensors and transactions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Basic Concepts",
+    question: "Why is big data valuable?",
+    answer: "It can provide valuable insights when properly analysed."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Basic Concepts",
+    question: "What is data warehousing?",
+    answer: "A system used to store, manage and organise large volumes of historical data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Basic Concepts",
+    question: "Where does data in a data warehouse come from?",
+    answer: "Multiple sources that are combined into a centralised location."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Basic Concepts",
+    question: "Why is data stored in a centralised data warehouse?",
+    answer: "To allow efficient retrieval, analysis and data mining."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Basic Concepts",
+    question: "How do big data and data warehousing work together?",
+    answer: "They enable organisations to analyse large datasets and make data-driven decisions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Volume",
+    question: "What does volume refer to in big data?",
+    answer: "The sheer amount of data generated and stored."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Volume",
+    question: "Why does high data volume require scalable infrastructure?",
+    answer: "Enormous datasets require large and efficient storage solutions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Volume",
+    question: "Why is processing large volumes of data resource-intensive?",
+    answer: "Large datasets require significant computing and storage resources."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Volume",
+    question: "What is an example of organisations processing enormous volumes of data?",
+    answer: "Companies such as Facebook and Google process petabytes of data daily."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Volume",
+    question: "What technologies are needed to manage high data volumes?",
+    answer: "Vast storage systems and real-time analysis tools."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Variety",
+    question: "What does variety refer to in big data?",
+    answer: "The different types and formats of data collected."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Variety",
+    question: "What are the three main types of big data?",
+    answer: "Structured, unstructured and semi-structured data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Variety",
+    question: "What types of data might need to be combined in big data systems?",
+    answer: "Text, images and video."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Variety",
+    question: "Why does data variety require specialised tools?",
+    answer: "Different data formats require specialised tools for integration and analysis."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Variety",
+    question: "How can a retail business demonstrate data variety?",
+    answer: "It may collect sales transactions, customer feedback and inventory data in different formats."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Velocity",
+    question: "What does velocity refer to in big data?",
+    answer: "The speed at which data is generated and processed."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Velocity",
+    question: "Why does high data velocity require real-time processing?",
+    answer: "To gain actionable insights before the data becomes outdated."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Velocity",
+    question: "What type of technology is needed to handle rapid data streams?",
+    answer: "Real-time data processing technologies."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Velocity",
+    question: "How do financial markets demonstrate data velocity?",
+    answer: "They process data in real time to make split-second trading decisions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Quick Recall",
+    question: "What are the three key characteristics of big data covered?",
+    answer: "Volume, variety and velocity."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Quick Recall",
+    question: "What does volume measure?",
+    answer: "The amount of data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Quick Recall",
+    question: "What does variety measure?",
+    answer: "The different types and formats of data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Quick Recall",
+    question: "What does velocity measure?",
+    answer: "The speed at which data is generated and processed."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Big Data & Data Warehousing",
+    subtopic: "Quick Recall",
+    question: "Why are volume, variety and velocity important?",
+    answer: "They describe the scale, diversity and speed of big data that organisations must manage."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Basic Concepts",
+    question: "What is enterprise data warehousing?",
+    answer: "Consolidating large volumes of data from multiple sources into a centralised location."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Basic Concepts",
+    question: "How does data warehousing support data visualisation?",
+    answer: "It provides streamlined access to consistent data for analysis and visualisation."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Basic Concepts",
+    question: "Why is centralised data important for visualisations?",
+    answer: "It supports data consistency and reliability, producing more accurate visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Basic Concepts",
+    question: "How can data warehousing improve visualisations?",
+    answer: "It allows organisations to handle large datasets and apply advanced analytics."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Basic Concepts",
+    question: "How does data warehousing benefit decision-makers?",
+    answer: "It makes visualisations more informative and actionable."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Analysis Of Historical Data",
+    question: "Why is historical data useful in data visualisation?",
+    answer: "It allows organisations to identify long-term trends, seasonality and anomalies."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Analysis Of Historical Data",
+    question: "What does a data warehouse retain?",
+    answer: "Extensive historical records from different periods and sources."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Analysis Of Historical Data",
+    question: "How can historical and current performance be compared?",
+    answer: "By visualising historical data alongside current data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Analysis Of Historical Data",
+    question: "Why is comparing historical performance useful?",
+    answer: "It supports strategic planning and informed decision-making."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Data Refinement / Optimisation",
+    question: "How does a data warehouse refine data?",
+    answer: "Data is cleaned, standardised and structured before visualisation."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Data Refinement / Optimisation",
+    question: "Why is data cleaning important?",
+    answer: "It helps eliminate inconsistencies and errors."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Data Refinement / Optimisation",
+    question: "Why is data standardisation important?",
+    answer: "It ensures data is consistent and suitable for analysis."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Data Refinement / Optimisation",
+    question: "What is the benefit of removing redundancies?",
+    answer: "It improves the clarity and efficiency of data visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Data Refinement / Optimisation",
+    question: "How does data refinement improve visual outputs?",
+    answer: "It makes visualisations clearer, more accurate and reliable."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Correlation With Current Data",
+    question: "How does enterprise data warehousing support current data analysis?",
+    answer: "It integrates historical data with current datasets."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Correlation With Current Data",
+    question: "What can comparing historical and current data reveal?",
+    answer: "Performance changes, correlations and emerging trends."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Correlation With Current Data",
+    question: "Why is tracking current performance against past benchmarks useful?",
+    answer: "It helps organisations measure progress and identify changes."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Correlation With Current Data",
+    question: "How can financial services use historical and current data together?",
+    answer: "They can compare current stock performance with historical market trends."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Correlation With Current Data",
+    question: "How can visual dashboards support financial decision-making?",
+    answer: "They can reveal correlations and trends that inform investment decisions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Correlation With Current Data",
+    question: "How does integrating historical and current data support decision-making?",
+    answer: "It enhances real-time decision-making and predictive analytics."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Quick Recall",
+    question: "What are the three major impacts of enterprise data warehousing?",
+    answer: "Historical analysis, data refinement and correlation with current data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Quick Recall",
+    question: "How does enterprise data warehousing improve data accuracy?",
+    answer: "By providing cleaned, standardised and consistent data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Quick Recall",
+    question: "How does enterprise data warehousing improve data visualisation?",
+    answer: "It enables larger datasets, historical comparisons and more reliable insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact Of Enterprise Data Warehousing On Data Visualisation",
+    subtopic: "Quick Recall",
+    question: "Why is enterprise data warehousing valuable for organisations?",
+    answer: "It transforms large amounts of data into accurate, informative and actionable visual insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Basic Concepts",
+    question: "How does big data affect data visualisation?",
+    answer: "Its volume, variety and velocity require advanced tools and techniques."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Basic Concepts",
+    question: "What must designers prioritise when working with big data?",
+    answer: "Clarity and focus to avoid overwhelming users."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Basic Concepts",
+    question: "What must developers create for big data visualisations?",
+    answer: "Scalable and responsive systems capable of handling large datasets."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Basic Concepts",
+    question: "Why must visualisations process data in real time?",
+    answer: "To present current information and actionable insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Basic Concepts",
+    question: "What has the growth of big data driven in data visualisation?",
+    answer: "Innovation in visualisation techniques."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Scope Of Visible Information",
+    question: "How does big data affect the scope of visible information?",
+    answer: "It provides access to larger and more diverse datasets."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Scope Of Visible Information",
+    question: "What can visualisations show using large and diverse datasets?",
+    answer: "Complex systems, relationships and patterns."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Scope Of Visible Information",
+    question: "How can a global supply chain use big data visualisation?",
+    answer: "It can track shipments, inventory and demand across multiple regions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Scope Of Visible Information",
+    question: "Why must designers carefully select information to display?",
+    answer: "To ensure users can focus on the most relevant data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Scope Of Visible Information",
+    question: "What problem can displaying too much information cause?",
+    answer: "It can overwhelm users and reduce clarity."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Types & Depth Of Insight",
+    question: "How does big data affect the depth of insights?",
+    answer: "Its diversity allows for deeper and more nuanced insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Types & Depth Of Insight",
+    question: "What advanced analytics can be applied to big data?",
+    answer: "Clustering, sentiment analysis and predictive modelling."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Types & Depth Of Insight",
+    question: "What can advanced analytics uncover?",
+    answer: "Patterns that were previously difficult or impossible to detect."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Types & Depth Of Insight",
+    question: "How can deeper insights improve decision-making?",
+    answer: "They enable better decisions and proactive responses to emerging challenges."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Types & Depth Of Insight",
+    question: "Why is big data useful for proactive decision-making?",
+    answer: "It can reveal emerging patterns and trends before they become major issues."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Quick Recall",
+    question: "What are the three characteristics of big data affecting visualisation?",
+    answer: "Volume, variety and velocity."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Quick Recall",
+    question: "What are two key design priorities for big data visualisations?",
+    answer: "Clarity and focus."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Quick Recall",
+    question: "What are two key development requirements for big data visualisations?",
+    answer: "Scalability and responsiveness."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Quick Recall",
+    question: "What are the two major impacts of big data on visualisation?",
+    answer: "Increased scope of visible information and depth of insight."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "How Big Data Affects The Design & Development Of Data Visualisation",
+    subtopic: "Quick Recall",
+    question: "How does big data ultimately benefit organisations?",
+    answer: "It helps them extract actionable insights and respond proactively to challenges."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What is bias in data visualisation?",
+    answer: "Distortions that cause data to be misrepresented."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "At which stages can bias occur?",
+    answer: "During data collection, storage and analysis."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "How can bias occur during data collection?",
+    answer: "Through biased sampling methods or excluding certain groups."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "How can bias occur during data storage?",
+    answer: "Through inconsistent organisation or omissions of data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "How can bias occur during data analysis?",
+    answer: "Through improper techniques or assumptions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "Why should bias be addressed at each stage?",
+    answer: "To ensure the final visualisation is fair, accurate and reliable."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Accuracy",
+    question: "How can bias affect accuracy?",
+    answer: "It can produce incorrect conclusions from the visualisation."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Accuracy",
+    question: "What can cause inaccurate visualisations?",
+    answer: "Incomplete data, measurement errors or deliberate manipulation."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Accuracy",
+    question: "How can excluding data points create bias?",
+    answer: "It can distort trends shown in a graph."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Accuracy",
+    question: "How can accuracy be maintained?",
+    answer: "Through rigorous data validation and ethical design practices."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Audience",
+    question: "Why is the intended audience important when creating visualisations?",
+    answer: "Their knowledge, needs and interpretations affect how information should be presented."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Audience",
+    question: "How can visualisations be tailored to an audience?",
+    answer: "By considering their level of expertise and cultural context."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Audience",
+    question: "How can technical jargon create bias?",
+    answer: "It can alienate or mislead viewers who do not understand it."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Audience",
+    question: "How can culturally ambiguous symbols affect audiences?",
+    answer: "They can cause miscommunication or incorrect interpretations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Data Source",
+    question: "How can the choice of data source introduce bias?",
+    answer: "A source may lack diversity or represent only a narrow perspective."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Data Source",
+    question: "Why can relying on a single data source be problematic?",
+    answer: "It may overlook important viewpoints."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Data Source",
+    question: "How can using one demographic to represent a population create bias?",
+    answer: "It can produce skewed or inaccurate conclusions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Data Source",
+    question: "How can data source bias be minimised?",
+    answer: "By using multiple credible and diverse data sources."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Unconscious Bias",
+    question: "What is unconscious bias in data visualisation?",
+    answer: "Unintentional bias caused by personal or institutional assumptions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Unconscious Bias",
+    question: "How can unconscious bias affect dataset selection?",
+    answer: "It can influence what data is included or excluded."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Unconscious Bias",
+    question: "How can unconscious bias affect visual design?",
+    answer: "It can influence what information is emphasised or how it is presented."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Unconscious Bias",
+    question: "How can colours and labels create unconscious bias?",
+    answer: "They may reinforce stereotypes or create unintended associations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Unconscious Bias",
+    question: "How can unconscious bias be reduced?",
+    answer: "By incorporating diverse perspectives during development."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "What are the four key areas for evaluating bias?",
+    answer: "Accuracy, audience, data source and unconscious bias."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "What are three stages where bias can occur?",
+    answer: "Collection, storage and analysis."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "What is one way to minimise data source bias?",
+    answer: "Use varied, credible and diverse data sources."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Evaluating Bias When Developing Data Visualisations",
+    subtopic: "Quick Recall",
+    question: "What is the overall goal when addressing bias?",
+    answer: "To create fair, accurate, reliable and inclusive visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Software Tools Used To Develop Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of software tools in data visualisation?",
+    answer: "To transform raw data into meaningful insights for decision-making."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Software Tools Used To Develop Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "How do software tools benefit enterprises?",
+    answer: "They create dynamic, accessible and engaging visualisations to support strategic decisions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Software Tools Used To Develop Data Visualisations",
+    subtopic: "Spreadsheets",
+    question: "How are spreadsheets used in data visualisation?",
+    answer: "To create charts, graphs, formulas and dashboards."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Software Tools Used To Develop Data Visualisations",
+    subtopic: "Spreadsheets",
+    question: "How do spreadsheets help users understand data?",
+    answer: "They highlight trends, patterns and relationships."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Software Tools Used To Develop Data Visualisations",
+    subtopic: "Presentations",
+    question: "How are presentations used in data visualisation?",
+    answer: "To deliver visualisations in an engaging and understandable format."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Software Tools Used To Develop Data Visualisations",
+    subtopic: "Presentations",
+    question: "How do presentations improve data communication?",
+    answer: "Through animations and interactive elements that explain complex data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Software Tools Used To Develop Data Visualisations",
+    subtopic: "Business Analytics Services",
+    question: "What are business analytics services used for?",
+    answer: "To transform raw data into actionable business insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Software Tools Used To Develop Data Visualisations",
+    subtopic: "Business Analytics Services",
+    question: "What features can business analytics services provide?",
+    answer: "Real-time analytics, predictive modelling and AI-driven insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Software Tools Used To Develop Data Visualisations",
+    subtopic: "Custom Software",
+    question: "What is custom software in data visualisation?",
+    answer: "Software designed to meet an enterprise's specific visualisation needs."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Software Tools Used To Develop Data Visualisations",
+    subtopic: "Custom Software",
+    question: "What can enterprises control when developing custom visualisation software?",
+    answer: "Data integration, user interface design and interactive features."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Spreadsheet",
+    subtopic: "Basic Concepts",
+    question: "What is spreadsheet software?",
+    answer: "Software used to create and manipulate electronic spreadsheets."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Spreadsheet",
+    subtopic: "Basic Concepts",
+    question: "How is data organised in a spreadsheet?",
+    answer: "In cells arranged into rows and columns."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Spreadsheet",
+    subtopic: "Basic Concepts",
+    question: "How are rows and columns identified?",
+    answer: "Rows use numbers, while columns use letters."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Spreadsheet",
+    subtopic: "Basic Concepts",
+    question: "What is a cell reference?",
+    answer: "An address identifying a cell, such as A1 or B6."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Spreadsheet",
+    subtopic: "Basic Concepts",
+    question: "How do cell references link spreadsheet data?",
+    answer: "They establish relationships between cells so changes can update related values."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Spreadsheet",
+    subtopic: "Spreadsheet Tools",
+    question: "What are formatting tools used for?",
+    answer: "To change cell colours, fonts, borders and conditional formatting."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Spreadsheet",
+    subtopic: "Spreadsheet Tools",
+    question: "What are functions and formulas used for?",
+    answer: "To automate calculations within cells."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Spreadsheet",
+    subtopic: "Spreadsheet Tools",
+    question: "What are graphical tools used for?",
+    answer: "To create charts and graphs that support data analysis."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Spreadsheet",
+    subtopic: "Spreadsheet Tools",
+    question: "What are sorting tools used for?",
+    answer: "To reorder data based on values in columns."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Spreadsheet",
+    subtopic: "Exporting and Examples",
+    question: "Why can spreadsheet data be exported?",
+    answer: "To use the data in other applications."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Spreadsheet",
+    subtopic: "Exporting and Examples",
+    question: "How can spreadsheet data be used in word processing software?",
+    answer: "As a data source for a mail merge."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Spreadsheet",
+    subtopic: "Exporting and Examples",
+    question: "What are examples of spreadsheet software?",
+    answer: "Microsoft Excel, Google Sheets and Apple Numbers."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools Used To Develop Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "How do spreadsheets support data visualisation?",
+    answer: "They transform raw data into visual insights using charts, graphs and dashboards."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools Used To Develop Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "Why are spreadsheets useful for data-driven decision-making?",
+    answer: "They organise, analyse and format data to reveal trends, patterns and relationships."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools Used To Develop Data Visualisations",
+    subtopic: "Spreadsheet Tools",
+    question: "What are charts and graphs used for?",
+    answer: "To represent data visually using formats such as line, bar and pie charts."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools Used To Develop Data Visualisations",
+    subtopic: "Spreadsheet Tools",
+    question: "What are pivot tables and pivot charts used for?",
+    answer: "To summarise datasets and interactively explore trends."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools Used To Develop Data Visualisations",
+    subtopic: "Spreadsheet Tools",
+    question: "What is conditional formatting?",
+    answer: "Highlighting cells using colours based on defined criteria."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools Used To Develop Data Visualisations",
+    subtopic: "Spreadsheet Tools",
+    question: "What are slicers and filters used for?",
+    answer: "To interactively narrow data for focused analysis."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools Used To Develop Data Visualisations",
+    subtopic: "Spreadsheet Tools",
+    question: "What is data linking across sheets?",
+    answer: "Connecting data between sheets or workbooks so visualisations update dynamically."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools Used To Develop Data Visualisations",
+    subtopic: "Spreadsheet Tools",
+    question: "What are What-If analysis tools used for?",
+    answer: "To explore possible outcomes and visualise their impacts on data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools Used To Develop Data Visualisations",
+    subtopic: "Spreadsheet Tools",
+    question: "What are form controls?",
+    answer: "Interactive elements such as dropdown menus, sliders and buttons."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools Used To Develop Data Visualisations",
+    subtopic: "Spreadsheet Tools",
+    question: "How does predictive analysis support visualisation?",
+    answer: "Trendlines help identify patterns and project future values."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools Used To Develop Data Visualisations",
+    subtopic: "Spreadsheet Tools",
+    question: "What are data validation tools used for?",
+    answer: "To ensure accurate data entry and improve visualisation reliability."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools Used To Develop Data Visualisations",
+    subtopic: "Spreadsheet Tools",
+    question: "What are spreadsheet templates used for?",
+    answer: "To provide pre-designed layouts for charts and dashboards."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools In Action",
+    subtopic: "Basic Concepts",
+    question: "What information did the car sales dashboard display?",
+    answer: "Car sales figures and information about each car's manufacturer."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools In Action",
+    subtopic: "Basic Concepts",
+    question: "How was data from other worksheets used in the dashboard?",
+    answer: "Data was linked from other worksheets to create dynamic visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools In Action",
+    subtopic: "Spreadsheet Tools in Action",
+    question: "What charts were used in the car sales dashboard?",
+    answer: "Line charts and column charts."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools In Action",
+    subtopic: "Spreadsheet Tools in Action",
+    question: "How were pivot tables and pivot charts used?",
+    answer: "To summarise sales data and explore trends in car sales."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools In Action",
+    subtopic: "Spreadsheet Tools in Action",
+    question: "How was conditional formatting used?",
+    answer: "To highlight the top and bottom 10% of sales over the years."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools In Action",
+    subtopic: "Spreadsheet Tools in Action",
+    question: "How were slicers and filters used?",
+    answer: "To filter sales by manufacturer and compare their performance."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools In Action",
+    subtopic: "Spreadsheet Tools in Action",
+    question: "How was data linking across sheets used?",
+    answer: "To connect data from other worksheets within the spreadsheet file to create visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Presentation",
+    subtopic: "Basic Concepts",
+    question: "What is presentation software?",
+    answer: "Software used to create multimedia presentations for audiences or to support a speaker."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Presentation",
+    subtopic: "Basic Concepts",
+    question: "Why is presentation software often used with a projector?",
+    answer: "To enlarge slides so an audience can view them clearly."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Presentation",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of presentation software?",
+    answer: "To make information colourful, engaging and easy to understand."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Presentation",
+    subtopic: "Presentation Software Tools",
+    question: "What are master slides used for?",
+    answer: "To create consistent templates with shared colours, headings and layouts."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Presentation",
+    subtopic: "Presentation Software Tools",
+    question: "What are print options used for?",
+    answer: "To produce paper copies of slides, including multiple slides per page."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Presentation",
+    subtopic: "Presentation Software Tools",
+    question: "What are animations and slide transitions used for?",
+    answer: "To attract attention through movement and visual effects."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Presentation",
+    subtopic: "Presentation Software Tools",
+    question: "What types of media can presentation software include?",
+    answer: "Text, images, audio, video, animations, charts and tables."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Presentation",
+    subtopic: "Presentation Software Tools",
+    question: "What are narration and timing features used for?",
+    answer: "To add spoken audio and control when slides or elements appear."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Presentation",
+    subtopic: "Other Uses and Examples",
+    question: "What is another use of presentation software besides presentations?",
+    answer: "Creating information kiosks that allow users to access information."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Types of Software: Presentation",
+    subtopic: "Other Uses and Examples",
+    question: "What are examples of presentation software?",
+    answer: "Microsoft PowerPoint, Google Slides and Apple Keynote."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Presentation Tools Used To Develop Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "How does presentation software support data visualisation?",
+    answer: "It communicates complex data through clear, engaging visual stories."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Presentation Tools Used To Develop Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What features make presentation software effective for data communication?",
+    answer: "Charts, graphs, infographics, animations and interactive elements."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Presentation Tools Used To Develop Data Visualisations",
+    subtopic: "Presentation Software Tools",
+    question: "What are embedded charts and graphs used for?",
+    answer: "To import charts from spreadsheets or create visuals within presentations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Presentation Tools Used To Develop Data Visualisations",
+    subtopic: "Presentation Software Tools",
+    question: "What are slide templates used for?",
+    answer: "To provide consistent, professional layouts for presenting data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Presentation Tools Used To Develop Data Visualisations",
+    subtopic: "Presentation Software Tools",
+    question: "What are SmartArt and infographics used for?",
+    answer: "To represent information visually using diagrams, flowcharts and graphics."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Presentation Tools Used To Develop Data Visualisations",
+    subtopic: "Presentation Software Tools",
+    question: "What are animations and transitions used for?",
+    answer: "To reveal data and trends sequentially and engage audiences."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Presentation Tools Used To Develop Data Visualisations",
+    subtopic: "Presentation Software Tools",
+    question: "What are text and image overlays used for?",
+    answer: "To add annotations that explain and clarify visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Presentation Tools Used To Develop Data Visualisations",
+    subtopic: "Presentation Software Tools",
+    question: "What are interactive elements used for?",
+    answer: "To link slides or external data and embed videos or animations for further exploration."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Presentation Tools Used To Develop Data Visualisations",
+    subtopic: "Presentation Software Tools",
+    question: "What are data tables used for?",
+    answer: "To display raw or summarised data alongside charts."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Presentation Tools Used To Develop Data Visualisations",
+    subtopic: "Presentation Software Tools",
+    question: "What are exporting options used for?",
+    answer: "To convert presentations into formats such as PDF or video for distribution."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Presentation Tools Used To Develop Data Visualisations",
+    subtopic: "Presentation Software Tools",
+    question: "What are speaker notes used for?",
+    answer: "To provide the presenter with context and talking points when explaining visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services Used To Develop Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What are business analytics services used for?",
+    answer: "To transform raw data into actionable insights for enterprise decision-making."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services Used To Develop Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What advanced capabilities can business analytics services provide?",
+    answer: "Real-time analytics, predictive modelling and AI-driven insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services Used To Develop Data Visualisations",
+    subtopic: "Business Analytics Services Tools",
+    question: "What are interactive dashboards used for?",
+    answer: "To display real-time, customisable overviews of key performance indicators (KPIs) and metrics."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services Used To Develop Data Visualisations",
+    subtopic: "Business Analytics Services Tools",
+    question: "What is data integration and connectivity?",
+    answer: "Combining data from sources such as databases, cloud services and APIs."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services Used To Develop Data Visualisations",
+    subtopic: "Business Analytics Services Tools",
+    question: "What are advanced chart types?",
+    answer: "Visualisations such as heat maps, waterfall charts and geographic maps."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services Used To Develop Data Visualisations",
+    subtopic: "Business Analytics Services Tools",
+    question: "What are predictive analytics tools used for?",
+    answer: "Forecasting trends and simulating future scenarios using machine learning algorithms."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services Used To Develop Data Visualisations",
+    subtopic: "Business Analytics Services Tools",
+    question: "How do AI and natural language querying support visualisation?",
+    answer: "They generate visualisations automatically or answer questions written in plain language."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services Used To Develop Data Visualisations",
+    subtopic: "Business Analytics Services Tools",
+    question: "What are drill-down capabilities?",
+    answer: "Features that let users explore detailed data behind high-level visualisations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services Used To Develop Data Visualisations",
+    subtopic: "Business Analytics Services Tools",
+    question: "What are data modelling and transformation tools used for?",
+    answer: "To structure and manipulate datasets before visualisation."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services Used To Develop Data Visualisations",
+    subtopic: "Business Analytics Services Tools",
+    question: "What are collaboration and sharing features used for?",
+    answer: "To share visualisations and resources with teams or clients through cloud platforms."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services Used To Develop Data Visualisations",
+    subtopic: "Business Analytics Services Tools",
+    question: "What are exporting and embedding options used for?",
+    answer: "To export visualisations into different formats or embed them in other tools."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services Used To Develop Data Visualisations",
+    subtopic: "Business Analytics Services Tools",
+    question: "What are security and permissions management tools used for?",
+    answer: "To control user access and protect sensitive data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Basic Concepts",
+    question: "What are cloud computing services?",
+    answer: "Technology solutions delivered over the internet."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Basic Concepts",
+    question: "What are the three main types of cloud computing services?",
+    answer: "IaaS, SaaS and PaaS."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Basic Concepts",
+    question: "Why do enterprises use different cloud computing services?",
+    answer: "To meet different technical requirements with varying levels of control and management."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Infrastructure as a Service (IaaS)",
+    question: "What is Infrastructure as a Service (IaaS)?",
+    answer: "A service providing virtualised computing resources over the internet."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Infrastructure as a Service (IaaS)",
+    question: "What are examples of IaaS components?",
+    answer: "Virtual servers, network connections, bandwidth, IP addresses and load balancers."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Infrastructure as a Service (IaaS)",
+    question: "When is IaaS commonly used?",
+    answer: "For temporary workloads, experiments or unexpected increases in demand."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Infrastructure as a Service (IaaS)",
+    question: "What is a key benefit of IaaS?",
+    answer: "Scalability without needing to own and manage all physical infrastructure."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Software as a Service (SaaS)",
+    question: "What is Software as a Service (SaaS)?",
+    answer: "Software applications delivered over the internet, usually through a subscription."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Software as a Service (SaaS)",
+    question: "What are examples of SaaS applications?",
+    answer: "Office software, communication tools and other cloud-based business applications."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Software as a Service (SaaS)",
+    question: "Who commonly uses SaaS and why?",
+    answer: "End-users who want to use software without managing its installation, maintenance or scaling."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Software as a Service (SaaS)",
+    question: "When is SaaS particularly useful?",
+    answer: "When applications need web or mobile access."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Platform as a Service (PaaS)",
+    question: "What is Platform as a Service (PaaS)?",
+    answer: "A cloud platform for developing, running and managing applications without managing the underlying infrastructure."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Platform as a Service (PaaS)",
+    question: "What are examples of PaaS components?",
+    answer: "Development tools, database management systems and business analytics services."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Platform as a Service (PaaS)",
+    question: "Who commonly uses PaaS and why?",
+    answer: "Developers who want to build applications without configuring servers, networks, storage and databases."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Cloud Computing Services",
+    subtopic: "Platform as a Service (PaaS)",
+    question: "What is a key benefit of PaaS?",
+    answer: "Faster application development and deployment."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services In Action",
+    subtopic: "Basic Concepts",
+    question: "How does YouTube demonstrate business analytics services?",
+    answer: "Through analytics tools that help creators understand video performance and audience behaviour."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services In Action",
+    subtopic: "Basic Concepts",
+    question: "How is YouTube classified in the provided example?",
+    answer: "As a Platform as a Service (PaaS) product."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services In Action",
+    subtopic: "Basic Concepts",
+    question: "How does YouTube allow creators to engage with audiences?",
+    answer: "Through likes, comments and sharing features."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services In Action",
+    subtopic: "Business Analytics Services Tools",
+    question: "How are interactive dashboards used in YouTube Analytics?",
+    answer: "To display video performance and key audience metrics."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services In Action",
+    subtopic: "Business Analytics Services Tools",
+    question: "How are charts used in YouTube Analytics?",
+    answer: "To show trends in views, playlist activity and audience demographics."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services In Action",
+    subtopic: "Business Analytics Services Tools",
+    question: "How does predictive analytics support YouTube creators?",
+    answer: "Machine learning analyses viewing trends to suggest ideas for future videos."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services In Action",
+    subtopic: "Business Analytics Services Tools",
+    question: "What are drill-down capabilities used for in YouTube Analytics?",
+    answer: "To explore detailed audience data and viewing trends."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Business Analytics Services In Action",
+    subtopic: "Business Analytics Services Tools",
+    question: "How do collaboration and sharing features support creators?",
+    answer: "They allow analytics and resources to be shared with team members or clients."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Custom Software Used To Develop Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What is custom software in data visualisation?",
+    answer: "Software designed to meet an organisation's specific data visualisation needs."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Custom Software Used To Develop Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "How does custom software differ from commercial solutions?",
+    answer: "It provides greater control over data integration, interface design and interactive features."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Custom Software Used To Develop Data Visualisations",
+    subtopic: "Advantages of Developing Custom Software",
+    question: "What are tailored features and functionality?",
+    answer: "Features designed for specific enterprise needs that standard tools may lack."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Custom Software Used To Develop Data Visualisations",
+    subtopic: "Advantages of Developing Custom Software",
+    question: "How does custom software provide scalability?",
+    answer: "It can be expanded as an enterprise grows."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Custom Software Used To Develop Data Visualisations",
+    subtopic: "Advantages of Developing Custom Software",
+    question: "What is integration with proprietary systems?",
+    answer: "Connecting custom software with an organisation's internal systems or specialised software."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Custom Software Used To Develop Data Visualisations",
+    subtopic: "Advantages of Developing Custom Software",
+    question: "How does custom software support branding and custom design?",
+    answer: "It allows full control over visual appearance and enterprise branding."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Custom Software Used To Develop Data Visualisations",
+    subtopic: "Advantages of Developing Custom Software",
+    question: "How does custom software optimise performance?",
+    answer: "It is built for specific processing needs, improving speed and responsiveness."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Custom Software Used To Develop Data Visualisations",
+    subtopic: "Advantages of Developing Custom Software",
+    question: "How can custom software enhance security?",
+    answer: "Through features such as encryption and role-based access controls."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Custom Software Used To Develop Data Visualisations",
+    subtopic: "Advantages of Developing Custom Software",
+    question: "How can custom software become cost-effective over time?",
+    answer: "It can eliminate recurring licensing fees despite higher initial development costs."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Custom Software Used To Develop Data Visualisations",
+    subtopic: "Advantages of Developing Custom Software",
+    question: "How does custom software provide flexibility and control?",
+    answer: "It gives the enterprise control over the software and reduces reliance on third-party providers."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Custom Software Used To Develop Data Visualisations",
+    subtopic: "Advantages of Developing Custom Software",
+    question: "What are niche use cases?",
+    answer: "Specialised requirements that standard software may not support."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Custom Software Used To Develop Data Visualisations",
+    subtopic: "Advantages of Developing Custom Software",
+    question: "How does custom software enhance user experience?",
+    answer: "By tailoring interfaces and workflows to users' needs and expertise."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interrogate Data From A Data Visualisation",
+    subtopic: "Basic Concepts",
+    question: "What does it mean to interrogate data from a visualisation?",
+    answer: "Critically analysing data to identify patterns, trends, anomalies and meaningful insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interrogate Data From A Data Visualisation",
+    subtopic: "Basic Concepts",
+    question: "Why is interrogating data important?",
+    answer: "To check accuracy, understand implications and support informed decision-making."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interrogate Data From A Data Visualisation",
+    subtopic: "Tools and Techniques",
+    question: "What does interpreting what you see involve?",
+    answer: "Identifying relationships, patterns, peaks and dips in a visualisation."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interrogate Data From A Data Visualisation",
+    subtopic: "Tools and Techniques",
+    question: "What are outliers?",
+    answer: "Data points that differ significantly from the rest of a dataset."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interrogate Data From A Data Visualisation",
+    subtopic: "Tools and Techniques",
+    question: "Why should outliers be investigated?",
+    answer: "They may indicate errors, unusual events or valuable insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interrogate Data From A Data Visualisation",
+    subtopic: "Tools and Techniques",
+    question: "What is aggregation?",
+    answer: "Summarising data by combining data points into groups."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interrogate Data From A Data Visualisation",
+    subtopic: "Tools and Techniques",
+    question: "How can aggregation help data analysis?",
+    answer: "It makes data easier to understand, compare and use for decision-making."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interrogate Data From A Data Visualisation",
+    subtopic: "Tools and Techniques",
+    question: "What is filtering in data visualisation?",
+    answer: "Narrowing displayed data using specific fields or criteria."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interrogate Data From A Data Visualisation",
+    subtopic: "Tools and Techniques",
+    question: "Why is filtering useful?",
+    answer: "It focuses analysis on relevant information and removes distractions from unrelated data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interrogate Data From A Data Visualisation",
+    subtopic: "Tools and Techniques",
+    question: "What is reasoning when interrogating data?",
+    answer: "Drawing logical conclusions using observed patterns, anomalies and contextual knowledge."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Interrogate Data From A Data Visualisation",
+    subtopic: "Tools and Techniques",
+    question: "Why is critical thinking important when reasoning from visualisations?",
+    answer: "It helps evaluate possible causes, impacts and appropriate actions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Principles of User Experience (UX)",
+    subtopic: "Basic Concepts",
+    question: "What is User Experience (UX)?",
+    answer: "How users feel when interacting with a system."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Principles of User Experience (UX)",
+    subtopic: "Basic Concepts",
+    question: "Why is UX important in system development?",
+    answer: "Positive experiences encourage users to return and recommend the system to others."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Principles of User Experience (UX)",
+    subtopic: "Principles of UX Design",
+    question: "What is user-centred design?",
+    answer: "Prioritising users' needs and the target audience throughout the design process."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Principles of User Experience (UX)",
+    subtopic: "Principles of UX Design",
+    question: "What is navigation in UX design?",
+    answer: "Making a system easy to learn, use and move through."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Principles of User Experience (UX)",
+    subtopic: "Principles of UX Design",
+    question: "What is consistency in UX design?",
+    answer: "Maintaining uniform visual elements, functions and terminology to reduce confusion."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Principles of User Experience (UX)",
+    subtopic: "Principles of UX Design",
+    question: "What is simplicity in UX design?",
+    answer: "Avoiding unnecessary information and actions to make interactions straightforward."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Principles of User Experience (UX)",
+    subtopic: "Principles of UX Design",
+    question: "What is interactivity in UX design?",
+    answer: "How users interact with a system and how it responds to their inputs."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Principles of User Experience (UX)",
+    subtopic: "Principles of UX Design",
+    question: "What is contextual design?",
+    answer: "Designing a system to suit its intended environment, devices and users' needs."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Principles of User Experience (UX)",
+    subtopic: "Principles of UX Design",
+    question: "What is accessibility in UX design?",
+    answer: "Ensuring people with different physical and cognitive abilities can use the system."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Principles of User Experience (UX)",
+    subtopic: "Principles of UX Design",
+    question: "What is feedback in UX design?",
+    answer: "Clear, timely responses that inform users about the results of their actions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Principles of User Experience (UX)",
+    subtopic: "Principles of UX Design",
+    question: "Why is response time important in UX?",
+    answer: "Quick responses keep users informed and make interactions feel responsive and satisfying."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Graphic Design Tools Supporting the Development of Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of graphic design tools in data visualisation?",
+    answer: "To improve the visual appeal, clarity and accessibility of complex information."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Graphic Design Tools Supporting the Development of Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "How can graphic design tools improve data visualisations?",
+    answer: "By customising layouts, typography, colours, branding and visual elements."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Graphic Design Tools Supporting the Development of Data Visualisations",
+    subtopic: "Graphic Design Features",
+    question: "How do colour palettes support data visualisations?",
+    answer: "They create consistent, audience-appropriate colours that highlight important data and trends."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Graphic Design Tools Supporting the Development of Data Visualisations",
+    subtopic: "Graphic Design Features",
+    question: "How do typography options improve data visualisations?",
+    answer: "Customising fonts, alignment and text styles improves the readability of labels, headings and annotations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Graphic Design Tools Supporting the Development of Data Visualisations",
+    subtopic: "Graphic Design Features",
+    question: "What is the purpose of iconography in data visualisations?",
+    answer: "To use icons, shapes and illustrations to communicate information more clearly."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Graphic Design Tools Supporting the Development of Data Visualisations",
+    subtopic: "Graphic Design Features",
+    question: "What are integration tools used for?",
+    answer: "Importing visualisations from spreadsheets or analytics software for further editing."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Graphic Design Tools Supporting the Development of Data Visualisations",
+    subtopic: "Graphic Design Features",
+    question: "Why is exporting important in graphic design tools?",
+    answer: "It allows high-resolution visualisations to be used in presentations, reports and digital platforms."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Graphic Design Tools Supporting the Development of Data Visualisations",
+    subtopic: "Graphic Design Features",
+    question: "How can animation tools enhance data visualisations?",
+    answer: "By using movement to highlight changes or present information in a sequence."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Graphic Design Tools Supporting the Development of Data Visualisations",
+    subtopic: "Graphic Design Features",
+    question: "What are reusable templates used for?",
+    answer: "To maintain consistent visualisation designs across different projects and presentations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "User Experience (UX) Influencing the Development of Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "How does UX influence the development of data visualisations?",
+    answer: "It ensures visualisations are intuitive, engaging, accessible and suited to the audience."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "User Experience (UX) Influencing the Development of Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "How can good UX improve decision-making?",
+    answer: "By helping users understand, explore and interpret data effectively."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "User Experience (UX) Influencing the Development of Data Visualisations",
+    subtopic: "UX Factors",
+    question: "Why is relevance to the audience important?",
+    answer: "It ensures the visualisation addresses the audience’s needs and interests, improving engagement."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "User Experience (UX) Influencing the Development of Data Visualisations",
+    subtopic: "UX Factors",
+    question: "How can audience interpretation be supported?",
+    answer: "By choosing suitable visual formats, such as line graphs or pie charts, and adding helpful annotations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "User Experience (UX) Influencing the Development of Data Visualisations",
+    subtopic: "UX Factors",
+    question: "What is customisation in data visualisation?",
+    answer: "Allowing users to adjust visualisations to suit their needs and preferences."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "User Experience (UX) Influencing the Development of Data Visualisations",
+    subtopic: "UX Factors",
+    question: "What are examples of customisation features?",
+    answer: "Interactive filters, adjustable chart settings and personalised dashboards."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "User Experience (UX) Influencing the Development of Data Visualisations",
+    subtopic: "UX Factors",
+    question: "What is live analysis in data visualisation?",
+    answer: "Using real-time updates and dynamic interactions to monitor changing data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "User Experience (UX) Influencing the Development of Data Visualisations",
+    subtopic: "UX Factors",
+    question: "How does live analysis benefit users?",
+    answer: "It helps users identify changing trends and respond quickly to new information."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Criteria for Evaluating User Experience (UX)",
+    subtopic: "Basic Concepts",
+    question: "Why is it important to evaluate UX in data visualisations?",
+    answer: "To ensure visualisations are accessible, engaging, meaningful and support decision-making."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Criteria for Evaluating User Experience (UX)",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of UX evaluation criteria?",
+    answer: "To assess how effectively a visualisation communicates insights and supports user interaction."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Criteria for Evaluating User Experience (UX)",
+    subtopic: "Evaluation Criteria",
+    question: "What is usability?",
+    answer: "How easily users can navigate, interact with and understand a visualisation."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Criteria for Evaluating User Experience (UX)",
+    subtopic: "Evaluation Criteria",
+    question: "What is clarity?",
+    answer: "How effectively a visualisation communicates trends, patterns and insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Criteria for Evaluating User Experience (UX)",
+    subtopic: "Evaluation Criteria",
+    question: "What is relevance?",
+    answer: "How well the data meets the audience’s needs and expectations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Criteria for Evaluating User Experience (UX)",
+    subtopic: "Evaluation Criteria",
+    question: "What is customisation?",
+    answer: "Providing features such as filters, drill-down options and user preferences."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Criteria for Evaluating User Experience (UX)",
+    subtopic: "Evaluation Criteria",
+    question: "What is accessibility?",
+    answer: "Ensuring visualisations can be used by people with different abilities, including those using assistive technologies."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Criteria for Evaluating User Experience (UX)",
+    subtopic: "Evaluation Criteria",
+    question: "What is visual appeal?",
+    answer: "How effectively colours, layout and contrast make a visualisation attractive and understandable."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Criteria for Evaluating User Experience (UX)",
+    subtopic: "Evaluation Criteria",
+    question: "What is performance and responsiveness?",
+    answer: "How quickly and efficiently a visualisation updates and responds to user interactions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Criteria for Evaluating User Experience (UX)",
+    subtopic: "Evaluation Criteria",
+    question: "What is contextual support?",
+    answer: "Providing labels and explanations that help users interpret the data correctly."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact of Emerging Technologies",
+    subtopic: "Basic Concepts",
+    question: "How are emerging technologies changing UI and UX design?",
+    answer: "By improving interactivity, efficiency, personalisation and accessibility across platforms."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact of Emerging Technologies",
+    subtopic: "Basic Concepts",
+    question: "What technological developments are influencing modern UI/UX design?",
+    answer: "Automation, real-time data processing and adaptive interfaces."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact of Emerging Technologies",
+    subtopic: "Examples of Emerging Technologies",
+    question: "How do AI and machine learning improve UX?",
+    answer: "By personalising interfaces, predicting user needs and automatically adjusting designs based on behaviour."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact of Emerging Technologies",
+    subtopic: "Examples of Emerging Technologies",
+    question: "How do AR and VR enhance user experience?",
+    answer: "By creating immersive environments where users interact with data in virtual or real-world settings."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact of Emerging Technologies",
+    subtopic: "Examples of Emerging Technologies",
+    question: "What do gesture recognition and haptic feedback provide?",
+    answer: "Touchless controls and sensory responses that improve interaction."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact of Emerging Technologies",
+    subtopic: "Examples of Emerging Technologies",
+    question: "How does cloud computing improve UI/UX?",
+    answer: "By supporting real-time responsiveness and powerful web-based applications."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact of Emerging Technologies",
+    subtopic: "Examples of Emerging Technologies",
+    question: "How do wearable and IoT devices affect UI/UX design?",
+    answer: "They expand interaction with smart devices, supporting automation and decision-making."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "The Impact of Emerging Technologies",
+    subtopic: "Examples of Emerging Technologies",
+    question: "How can blockchain improve UX security?",
+    answer: "By increasing trust in digital transactions and identity verification through decentralised systems."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Appropriate for a Visualisation",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of data visualisation?",
+    answer: "To transform raw data into graphical representations that communicate insights, highlight trends and support decision-making."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Appropriate for a Visualisation",
+    subtopic: "Basic Concepts",
+    question: "What are the four key steps in preparing data for visualisation?",
+    answer: "Research, source data, organise data and store data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Appropriate for a Visualisation",
+    subtopic: "Preparing Data for Visualisation",
+    question: "What happens during the research stage?",
+    answer: "Identify the purpose, target audience and relevant datasets from credible sources."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Appropriate for a Visualisation",
+    subtopic: "Preparing Data for Visualisation",
+    question: "Why is understanding the target audience important?",
+    answer: "It helps determine how to structure the visualisation and communicate key insights effectively."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Appropriate for a Visualisation",
+    subtopic: "Preparing Data for Visualisation",
+    question: "What happens during the source data stage?",
+    answer: "Collect structured or unstructured data from databases, APIs, surveys or public sources."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Appropriate for a Visualisation",
+    subtopic: "Preparing Data for Visualisation",
+    question: "Why must data be accurate and reliable?",
+    answer: "Poor-quality data can produce misleading visualisations and incorrect conclusions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Appropriate for a Visualisation",
+    subtopic: "Preparing Data for Visualisation",
+    question: "What happens when organising data?",
+    answer: "Clean, filter and format data to remove errors, redundancies and inconsistencies."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Appropriate for a Visualisation",
+    subtopic: "Preparing Data for Visualisation",
+    question: "What is data transformation?",
+    answer: "Changing data into a suitable format for meaningful analysis and visualisation."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Appropriate for a Visualisation",
+    subtopic: "Preparing Data for Visualisation",
+    question: "How can data be stored for visualisation?",
+    answer: "In spreadsheets, cloud databases or data warehouses."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Appropriate for a Visualisation",
+    subtopic: "Preparing Data for Visualisation",
+    question: "Why is effective data storage important?",
+    answer: "It keeps data accessible, secure, up-to-date and easy to retrieve."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Basic Concepts",
+    question: "Why are spreadsheets useful for data visualisation?",
+    answer: "They organise, summarise and analyse large datasets to identify trends and support decision-making."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Spreadsheet Functions",
+    question: "What does SUM do?",
+    answer: "Adds numerical values to calculate a total."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Spreadsheet Functions",
+    question: "What does AVERAGE do?",
+    answer: "Calculates the mean of numerical values."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Spreadsheet Functions",
+    question: "What do MAX and MIN do?",
+    answer: "MAX finds the highest value; MIN finds the lowest value."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Spreadsheet Functions",
+    question: "What does COUNT do?",
+    answer: "Counts numerical values in a selected range, ignoring blanks and text."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Spreadsheet Functions",
+    question: "What does ABS do?",
+    answer: "Returns the absolute value of a number, removing its negative sign."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Spreadsheet Functions",
+    question: "What does SQRT do?",
+    answer: "Calculates the square root of a number."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Spreadsheet Functions",
+    question: "What does INT do?",
+    answer: "Rounds a number down to the nearest whole number."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Spreadsheet Functions",
+    question: "What does MOD do?",
+    answer: "Returns the remainder after division."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Spreadsheet Functions",
+    question: "What does STDEV do?",
+    answer: "Measures how spread out values are within a dataset."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Spreadsheet Functions",
+    question: "What does IF do?",
+    answer: "Returns different results depending on whether a condition is met."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Spreadsheet Functions",
+    question: "What does LOOKUP do?",
+    answer: "Searches for a value and retrieves related information."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Data Organisation and Formatting",
+    question: "What is conditional formatting?",
+    answer: "Automatically applies colours, icons or data bars based on rules to highlight patterns, trends and outliers."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Data Organisation and Formatting",
+    question: "What is sorting?",
+    answer: "Arranging data in ascending or descending order by values, dates or text."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Data Organisation and Formatting",
+    question: "What is filtering?",
+    answer: "Displaying only data that meets selected criteria while temporarily hiding other rows."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Charts and Graphs",
+    question: "What is a bar chart used for?",
+    answer: "Comparing values across categories using horizontal bars."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Charts and Graphs",
+    question: "What is a column chart used for?",
+    answer: "Comparing categories or showing changes over time using vertical bars."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Charts and Graphs",
+    question: "What is a line graph used for?",
+    answer: "Showing trends over time by connecting data points."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Charts and Graphs",
+    question: "What is a pie chart used for?",
+    answer: "Showing proportions or percentages of a whole."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Charts and Graphs",
+    question: "What is a scatter plot used for?",
+    answer: "Showing relationships or correlations between two numerical variables."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Charts and Graphs",
+    question: "What is a histogram used for?",
+    answer: "Showing the frequency distribution of numerical data grouped into ranges."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Charts and Graphs",
+    question: "What is an area chart used for?",
+    answer: "Showing trends over time with the area beneath a line filled in, often highlighting cumulative values."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Charts and Graphs",
+    question: "What is a bubble chart used for?",
+    answer: "Showing relationships between variables, with bubble size representing an additional variable."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Charts and Graphs",
+    question: "What is a radar chart used for?",
+    answer: "Comparing multiple attributes across categories on a circular graph."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Charts and Graphs",
+    question: "What is a waterfall chart used for?",
+    answer: "Showing how positive and negative changes contribute to a final total, often in financial analysis."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Advanced Spreadsheet Tools",
+    question: "What is data consolidation?",
+    answer: "Combining information from multiple sources into a central worksheet for comprehensive analysis."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Advanced Spreadsheet Tools",
+    question: "What is a pivot table?",
+    answer: "A tool that summarises, filters and reorganises large datasets without changing the original data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Advanced Spreadsheet Tools",
+    question: "What is a pivot chart?",
+    answer: "A chart that visually represents pivot table summaries to make trends and relationships easier to understand."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Visualisation Tools (Spreadsheets)",
+    subtopic: "Advanced Spreadsheet Tools",
+    question: "How do pivot tables and pivot charts support business decisions?",
+    answer: "They simplify large datasets, reveal patterns and enable faster, more informed decisions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Developing Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of developing a data visualisation?",
+    answer: "To transform raw data into meaningful information that communicates insights and supports decision-making."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Developing Data Visualisations",
+    subtopic: "Basic Concepts",
+    question: "What should be considered when designing a data visualisation?",
+    answer: "Appropriate visual elements, logical data structure and the needs of the target audience."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Developing Data Visualisations",
+    subtopic: "Trends, Patterns and Relationships",
+    question: "Why are trends, patterns and relationships important in data visualisation?",
+    answer: "They help users interpret complex data and identify important insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Developing Data Visualisations",
+    subtopic: "Trends, Patterns and Relationships",
+    question: "How can charts and graphs reveal insights?",
+    answer: "By showing changes over time, relationships between variables and unusual data values."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Developing Data Visualisations",
+    subtopic: "Trends, Patterns and Relationships",
+    question: "What is an anomaly in a dataset?",
+    answer: "A data value that differs significantly from the expected pattern."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Developing Data Visualisations",
+    subtopic: "Predictive Analysis and Big Data",
+    question: "What is predictive analysis?",
+    answer: "Using existing data to forecast future outcomes and trends."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Developing Data Visualisations",
+    subtopic: "Predictive Analysis and Big Data",
+    question: "How can predictive visualisations support decision-making?",
+    answer: "They help organisations anticipate future changes and plan strategies."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Developing Data Visualisations",
+    subtopic: "Predictive Analysis and Big Data",
+    question: "How can a company use predictive visualisations?",
+    answer: "To forecast future demand using historical sales data and external factors, such as economic trends."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Developing Data Visualisations",
+    subtopic: "Predictive Analysis and Big Data",
+    question: "How can big data improve data visualisation?",
+    answer: "It enables large amounts of structured and unstructured data to be analysed for deeper insights."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Developing Data Visualisations",
+    subtopic: "Predictive Analysis and Big Data",
+    question: "What is the role of a data warehouse in data visualisation?",
+    answer: "It stores large amounts of data for efficient analysis and visualisation to support decision-making."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Developing Data Visualisations",
+    subtopic: "Predictive Analysis and Big Data",
+    question: "What tools can display predictive analysis results?",
+    answer: "Forecasting charts and AI-driven dashboards."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Basic Concepts",
+    question: "Why is data security important in an enterprise?",
+    answer: "To protect data from unauthorised access, theft, alteration and loss."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Basic Concepts",
+    question: "What is a risk assessment?",
+    answer: "Identifying system vulnerabilities and prioritising security risks."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Basic Concepts",
+    question: "What is a layered security strategy?",
+    answer: "Using multiple preventive and reactive security measures to protect systems and data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Security Measures",
+    question: "What are secure login procedures?",
+    answer: "Passwords, biometrics and multi-factor authentication (MFA) used to verify user identity."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Security Measures",
+    question: "Why are access levels and user permissions important?",
+    answer: "They restrict access to data and system functions based on a user's role."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Security Measures",
+    question: "What is the purpose of a firewall?",
+    answer: "To filter incoming and outgoing network traffic and block unauthorised connections."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Security Measures",
+    question: "What is encryption?",
+    answer: "Converting data into an unreadable format to protect it from unauthorised access, both when stored and transmitted."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Security Measures",
+    question: "What is an intrusion detection system?",
+    answer: "A system that monitors activity to identify potential unauthorised access or suspicious behaviour."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Security Measures",
+    question: "Why are regular software updates important for security?",
+    answer: "They fix vulnerabilities and help protect systems against cyber threats."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Security Measures",
+    question: "Why are data storage and backup procedures important?",
+    answer: "They protect against data loss and support data recovery."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Employee Responsibilities and Incident Response",
+    question: "Why is employee security training necessary?",
+    answer: "It reduces human error and teaches workers to protect data integrity and confidentiality."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Employee Responsibilities and Incident Response",
+    question: "What is an incident response plan?",
+    answer: "A documented plan outlining the steps to take when a security breach occurs."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Employee Responsibilities and Incident Response",
+    question: "Why must enterprises comply with relevant laws and regulations?",
+    answer: "To meet legal obligations and protect sensitive information."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Security",
+    subtopic: "Employee Responsibilities and Incident Response",
+    question: "What is the difference between preventive and reactive security measures?",
+    answer: "Preventive measures reduce the chance of an attack; reactive measures help detect, respond to and recover from incidents."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 1",
+    subtopic: "Password Protection",
+    question: "What is password protection?",
+    answer: "Using a secret combination of characters to authenticate users and prevent unauthorised access."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 1",
+    subtopic: "Password Protection",
+    question: "What factors affect password security?",
+    answer: "Strength, complexity, how frequently passwords are changed and whether they are reused."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 1",
+    subtopic: "Biometrics",
+    question: "What is biometric authentication?",
+    answer: "Verifying a user's identity using unique biological characteristics."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 1",
+    subtopic: "Biometrics",
+    question: "What are examples of biometric authentication?",
+    answer: "Fingerprint scanning and facial recognition."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 1",
+    subtopic: "Biometrics",
+    question: "Why is biometric authentication difficult to replicate?",
+    answer: "Biometric characteristics are specific to individual users."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 1",
+    subtopic: "Multi-Factor Authentication (MFA)",
+    question: "What is multi-factor authentication (MFA)?",
+    answer: "Verifying a user's identity using two or more authentication factors."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 1",
+    subtopic: "Multi-Factor Authentication (MFA)",
+    question: "What is two-factor authentication (2FA)?",
+    answer: "Authentication that requires two separate factors to verify a user's identity."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 1",
+    subtopic: "Multi-Factor Authentication (MFA)",
+    question: "How does MFA improve data security?",
+    answer: "It adds extra verification steps, making unauthorised access more difficult."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 1",
+    subtopic: "Multi-Factor Authentication (MFA)",
+    question: "What is an example of MFA?",
+    answer: "Entering a password followed by a verification code sent by SMS or email."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 1",
+    subtopic: "Permissions",
+    question: "What are user permissions?",
+    answer: "Rules that determine which information users can access and what actions they can perform."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 1",
+    subtopic: "Permissions",
+    question: "Why are permissions important?",
+    answer: "They restrict access to sensitive information and reduce the risk of unauthorised changes."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 1",
+    subtopic: "Permissions",
+    question: "What are examples of user permissions?",
+    answer: "Read-only, edit, comment and share."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 1",
+    subtopic: "Permissions",
+    question: "How do permissions help protect organisational data?",
+    answer: "They ensure users can only view or modify information they are authorised to access."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 2",
+    subtopic: "Encryption",
+    question: "What is encryption?",
+    answer: "Scrambling data using an encryption key so unauthorised users cannot understand it."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 2",
+    subtopic: "Encryption",
+    question: "What is the purpose of an encryption key?",
+    answer: "It is used to encrypt or decrypt data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 2",
+    subtopic: "Encryption",
+    question: "What is decryption?",
+    answer: "Converting encrypted data back into readable form using the required key."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 2",
+    subtopic: "Encryption",
+    question: "When can encryption protect data?",
+    answer: "When data is stored or transmitted across a network."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 2",
+    subtopic: "Firewalls",
+    question: "What is a firewall?",
+    answer: "Software or hardware that filters network traffic using predetermined security rules."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 2",
+    subtopic: "Firewalls",
+    question: "How does a firewall protect a network?",
+    answer: "It assesses incoming and outgoing data packets and helps block malicious traffic."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 2",
+    subtopic: "Antivirus and Anti-Malware",
+    question: "What is malware?",
+    answer: "Software designed to harm, disrupt or gain unauthorised access to a system or network."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 2",
+    subtopic: "Antivirus and Anti-Malware",
+    question: "What is antivirus and anti-malware software used for?",
+    answer: "Scanning systems to detect and help remove malicious software."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 2",
+    subtopic: "Antivirus and Anti-Malware",
+    question: "What is a virus signature?",
+    answer: "A known sequence or pattern of code associated with a particular malicious program."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 2",
+    subtopic: "Antivirus and Anti-Malware",
+    question: "How does signature-based detection identify malware?",
+    answer: "It compares files or code against known malware signatures."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 2",
+    subtopic: "Intrusion Detection",
+    question: "What is intrusion detection software?",
+    answer: "Software that monitors activity to identify attempted or successful unauthorised access."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 2",
+    subtopic: "Intrusion Detection",
+    question: "How does intrusion detection software help administrators?",
+    answer: "It alerts administrators to potential intrusions so they can investigate and respond."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 3",
+    subtopic: "Backup and Disaster Recovery",
+    question: "What is a data backup?",
+    answer: "A copy of data stored on a separate medium or site to prevent data loss."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 3",
+    subtopic: "Backup and Disaster Recovery",
+    question: "Where can backups be stored?",
+    answer: "On external devices, network locations or cloud storage."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 3",
+    subtopic: "Backup and Disaster Recovery",
+    question: "What is data recovery?",
+    answer: "Restoring backed-up data to an operational system."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 3",
+    subtopic: "Backup and Disaster Recovery",
+    question: "What is disaster recovery?",
+    answer: "The process of restoring systems and data after a disruptive event."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 3",
+    subtopic: "Backup and Disaster Recovery",
+    question: "Why should organisations regularly back up data and test recovery plans?",
+    answer: "To minimise downtime and restore operations quickly after data loss or a disaster."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 3",
+    subtopic: "Physical Security",
+    question: "What is physical security?",
+    answer: "Protecting physical infrastructure, such as servers and data centres, from unauthorised access, damage and theft."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 3",
+    subtopic: "Physical Security",
+    question: "What are examples of physical security measures?",
+    answer: "Secure access controls, surveillance systems and environmental protection."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 3",
+    subtopic: "Isolation",
+    question: "What is data isolation?",
+    answer: "Separating sensitive data or systems from other network areas to reduce unauthorised access and the spread of threats."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 3",
+    subtopic: "Isolation",
+    question: "What is network segmentation?",
+    answer: "Dividing a network into separate sections or secure zones to limit access and contain threats."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 3",
+    subtopic: "Isolation",
+    question: "How can encrypted storage support isolation?",
+    answer: "It helps protect highly confidential data from being understood by unauthorised users."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 3",
+    subtopic: "Isolation",
+    question: "What is containerisation?",
+    answer: "Isolating applications and their dependencies in separate environments."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Strategies Used to Protect Data Part 3",
+    subtopic: "Isolation",
+    question: "How does isolation improve data security?",
+    answer: "It limits access to sensitive information and reduces the spread of security threats."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "System Access Security Measures",
+    subtopic: "CAPTCHA",
+    question: "What does CAPTCHA stand for?",
+    answer: "Completely Automated Public Turing Test to Tell Computers and Humans Apart."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "System Access Security Measures",
+    subtopic: "CAPTCHA",
+    question: "What is the purpose of CAPTCHA?",
+    answer: "To distinguish human users from automated bots and prevent unauthorised automated access."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "System Access Security Measures",
+    subtopic: "CAPTCHA",
+    question: "What are examples of CAPTCHA challenges?",
+    answer: "Identifying objects in images, solving word problems or completing equations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "System Access Security Measures",
+    subtopic: "Automatic Software Updates",
+    question: "What is the purpose of automatic software updates?",
+    answer: "To install security patches that fix vulnerabilities in software."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "System Access Security Measures",
+    subtopic: "Automatic Software Updates",
+    question: "How do automatic updates improve security?",
+    answer: "They help protect systems against emerging threats that hackers or malware could exploit."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "System Access Security Measures",
+    subtopic: "Automatic Software Updates",
+    question: "Why should software be kept up to date?",
+    answer: "Updates address security weaknesses and help protect devices and networks."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "System Access Security Measures",
+    subtopic: "Trusted Platform Module (TPM)",
+    question: "What is a Trusted Platform Module (TPM)?",
+    answer: "A specialised hardware chip that provides security functions using cryptographic keys."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "System Access Security Measures",
+    subtopic: "Trusted Platform Module (TPM)",
+    question: "What security functions can a TPM support?",
+    answer: "Secure boot, full-disk encryption and hardware authentication."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "System Access Security Measures",
+    subtopic: "Trusted Platform Module (TPM)",
+    question: "How does a TPM protect data?",
+    answer: "It securely stores encryption keys and helps prevent unauthorised access to a device's data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "System Access Security Measures",
+    subtopic: "Trusted Platform Module (TPM)",
+    question: "What is secure boot?",
+    answer: "A process that checks trusted software components during startup to help prevent unauthorised or malicious software from loading."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "System Access Security Measures",
+    subtopic: "Trusted Platform Module (TPM)",
+    question: "Why are TPMs useful for system access security?",
+    answer: "They provide hardware-based protection for devices, operating systems and sensitive data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Basic Concepts",
+    question: "What is a data backup?",
+    answer: "Creating a copy of data on separate storage to prevent data loss."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Basic Concepts",
+    question: "What is data recovery?",
+    answer: "Restoring backed-up data to the operational system."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Basic Concepts",
+    question: "Why are backups important?",
+    answer: "They allow data to be restored after loss, damage or corruption."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Basic Concepts",
+    question: "What can cause data loss?",
+    answer: "Electronic failure, hardware faults, software errors, data corruption, user errors and cybersecurity incidents."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Types of Backups",
+    question: "What is a full backup?",
+    answer: "A copy of all data within a system."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Types of Backups",
+    question: "What is a partial backup?",
+    answer: "A backup that copies only files changed since the last full backup, saving time and storage resources."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Types of Backups",
+    question: "What must be performed before partial backups can be used as described?",
+    answer: "An initial full backup."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Types of Backups",
+    question: "Why are partial backups performed more frequently than full backups?",
+    answer: "They require fewer resources and take less time to complete."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Backup Software and Services",
+    question: "What is the purpose of backup software and services?",
+    answer: "To automate data backups and help restore lost or damaged files."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Backup Software and Services",
+    question: "What is automated backup scheduling?",
+    answer: "Setting backups to occur automatically at specified times or intervals."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Backup Software and Services",
+    question: "How do backup tools support different backup types?",
+    answer: "They allow full and partial backups to be selected and used together."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Backup Software and Services",
+    question: "Why can users select specific files for backups?",
+    answer: "To control which data is copied and manage storage resources."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Backup Software and Services",
+    question: "What is backup file compression?",
+    answer: "Reducing backup file sizes to save storage space."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Data Backup & Recovery",
+    subtopic: "Backup Software and Services",
+    question: "How do historical file versions support recovery?",
+    answer: "They allow users to restore earlier versions of files when current versions are lost, damaged or incorrect."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Cells, Columns and Rows",
+    question: "What is a spreadsheet?",
+    answer: "A grid of cells organised into rows and columns."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Cells, Columns and Rows",
+    question: "How are rows and columns labelled in a spreadsheet?",
+    answer: "Rows use numbers and columns use letters."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Cells, Columns and Rows",
+    question: "What is a cell reference?",
+    answer: "A unique address identifying a cell, such as A1 or C22."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Formatting Spreadsheet Data",
+    question: "Why is spreadsheet formatting important?",
+    answer: "It improves readability, appearance and understanding of data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Formatting Spreadsheet Data",
+    question: "What are examples of spreadsheet formatting tools?",
+    answer: "Borders, cell shading and text alignment."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Formulas and Functions",
+    question: "What is a spreadsheet formula?",
+    answer: "An expression that performs calculations using values or cell references."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Formulas and Functions",
+    question: "What does the formula =A1+B1 do?",
+    answer: "Adds the values in cells A1 and B1."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Formulas and Functions",
+    question: "How can users display formulas instead of calculated results?",
+    answer: "Use the Ctrl + ` keyboard shortcut in supported spreadsheet software."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Formulas and Functions",
+    question: "What is a spreadsheet function?",
+    answer: "A predefined formula that simplifies calculations using reserved function names."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Formulas and Functions",
+    question: "What are examples of spreadsheet functions?",
+    answer: "SUM, AVERAGE, MAX and MIN."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Formulas and Functions",
+    question: "What is a cell range?",
+    answer: "A group of cells, such as C1:C5, which includes cells C1 through C5."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Relative and Absolute Referencing",
+    question: "What is relative referencing?",
+    answer: "A cell reference that automatically changes when a formula is copied to another location."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Relative and Absolute Referencing",
+    question: "What happens when =A1+B1 is copied from C1 to C2?",
+    answer: "The formula adjusts to =A2+B2."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Relative and Absolute Referencing",
+    question: "What is absolute referencing?",
+    answer: "A reference that remains fixed when a formula is copied."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Relative and Absolute Referencing",
+    question: "How is an absolute cell reference written?",
+    answer: "Using dollar signs before the column and row, such as $A$1."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Relative and Absolute Referencing",
+    question: "When is absolute referencing useful?",
+    answer: "When multiple formulas need to reference the same constant cell."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Sorting and Filtering",
+    question: "What is sorting in a spreadsheet?",
+    answer: "Arranging data into a specific order."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Sorting and Filtering",
+    question: "What are the three main Sort & Filter options?",
+    answer: "Sort A to Z, Sort Z to A and Custom Sort."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Sorting and Filtering",
+    question: "What is the difference between sorting and filtering?",
+    answer: "Sorting rearranges data; filtering displays only data that meets selected criteria."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Charts and Graphs",
+    question: "Why are charts and graphs used in spreadsheets?",
+    answer: "To summarise data visually and make patterns and comparisons easier to understand."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Charts and Graphs",
+    question: "What are column and bar charts used for?",
+    answer: "Comparing numerical values across categories using vertical or horizontal bars."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Charts and Graphs",
+    question: "What is a line graph used for?",
+    answer: "Showing changes over time and comparing data series."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Charts and Graphs",
+    question: "What is a pie chart used for?",
+    answer: "Showing proportions or parts of a whole."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Charts and Graphs",
+    question: "What is a doughnut chart?",
+    answer: "A chart similar to a pie chart but with a hole in the centre."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Charts and Graphs",
+    question: "What is an area chart used for?",
+    answer: "Showing changes over time, with the area beneath the data line filled in."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Charts and Graphs",
+    question: "What is a radar chart used for?",
+    answer: "Comparing multiple data values relative to a central point."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Charts and Graphs",
+    question: "What are the basic steps for creating a chart?",
+    answer: "Select the data range, including labels, then choose a chart type from the Insert tab."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Charts and Graphs",
+    question: "What can users customise after creating a chart?",
+    answer: "Titles, labels, colours, fonts, chart type and selected data series."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Charts and Graphs",
+    question: "What does Select Data allow users to do?",
+    answer: "Add or remove data series, adjust category labels and change the chart's data range."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Conditional Formatting",
+    question: "What is conditional formatting?",
+    answer: "Automatically changing a cell's appearance when specified conditions are met."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Conditional Formatting",
+    question: "What can conditional formatting change?",
+    answer: "Font colour, cell shading and border styles."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Conditional Formatting",
+    question: "How do users create a conditional formatting rule?",
+    answer: "Select Conditional Formatting, choose New Rule and define the required conditions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Tables, Filters and Slicers",
+    question: "What is a spreadsheet table?",
+    answer: "A structured dataset that supports automatic formatting, sorting, filtering and structured references."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Tables, Filters and Slicers",
+    question: "How do spreadsheet tables handle new data?",
+    answer: "They can expand automatically to include new entries in formatting and calculations."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Tables, Filters and Slicers",
+    question: "What is a spreadsheet filter?",
+    answer: "A tool that displays only records meeting selected text, numerical or date criteria."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Tables, Filters and Slicers",
+    question: "What is a slicer?",
+    answer: "An interactive set of buttons used to filter tables or pivot tables visually."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Tables, Filters and Slicers",
+    question: "How do slicers differ from traditional filters?",
+    answer: "Slicers use clickable buttons instead of dropdown menus."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Pivot Tables and Pivot Charts",
+    question: "What is a pivot table?",
+    answer: "A tool that summarises, groups and filters large datasets without changing the original data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Pivot Tables and Pivot Charts",
+    question: "What calculations can pivot tables perform?",
+    answer: "Totals, averages, counts and percentages."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Pivot Tables and Pivot Charts",
+    question: "How do pivot tables help identify trends?",
+    answer: "They reorganise data to reveal patterns, such as sales by region or performance over time."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Pivot Tables and Pivot Charts",
+    question: "What is a pivot chart?",
+    answer: "A visual representation of summarised pivot table data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Pivot Tables and Pivot Charts",
+    question: "How do pivot charts respond to changes in pivot tables?",
+    answer: "They update automatically to reflect changes in the summarised data."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Spreadsheet Data Validation",
+    question: "What is data validation?",
+    answer: "Checking that entered data meets predefined rules before it is accepted."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Spreadsheet Data Validation",
+    question: "Why is data validation important?",
+    answer: "It improves accuracy, consistency, data integrity and reliability."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Spreadsheet Data Validation",
+    question: "What is a type check?",
+    answer: "Ensures data matches the required type, such as text, numbers or dates."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Spreadsheet Data Validation",
+    question: "What is a range check?",
+    answer: "Ensures a value falls within specified minimum and maximum limits."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Spreadsheet Data Validation",
+    question: "What is a format check?",
+    answer: "Ensures data follows a required pattern, such as an email address format."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Spreadsheet Data Validation",
+    question: "What is a presence check?",
+    answer: "Ensures a required field is not left blank."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Spreadsheet Data Validation",
+    question: "What is a length check?",
+    answer: "Ensures data contains the required number of characters."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Spreadsheet Data Validation",
+    question: "What is a consistency check?",
+    answer: "Ensures related data is logically consistent, such as a start date occurring before an end date."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Spreadsheet Data Validation",
+    question: "What is check digit validation?",
+    answer: "Uses a calculation to check whether a number, such as a credit card number, is valid."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Spreadsheet Data Validation",
+    question: "What data types can spreadsheet validation rules restrict?",
+    answer: "Whole numbers, decimals, dates, times and text length."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Spreadsheet Data Validation",
+    question: "What does Circle Invalid Data do?",
+    answer: "Highlights cells containing values that violate validation rules."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Spreadsheet Data Validation",
+    question: "What do validation input messages and error alerts do?",
+    answer: "Guide users when entering data and warn them when an entry is invalid."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "IF Function and Conditional Logic",
+    question: "What is conditional logic?",
+    answer: "Producing different outputs depending on whether specified conditions are met."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "IF Function and Conditional Logic",
+    question: "What does the IF function do?",
+    answer: "Returns one result if a condition is true and another if it is false."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "IF Function and Conditional Logic",
+    question: "What does =IF(B4=\"Win\",3,0) do?",
+    answer: "Returns 3 if B4 contains \"Win\"; otherwise, it returns 0."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "IF Function and Conditional Logic",
+    question: "How can IF functions support calculations in organisations?",
+    answer: "They can calculate wages, overtime, penalty rates, tax deductions and bonuses based on conditions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "IF Function and Conditional Logic",
+    question: "How can IF functions support what-if analysis?",
+    answer: "They show how different inputs or conditions affect results."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "LOOKUP and VLOOKUP Functions",
+    question: "What is the purpose of the LOOKUP function?",
+    answer: "To search for a value and return corresponding information from another row or column."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "LOOKUP and VLOOKUP Functions",
+    question: "What is a lookup value?",
+    answer: "The value being searched for, such as a product ID or employee code."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "LOOKUP and VLOOKUP Functions",
+    question: "What is a lookup vector?",
+    answer: "The row or column containing the values to search."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "LOOKUP and VLOOKUP Functions",
+    question: "What is a result vector?",
+    answer: "The row or column containing the corresponding values to return."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "LOOKUP and VLOOKUP Functions",
+    question: "What does =LOOKUP(A5,C2:C20,B2:B20) do?",
+    answer: "Searches for A5 in C2:C20 and returns the corresponding value from B2:B20."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "LOOKUP and VLOOKUP Functions",
+    question: "What is VLOOKUP?",
+    answer: "A function that searches the first column of a table and returns a related value from another column in the same row."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "LOOKUP and VLOOKUP Functions",
+    question: "What are the four VLOOKUP arguments?",
+    answer: "Lookup value, table array, column index number and range lookup."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "LOOKUP and VLOOKUP Functions",
+    question: "What is the lookup value in VLOOKUP?",
+    answer: "The value to search for in the table."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "LOOKUP and VLOOKUP Functions",
+    question: "What is the table array in VLOOKUP?",
+    answer: "The range containing both the lookup column and the result column."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "LOOKUP and VLOOKUP Functions",
+    question: "What is the column index number in VLOOKUP?",
+    answer: "The position of the column containing the value to return, counted from the first column of the table array."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "LOOKUP and VLOOKUP Functions",
+    question: "What do TRUE and FALSE mean in VLOOKUP?",
+    answer: "TRUE requests an approximate match; FALSE requests an exact match."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "LOOKUP and VLOOKUP Functions",
+    question: "What does =VLOOKUP(A2,B2:D10,3,FALSE) do?",
+    answer: "Searches for A2 in the first column of B2:D10 and returns the matching value from the third column using an exact match."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "LOOKUP and VLOOKUP Functions",
+    question: "How does LOOKUP improve spreadsheet efficiency?",
+    answer: "It retrieves related information automatically, reducing manual searching and errors."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Functions for Data Analysis",
+    question: "How do MAX and MIN support data analysis?",
+    answer: "They identify the highest and lowest values in a dataset."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Functions for Data Analysis",
+    question: "How does AVERAGE support data analysis?",
+    answer: "It calculates the mean to summarise typical values."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Functions for Data Analysis",
+    question: "How does STDEV support data analysis?",
+    answer: "It measures how spread out values are within a dataset."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Budget Spreadsheets",
+    question: "How are spreadsheets used for budgeting?",
+    answer: "To record costs, mark-ups and sales, calculate profit or loss, and plan future spending."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Budget Spreadsheets",
+    question: "How can formulas and charts support budgeting?",
+    answer: "Formulas calculate totals and tax, while charts reveal spending patterns and support predictions."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Object Linking and Embedding (OLE)",
+    question: "What is Object Linking and Embedding (OLE)?",
+    answer: "A technology that allows content from one application, such as a spreadsheet, to be used in another application."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Object Linking and Embedding (OLE)",
+    question: "What are examples of using OLE?",
+    answer: "Including spreadsheet content in a PowerPoint presentation or attaching spreadsheet content to a Word document."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Object Linking and Embedding (OLE)",
+    question: "What are linking and embedding?",
+    answer: "Linking connects to the original content; embedding places a copy of the content inside another document."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Macros",
+    question: "What is a spreadsheet macro?",
+    answer: "A recorded or programmed sequence of actions that can be executed automatically."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Macros",
+    question: "How can a macro be executed?",
+    answer: "By using an assigned keyboard shortcut or button."
+  },
+  {
+    unit: "Unit 2: Data Visualisation",
+    topic: "Spreadsheet Tools and Functions",
+    subtopic: "Macros",
+    question: "What are the benefits of macros?",
+    answer: "They save time, automate repetitive tasks and improve consistency by repeating the same steps."
+  },
+	
+{
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Basic Concepts",
+    question: "What is an intelligent system?",
+    answer: "A system that uses data and automated processes to make decisions, solve problems or perform tasks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Basic Concepts",
+    question: "How do intelligent systems simulate human thinking?",
+    answer: "By using knowledge, rules, data and reasoning to reach conclusions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Basic Concepts",
+    question: "How do intelligent systems benefit enterprises?",
+    answer: "They improve decision-making, automate tasks and increase efficiency."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Basic Concepts",
+    question: "What are examples of intelligent system technologies?",
+    answer: "Expert systems, machine learning, neural networks, robotics and predictive analytics."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Expert Systems",
+    question: "What is an expert system?",
+    answer: "A system that uses stored knowledge and rules to solve problems or provide expert advice."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Expert Systems",
+    question: "What are the main components of an expert system?",
+    answer: "A knowledge base, rule set and inference engine."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Expert Systems",
+    question: "What is a knowledge base?",
+    answer: "A collection of facts and specialist knowledge used by an expert system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Expert Systems",
+    question: "What is a rule set?",
+    answer: "A collection of rules that determine how a system responds to information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Expert Systems",
+    question: "What is an inference engine?",
+    answer: "The component that applies rules to known facts to draw conclusions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Expert Systems",
+    question: "What are certainty factors?",
+    answer: "Values that represent the level of confidence in a conclusion when information is uncertain."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Decision Support Systems",
+    question: "What is a decision support system (DSS)?",
+    answer: "A computer system that analyses information to help people make decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Decision Support Systems",
+    question: "What is a structured decision?",
+    answer: "A routine decision made using clear rules and procedures."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Decision Support Systems",
+    question: "What is a semi-structured decision?",
+    answer: "A decision involving both established procedures and human judgement."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Decision Support Systems",
+    question: "What is an unstructured decision?",
+    answer: "A complex or unfamiliar decision that relies heavily on judgement and experience."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Intelligent System Technologies",
+    question: "What is machine learning?",
+    answer: "A technology that enables systems to learn patterns from data and improve their performance."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Intelligent System Technologies",
+    question: "What is a neural network?",
+    answer: "A computing model made of interconnected artificial neurons that learns patterns from data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Intelligent System Technologies",
+    question: "What is robotics?",
+    answer: "The use of programmable machines to perform tasks automatically or with limited human control."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Intelligent System Technologies",
+    question: "What is predictive analytics?",
+    answer: "Using historical data, statistical methods and models to predict future outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Intelligent System Technologies",
+    question: "What is the Internet of Things (IoT)?",
+    answer: "A network of connected physical devices that collect and exchange data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Applications of Intelligent Systems",
+    question: "How can intelligent systems be used in education?",
+    answer: "They can personalise learning, provide automated feedback and track student progress."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Applications of Intelligent Systems",
+    question: "How are intelligent systems used in business analytics?",
+    answer: "They analyse business data to identify trends and support decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Applications of Intelligent Systems",
+    question: "How are intelligent systems used in smart homes?",
+    answer: "They automate devices such as lights, heating, security systems and appliances."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Applications of Intelligent Systems",
+    question: "How are intelligent systems used in surveillance?",
+    answer: "They can analyse camera feeds, detect unusual activity and identify potential threats."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Applications of Intelligent Systems",
+    question: "Why are intelligent systems useful in high-risk environments?",
+    answer: "They can perform dangerous tasks while reducing risks to human workers."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Modelling and Designing Intelligent Systems",
+    question: "What is the purpose of modelling an intelligent system?",
+    answer: "To represent its logic, processes and behaviour before implementation."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Modelling and Designing Intelligent Systems",
+    question: "What is a flowchart used for?",
+    answer: "To show the steps and decision points in a process using symbols and arrows."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Modelling and Designing Intelligent Systems",
+    question: "What is a decision tree?",
+    answer: "A diagram that represents choices and their possible outcomes through branching paths."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Modelling and Designing Intelligent Systems",
+    question: "What is a Data Flow Diagram (DFD)?",
+    answer: "A diagram showing how data moves through a system, including its processes, stores and external entities."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Modelling and Designing Intelligent Systems",
+    question: "Why are diagrams useful when designing intelligent systems?",
+    answer: "They make system logic, data movement and decision-making easier to understand and communicate."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Simulation, Automation and Computational Thinking",
+    question: "How do intelligent systems support simulation?",
+    answer: "They model real-world situations so outcomes can be tested without directly affecting the real environment."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Simulation, Automation and Computational Thinking",
+    question: "How do intelligent systems support automation?",
+    answer: "They perform tasks and processes with reduced human intervention."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Simulation, Automation and Computational Thinking",
+    question: "What is real-time decision-making?",
+    answer: "Making decisions using information as it becomes available, allowing rapid responses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Simulation, Automation and Computational Thinking",
+    question: "What is computational thinking?",
+    answer: "A problem-solving approach involving decomposition, pattern recognition, abstraction and algorithm design."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Intelligent Systems",
+    subtopic: "Simulation, Automation and Computational Thinking",
+    question: "How does computational thinking help create intelligent systems?",
+    answer: "It helps developers break down problems, identify patterns, simplify information and design logical solutions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Intelligent Systems Explained",
+    subtopic: "Basic Concepts",
+    question: "What is an intelligent system?",
+    answer: "A computer-based system that simulates human intelligence by processing data and making decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Intelligent Systems Explained",
+    subtopic: "Basic Concepts",
+    question: "What are the main functions of an intelligent system?",
+    answer: "Sensing data, processing information, solving problems, recognising patterns and adapting to changes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Intelligent Systems Explained",
+    subtopic: "Basic Concepts",
+    question: "What is an autonomous decision?",
+    answer: "A decision made by a system independently, without direct human intervention."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Intelligent Systems Explained",
+    subtopic: "Basic Concepts",
+    question: "What is a semi-autonomous decision?",
+    answer: "A decision made by a system with some human guidance or oversight."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Intelligent Systems Explained",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of intelligent systems?",
+    answer: "To improve productivity, accuracy and responsiveness in tasks requiring human reasoning."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Intelligent Systems Explained",
+    subtopic: "Types of Intelligent Systems",
+    question: "What is a Decision Support System (DSS)?",
+    answer: "A system that analyses information to help people make decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Intelligent Systems Explained",
+    subtopic: "Types of Intelligent Systems",
+    question: "What is an expert system?",
+    answer: "A system that uses stored knowledge and rules to provide advice or solve problems."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Intelligent Systems Explained",
+    subtopic: "Types of Intelligent Systems",
+    question: "What is a Machine Learning (ML) system?",
+    answer: "A system that learns patterns from data to make predictions or improve performance."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Intelligent Systems Explained",
+    subtopic: "Applications and Benefits",
+    question: "Where are intelligent systems commonly used?",
+    answer: "Healthcare, automation, customer service and data analytics."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Intelligent Systems Explained",
+    subtopic: "Applications and Benefits",
+    question: "How do intelligent systems improve decision-making?",
+    answer: "They process data and identify patterns to provide useful insights."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Intelligent Systems Explained",
+    subtopic: "Applications and Benefits",
+    question: "How can intelligent systems reduce human error?",
+    answer: "They automate tasks and apply consistent rules or processes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Intelligent Systems Explained",
+    subtopic: "Applications and Benefits",
+    question: "How do intelligent systems support real-time interaction?",
+    answer: "They process incoming data and respond quickly to changing conditions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Decision Support Systems (DSS)",
+    subtopic: "Basic Concepts",
+    question: "What is a Decision Support System (DSS)?",
+    answer: "An intelligent system that analyses data to help users make informed decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Decision Support Systems (DSS)",
+    subtopic: "Basic Concepts",
+    question: "What are the main components of a DSS?",
+    answer: "Data, analytical models and user-friendly software."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Decision Support Systems (DSS)",
+    subtopic: "Basic Concepts",
+    question: "What types of decisions can a DSS support?",
+    answer: "Structured, semi-structured and unstructured decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Decision Support Systems (DSS)",
+    subtopic: "Basic Concepts",
+    question: "What is what-if modelling in a DSS?",
+    answer: "Testing different scenarios to predict possible outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Decision Support Systems (DSS)",
+    subtopic: "Basic Concepts",
+    question: "How do dashboards and simulations support decision-making?",
+    answer: "They present data visually and allow users to evaluate possible outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Decision Support Systems (DSS)",
+    subtopic: "Healthcare",
+    question: "How are DSSs used in healthcare?",
+    answer: "They analyse patient data, medical records and clinical guidelines to support diagnosis and treatment planning."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Decision Support Systems (DSS)",
+    subtopic: "Healthcare",
+    question: "How do DSSs improve patient safety?",
+    answer: "They help reduce medical errors and support better clinical decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Decision Support Systems (DSS)",
+    subtopic: "Healthcare",
+    question: "Why is human judgement important in healthcare DSSs?",
+    answer: "Many medical decisions are semi-structured and require professional expertise."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Decision Support Systems (DSS)",
+    subtopic: "Finance",
+    question: "How are DSSs used in finance?",
+    answer: "They manage investment portfolios, assess credit risk and analyse economic scenarios."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Decision Support Systems (DSS)",
+    subtopic: "Finance",
+    question: "How do DSSs support financial decisions?",
+    answer: "They process large datasets and provide predictive insights to reduce uncertainty."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Decision Support Systems (DSS)",
+    subtopic: "Manufacturing",
+    question: "How are DSSs used in manufacturing?",
+    answer: "They optimise production schedules, manage inventory and forecast demand."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Decision Support Systems (DSS)",
+    subtopic: "Manufacturing",
+    question: "How do DSSs improve manufacturing efficiency?",
+    answer: "They support resource allocation, coordinate supply-chain data and minimise operational delays."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Basic Concepts",
+    question: "What are the three categories of decision-making in a DSS?",
+    answer: "Unstructured, semi-structured and structured."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Basic Concepts",
+    question: "What determines the category of a decision?",
+    answer: "The amount of human judgement required and how much the process can be automated."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Unstructured Decisions",
+    question: "What is an unstructured decision?",
+    answer: "A complex decision with no clear set of rules or predictable algorithmic process."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Unstructured Decisions",
+    question: "What is required for unstructured decisions?",
+    answer: "Expert judgement, experience and insight."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Unstructured Decisions",
+    question: "How does a DSS support unstructured decisions?",
+    answer: "By providing dashboards, trend visualisations and forecasting tools to assist human analysis."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Unstructured Decisions",
+    question: "Give an example of an unstructured decision.",
+    answer: "Deciding a long-term business strategy during an unpredictable market change."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Semi-Structured Decisions",
+    question: "What is a semi-structured decision?",
+    answer: "A decision that combines predefined rules with human judgement."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Semi-Structured Decisions",
+    question: "What is the role of a DSS in semi-structured decisions?",
+    answer: "It processes data and applies rules, while humans use judgement to make the final decision."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Semi-Structured Decisions",
+    question: "Give two examples of semi-structured decisions.",
+    answer: "Budgeting and tactical planning."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Structured Decisions",
+    question: "What is a structured decision?",
+    answer: "A decision governed by clear, predefined rules and logic."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Structured Decisions",
+    question: "How are structured decisions usually made?",
+    answer: "Automatically using algorithms, thresholds or IF–THEN logic, with minimal human intervention."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Structured Decisions",
+    question: "What are the benefits of structured decision-making?",
+    answer: "Faster, more consistent decisions with fewer errors."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Structured Decisions",
+    question: "Give an example of a structured decision.",
+    answer: "Automatically approving a transaction when it meets predefined criteria."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Comparing Decision Types",
+    question: "Which decision type requires the most human judgement?",
+    answer: "Unstructured decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Comparing Decision Types",
+    question: "Which decision type combines human judgement with predefined rules?",
+    answer: "Semi-structured decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Categories of Decision-Making Within DSS",
+    subtopic: "Comparing Decision Types",
+    question: "Which decision type is most suitable for full automation?",
+    answer: "Structured decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "Basic Concepts",
+    question: "What is an expert system?",
+    answer: "An intelligent system that replicates a human expert’s decision-making within a specific field."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "Basic Concepts",
+    question: "What are the benefits of expert systems?",
+    answer: "They provide consistent, logical and reliable advice, improving efficiency when expertise is limited or expensive."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "Basic Concepts",
+    question: "In which fields are expert systems used?",
+    answer: "Medicine, engineering, finance and customer support."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "Knowledge Base",
+    question: "What is a knowledge base?",
+    answer: "The component that stores facts, rules and relationships used to make decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "Knowledge Base",
+    question: "Where does the knowledge in an expert system come from?",
+    answer: "Human experts and specialised knowledge within a particular field."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "Knowledge Base",
+    question: "How is knowledge commonly represented in an expert system?",
+    answer: "Using IF–THEN rules."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "Knowledge Base",
+    question: "How does the knowledge base affect an expert system?",
+    answer: "Its quality directly affects the system’s accuracy and usefulness."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "Inference Engine",
+    question: "What is an inference engine?",
+    answer: "The component that applies logical reasoning and rules to input data to reach conclusions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "Inference Engine",
+    question: "What is forward chaining?",
+    answer: "Reasoning that starts with known facts and applies rules to reach a conclusion."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "Inference Engine",
+    question: "What is backward chaining?",
+    answer: "Reasoning that starts with a possible conclusion and works backwards to check whether known facts support it."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "Inference Engine",
+    question: "What is the difference between forward and backward chaining?",
+    answer: "Forward chaining moves from facts to conclusions; backward chaining moves from a possible conclusion to supporting facts."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "User Interface (UI)",
+    question: "What is the purpose of the user interface in an expert system?",
+    answer: "It allows users to enter information, answer questions and receive recommendations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "User Interface (UI)",
+    question: "What makes an effective expert system UI?",
+    answer: "It is accessible, easy to use and clearly presents outcomes and reasoning."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Key Features of Expert Systems",
+    subtopic: "User Interface (UI)",
+    question: "How does the UI improve trust in an expert system?",
+    answer: "By making its recommendations and reasoning understandable to users."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Basic Concepts",
+    question: "Where are expert systems commonly used?",
+    answer: "Healthcare, engineering, manufacturing, logistics and other fields requiring specialised expertise."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Basic Concepts",
+    question: "Why are expert systems useful in complex environments?",
+    answer: "They provide fast, consistent and accurate decisions, especially for repetitive or data-intensive tasks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Diagnostics",
+    question: "How are expert systems used in diagnostics?",
+    answer: "They analyse symptoms, faults, test results and other data to identify possible causes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Diagnostics",
+    question: "How are expert systems used in medical diagnosis?",
+    answer: "They analyse symptoms, medical history and laboratory results to suggest diagnoses and treatments."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Diagnostics",
+    question: "How are expert systems used in technical diagnostics?",
+    answer: "They interpret error messages, warning signals and system logs to identify faults and reduce downtime."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Diagnostics",
+    question: "How do certainty factors support diagnostics?",
+    answer: "They represent confidence in possible conclusions when several causes may explain the evidence."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Monitoring",
+    question: "How are expert systems used for monitoring?",
+    answer: "They analyse ongoing sensor data to detect abnormalities and trigger alerts."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Monitoring",
+    question: "What types of data can expert systems monitor?",
+    answer: "Temperature, pressure, humidity, pollution levels and machine vibrations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Monitoring",
+    question: "How do expert systems support predictive maintenance?",
+    answer: "They detect unusual machine patterns that may indicate an upcoming failure."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Monitoring",
+    question: "How can expert systems improve environmental monitoring?",
+    answer: "They detect pollution levels that exceed acceptable limits and recommend interventions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Process Control",
+    question: "What is process control?",
+    answer: "Managing and adjusting an industrial process to maintain safe and efficient operating conditions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Process Control",
+    question: "How are expert systems used in process control?",
+    answer: "They analyse real-time data and adjust variables such as temperature, pressure and flow rates."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Process Control",
+    question: "What are the benefits of expert systems in process control?",
+    answer: "Improved safety, greater efficiency and fewer human errors."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Process Control",
+    question: "Why are expert systems valuable in hazardous environments?",
+    answer: "They can make rapid, consistent decisions that help reduce risks to workers."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Scheduling and Planning",
+    question: "How are expert systems used in scheduling and planning?",
+    answer: "They allocate resources, create schedules and adjust plans when circumstances change."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Scheduling and Planning",
+    question: "How do expert systems improve transport logistics?",
+    answer: "They optimise delivery routes using traffic conditions, fuel usage and delivery deadlines."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Scheduling and Planning",
+    question: "How are expert systems used in workforce management?",
+    answer: "They match employee skills to tasks, optimise shift rosters and respond to staff shortages."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applications of Expert Systems",
+    subtopic: "Scheduling and Planning",
+    question: "How do expert systems support large-scale operations?",
+    answer: "They consider constraints such as budgets, resource availability and deadlines to improve productivity and reduce costs."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Advancements in Expert Systems",
+    subtopic: "Evolution of Expert Systems",
+    question: "How have expert systems evolved?",
+    answer: "From fixed IF–THEN rules to advanced systems that can reason under uncertainty and handle incomplete data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Advancements in Expert Systems",
+    subtopic: "Evolution of Expert Systems",
+    question: "Why is reasoning under uncertainty important?",
+    answer: "It allows expert systems to make more flexible decisions when information is incomplete, ambiguous or unpredictable."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Advancements in Expert Systems",
+    subtopic: "Factors Driving Advancements",
+    question: "How has increased processing power improved expert systems?",
+    answer: "Faster CPUs and GPUs enable complex algorithms, large-scale data processing and real-time simulations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Advancements in Expert Systems",
+    subtopic: "Factors Driving Advancements",
+    question: "How has increased data availability improved expert systems?",
+    answer: "Big data and cloud storage provide larger, more diverse datasets, improving analysis and decision-making."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Advancements in Expert Systems",
+    subtopic: "Factors Driving Advancements",
+    question: "How do neural networks and machine learning improve expert systems?",
+    answer: "They enable systems to learn patterns from data and improve performance without manually updating every rule."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Advancements in Expert Systems",
+    subtopic: "Factors Driving Advancements",
+    question: "How have lower hardware costs advanced expert systems?",
+    answer: "They make advanced systems more affordable for small businesses and mobile platforms."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Advancements in Expert Systems",
+    subtopic: "Factors Driving Advancements",
+    question: "What is webometrics in the context of expert systems?",
+    answer: "The use and analysis of web-based data, such as user behaviour, social trends and metadata."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Advancements in Expert Systems",
+    subtopic: "Factors Driving Advancements",
+    question: "How does web-based data improve expert systems?",
+    answer: "It provides current information that supports dynamic analysis and probability-based decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Advancements in Expert Systems",
+    subtopic: "Overall Impact",
+    question: "What is the overall effect of these advancements?",
+    answer: "Expert systems can process more data, adapt more effectively and make better-informed decisions across fields such as medicine, manufacturing and finance."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Internet of Things (IoT)",
+    question: "What is the Internet of Things (IoT)?",
+    answer: "A network of physical devices connected to the internet that collect and exchange data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Internet of Things (IoT)",
+    question: "What is the main focus of IoT?",
+    answer: "Connecting devices to improve processes, resource management and efficiency."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Internet of Things (IoT)",
+    question: "What are smart environments?",
+    answer: "Connected homes, cities or industries that use technology to manage resources efficiently."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Internet of Things (IoT)",
+    question: "How does IoT support automation?",
+    answer: "Connected devices perform tasks with reduced human intervention."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Internet of Things (IoT)",
+    question: "How do IoT devices communicate?",
+    answer: "They exchange data with other devices and central systems across a network."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Internet of Things (IoT)",
+    question: "How does IoT data improve decision-making?",
+    answer: "Data can be analysed to optimise performance and inform decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Internet of Me (IoMe)",
+    question: "What is the Internet of Me (IoMe)?",
+    answer: "A technology approach focused on personalising services and experiences using individual data and preferences."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Internet of Me (IoMe)",
+    question: "What is the main focus of IoMe?",
+    answer: "Improving the individual user's experience through personalised technology."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Internet of Me (IoMe)",
+    question: "How does IoMe personalise experiences?",
+    answer: "It uses personal behaviour and preferences to provide tailored content, suggestions and services."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Internet of Me (IoMe)",
+    question: "What is user engagement in IoMe?",
+    answer: "How technology adapts to users' needs to create a more intuitive and engaging experience."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Internet of Me (IoMe)",
+    question: "Why are privacy and security important in IoMe?",
+    answer: "IoMe relies on personal data, which must be protected from misuse or unauthorised access."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Comparing IoT and IoMe",
+    question: "What is the main difference between IoT and IoMe?",
+    answer: "IoT focuses on connected devices and broader processes, while IoMe focuses on personalisation for individuals."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Comparing IoT and IoMe",
+    question: "How do the networks of IoT and IoMe differ?",
+    answer: "IoT can involve large networks of devices, while IoMe centres on an individual's personal technology ecosystem."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Comparing IoT and IoMe",
+    question: "Give an example of IoT.",
+    answer: "Smart factory sensors that monitor machinery and improve production efficiency."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to IoT and IoMe",
+    subtopic: "Comparing IoT and IoMe",
+    question: "Give an example of IoMe.",
+    answer: "A music streaming service that recommends songs based on an individual's listening habits."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Proliferation of Expert Systems",
+    subtopic: "Basic Concepts",
+    question: "What does the proliferation of expert systems mean?",
+    answer: "The increasing use of expert systems across industries and everyday life."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Proliferation of Expert Systems",
+    subtopic: "Basic Concepts",
+    question: "Why has the use of expert systems increased?",
+    answer: "Growing demand for personalisation, efficiency, automation and real-time decision-making."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Proliferation of Expert Systems",
+    subtopic: "Basic Concepts",
+    question: "How have expert systems expanded beyond traditional uses?",
+    answer: "They now operate in connected environments, consumer services and modern industrial systems."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Proliferation of Expert Systems",
+    subtopic: "Internet of Things (IoT)",
+    question: "How has IoT increased the need for expert systems?",
+    answer: "Connected devices generate large amounts of data that require real-time monitoring and automated decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Proliferation of Expert Systems",
+    subtopic: "Internet of Things (IoT)",
+    question: "How do expert systems work with IoT devices?",
+    answer: "They analyse sensor data and trigger actions or alerts without human intervention."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Proliferation of Expert Systems",
+    subtopic: "Internet of Things (IoT)",
+    question: "Give examples of expert systems used with IoT.",
+    answer: "Systems monitoring factory machinery, agricultural conditions or health devices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Proliferation of Expert Systems",
+    subtopic: "Internet of Me (IoMe)",
+    question: "How has IoMe influenced the use of expert systems?",
+    answer: "Demand for personalised services has encouraged systems to analyse individual preferences and behaviour."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Proliferation of Expert Systems",
+    subtopic: "Internet of Me (IoMe)",
+    question: "How do expert systems support personalisation?",
+    answer: "They analyse user preferences, behaviours and biometric data to provide tailored recommendations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Proliferation of Expert Systems",
+    subtopic: "Internet of Me (IoMe)",
+    question: "Give examples of personalised expert systems.",
+    answer: "Systems that recommend fitness plans, shopping products or medication adjustments."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Proliferation of Expert Systems",
+    subtopic: "Industry 4.0",
+    question: "What is Industry 4.0?",
+    answer: "The fourth industrial revolution, combining cyber-physical systems, AI and automation."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Proliferation of Expert Systems",
+    subtopic: "Industry 4.0",
+    question: "How are expert systems used in Industry 4.0?",
+    answer: "They support predictive maintenance, supply-chain optimisation and automated industrial decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Proliferation of Expert Systems",
+    subtopic: "Industry 4.0",
+    question: "How do expert systems support predictive maintenance?",
+    answer: "They analyse operational data to identify possible equipment failures before they occur."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Proliferation of Expert Systems",
+    subtopic: "Industry 4.0",
+    question: "What is the overall impact of expert systems in modern enterprises?",
+    answer: "They improve efficiency, enable faster data-driven decisions and support increasingly automated operations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Basic Concepts",
+    question: "What is Machine Learning (ML)?",
+    answer: "A subset of AI that enables computers to learn from data and improve without being explicitly programmed for every task."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Basic Concepts",
+    question: "What can Machine Learning do?",
+    answer: "Identify patterns, make predictions, support decisions and automate tasks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Basic Concepts",
+    question: "How does combining ML with IoT benefit intelligent systems?",
+    answer: "IoT devices collect real-time data, while ML analyses it to make predictions and improve decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Manufacturing and Predictive Maintenance",
+    question: "How does ML support predictive maintenance?",
+    answer: "It analyses machinery sensor data to predict failures before they occur."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Manufacturing and Predictive Maintenance",
+    question: "How does predictive maintenance benefit businesses?",
+    answer: "It reduces unexpected breakdowns, schedules maintenance when needed and extends equipment lifespan."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Manufacturing and Predictive Maintenance",
+    question: "How does ML improve supply-chain efficiency?",
+    answer: "It predicts demand, optimises inventory, reduces waste and improves delivery times."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Healthcare",
+    question: "How can ML improve medical diagnosis?",
+    answer: "It analyses medical images, such as MRIs, CT scans and X-rays, to help identify diseases."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Healthcare",
+    question: "How can ML improve patient treatment?",
+    answer: "It combines patient data to help create personalised treatment plans and reduce side effects."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Healthcare",
+    question: "What is a key benefit of ML in healthcare?",
+    answer: "It can support earlier and more accurate diagnoses, improving patient outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Traffic Control",
+    question: "How does ML improve traffic control?",
+    answer: "It analyses road sensor, camera and GPS data to optimise traffic-light timing and reduce congestion."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Traffic Control",
+    question: "How does ML improve road safety?",
+    answer: "It predicts traffic hotspots and dangerous conditions so traffic systems can respond proactively."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Agriculture and Farm Irrigation",
+    question: "How does ML support smart irrigation?",
+    answer: "It analyses IoT soil-moisture data to determine when and where crops need water."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Agriculture and Farm Irrigation",
+    question: "What are the benefits of ML-controlled irrigation?",
+    answer: "It conserves water and energy, reduces costs and minimises environmental impacts."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Agriculture and Farm Irrigation",
+    question: "How can ML improve crop yields?",
+    answer: "It helps maintain suitable soil-moisture levels for plant growth."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Interfacing Machine Learning (ML) with IoT",
+    subtopic: "Overall Benefits",
+    question: "What is the overall benefit of interfacing ML with IoT?",
+    answer: "It turns real-time sensor data into predictions and actions that improve efficiency, accuracy, safety and resource management."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Basic Concepts",
+    question: "What is an intelligent agent in a search engine?",
+    answer: "A system that performs tasks such as finding information, interpreting queries and returning relevant results."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Basic Concepts",
+    question: "What is a simplistic intelligent agent?",
+    answer: "An agent that follows pre-programmed rules to perform basic tasks without adapting to user behaviour."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Basic Concepts",
+    question: "What is a complex intelligent agent?",
+    answer: "An agent that uses technologies such as machine learning and natural language processing to interpret queries and adapt responses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Basic Concepts",
+    question: "What is the main difference between simplistic and complex agents?",
+    answer: "Simplistic agents follow fixed rules, while complex agents can interpret context, learn patterns and personalise results."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Simplistic Intelligent Agents",
+    question: "What tasks can simplistic search agents perform?",
+    answer: "Keyword matching, web crawling and retrieving data from structured sources."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Simplistic Intelligent Agents",
+    question: "What is a limitation of simplistic agents?",
+    answer: "They cannot effectively learn from user behaviour or interpret complex, ambiguous queries."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Complex Intelligent Agents",
+    question: "What technologies do complex search agents use?",
+    answer: "Machine learning, natural language processing and contextual awareness."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Complex Intelligent Agents",
+    question: "How do complex agents improve search results?",
+    answer: "They interpret user intent, rank results by relevance and adapt to preferences or historical data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Predictive Search Strings",
+    question: "What are predictive search strings?",
+    answer: "Suggested search queries that appear automatically as a user types."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Predictive Search Strings",
+    question: "What information can predictive search use?",
+    answer: "User search history, trending topics, regional data and common search patterns."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Predictive Search Strings",
+    question: "How do predictive search agents improve the search experience?",
+    answer: "They save time, reduce typing effort and provide more relevant suggestions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Predictive Search Strings",
+    question: "How does predictive search make searching proactive?",
+    answer: "It suggests possible queries before the user finishes entering a search."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Voice Assistants",
+    question: "How do voice assistants use complex intelligent agents?",
+    answer: "They interpret spoken requests and perform relevant search tasks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Voice Assistants",
+    question: "What is the role of natural language processing in voice assistants?",
+    answer: "It helps convert spoken language into queries and interpret the user's intent."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Voice Assistants",
+    question: "How do voice assistants personalise search results?",
+    answer: "They use context, previous interactions, preferences and sometimes location to tailor responses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Voice Assistants",
+    question: "Give two examples of voice assistants.",
+    answer: "Siri and Alexa."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Simplistic and Complex Intelligent Agents Used by Search Engines",
+    subtopic: "Voice Assistants",
+    question: "Why are complex agents useful for voice searches?",
+    answer: "They can handle conversational language, interpret context and provide more natural, relevant responses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Basic Concepts",
+    question: "What is an inference engine?",
+    answer: "The core component of an expert system that applies logical rules to a knowledge base to draw conclusions and solve problems."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Basic Concepts",
+    question: "What is the main purpose of an inference engine?",
+    answer: "To simulate human reasoning by interpreting facts and rules to produce meaningful conclusions or recommendations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Basic Concepts",
+    question: "What is truth maintenance?",
+    answer: "Tracking assumptions and dependencies to maintain logical consistency when facts change."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Basic Concepts",
+    question: "How does truth maintenance work?",
+    answer: "It retracts or revises conclusions when the supporting facts change or are removed."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Basic Concepts",
+    question: "Why is truth maintenance important in medical diagnosis systems?",
+    answer: "It ensures diagnoses remain accurate when a patient's symptoms or condition changes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Hypothetical Reasoning",
+    question: "What is hypothetical reasoning?",
+    answer: "Testing “what-if” scenarios by temporarily introducing assumptions and evaluating possible outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Hypothetical Reasoning",
+    question: "Why is hypothetical reasoning useful?",
+    answer: "It allows systems to compare possibilities and assess risks without changing the original facts."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Hypothetical Reasoning",
+    question: "How could a supply chain expert system use hypothetical reasoning?",
+    answer: "It could simulate shipment delays and recommend adjustments to reduce delivery disruptions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Heuristic Knowledge and Fuzzy Logic",
+    question: "What is heuristic knowledge?",
+    answer: "Experience-based strategies or rules of thumb used to make decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Heuristic Knowledge and Fuzzy Logic",
+    question: "What is fuzzy logic?",
+    answer: "A reasoning method that allows degrees of truth rather than only true or false outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Heuristic Knowledge and Fuzzy Logic",
+    question: "How do heuristic knowledge and fuzzy logic improve inference engines?",
+    answer: "They help systems make flexible decisions when information is uncertain, incomplete or imprecise."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Heuristic Knowledge and Fuzzy Logic",
+    question: "How could fuzzy logic be used in industrial monitoring?",
+    answer: "It could classify a temperature as “slightly elevated” rather than simply “normal” or “high.”"
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Ontology Classification",
+    question: "What is ontology classification?",
+    answer: "Organising concepts into structured categories and relationships so a system can infer new information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Ontology Classification",
+    question: "How do ontologies support inference?",
+    answer: "They allow systems to draw conclusions from category membership, hierarchies and relationships between concepts."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Ontology Classification",
+    question: "How could ontology classification be used in a medical expert system?",
+    answer: "If bronchitis is classified as a respiratory condition, the system can infer relevant treatments or precautions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Inference Engines",
+    subtopic: "Ontology Classification",
+    question: "What is semantic reasoning?",
+    answer: "Reasoning about the meaning and context of information, rather than just processing the data itself."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Basic Concepts",
+    question: "What are the three main hardware components of an intelligent system?",
+    answer: "Sensors, microcontrollers and actuators."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Basic Concepts",
+    question: "What is the sense-think-act model?",
+    answer: "A process where a system senses its environment, processes information and performs an action."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Sensors",
+    question: "What is a sensor?",
+    answer: "An input device that collects physical data and converts it into electrical signals for processing."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Sensors",
+    question: "What is the role of sensors in intelligent systems?",
+    answer: "To provide real-time data about the physical environment for automated decision-making."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Sensors",
+    question: "What does a temperature sensor measure?",
+    answer: "Heat levels in an environment or system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Sensors",
+    question: "What does a light sensor measure?",
+    answer: "Ambient light intensity, allowing systems to adjust lighting or respond to natural light."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Sensors",
+    question: "What does a motion sensor detect?",
+    answer: "Movement or changes in position, commonly used in security systems and automatic doors."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Sensors",
+    question: "What does a pressure sensor measure?",
+    answer: "Force or pressure applied by liquids or gases."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Sensors",
+    question: "How does a moisture sensor work in a smart irrigation system?",
+    answer: "It detects soil moisture levels and sends the data to a microcontroller to help determine when watering is needed."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Microcontrollers",
+    question: "What is a microcontroller?",
+    answer: "A small, programmable computer that processes sensor data and controls an intelligent system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Microcontrollers",
+    question: "What is the role of a microcontroller?",
+    answer: "To interpret sensor inputs, apply programmed logic and determine the appropriate response."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Microcontrollers",
+    question: "Why are microcontrollers considered the brain of an intelligent system?",
+    answer: "They process information, make decisions and control output devices in real time."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Microcontrollers",
+    question: "How might a microcontroller be used in smart lighting?",
+    answer: "It evaluates light sensor data and decides whether to switch lights on or off."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Actuators",
+    question: "What is an actuator?",
+    answer: "An output device that converts electrical signals into physical movement or action."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Actuators",
+    question: "What is the role of an actuator in an intelligent system?",
+    answer: "To carry out the actions instructed by the microcontroller, such as opening a valve or moving a robotic arm."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Actuators",
+    question: "What is an electrical actuator?",
+    answer: "An actuator that converts electrical energy into rotational or linear motion, often using motors or solenoids."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Actuators",
+    question: "What is a hydraulic actuator?",
+    answer: "An actuator that uses pressurised liquid to produce movement and high force."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Actuators",
+    question: "What is a pneumatic actuator?",
+    answer: "An actuator that uses compressed air to generate movement, often for repetitive industrial tasks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Actuators",
+    question: "What is the difference between hydraulic and pneumatic actuators?",
+    answer: "Hydraulic actuators use pressurised liquid and generally produce greater force, while pneumatic actuators use compressed air and are often quicker and easier to maintain."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Applying the Sense-Think-Act Model",
+    question: "How does a smart home heating system use sensors, microcontrollers and actuators?",
+    answer: "A sensor measures room temperature, the microcontroller determines whether heating is needed, and an actuator switches the heater on or off."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Sensors, Microcontrollers & Actuators",
+    subtopic: "Applying the Sense-Think-Act Model",
+    question: "How do sensors, microcontrollers and actuators work together?",
+    answer: "Sensors collect data, microcontrollers process it and make decisions, and actuators perform the required actions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Basic Concepts",
+    question: "What is computational thinking?",
+    answer: "Breaking down complex problems and systematically designing solutions using logical problem-solving strategies."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Basic Concepts",
+    question: "Why is computational thinking important in intelligent systems?",
+    answer: "It helps systems solve complex problems, process information and respond effectively to real-world situations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Decomposition",
+    question: "What is decomposition?",
+    answer: "Breaking a complex system into smaller, manageable components that can be developed and tested independently."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Decomposition",
+    question: "How does decomposition benefit intelligent system development?",
+    answer: "It reduces complexity, simplifies debugging, supports teamwork and allows modules to be reused."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Decomposition",
+    question: "How could decomposition be used in an intelligent system?",
+    answer: "Separating sensor data collection, decision-making logic and output mechanisms into distinct modules."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Pattern Recognition",
+    question: "What is pattern recognition?",
+    answer: "Identifying trends, similarities and relationships in data to classify inputs or predict outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Pattern Recognition",
+    question: "Why is pattern recognition important in intelligent systems?",
+    answer: "It improves decision-making accuracy and helps systems recognise familiar inputs and predict behaviour."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Pattern Recognition",
+    question: "Give an example of pattern recognition in an intelligent system.",
+    answer: "A smart home recognises a user's activity patterns to adjust heating or lighting automatically."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Abstraction",
+    question: "What is abstraction?",
+    answer: "Filtering out irrelevant details and focusing on the information essential to solving a problem."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Abstraction",
+    question: "How does abstraction improve intelligent systems?",
+    answer: "It reduces unnecessary processing and helps systems focus on relevant data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Abstraction",
+    question: "How could abstraction be used in a medical diagnosis system?",
+    answer: "Focusing on symptoms such as fever, coughing and fatigue while ignoring unrelated details."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Algorithm Design",
+    question: "What is algorithm design?",
+    answer: "Creating step-by-step procedures that guide how a system processes data, makes decisions and produces outputs."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Algorithm Design",
+    question: "Why is algorithm design important in intelligent systems?",
+    answer: "It ensures decisions and actions are logical, predictable, efficient and reliable."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Algorithm Design",
+    question: "How could an algorithm be used in a smart irrigation system?",
+    answer: "It checks soil moisture, compares it with a threshold and activates watering when necessary."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Comparing Computational Thinking Strategies",
+    question: "What is the difference between decomposition and abstraction?",
+    answer: "Decomposition breaks a system into smaller parts, while abstraction removes irrelevant details."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Computational Thinking in Intelligent Systems",
+    subtopic: "Comparing Computational Thinking Strategies",
+    question: "What is the difference between pattern recognition and algorithm design?",
+    answer: "Pattern recognition identifies trends in data, while algorithm design defines the steps used to process data and make decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Flowcharts",
+    subtopic: "Basic Concepts",
+    question: "What is a flowchart?",
+    answer: "A visual diagram that represents an algorithm using standard symbols and arrows."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Flowcharts",
+    subtopic: "Basic Concepts",
+    question: "Why are flowcharts used?",
+    answer: "To visualise a program's logic and make its steps easier to understand."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Flowcharts",
+    subtopic: "Basic Concepts",
+    question: "In what direction should a flowchart generally be read?",
+    answer: "From top to bottom and left to right, following the logic from start to finish."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Flowcharts",
+    subtopic: "Flowchart Symbols",
+    question: "What does an oval symbol represent in a flowchart?",
+    answer: "The start or end of an algorithm."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Flowcharts",
+    subtopic: "Flowchart Symbols",
+    question: "What does a rectangle represent in a flowchart?",
+    answer: "A process or instruction, such as performing a calculation."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Flowcharts",
+    subtopic: "Flowchart Symbols",
+    question: "What does a parallelogram represent in a flowchart?",
+    answer: "Input or output, such as entering numbers or displaying a result."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Flowcharts",
+    subtopic: "Flowchart Symbols",
+    question: "What does a diamond represent in a flowchart?",
+    answer: "A decision or condition that determines which path the algorithm follows."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Flowcharts",
+    subtopic: "Flowchart Symbols",
+    question: "What do arrows represent in a flowchart?",
+    answer: "The direction and sequence of control flow."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Flowcharts",
+    subtopic: "Example: Basic Calculator",
+    question: "What are the main steps in a basic calculator algorithm?",
+    answer: "Start, input two numbers, select an operation, perform the calculation, display the result and end."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Flowcharts",
+    subtopic: "Example: Basic Calculator",
+    question: "How does a calculator flowchart use decision symbols?",
+    answer: "It checks the selected operation and directs the algorithm to addition, subtraction, multiplication or division."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Flowcharts",
+    subtopic: "Example: Basic Calculator",
+    question: "Why is a flowchart useful when designing a calculator?",
+    answer: "It clearly shows how inputs, operation choices, calculations and outputs connect."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Flowcharts",
+    subtopic: "Example: Basic Calculator",
+    question: "What should a calculator algorithm consider when performing division?",
+    answer: "It should check that the second number is not zero before dividing."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Biometrics",
+    question: "What are biometric devices?",
+    answer: "Devices that identify or authenticate people using unique physical or behavioural traits."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Biometrics",
+    question: "What are examples of biometric traits?",
+    answer: "Fingerprints, facial features, iris patterns and voiceprints."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Biometrics",
+    question: "How are biometrics used in intelligent systems?",
+    answer: "They provide secure identity verification for smartphones, smart locks, surveillance and healthcare systems."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Haptics",
+    question: "What is haptic technology?",
+    answer: "Technology that provides tactile feedback through vibrations or physical movements."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Haptics",
+    question: "How does haptic technology benefit intelligent systems?",
+    answer: "It improves user interaction, realism and precision in simulations, robotic surgery, training and remote control."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Touch and Gesture",
+    question: "What are touch and gesture interfaces?",
+    answer: "Interfaces that interpret physical input through touchscreens, multi-touch controls or motion-sensing technologies."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Touch and Gesture",
+    question: "What are examples of touch and gesture inputs?",
+    answer: "Taps, swipes and hand movements detected by cameras or infrared sensors."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Touch and Gesture",
+    question: "How are touch and gesture interfaces used in intelligent systems?",
+    answer: "They allow users to control smartphones, smart displays, interactive kiosks and industrial control systems."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Virtual Reality and Augmented Reality",
+    question: "What is virtual reality (VR)?",
+    answer: "Technology that creates a fully simulated, immersive digital environment."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Virtual Reality and Augmented Reality",
+    question: "What is augmented reality (AR)?",
+    answer: "Technology that overlays digital information onto the real-world environment."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Virtual Reality and Augmented Reality",
+    question: "What is the difference between VR and AR?",
+    answer: "VR replaces the user's surroundings with a simulated environment, while AR adds digital elements to the real world."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Virtual Reality and Augmented Reality",
+    question: "How are VR and AR used in intelligent systems?",
+    answer: "They support training, medical diagnosis, engineering, maintenance and remote collaboration."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Voice and Sound",
+    question: "What hardware is used for voice and sound interaction?",
+    answer: "Microphones, speakers and audio processors."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Voice and Sound",
+    question: "How do voice and sound technologies interact with intelligent systems?",
+    answer: "They enable systems to recognise spoken commands, process speech and provide audible responses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Voice and Sound",
+    question: "How does natural language processing (NLP) support voice systems?",
+    answer: "It helps systems interpret the meaning and intent of spoken commands."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Voice and Sound",
+    question: "What are examples of voice and sound technologies?",
+    answer: "Voice assistants, real-time translation systems, customer service bots and assistive technologies."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Motors",
+    question: "What is a motor?",
+    answer: "A device that converts electrical energy into mechanical motion, typically rotational movement."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Motors",
+    question: "How are motors used in intelligent systems?",
+    answer: "They provide movement in robotics, automated vehicles, actuated doors and other automated machinery."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Motors",
+    question: "How are motors controlled in intelligent systems?",
+    answer: "Microcontrollers use sensor data and programmed logic to control motor movements."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Hardware Used in Intelligent Systems: Biometrics, Haptics, Touch & Gesture, VR & AR, Voice & Sound, Motors",
+    subtopic: "Comparing Hardware",
+    question: "How do these hardware types improve interaction with intelligent systems?",
+    answer: "Biometrics identify users, haptics provide tactile feedback, touch and gesture detect physical input, VR and AR create immersive experiences, voice and sound enable audio interaction, and motors produce movement."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Basic Concepts",
+    question: "What is a Data Flow Diagram (DFD)?",
+    answer: "A diagram that models how data moves through an information system and is transformed into information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Basic Concepts",
+    question: "Why are DFDs used during systems development?",
+    answer: "To visualise and understand data flows and transformations within a system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 0 Data Flow Diagrams",
+    question: "What is the purpose of a Level 0 DFD?",
+    answer: "To provide an overview of an entire information system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 0 Data Flow Diagrams",
+    question: "How many processes are shown in a Level 0 DFD?",
+    answer: "One circle representing the entire system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 0 Data Flow Diagrams",
+    question: "What does the single circle in a Level 0 DFD represent?",
+    answer: "The entire information system as one process."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 0 Data Flow Diagrams",
+    question: "What does a Level 0 DFD show?",
+    answer: "The expected inputs and outputs flowing between the system and external entities."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 1 Data Flow Diagrams",
+    question: "What is the purpose of a Level 1 DFD?",
+    answer: "To show the individual processes within an information system in greater detail."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 1 Data Flow Diagrams",
+    question: "How does a Level 1 DFD differ from a Level 0 DFD?",
+    answer: "Level 0 shows one process for the whole system, while Level 1 shows multiple individual processes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 1 Data Flow Diagrams",
+    question: "How are processes represented in a Level 1 DFD?",
+    answer: "As individual circles, with each circle representing a process."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 1 Data Flow Diagrams",
+    question: "What is a data store in a DFD?",
+    answer: "A location where data is stored and can be retrieved, such as a database."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 1 Data Flow Diagrams",
+    question: "What shape represents a data store in a DFD?",
+    answer: "A three-sided rectangle."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Level 1 Data Flow Diagrams",
+    question: "Why must data flows be labelled in a DFD?",
+    answer: "To identify the data or information moving between entities, processes and data stores."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Comparing DFD Levels",
+    question: "Which DFD level provides an overview of the entire system?",
+    answer: "Level 0."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Flow Diagrams (DFDs)",
+    subtopic: "Comparing DFD Levels",
+    question: "Which DFD level provides more detail about individual processes and data stores?",
+    answer: "Level 1."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Overview and Purpose",
+    question: "What is the purpose of a Level 0 DFD?",
+    answer: "To provide an overview of an entire information system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Overview and Purpose",
+    question: "What is another name for a Level 0 DFD?",
+    answer: "A context diagram."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Overview and Purpose",
+    question: "How many processes are shown in a Level 0 DFD?",
+    answer: "One process representing the entire system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Overview and Purpose",
+    question: "What does the single process represent?",
+    answer: "The main function or purpose of the entire information system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Symbols and Components",
+    question: "What symbol represents the system in a Level 0 DFD?",
+    answer: "A circle representing the single system process."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Symbols and Components",
+    question: "What are external entities in a DFD?",
+    answer: "People, data sources or other systems that interact with the system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Symbols and Components",
+    question: "Where are external entities placed in a Level 0 DFD?",
+    answer: "Outside the system process, around the system boundary."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Symbols and Components",
+    question: "What do arrows or flow lines represent in a DFD?",
+    answer: "The movement of data or information between the system and external entities."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Principles of Level 0 DFDs",
+    question: "What does a Level 0 DFD show about external entities?",
+    answer: "How they interact with the information system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Principles of Level 0 DFDs",
+    question: "What types of data flow are shown in a Level 0 DFD?",
+    answer: "Data entering the system and information returning to external entities."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Principles of Level 0 DFDs",
+    question: "Why should each data flow line be labelled?",
+    answer: "To identify the specific data or information being transferred."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Principles of Level 0 DFDs",
+    question: "How is the main process usually labelled?",
+    answer: "With a name describing its purpose, often ending in “System”."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Principles of Level 0 DFDs",
+    question: "How does a Level 0 DFD help developers?",
+    answer: "It helps them understand the system’s boundaries, inputs, outputs and interactions with external entities."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 0 Data Flow Diagrams (DFDs)",
+    subtopic: "Principles of Level 0 DFDs",
+    question: "Does a Level 0 DFD show all individual processes within a system?",
+    answer: "No. It represents the entire system as one process; individual processes are shown in more detail in a Level 1 DFD."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Overview and Purpose",
+    question: "What is the purpose of a Level 1 DFD?",
+    answer: "To show the individual processes and data flows within an information system in greater detail."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Overview and Purpose",
+    question: "How does a Level 1 DFD differ from a Level 0 DFD?",
+    answer: "Level 0 shows the entire system as one process, while Level 1 breaks it into multiple sub-processes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Overview and Purpose",
+    question: "What does a Level 1 DFD break the main process into?",
+    answer: "The system’s specific sub-processes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Symbols and Components",
+    question: "How are processes represented in a Level 1 DFD?",
+    answer: "As individual circles, with each circle representing a process."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Symbols and Components",
+    question: "What is a data store in a Level 1 DFD?",
+    answer: "A location where data is stored, retrieved or updated, such as a database."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Symbols and Components",
+    question: "What shape represents a data store in a DFD?",
+    answer: "A three-sided rectangle."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Symbols and Components",
+    question: "What do arrows or flow lines represent in a Level 1 DFD?",
+    answer: "The movement of data between processes and data stores."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Symbols and Components",
+    question: "Why must data flow lines be labelled?",
+    answer: "To identify the specific data or information being transferred."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Principles of Level 1 DFDs",
+    question: "What does a Level 1 DFD show about the journey of data?",
+    answer: "How data moves through the system’s processes to produce information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Principles of Level 1 DFDs",
+    question: "How do processes interact in a Level 1 DFD?",
+    answer: "They exchange data to transform inputs into useful information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Principles of Level 1 DFDs",
+    question: "Why are data stores included in a Level 1 DFD?",
+    answer: "To show where data is saved, retrieved or updated."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Principles of Level 1 DFDs",
+    question: "Why might data be stored for future processing?",
+    answer: "To allow records to be retrieved or updated when needed later."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Principles of Level 1 DFDs",
+    question: "What do data flows between processes and data stores demonstrate?",
+    answer: "How data moves through the system and is transformed."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Level 1 Data Flow Diagrams (DFDs)",
+    subtopic: "Principles of Level 1 DFDs",
+    question: "What is the main benefit of a Level 1 DFD for developers?",
+    answer: "It helps them understand the system’s individual processes, data storage and interactions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Basic Concepts",
+    question: "What is disruptive technology?",
+    answer: "Technology that significantly changes how individuals or businesses operate, replacing established technologies or creating new industries."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Basic Concepts",
+    question: "How does disruptive technology affect everyday computing?",
+    answer: "It changes how people work, communicate, access information and use technology."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Effects on the Individual",
+    question: "What is industry currency?",
+    answer: "Keeping skills and knowledge up to date with current technologies and industry developments."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Effects on the Individual",
+    question: "How can disruptive technology affect industry currency?",
+    answer: "Individuals must adapt to new interfaces and features through professional development and lifelong learning."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Effects on the Individual",
+    question: "How can disruptive technology improve productivity?",
+    answer: "AI and automation streamline tasks, saving time and improving efficiency."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Effects on the Individual",
+    question: "How can disruptive technology improve accessibility?",
+    answer: "It removes barriers and helps people with disabilities access technology and services."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Effects on the Individual",
+    question: "What privacy concerns can disruptive technology create?",
+    answer: "Personal information may be collected, stored, shared or misused."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Effects on the Individual",
+    question: "How can disruptive technology cause job displacement?",
+    answer: "Automation may replace some jobs, while creating new opportunities in technology-related industries."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Effects on the Individual",
+    question: "How can disruptive technology improve quality of life?",
+    answer: "Technologies such as smart home devices can make everyday tasks more convenient."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Innovations in Technology",
+    question: "What is cloud computing?",
+    answer: "Using remote servers over a network to store data and run applications instead of relying entirely on local devices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Innovations in Technology",
+    question: "What is edge computing?",
+    answer: "Processing data close to where it is generated or needed, reducing delays and network bandwidth use."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Innovations in Technology",
+    question: "What is quantum computing?",
+    answer: "Computing that uses quantum-mechanical principles to perform certain complex calculations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Innovations in Technology",
+    question: "What are Internet of Things (IoT) devices?",
+    answer: "Physical devices connected to a network that collect and exchange data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Innovations in Technology",
+    question: "How have IoT devices changed everyday life?",
+    answer: "They enable smarter homes, cities and industries through connected and automated systems."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Technology Buzzwords",
+    question: "What is Artificial Intelligence (AI)?",
+    answer: "Technology that performs tasks commonly associated with human intelligence."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Technology Buzzwords",
+    question: "What is Machine Learning (ML)?",
+    answer: "A type of AI that learns patterns from data to make predictions or decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Technology Buzzwords",
+    question: "What is blockchain?",
+    answer: "A distributed digital ledger that records transactions in linked blocks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Technology Buzzwords",
+    question: "What is cryptocurrency?",
+    answer: "A digital currency that commonly uses cryptography and may use blockchain technology."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Technology Buzzwords",
+    question: "What are Augmented Reality (AR) and Virtual Reality (VR)?",
+    answer: "AR adds digital content to the real world, while VR immerses users in a computer-generated environment."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Technology Buzzwords",
+    question: "What is sustainability in technology?",
+    answer: "Designing, using and disposing of technology in ways that reduce environmental harm and resource waste."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Technology Buzzwords",
+    question: "What is Big Data?",
+    answer: "Extremely large or complex datasets that require specialised methods and tools to analyse."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Technology Buzzwords",
+    question: "What is cybersecurity?",
+    answer: "The protection of systems, networks and data from digital attacks, damage and unauthorised access."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Technology Buzzwords",
+    question: "What is the Internet of Me (IoMe)?",
+    answer: "A concept involving connected technologies and data personalised around an individual’s needs, behaviours and preferences."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Technology Buzzwords",
+    question: "How can disruptive technologies benefit society?",
+    answer: "They can improve productivity, accessibility, convenience and innovation."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Effects of Disruptive Technology",
+    subtopic: "Technology Buzzwords",
+    question: "What are two possible negative effects of disruptive technology?",
+    answer: "Privacy risks and job displacement."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Multitasking vs. Digital Distraction",
+    question: "How can intelligent systems improve multitasking?",
+    answer: "They help users manage calendars, emails, information and devices efficiently."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Multitasking vs. Digital Distraction",
+    question: "What is digital distraction?",
+    answer: "When notifications, social feeds or other digital content interrupt attention and concentration."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Multitasking vs. Digital Distraction",
+    question: "How can intelligent systems cause digital distraction?",
+    answer: "Constant notifications, AI-curated content and continuous connectivity can interrupt focus and reduce productivity."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Multitasking vs. Digital Distraction",
+    question: "What is the paradox of intelligent systems and productivity?",
+    answer: "They can improve efficiency while also reducing concentration through digital distractions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Multitasking vs. Digital Distraction",
+    question: "How can users manage digital distraction?",
+    answer: "Limit notifications, reduce unnecessary screen time and schedule focused work periods."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Working Differently to Complete the Same Task",
+    question: "How do intelligent systems change the way tasks are completed?",
+    answer: "They automate or assist with tasks such as data analysis, scheduling and customer interactions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Working Differently to Complete the Same Task",
+    question: "Do intelligent systems always eliminate traditional tasks?",
+    answer: "No. They often change how tasks are completed rather than eliminating them."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Working Differently to Complete the Same Task",
+    question: "How does the human role change when using intelligent systems?",
+    answer: "People increasingly interpret outputs, check accuracy, oversee systems and make informed decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Working Differently to Complete the Same Task",
+    question: "Why is critical thinking important when using intelligent systems?",
+    answer: "To evaluate system outputs, identify errors and make informed decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Working Differently to Complete the Same Task",
+    question: "What is system literacy?",
+    answer: "The ability to understand, use and critically evaluate technological systems."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Automation of Enterprise and Manufacturing Processes",
+    question: "How do intelligent systems automate enterprise and manufacturing processes?",
+    answer: "Through technologies such as robotic process automation, predictive maintenance, AI scheduling and smart logistics."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Automation of Enterprise and Manufacturing Processes",
+    question: "What is Robotic Process Automation (RPA)?",
+    answer: "Technology that automates repetitive, rule-based tasks using software robots."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Automation of Enterprise and Manufacturing Processes",
+    question: "What is predictive maintenance?",
+    answer: "Using data to predict equipment failures and perform maintenance before breakdowns occur."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Automation of Enterprise and Manufacturing Processes",
+    question: "What are smart logistics?",
+    answer: "Using intelligent technologies to improve the movement, storage and delivery of goods."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Automation of Enterprise and Manufacturing Processes",
+    question: "What are the benefits of automating business processes?",
+    answer: "Lower costs, fewer errors, improved efficiency and greater scalability."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Automation of Enterprise and Manufacturing Processes",
+    question: "How can an automated warehouse use intelligent systems?",
+    answer: "To track inventory, forecast demand and dispatch orders with minimal human involvement."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Automation of Enterprise and Manufacturing Processes",
+    question: "What are potential disadvantages of workplace automation?",
+    answer: "Reduced demand for some jobs and skills, alongside a greater need for system monitoring and oversight."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Impact of AI on Employment",
+    question: "How can AI affect employment?",
+    answer: "It can replace some jobs by automating tasks while creating new technology-related roles."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Impact of AI on Employment",
+    question: "Which types of jobs or tasks are most likely to be automated?",
+    answer: "Repetitive, predictable and rule-based tasks, such as data entry and basic customer support."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Impact of AI on Employment",
+    question: "What new employment opportunities can AI create?",
+    answer: "Roles in AI training, data labelling, system monitoring and ethical auditing."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Impact of AI on Employment",
+    question: "Which human skills are increasingly valuable alongside AI?",
+    answer: "Creativity, emotional intelligence, critical thinking and strategic planning."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Impact of AI on Employment",
+    question: "What is job displacement?",
+    answer: "When workers lose their jobs because their roles or tasks are replaced or reduced, for example through automation."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Impact of AI on Employment",
+    question: "Why are lifelong learning and re-skilling important in an AI-driven workplace?",
+    answer: "They help workers adapt to changing job requirements and collaborate effectively with intelligent systems."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Disruptive Effects of Intelligent Systems",
+    subtopic: "Impact of AI on Employment",
+    question: "What is the overall impact of intelligent systems on the future of work?",
+    answer: "They can improve efficiency and create opportunities but also cause distraction, ethical concerns and job displacement."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Bias",
+    subtopic: "Understanding Bias",
+    question: "What is bias in data collection?",
+    answer: "When collected data does not fairly represent the population or situation being studied."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Bias",
+    subtopic: "Understanding Bias",
+    question: "How can datasets be biased?",
+    answer: "By over-representing or under-representing particular groups or variables."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Bias",
+    subtopic: "Understanding Bias",
+    question: "Can bias occur intentionally or unintentionally?",
+    answer: "Yes. It can result from deliberate choices or mistakes in how data is collected, selected or displayed."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Bias",
+    subtopic: "Understanding Bias",
+    question: "What factors can introduce bias into a dataset?",
+    answer: "The data sources, collection methods, timing and choice of data to collect or display."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Bias",
+    subtopic: "Bias Creates Incorrect Information",
+    question: "How can bias lead to incorrect information?",
+    answer: "Biased datasets can skew results, causing system outputs to misrepresent real-world situations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Bias",
+    subtopic: "Bias Creates Incorrect Information",
+    question: "Why might an enterprise intentionally use biased data?",
+    answer: "To make its results appear more successful and influence stakeholders' opinions or decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Bias",
+    subtopic: "Bias Creates Incorrect Information",
+    question: "How could selecting only top-performing branches create bias?",
+    answer: "It makes the enterprise appear more successful than it is because underperforming branches are excluded."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Bias",
+    subtopic: "Bias Creates Incorrect Information",
+    question: "How can biased information affect stakeholders?",
+    answer: "It can mislead them and lead to inaccurate conclusions or poor decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Bias",
+    subtopic: "Addressing Bias and Improving Data Integrity",
+    question: "How can an enterprise reduce bias in data collection?",
+    answer: "Collect representative data from varied sources and use fair, consistent collection methods."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Bias",
+    subtopic: "Addressing Bias and Improving Data Integrity",
+    question: "How does addressing bias improve data integrity?",
+    answer: "It helps ensure data is more accurate, representative and reliable."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Bias",
+    subtopic: "Addressing Bias and Improving Data Integrity",
+    question: "How does reducing bias improve data quality?",
+    answer: "It produces more trustworthy information that better reflects real-world situations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Bias",
+    subtopic: "Addressing Bias and Improving Data Integrity",
+    question: "Why is unbiased data important to stakeholders?",
+    answer: "It helps stakeholders make informed decisions using accurate and representative information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Bias",
+    subtopic: "Addressing Bias and Improving Data Integrity",
+    question: "What is the relationship between bias and data integrity?",
+    answer: "Bias can reduce data integrity by making data and system outputs less reliable; addressing bias helps maintain integrity."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Understanding Data Accuracy",
+    question: "What is data accuracy?",
+    answer: "The correctness of data and how reliably it represents the real-world information it describes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Understanding Data Accuracy",
+    question: "What factors affect data accuracy?",
+    answer: "The reliability of sources, correctness of information and accuracy of data entry."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Understanding Data Accuracy",
+    question: "How can researchers improve data accuracy?",
+    answer: "Cross-reference information using multiple reliable sources."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Validation and Verification Tools",
+    question: "What is data validation?",
+    answer: "Checking that entered data follows predefined rules and requirements."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Validation and Verification Tools",
+    question: "What are examples of data validation rules?",
+    answer: "Required data types, formats, ranges and character lengths."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Validation and Verification Tools",
+    question: "What is data verification?",
+    answer: "Checking that data has been entered correctly and matches the original or intended information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Validation and Verification Tools",
+    question: "How can users verify entered data?",
+    answer: "By reviewing it, comparing it with the original source and confirming that it is correct and up to date."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Validation and Verification Tools",
+    question: "What is the main difference between validation and verification?",
+    answer: "Validation checks whether data meets specified rules; verification checks whether the data is correct."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Validation and Verification Tools",
+    question: "How do validation and verification improve data accuracy?",
+    answer: "They help identify errors during or after data entry."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Inaccurate Data Creates Inaccurate Information",
+    question: "What happens when incorrect data is entered into a system?",
+    answer: "The system may process it into inaccurate information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Inaccurate Data Creates Inaccurate Information",
+    question: "Why is inaccurate information a problem?",
+    answer: "It can mislead users and result in poor decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Improving Data Integrity and Information Quality",
+    question: "How do validation and verification improve information quality?",
+    answer: "They reduce data-entry errors and help the system produce more accurate information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Improving Data Integrity and Information Quality",
+    question: "How does accurate data affect user trust?",
+    answer: "Users are more likely to rely on and support a system that provides accurate information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Improving Data Integrity and Information Quality",
+    question: "What is the relationship between data accuracy and data integrity?",
+    answer: "Accurate data helps maintain data integrity by keeping information correct and reliable."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Accuracy of Collected Data",
+    subtopic: "Improving Data Integrity and Information Quality",
+    question: "Why is accurate data important in an information system?",
+    answer: "It allows the system to produce reliable, useful information for its users."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Understanding Metadata",
+    question: "What is metadata?",
+    answer: "Data that describes other data by providing information about its context, source or structure."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Understanding Metadata",
+    question: "What are examples of metadata?",
+    answer: "Timestamps, location information, HTML tags and data dictionary information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Understanding Metadata",
+    question: "What is the purpose of metadata?",
+    answer: "To help organise, manage, find and interpret data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Benefits of Metadata",
+    question: "How does metadata improve data accessibility?",
+    answer: "It helps users locate and retrieve relevant data more efficiently."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Benefits of Metadata",
+    question: "How does metadata improve data usability?",
+    answer: "It explains a dataset's structure, purpose and origin, making it easier to interpret and use."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Benefits of Metadata",
+    question: "How can metadata benefit healthcare and education?",
+    answer: "It supports data sharing, interoperability and collaboration between organisations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Benefits of Metadata",
+    question: "How does metadata support decision-making?",
+    answer: "It helps users understand data and make informed, data-driven decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Benefits of Metadata",
+    question: "How does metadata improve transparency and accountability?",
+    answer: "It helps track data sources, changes and usage, making data processes easier to understand and review."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Concerns Associated with Metadata",
+    question: "How can metadata threaten privacy?",
+    answer: "It can reveal personal details, locations, communication patterns and habits, even without revealing the actual content."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Concerns Associated with Metadata",
+    question: "How can metadata be used for surveillance?",
+    answer: "It can be analysed to track people's movements, activities and interactions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Concerns Associated with Metadata",
+    question: "What is metadata profiling?",
+    answer: "Analysing metadata to identify patterns and make assumptions about individuals or groups."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Concerns Associated with Metadata",
+    question: "What ethical risks are associated with metadata?",
+    answer: "Privacy violations, surveillance, tracking and misuse of personal information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Concerns Associated with Metadata",
+    question: "How can enterprises manage metadata responsibly?",
+    answer: "By limiting collection, securing storage, controlling access and using metadata for legitimate purposes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Concerns Associated with Metadata",
+    question: "What is the main ethical challenge associated with metadata?",
+    answer: "Balancing the benefits of using metadata with individuals' rights to privacy and protection."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Metadata",
+    subtopic: "Concerns Associated with Metadata",
+    question: "Why is metadata important in information systems?",
+    answer: "It improves data organisation and interpretation but must be managed responsibly to protect privacy and security."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "What is data security?",
+    answer: "Protecting data from unauthorised access, alteration, theft, damage or loss."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "Why are enterprises responsible for data security?",
+    answer: "They must protect the personal information and privacy of their customers and clients."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "Why should enterprises conduct risk assessments?",
+    answer: "To identify system vulnerabilities and prioritise security improvements."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "How do login procedures improve security?",
+    answer: "Passwords, biometrics and multi-factor authentication (MFA) help verify users' identities."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "What is multi-factor authentication (MFA)?",
+    answer: "A security method requiring two or more different forms of identity verification."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "Why are user permissions and access levels important?",
+    answer: "They restrict users to the data and functions they are authorised to access."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "What is the purpose of a firewall?",
+    answer: "To filter incoming and outgoing network traffic according to security rules."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "What is encryption?",
+    answer: "Converting readable data into an encoded form that requires the appropriate key to understand."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "What is the purpose of an intrusion detection system?",
+    answer: "To monitor systems or networks for suspicious activity and potential unauthorised access."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "Why are regular software updates important for security?",
+    answer: "They fix vulnerabilities and improve protection against cyber threats."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "Why are data backups important?",
+    answer: "They allow data to be recovered after loss, damage or a cyberattack."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "Why is data valuable to malicious entities?",
+    answer: "It can be stolen or exploited for financial gain, fraud or sabotage."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "How does strong data security help prevent cybercrime?",
+    answer: "It reduces vulnerabilities and makes unauthorised access more difficult."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Data Security",
+    question: "What is the overall purpose of data security?",
+    answer: "To protect data confidentiality, integrity, availability and privacy."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Copyright and Acknowledgement of Data Sources",
+    question: "What is copyright?",
+    answer: "Legal protection for original creative works that gives creators certain rights over their use and distribution."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Copyright and Acknowledgement of Data Sources",
+    question: "Which Australian legislation governs copyright?",
+    answer: "The Copyright Act 1968 (Cth)."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Copyright and Acknowledgement of Data Sources",
+    question: "What is intellectual property (IP)?",
+    answer: "Creations of the mind, such as inventions, designs, artistic works and brand identifiers."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Copyright and Acknowledgement of Data Sources",
+    question: "What is software or data piracy?",
+    answer: "Using, copying or distributing protected software or data without the required permission or licence."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Copyright and Acknowledgement of Data Sources",
+    question: "What is plagiarism?",
+    answer: "Presenting another person's words, ideas or work as your own without appropriate acknowledgement."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Copyright and Acknowledgement of Data Sources",
+    question: "Why should creators be acknowledged?",
+    answer: "To recognise their work, respect their rights and give credit for their contributions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Copyright and Acknowledgement of Data Sources",
+    question: "Why might enterprises need copyright licences?",
+    answer: "To obtain legal permission to use protected software, content or other intellectual property."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Copyright and Acknowledgement of Data Sources",
+    question: "Why can licensing costs increase for large enterprises?",
+    answer: "More users or broader usage rights may require more extensive licences."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Copyright and Acknowledgement of Data Sources",
+    question: "What are common referencing styles?",
+    answer: "APA and Harvard."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Copyright and Acknowledgement of Data Sources",
+    question: "How does referencing benefit creators and users?",
+    answer: "It credits creators, improves credibility and allows users to trace information to its sources."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Copyright and Acknowledgement of Data Sources",
+    question: "How can referencing multiple credible sources improve data quality?",
+    answer: "It allows information to be cross-checked for accuracy and currency."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Privacy, Trust and Freedom of Information",
+    question: "What is privacy?",
+    answer: "The right to control how personal information is collected, used, stored and shared."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Privacy, Trust and Freedom of Information",
+    question: "What is trust in digital systems?",
+    answer: "Confidence that a system and its operators are reliable, secure and act with integrity."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Privacy, Trust and Freedom of Information",
+    question: "What is freedom of information?",
+    answer: "The principle and legal right, where applicable, to access information held by public bodies."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Privacy, Trust and Freedom of Information",
+    question: "How does privacy benefit individuals?",
+    answer: "It gives them greater control over their personal information and how it is used."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Privacy, Trust and Freedom of Information",
+    question: "What influences people's trust in digital systems?",
+    answer: "Their experiences and perceptions of the system's reliability, security and integrity."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Privacy, Trust and Freedom of Information",
+    question: "How does freedom of information benefit individuals?",
+    answer: "It helps them access relevant records and make informed decisions, subject to applicable laws and exemptions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "People, Systems and Data",
+    question: "How can systems protect user privacy?",
+    answer: "Through secure design, access controls and appropriate data-handling practices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "People, Systems and Data",
+    question: "How can systems build trust?",
+    answer: "By using strong security architecture, conducting assessments and following relevant security standards."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "People, Systems and Data",
+    question: "How can systems support freedom of information?",
+    answer: "By providing appropriate access to public information while protecting sensitive data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "People, Systems and Data",
+    question: "What is data anonymisation?",
+    answer: "Removing or modifying identifying information so data cannot readily be linked to a specific individual."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "People, Systems and Data",
+    question: "Why are data integrity and confidentiality important?",
+    answer: "Integrity keeps data accurate and consistent, while confidentiality prevents unauthorised disclosure."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "People, Systems and Data",
+    question: "Why must data protection be balanced with freedom of information?",
+    answer: "Information that should be accessible must be shared appropriately without exposing sensitive or private data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "The Impact of Emerging Technologies on UI/UX",
+    question: "What is User Interface (UI) design?",
+    answer: "The design of the visual and interactive elements through which users interact with a system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "The Impact of Emerging Technologies on UI/UX",
+    question: "What is User Experience (UX) design?",
+    answer: "The design of the overall experience a person has when using a system or product."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "The Impact of Emerging Technologies on UI/UX",
+    question: "How are emerging technologies changing UI/UX design?",
+    answer: "They enable more interactive, efficient, personalised and responsive digital experiences."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "The Impact of Emerging Technologies on UI/UX",
+    question: "How do AI and machine learning improve UI/UX?",
+    answer: "They can personalise interfaces, predict user needs and adjust features based on user behaviour."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "The Impact of Emerging Technologies on UI/UX",
+    question: "How do AR and VR affect user experience?",
+    answer: "They provide augmented or immersive virtual environments for interacting with digital content."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "The Impact of Emerging Technologies on UI/UX",
+    question: "How do gesture recognition and haptic feedback improve interaction?",
+    answer: "Gesture recognition enables movement-based control, while haptic feedback provides tactile responses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "The Impact of Emerging Technologies on UI/UX",
+    question: "How does cloud computing benefit UI/UX?",
+    answer: "It supports access to web-based applications, shared resources and real-time services across devices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "The Impact of Emerging Technologies on UI/UX",
+    question: "How do wearable and IoT devices affect UI/UX design?",
+    answer: "They extend interaction to connected devices such as smartwatches, sensors and smart home equipment."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "The Impact of Emerging Technologies on UI/UX",
+    question: "How can blockchain improve digital user experiences?",
+    answer: "It can support verifiable transactions and identity systems through decentralised records."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "What technologies do intelligent systems use to meet enterprise needs?",
+    answer: "Machine learning, data analytics, automation and natural language processing (NLP)."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "How do intelligent systems help enterprises process data?",
+    answer: "They analyse large volumes of data, identify patterns and respond to changing conditions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "How can intelligent systems automate repetitive tasks?",
+    answer: "They perform routine processes automatically, reducing manual effort and saving time."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "What is predictive analytics?",
+    answer: "Using historical and current data to forecast likely future outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "How do intelligent systems support real-time data processing?",
+    answer: "They analyse incoming data quickly so enterprises can respond to events as they happen."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "How can AI chatbots improve customer service?",
+    answer: "They answer common questions and provide assistance quickly, often at any time."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "How can intelligent systems optimise supply chains?",
+    answer: "By improving inventory management, forecasting demand and planning logistics."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "How does predictive maintenance benefit manufacturing?",
+    answer: "It identifies signs of potential equipment failure so maintenance can occur before breakdowns."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "How can intelligent systems improve cybersecurity?",
+    answer: "They detect unusual activity and help identify or respond to potential threats."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "How can intelligent systems support data-driven marketing?",
+    answer: "They analyse customer behaviour to help businesses target relevant products and services."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "How can intelligent systems improve workflow management?",
+    answer: "They optimise scheduling, allocate resources and coordinate tasks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "How do intelligent systems help enterprises adapt to market changes?",
+    answer: "They analyse changing data and trends, helping businesses make timely decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "How do intelligent systems support remote monitoring and control?",
+    answer: "They use connected sensors, IoT devices and cloud platforms to monitor and manage operations remotely."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "How do intelligent systems make enterprises more agile?",
+    answer: "They provide timely information and automation that help businesses respond quickly to risks, delays and market changes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Data Security, Privacy and Enterprise Needs",
+    subtopic: "Intelligent Systems Meeting Enterprise Needs",
+    question: "Why should intelligent systems align with enterprise goals?",
+    answer: "To ensure the technology delivers practical business benefits and supports strategic objectives."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Communication Devices",
+    question: "What is the purpose of communication devices?",
+    answer: "To transmit and receive data between devices on a network."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Communication Devices",
+    question: "What is a communications infrastructure?",
+    answer: "The devices and communication mediums used to connect devices and enable data transmission."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Central Nodes",
+    question: "What are central nodes?",
+    answer: "Devices that connect multiple networked devices together."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Central Nodes",
+    question: "What is the purpose of a network switch?",
+    answer: "To connect devices on a local network and send data to a specific device."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Central Nodes",
+    question: "What is the purpose of a router?",
+    answer: "To connect networks together and provide access to external networks and the internet."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Central Nodes",
+    question: "What is a Wireless Access Point (WAP)?",
+    answer: "A device that allows wireless devices to connect to a network."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Central Nodes",
+    question: "What is the difference between a switch and a router?",
+    answer: "A switch connects devices within a local network, while a router connects different networks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Communication Mediums",
+    question: "What are communication mediums?",
+    answer: "The wired or wireless methods used to transmit data between devices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Communication Mediums",
+    question: "What are three examples of wired communication mediums?",
+    answer: "Twisted-pair cable, coaxial cable and optical fibre."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Communication Mediums",
+    question: "What are three examples of wireless communication mediums?",
+    answer: "Microwave, satellite and radio waves."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Communication Mediums",
+    question: "What is the difference between wired and wireless communication?",
+    answer: "Wired communication uses physical cables, while wireless communication transmits data through electromagnetic waves."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Servers",
+    question: "What is a server?",
+    answer: "A computer or system that provides resources or services to other devices over a network."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Servers",
+    question: "What is client-server architecture?",
+    answer: "A network model where client devices request resources or services from a server."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Servers",
+    question: "What is a file server used for?",
+    answer: "Storing and sharing documents and media."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Servers",
+    question: "What is a mail server used for?",
+    answer: "Sending, receiving and managing emails."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Servers",
+    question: "What is a print server used for?",
+    answer: "Allowing network users to access shared printers."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Servers",
+    question: "What is a web server used for?",
+    answer: "Hosting websites and delivering web content to users."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Other Communication Technology",
+    question: "What is the purpose of a modem?",
+    answer: "To modulate and demodulate signals so data can be transmitted across communication mediums."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Other Communication Technology",
+    question: "What do MO and DEM stand for in modem?",
+    answer: "MO means modulation; DEM means demodulation."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Other Communication Technology",
+    question: "What is modulation?",
+    answer: "Converting digital data into a signal suitable for transmission over a communication medium."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Other Communication Technology",
+    question: "What is demodulation?",
+    answer: "Recovering data from a received signal by converting it back into a usable form."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Other Communication Technology",
+    question: "What communication technologies can mobile devices use?",
+    answer: "Cellular networks, Wi-Fi and Bluetooth."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Other Communication Technology",
+    question: "What is cellular connectivity used for?",
+    answer: "Connecting mobile devices to a mobile network for calls, messages and internet access."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Other Communication Technology",
+    question: "What is Wi-Fi used for?",
+    answer: "Connecting devices wirelessly to a local network and often the internet."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Communication Devices",
+    subtopic: "Other Communication Technology",
+    question: "What is Bluetooth used for?",
+    answer: "Short-range wireless communication between devices, such as phones, headphones and keyboards."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Storage Devices",
+    question: "What is the purpose of storage devices?",
+    answer: "To save data so it can be accessed during use or retrieved later."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Storage Devices",
+    question: "What is primary storage?",
+    answer: "Storage that holds data and instructions currently being used by the system, such as RAM."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Storage Devices",
+    question: "What is secondary storage?",
+    answer: "Storage used to retain data for later access, such as hard drives, SSDs and optical discs."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Magnetic Disks",
+    question: "How do magnetic hard disk drives (HDDs) store data?",
+    answer: "By magnetically recording data on rotating disks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Magnetic Disks",
+    question: "How is data organised on a magnetic disk?",
+    answer: "Into sectors located along tracks on the disk."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Magnetic Disks",
+    question: "How does an HDD read data?",
+    answer: "A read/write head accesses data on the rotating disk's tracks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Magnetic Disks",
+    question: "How much data can a typical hard disk sector store?",
+    answer: "Traditionally, 512 bytes per sector, although larger sector sizes are also used."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Magnetic Disks",
+    question: "What is one advantage of magnetic hard drives?",
+    answer: "They can provide large storage capacities at a relatively low cost."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Optical Disks",
+    question: "How do optical disks store data?",
+    answer: "As patterns of physical features that are read by a laser."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Optical Disks",
+    question: "How is data read from an optical disk?",
+    answer: "An optical drive uses a laser to read the disc and convert the information into usable data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Optical Disks",
+    question: "What are three examples of optical disks?",
+    answer: "CDs, DVDs and Blu-ray discs."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Optical Disks",
+    question: "How is data organised on optical disks?",
+    answer: "Along tracks that contain encoded data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Optical Disks",
+    question: "What is one advantage of optical disks?",
+    answer: "They are portable and can be used to distribute or archive data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Network Storage",
+    question: "What is network storage?",
+    answer: "Data stored on network-connected systems that multiple authorised devices can access."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Network Storage",
+    question: "What is a network file server?",
+    answer: "A server that stores and provides access to shared files over a network."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Network Storage",
+    question: "How can users access network storage?",
+    answer: "Through a private network or, where configured, the internet."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Network Storage",
+    question: "What is one advantage of network storage?",
+    answer: "Multiple users can access shared files without storing separate copies on every device."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Flash Memory",
+    question: "What is flash memory?",
+    answer: "Non-volatile electronic storage that retains data without power."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Flash Memory",
+    question: "What are three examples of devices that use flash memory?",
+    answer: "USB drives, SD cards and solid-state drives (SSDs)."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Flash Memory",
+    question: "What is an SSD?",
+    answer: "A storage device that uses flash memory to store data electronically, without moving parts."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Flash Memory",
+    question: "What is one advantage of flash memory?",
+    answer: "It provides fast data access and has no moving mechanical parts."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Flash Memory",
+    question: "What is the difference between an HDD and an SSD?",
+    answer: "An HDD stores data magnetically on rotating disks, while an SSD stores data electronically in flash memory."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Flash Memory",
+    question: "Does RAM use flash memory?",
+    answer: "No. RAM is typically volatile semiconductor memory, while flash memory is non-volatile storage."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Types of Hardware: Storage Devices",
+    subtopic: "Flash Memory",
+    question: "What is the difference between volatile and non-volatile storage?",
+    answer: "Volatile storage loses its contents when power is removed; non-volatile storage retains data without power."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Basic Concepts",
+    question: "What is transmission media?",
+    answer: "The pathways used to transmit communication signals between devices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Basic Concepts",
+    question: "What are the two main categories of transmission media?",
+    answer: "Wired and wireless media."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Basic Concepts",
+    question: "What factors affect the choice of transmission media?",
+    answer: "Bandwidth, distance, cost, speed, security and environmental interference."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Wired Media",
+    question: "What are three types of wired transmission media?",
+    answer: "Twisted-pair cable, coaxial cable and optical fibre."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Twisted-Pair Cable",
+    question: "What is twisted-pair cable?",
+    answer: "Two individually insulated copper wires twisted together to transmit data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Twisted-Pair Cable",
+    question: "Why are the wires in twisted-pair cable twisted?",
+    answer: "To reduce electromagnetic interference and signal crosstalk."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Twisted-Pair Cable",
+    question: "What is twisted-pair cable commonly used for?",
+    answer: "Ethernet networking and connecting devices to local networks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Coaxial Cable",
+    question: "What is coaxial cable?",
+    answer: "A cable containing a central copper conductor, insulation, a metallic shielding layer and an outer protective covering."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Coaxial Cable",
+    question: "What is the purpose of coaxial cable's shielding?",
+    answer: "To reduce interference and minimise signal distortion."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Coaxial Cable",
+    question: "What is coaxial cable commonly used for?",
+    answer: "Television antenna connections, cable television and some internet connections."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Optical Fibre",
+    question: "How does optical fibre transmit data?",
+    answer: "Using pulses of light through thin glass or plastic fibres."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Optical Fibre",
+    question: "What are the advantages of optical fibre?",
+    answer: "High bandwidth, high speed, long-distance transmission and resistance to electromagnetic interference."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Optical Fibre",
+    question: "Why is optical fibre resistant to electromagnetic interference?",
+    answer: "It transmits data using light rather than electrical signals."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Optical Fibre",
+    question: "Why can optical fibre carry large amounts of data?",
+    answer: "It supports high bandwidth, allowing large quantities of data to be transmitted quickly."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Optical Fibre",
+    question: "What is one disadvantage of optical fibre?",
+    answer: "It can be more expensive and difficult to install or repair than some copper cables."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Wireless Media",
+    question: "What are three types of wireless transmission media?",
+    answer: "Radio waves, microwaves and infrared."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Wireless Media",
+    question: "What is a wireless transmission medium?",
+    answer: "A medium that transmits signals through the air or space without physical cables."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Radio Waves",
+    question: "How do radio waves transmit data?",
+    answer: "They carry information wirelessly using electromagnetic signals."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Radio Waves",
+    question: "What technologies use radio waves?",
+    answer: "Wi-Fi, Bluetooth, RFID and NFC."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Radio Waves",
+    question: "What is RFID?",
+    answer: "Radio Frequency Identification, a technology that uses radio waves to identify and track tagged objects."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Radio Waves",
+    question: "What is NFC?",
+    answer: "Near Field Communication, a short-range wireless technology used for contactless payments and data exchange."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Radio Waves",
+    question: "What is the purpose of a wireless adapter?",
+    answer: "To enable a device to send and receive wireless signals."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Microwaves and Satellites",
+    question: "What are microwaves in data transmission?",
+    answer: "High-frequency radio waves used for wireless communication."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Microwaves and Satellites",
+    question: "What does line-of-sight transmission mean?",
+    answer: "The transmitting and receiving devices need a sufficiently clear path between them."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Microwaves and Satellites",
+    question: "How do microwave relay stations or transponders work?",
+    answer: "They receive signals, amplify or process them, and retransmit them to another location."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Microwaves and Satellites",
+    question: "Why are microwave relay stations often placed on high ground or tall buildings?",
+    answer: "To improve line-of-sight communication and reduce obstacles."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Microwaves and Satellites",
+    question: "How do communication satellites transmit data?",
+    answer: "They receive signals from one location and relay them to another using satellite communication equipment."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Microwaves and Satellites",
+    question: "What are some uses of microwave communication?",
+    answer: "Telephone networks, internet connections and satellite communications."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Microwaves and Satellites",
+    question: "What is GPS used for?",
+    answer: "Determining location and supporting navigation using signals from satellites."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Infrared",
+    question: "What is infrared transmission?",
+    answer: "Wireless communication using infrared electromagnetic radiation."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Infrared",
+    question: "What are the main characteristics of infrared transmission?",
+    answer: "It is generally short-range and requires a clear line of sight or suitable alignment."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Infrared",
+    question: "Can infrared signals normally pass through walls?",
+    answer: "No. Walls and other solid objects generally block infrared signals."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Infrared",
+    question: "What are common uses of infrared?",
+    answer: "Remote controls, security sensors and fire or heat sensors."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Infrared",
+    question: "What is one limitation of infrared transmission?",
+    answer: "Its short range and susceptibility to obstruction limit where it can be used."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Comparing Transmission Media",
+    question: "Which transmission medium is best suited to high-speed, long-distance data transmission with high bandwidth?",
+    answer: "Optical fibre."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Comparing Transmission Media",
+    question: "Which transmission medium is commonly used for Ethernet connections?",
+    answer: "Twisted-pair cable."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Comparing Transmission Media",
+    question: "Which transmission medium is commonly used for television antenna connections?",
+    answer: "Coaxial cable."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Comparing Transmission Media",
+    question: "Which wireless medium is commonly used by Wi-Fi and Bluetooth?",
+    answer: "Radio waves."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Comparing Transmission Media",
+    question: "Which transmission medium generally requires line of sight and is used for short-range remote controls?",
+    answer: "Infrared."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Transmission Media",
+    subtopic: "Comparing Transmission Media",
+    question: "What is a key difference between wired and wireless media?",
+    answer: "Wired media uses physical cables, while wireless media transmits signals through the air or space."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Basic Concepts",
+    question: "What is a network diagram?",
+    answer: "A visual representation of network devices and how they are connected."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Basic Concepts",
+    question: "What is another name for a network diagram?",
+    answer: "A network map."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Basic Concepts",
+    question: "What are nodes in a network diagram?",
+    answer: "Devices connected to a network, such as computers, routers, switches and printers."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of a network diagram?",
+    answer: "To show network structure, connected devices and communication pathways."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Network Diagram Symbols",
+    question: "What do symbols represent in a network diagram?",
+    answer: "Different network devices and components."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Network Diagram Symbols",
+    question: "Why are annotations important in a network diagram?",
+    answer: "They identify devices and explain their roles or connections."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Network Diagram Symbols",
+    question: "Do network diagram symbols need to be drawn perfectly?",
+    answer: "No. The important thing is that symbols are clearly annotated and understandable."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Network Diagram Symbols",
+    question: "What types of devices might appear in a network diagram?",
+    answer: "Computers, laptops, servers, routers, switches, wireless access points, printers and mobile devices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Network Diagram Symbols",
+    question: "How are connections represented in a network diagram?",
+    answer: "Using lines or other connectors between devices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Basic Home Network Diagrams",
+    question: "What devices might be included in a basic home network?",
+    answer: "A modem/router, computers, laptops, smartphones, tablets, smart TVs and printers."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Basic Home Network Diagrams",
+    question: "What is the role of a modem/router in a home network?",
+    answer: "It provides a connection to the internet and allows local devices to communicate."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Basic Home Network Diagrams",
+    question: "How can devices connect to a home network?",
+    answer: "Through wired Ethernet connections or wireless Wi-Fi connections."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Basic Home Network Diagrams",
+    question: "Why might a home network diagram show both wired and wireless connections?",
+    answer: "Because some devices connect using cables, while others connect wirelessly."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Network Diagrams",
+    subtopic: "Basic Home Network Diagrams",
+    question: "How can a network diagram help troubleshoot a home network?",
+    answer: "It helps identify connected devices, connection paths and possible points of failure."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Central Nodes",
+    question: "What is a central node in a network?",
+    answer: "A device that acts as a central connection point for other network devices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Central Nodes",
+    question: "What are three examples of central nodes?",
+    answer: "Hubs, switches and routers."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Central Nodes",
+    question: "What is the purpose of central nodes?",
+    answer: "To connect devices and manage data communication across a network."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Hubs",
+    question: "What is a network hub?",
+    answer: "A basic device that connects multiple Ethernet devices within one network segment."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Hubs",
+    question: "How does a hub transmit data?",
+    answer: "It broadcasts incoming data to all connected ports."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Hubs",
+    question: "Why can hubs cause data collisions?",
+    answer: "Multiple devices may transmit data at the same time over the shared communication channel."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Hubs",
+    question: "What is one advantage of a hub?",
+    answer: "It is inexpensive and simple to set up."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Hubs",
+    question: "What is a major disadvantage of a hub?",
+    answer: "It creates unnecessary network traffic and can reduce efficiency."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Hubs",
+    question: "When might a hub be used?",
+    answer: "In simple networking environments where efficiency is not a major concern, although hubs are rarely used in modern networks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Switches",
+    question: "What is a network switch?",
+    answer: "A device that connects devices within a local area network (LAN) and directs data to the intended device."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Switches",
+    question: "How does a switch determine where to send data?",
+    answer: "It learns devices' MAC addresses and uses them to forward data through the appropriate port."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Switches",
+    question: "What is the main difference between a hub and a switch?",
+    answer: "A hub broadcasts data to all ports, while a switch forwards data to the intended device when the destination is known."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Switches",
+    question: "How do switches improve network efficiency?",
+    answer: "They reduce unnecessary traffic and minimise collisions by directing data to specific devices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Switches",
+    question: "What is a LAN?",
+    answer: "A Local Area Network that connects devices within a limited area, such as a home, school or office."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Switches",
+    question: "Why are switches commonly used in modern networks?",
+    answer: "They efficiently connect many wired devices and manage local network traffic."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Routers",
+    question: "What is a router?",
+    answer: "A device that connects different networks and forwards data between them."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Routers",
+    question: "What is the main purpose of a router?",
+    answer: "To direct data packets between networks, such as a home network and the internet."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Routers",
+    question: "How does a router decide where to send data?",
+    answer: "It examines destination IP addresses and uses routing information to select an appropriate path."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Routers",
+    question: "What is an IP address?",
+    answer: "A logical address used to identify a device or network interface for communication across networks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Routers",
+    question: "How can routers provide wireless connectivity?",
+    answer: "Many home routers include built-in Wi-Fi functionality that allows wireless devices to connect to the network."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Routers",
+    question: "How can routers contribute to network security?",
+    answer: "They can use features such as firewalls, traffic filtering and network access controls to help prevent unauthorised access."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Routers",
+    question: "Why is a router needed for internet access in a typical home network?",
+    answer: "It forwards traffic between the local home network and the internet."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Comparing Hubs, Switches and Routers",
+    question: "What is the main role of a hub?",
+    answer: "To broadcast incoming data to all connected ports."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Comparing Hubs, Switches and Routers",
+    question: "What is the main role of a switch?",
+    answer: "To connect devices and direct data within a local network."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Comparing Hubs, Switches and Routers",
+    question: "What is the main role of a router?",
+    answer: "To connect different networks and direct data between them."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Comparing Hubs, Switches and Routers",
+    question: "Which device is generally the least efficient at handling network traffic?",
+    answer: "A hub, because it broadcasts data to all connected ports."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Comparing Hubs, Switches and Routers",
+    question: "Which device typically uses MAC addresses to forward data within a LAN?",
+    answer: "A switch."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Comparing Hubs, Switches and Routers",
+    question: "Which device uses IP addresses to route data between networks?",
+    answer: "A router."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Comparing Hubs, Switches and Routers",
+    question: "What is the key difference between switches and routers?",
+    answer: "Switches primarily forward data within a local network, while routers forward data between different networks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Hubs, Switches & Routers",
+    subtopic: "Comparing Hubs, Switches and Routers",
+    question: "Why might an enterprise network use multiple switches and routers?",
+    answer: "To connect many devices, divide network segments, manage traffic and provide access to external networks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Nodes",
+    question: "What is a node in a network?",
+    answer: "An active electronic device connected to a network that can send, receive or forward data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Nodes",
+    question: "What are examples of network nodes?",
+    answer: "Computers, mobile phones, printers, hubs, switches and routers."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Nodes",
+    question: "What is the purpose of a node's network address?",
+    answer: "To identify the device and enable data to be directed to or from it."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Nodes",
+    question: "Can nodes have different roles within a network?",
+    answer: "Yes. Nodes may send, receive, forward data or connect other devices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Nodes",
+    question: "What are central nodes?",
+    answer: "Network devices that connect multiple nodes and help manage network communication."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Nodes",
+    question: "What are three examples of central nodes?",
+    answer: "Hubs, switches and routers."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Endpoint Devices",
+    question: "What is an endpoint device?",
+    answer: "A network node at the end of a communication flow where users or applications send and receive data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Endpoint Devices",
+    question: "What are examples of endpoint devices?",
+    answer: "Desktop computers, laptops, smartphones, tablets and network-connected printers."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Endpoint Devices",
+    question: "What is the purpose of endpoint devices?",
+    answer: "To allow users or applications to access network services and send or receive information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Endpoint Devices",
+    question: "What features do endpoint devices commonly provide?",
+    answer: "User interfaces and applications that allow users to interact with data and network services."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Endpoint Devices",
+    question: "What is the difference between an endpoint device and a central node?",
+    answer: "An endpoint typically sends or receives data for a user or application, while a central node connects devices or forwards network traffic."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Endpoint Devices",
+    question: "Is a printer an endpoint device?",
+    answer: "Yes. A network-connected printer can receive print jobs from other devices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Endpoint Devices",
+    question: "Is a router an endpoint device in a typical home network?",
+    answer: "No. It generally acts as a central networking device that forwards traffic between networks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Nodes & Endpoint Devices",
+    subtopic: "Endpoint Devices",
+    question: "How do endpoint devices and central nodes work together?",
+    answer: "Endpoint devices generate or receive data, while central nodes connect them and direct data through the network."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Basic Concepts",
+    question: "What is storage in a network?",
+    answer: "Locations where data can be saved and retrieved to support ongoing operations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Basic Concepts",
+    question: "What are the three main types of storage?",
+    answer: "Local storage, local file servers and cloud storage."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Local Storage",
+    question: "What is local storage?",
+    answer: "Storage physically connected to an individual device."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Local Storage",
+    question: "What are two examples of local storage devices?",
+    answer: "Hard disk drives (HDDs) and solid-state drives (SSDs)."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Local Storage",
+    question: "What is one advantage of local storage?",
+    answer: "Data can be accessed directly without needing an internet connection."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Local Storage",
+    question: "What is one limitation of local storage?",
+    answer: "Sharing data across multiple devices may require additional networking or file-sharing arrangements."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Local File Servers",
+    question: "What is a local file server?",
+    answer: "A centralised storage system on a local network that allows connected devices to access shared files."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Local File Servers",
+    question: "Do local file servers require an internet connection?",
+    answer: "No. They can operate using an enterprise's own local network infrastructure."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Local File Servers",
+    question: "What is one advantage of local file servers?",
+    answer: "Multiple authorised users can access and share files from a central location."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Local File Servers",
+    question: "What is one limitation of local file servers?",
+    answer: "The enterprise must maintain the server, hardware, security and backups."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Cloud Storage",
+    question: "What is cloud storage?",
+    answer: "Data storage provided through the internet, often using servers managed by a third-party provider."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Cloud Storage",
+    question: "How do users access cloud storage?",
+    answer: "Through an internet connection using a web browser, application or synchronised device."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Cloud Storage",
+    question: "What is one advantage of cloud storage?",
+    answer: "Users can access and share data from different locations and devices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Cloud Storage",
+    question: "How does cloud storage support remote work?",
+    answer: "Teams can access shared files from outside the enterprise's physical workplace."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Cloud Storage",
+    question: "What is one limitation of cloud storage?",
+    answer: "Access often depends on internet connectivity, and ongoing costs, privacy and security must be considered."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Comparing Storage Types",
+    question: "What is the main difference between local storage and a local file server?",
+    answer: "Local storage is directly connected to an individual device, while a file server provides centralised storage over a local network."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Comparing Storage Types",
+    question: "What is the main difference between a local file server and cloud storage?",
+    answer: "A local file server uses an enterprise's local infrastructure, while cloud storage is accessed through the internet and is often hosted by a third-party provider."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Comparing Storage Types",
+    question: "Which storage type is best suited to accessing files from different locations worldwide?",
+    answer: "Cloud storage."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Comparing Storage Types",
+    question: "Which storage type allows multiple users to share files without requiring internet access?",
+    answer: "A local file server, provided users are connected to the local network."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Network Hardware: Storage",
+    subtopic: "Comparing Storage Types",
+    question: "What factors should an enterprise consider when choosing a storage type?",
+    answer: "Cost, capacity, accessibility, security, privacy, reliability, maintenance and internet dependence."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Basic Concepts",
+    question: "What is surplus data in an intelligent IoT network?",
+    answer: "Data collected beyond what is immediately required for system functionality."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Basic Concepts",
+    question: "Why do IoT networks collect surplus data?",
+    answer: "To capture a complete picture of activity and conditions for future analysis, optimisation or troubleshooting."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Basic Concepts",
+    question: "What problems can surplus data cause?",
+    answer: "Increased storage costs, network congestion, processing delays and reduced efficiency."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Collection",
+    question: "How do IoT sensors collect data?",
+    answer: "They continuously gather environmental or device information to support monitoring, automation and analytics."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Collection",
+    question: "Why might IoT systems collect data without filtering it immediately?",
+    answer: "To avoid losing information that could become useful for future analysis."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Collection",
+    question: "Why can collecting extra data be useful in critical systems?",
+    answer: "It may help identify faults, detect patterns or improve predictions and decision-making."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Types of Surplus Data",
+    question: "What are examples of surplus data in IoT networks?",
+    answer: "Repeated sensor readings, redundant status updates, background noise, idle surveillance footage and unnecessary location data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Types of Surplus Data",
+    question: "Is surplus data always useless?",
+    answer: "No. It may support future trend analysis, troubleshooting or machine learning."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Types of Surplus Data",
+    question: "What is redundant data?",
+    answer: "Data that repeats information already collected or provides little additional value."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Storage",
+    question: "Where is surplus IoT data commonly stored?",
+    answer: "In cloud platforms or edge servers."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Storage",
+    question: "How does surplus data affect storage?",
+    answer: "It consumes additional storage space, increases costs and can cause databases to become bloated."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Storage",
+    question: "How can unmanaged surplus data affect database performance?",
+    answer: "It can slow data access and processing and consume excessive storage capacity."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Storage",
+    question: "How can enterprises manage surplus data storage?",
+    answer: "Through filtering, compression, summarisation, archiving and deletion according to retention policies."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Processing",
+    question: "What is data pre-processing?",
+    answer: "Preparing raw data for analysis by cleaning, filtering, deduplicating and normalising it."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Processing",
+    question: "Why does surplus data increase computational load?",
+    answer: "Systems must use extra processing power and memory to handle unnecessary or repetitive information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Processing",
+    question: "How can surplus data affect real-time decision-making?",
+    answer: "Processing delays can slow decisions and reduce system responsiveness."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Processing",
+    question: "Why is filtering important in intelligent IoT systems?",
+    answer: "It separates useful information from irrelevant data so systems can focus on high-priority inputs."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Application",
+    question: "How is relevant data used in an IoT network?",
+    answer: "It supports immediate actions, automated controls, alerts and real-time monitoring."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Application",
+    question: "How might surplus data be used later?",
+    answer: "For long-term trend analysis, behaviour modelling, system evaluation and machine learning training."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Application",
+    question: "How can repeated environmental readings become useful?",
+    answer: "They can reveal seasonal trends, changing conditions or patterns of equipment wear over time."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Transmission",
+    question: "How does surplus data affect network bandwidth?",
+    answer: "It consumes bandwidth that could otherwise be used to transmit important information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Transmission",
+    question: "What is network congestion?",
+    answer: "A condition where excessive network traffic reduces communication efficiency and delays data transmission."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Transmission",
+    question: "What is latency?",
+    answer: "The delay between data being sent and the data being received or processed."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Transmission",
+    question: "Why is surplus data particularly problematic in critical IoT systems?",
+    answer: "Delays can reduce the effectiveness of systems such as emergency services, automated vehicles and smart traffic management."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Managing Surplus Data",
+    question: "How can data compression help manage surplus data?",
+    answer: "It reduces the amount of data that must be stored or transmitted."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Managing Surplus Data",
+    question: "What is edge computing, and how can it help manage surplus data?",
+    answer: "Processing data near where it is collected, allowing unnecessary information to be filtered before transmission to central servers."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Managing Surplus Data",
+    question: "What is data prioritisation?",
+    answer: "Ranking data by importance so critical information is processed and transmitted first."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Managing Surplus Data",
+    question: "Why should enterprises apply data retention policies?",
+    answer: "To ensure data is kept only as long as necessary and deleted or archived appropriately."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Managing Surplus Data",
+    question: "How can managing surplus data improve IoT network performance?",
+    answer: "It reduces storage demands, bandwidth usage and processing delays, improving efficiency and responsiveness."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Surplus Data in an Intelligent IoT Network",
+    subtopic: "Managing Surplus Data",
+    question: "Why must surplus data be managed according to privacy guidelines?",
+    answer: "Excessive collection or retention of personal information can create privacy risks and breach data protection requirements."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Basic Concepts",
+    question: "What is simulation?",
+    answer: "Using computer-generated models to replicate real-world processes or environments and test possible outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Basic Concepts",
+    question: "What is data modelling?",
+    answer: "Creating structured representations of data relationships and flows to organise, analyse and predict outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Basic Concepts",
+    question: "What is automation?",
+    answer: "Using intelligent systems to perform tasks with minimal human intervention."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Basic Concepts",
+    question: "What components can automation use?",
+    answer: "Sensors, decision logic and actuators."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Basic Concepts",
+    question: "What is the main benefit of simulation?",
+    answer: "It allows scenarios to be tested safely without real-world consequences."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Basic Concepts",
+    question: "How do simulation, data modelling and automation differ?",
+    answer: "Simulation tests scenarios, data modelling represents and analyses data, and automation performs tasks automatically."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Education and Training",
+    question: "How is simulation used in education and training?",
+    answer: "It creates realistic practice environments where learners can develop skills safely."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Education and Training",
+    question: "What are examples of educational simulations?",
+    answer: "Flight simulators and virtual science laboratories."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Education and Training",
+    question: "How is data modelling used in education?",
+    answer: "It analyses student data to identify learning patterns and support predictions about progress."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Education and Training",
+    question: "How does automation support adaptive learning platforms?",
+    answer: "It adjusts learning content based on student progress, performance and engagement."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Business Analytics",
+    question: "How is data modelling used in business analytics?",
+    answer: "It identifies patterns and trends in business data to support decision-making."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Business Analytics",
+    question: "What business areas can benefit from data modelling?",
+    answer: "Marketing, operations, finance and business performance analysis."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Business Analytics",
+    question: "How are simulations used in business?",
+    answer: "They test hypothetical scenarios to predict possible outcomes before decisions are implemented."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Business Analytics",
+    question: "What is a business 'what-if' scenario?",
+    answer: "A simulation that explores how changing variables may affect business outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Business Analytics",
+    question: "How does automation improve business operations?",
+    answer: "It speeds up repetitive tasks such as reporting, forecasting and workflow management."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "Business Analytics",
+    question: "How do simulation, data modelling and automation work together in business?",
+    answer: "Data modelling identifies patterns, simulation tests possible decisions, and automation carries out routine processes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "High-Risk Applications",
+    question: "How is simulation used in high-risk industries?",
+    answer: "It allows dangerous or complex scenarios to be tested without exposing people or equipment to real-world risks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "High-Risk Applications",
+    question: "Which industries use simulation for high-risk training or testing?",
+    answer: "Aviation, defence and healthcare."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "High-Risk Applications",
+    question: "How is data modelling used in high-risk industries?",
+    answer: "It helps predict equipment failures, identify anomalies and assess potential risks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "High-Risk Applications",
+    question: "How does automation support time-sensitive operations?",
+    answer: "It enables rapid, consistent responses with minimal human intervention."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "High-Risk Applications",
+    question: "What are examples of automation in high-risk applications?",
+    answer: "Surgical robots and industrial control systems."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Application of Simulation, Data Modelling & Automation in Enterprises",
+    subtopic: "High-Risk Applications",
+    question: "Why are simulation, data modelling and automation valuable in high-risk environments?",
+    answer: "They improve safety, support accurate predictions and enable faster, more consistent responses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "Basic Concepts",
+    question: "How are simulation and data modelling used in education and training?",
+    answer: "They create interactive learning environments where students can practise skills safely and analyse learning progress."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "Basic Concepts",
+    question: "How does automation support education?",
+    answer: "It adjusts learning activities and content based on student progress and engagement."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "Virtual Reality (VR) Classroom Simulations",
+    question: "What is a VR classroom simulation?",
+    answer: "An immersive virtual environment that allows students to explore or practise experiences in a simulated setting."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "Virtual Reality (VR) Classroom Simulations",
+    question: "How can VR be used in education?",
+    answer: "Students can experience historical events, conduct virtual science experiments or explore complex systems such as human anatomy."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "Virtual Reality (VR) Classroom Simulations",
+    question: "How can intelligent systems personalise VR simulations?",
+    answer: "They adjust difficulty and feedback according to the learner's progress."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "Virtual Reality (VR) Classroom Simulations",
+    question: "What is one benefit of VR classroom simulations?",
+    answer: "Students can explore realistic scenarios safely without real-world risks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "AI-Powered Tutoring Systems",
+    question: "What is an AI-powered tutoring system?",
+    answer: "An intelligent system that analyses student performance to provide personalised learning support."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "AI-Powered Tutoring Systems",
+    question: "How do AI tutoring systems personalise learning?",
+    answer: "They analyse performance patterns and provide individualised feedback, targeted questions and adjusted learning pace."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "AI-Powered Tutoring Systems",
+    question: "How do AI tutoring systems support self-directed learning?",
+    answer: "They help students identify weaknesses and practise skills at their own pace."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "AI-Powered Tutoring Systems",
+    question: "What is adaptive learning?",
+    answer: "Learning where content, difficulty or pace changes in response to a student's progress and needs."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "Simulation-Based Vocational Training",
+    question: "What is simulation-based vocational training?",
+    answer: "Training that uses simulated environments to practise technical or practical skills before performing them in real situations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "Simulation-Based Vocational Training",
+    question: "Which industries use simulation-based vocational training?",
+    answer: "Aviation, healthcare and engineering."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "Simulation-Based Vocational Training",
+    question: "What are examples of simulation-based vocational training?",
+    answer: "Practising aircraft operation, medical procedures and machinery operation in simulated environments."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "Simulation-Based Vocational Training",
+    question: "How does real-time feedback improve vocational training?",
+    answer: "It helps trainees identify mistakes and improve their techniques immediately."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "Simulation-Based Vocational Training",
+    question: "What is a key advantage of simulation-based vocational training?",
+    answer: "Trainees can develop practical skills safely before using live equipment or working with real patients."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "Comparing Applications",
+    question: "How do VR simulations, AI tutoring and vocational simulations differ?",
+    answer: "VR provides immersive experiences, AI tutoring personalises academic learning, and vocational simulations develop practical workplace skills."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Education & Training",
+    subtopic: "Comparing Applications",
+    question: "What are the overall benefits of intelligent systems in education and training?",
+    answer: "Safer practice, personalised learning, immediate feedback and improved skill development."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Basic Concepts",
+    question: "What is business analytics?",
+    answer: "Using data to identify patterns, evaluate performance and support business decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Basic Concepts",
+    question: "How do intelligent systems support business analytics?",
+    answer: "They use data modelling to identify trends, simulations to test scenarios and automation to speed up business processes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Basic Concepts",
+    question: "Which business areas benefit from intelligent analytics?",
+    answer: "Marketing, operations and finance."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Customer Behaviour Prediction",
+    question: "What is customer behaviour prediction?",
+    answer: "Using data to forecast customer preferences, interests and purchasing behaviour."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Customer Behaviour Prediction",
+    question: "What data can intelligent systems analyse to predict customer behaviour?",
+    answer: "Transaction histories, website activity and demographic information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Customer Behaviour Prediction",
+    question: "How do businesses use customer behaviour predictions?",
+    answer: "To improve marketing strategies, recommend products and personalise customer interactions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Customer Behaviour Prediction",
+    question: "What is one benefit of real-time customer personalisation?",
+    answer: "Businesses can tailor recommendations and engagement to customers' current interests or actions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Financial Risk Analysis",
+    question: "What is financial risk analysis?",
+    answer: "Identifying and evaluating potential financial losses or uncertainties."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Financial Risk Analysis",
+    question: "What data can intelligent systems use for financial risk analysis?",
+    answer: "Market trends, credit scores and global events."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Financial Risk Analysis",
+    question: "How do data modelling and simulation support financial risk analysis?",
+    answer: "Data modelling identifies patterns and risks, while simulation tests possible financial scenarios and outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Financial Risk Analysis",
+    question: "How can financial analysts use the results of risk analysis?",
+    answer: "To adjust investment strategies and make more informed lending decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Financial Risk Analysis",
+    question: "What is one benefit of intelligent financial risk analysis?",
+    answer: "It helps businesses make better-informed decisions and manage potential losses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Supply Chain Optimisation",
+    question: "What is supply chain optimisation?",
+    answer: "Improving the movement, storage and supply of goods to increase efficiency and reduce costs."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Supply Chain Optimisation",
+    question: "What data can intelligent systems analyse to optimise supply chains?",
+    answer: "Inventory levels, logistics information and supplier performance."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Supply Chain Optimisation",
+    question: "How do intelligent systems improve inventory management?",
+    answer: "They recommend restocking schedules and predict changes in demand."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Supply Chain Optimisation",
+    question: "How can intelligent systems identify supply chain bottlenecks?",
+    answer: "By analysing logistics and supplier data to detect delays or inefficiencies."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Supply Chain Optimisation",
+    question: "How does demand prediction benefit a business?",
+    answer: "It helps businesses maintain suitable stock levels and prepare for changes in customer demand."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Supply Chain Optimisation",
+    question: "What are the main benefits of supply chain optimisation?",
+    answer: "Increased operational efficiency, fewer delays, improved stock management and reduced costs."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Applying Intelligent Systems in Business",
+    question: "How do customer behaviour prediction, financial risk analysis and supply chain optimisation differ?",
+    answer: "Customer prediction improves marketing, financial risk analysis supports financial decisions, and supply chain optimisation improves logistics and inventory management."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Business Analytics",
+    subtopic: "Applying Intelligent Systems in Business",
+    question: "What is the overall benefit of intelligent systems in business analytics?",
+    answer: "They improve decision-making by identifying patterns, predicting outcomes and automating processes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Basic Concepts",
+    question: "What are high-risk applications?",
+    answer: "Situations where errors or failures can cause serious harm to people, equipment or the environment."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Basic Concepts",
+    question: "How are intelligent systems used in high-risk industries?",
+    answer: "They use simulation to test scenarios, data modelling to predict risks and automation to support rapid responses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Basic Concepts",
+    question: "Which industries use intelligent systems for high-risk applications?",
+    answer: "Aviation, defence, healthcare and industrial operations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Basic Concepts",
+    question: "Why is simulation useful in high-risk environments?",
+    answer: "It allows scenarios to be tested and users to practise without real-world danger."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Basic Concepts",
+    question: "How does data modelling improve safety in high-risk systems?",
+    answer: "It identifies patterns and predicts potential failures or abnormal conditions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Basic Concepts",
+    question: "How does automation support high-risk applications?",
+    answer: "It enables rapid, consistent actions when time is critical."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Autonomous Emergency Response Drones",
+    question: "What are autonomous emergency response drones?",
+    answer: "Drones controlled by intelligent systems to assist emergency services during disasters."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Autonomous Emergency Response Drones",
+    question: "How are emergency response drones used during natural disasters?",
+    answer: "They assess damage, locate survivors and collect real-time information for rescue teams."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Autonomous Emergency Response Drones",
+    question: "What types of disasters can emergency response drones assist with?",
+    answer: "Bushfires, floods and other hazardous emergency situations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Autonomous Emergency Response Drones",
+    question: "How do emergency response drones improve responder safety?",
+    answer: "They can enter dangerous areas and collect information without immediately exposing human responders to the same risks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Autonomous Emergency Response Drones",
+    question: "How do emergency response drones support decision-making?",
+    answer: "They provide real-time data that helps rescue teams assess situations and plan responses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Industrial Hazard Monitoring",
+    question: "What is industrial hazard monitoring?",
+    answer: "Using sensors and intelligent systems to detect dangerous conditions in industrial facilities."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Industrial Hazard Monitoring",
+    question: "What hazards can intelligent monitoring systems detect?",
+    answer: "Toxic leaks, overheating, equipment faults and other abnormal conditions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Industrial Hazard Monitoring",
+    question: "How do intelligent systems detect industrial hazards?",
+    answer: "Sensors collect data, and predictive analytics identify unusual readings or potential risks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Industrial Hazard Monitoring",
+    question: "What actions can an industrial hazard monitoring system take?",
+    answer: "Trigger alerts, notify operators or automatically shut down equipment."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Industrial Hazard Monitoring",
+    question: "Why is automated shutdown important in hazardous facilities?",
+    answer: "It can prevent dangerous faults from escalating into major accidents."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Industrial Hazard Monitoring",
+    question: "Which industries can benefit from intelligent hazard monitoring?",
+    answer: "Chemical processing, nuclear facilities and other high-risk industrial environments."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Medical Diagnosis and Surgery Assistance",
+    question: "How are intelligent systems used in medical diagnosis?",
+    answer: "AI-powered expert systems analyse medical information to assist with identifying conditions and predicting risks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Medical Diagnosis and Surgery Assistance",
+    question: "What are examples of medical applications of intelligent systems?",
+    answer: "Tumour detection, stroke risk prediction and robot-assisted surgery."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Medical Diagnosis and Surgery Assistance",
+    question: "What is an AI-powered expert system in healthcare?",
+    answer: "A system that uses programmed knowledge and intelligent analysis to support clinical decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Medical Diagnosis and Surgery Assistance",
+    question: "How does robot-assisted surgery use intelligent technology?",
+    answer: "It assists surgeons with precise movements and control during complex procedures."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Medical Diagnosis and Surgery Assistance",
+    question: "How can intelligent systems reduce human error in healthcare?",
+    answer: "They can identify patterns, provide decision support and assist with precise surgical tasks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Medical Diagnosis and Surgery Assistance",
+    question: "Why is human oversight important in AI-assisted medical decisions?",
+    answer: "Medical decisions can have serious consequences, so qualified professionals must evaluate results and remain responsible for patient care."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Medical Diagnosis and Surgery Assistance",
+    question: "What are the potential benefits of intelligent systems in healthcare?",
+    answer: "Improved diagnostic support, greater precision and potentially better patient outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Comparing High-Risk Applications",
+    question: "How do emergency response drones, hazard monitoring and medical AI differ?",
+    answer: "Drones gather information in dangerous areas, hazard monitoring detects industrial dangers, and medical AI supports diagnosis and surgery."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "High-Risk Applications",
+    subtopic: "Comparing High-Risk Applications",
+    question: "What is the overall benefit of intelligent systems in high-risk applications?",
+    answer: "They can improve safety, detect risks earlier, support accurate decisions and enable faster responses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Basic Concepts",
+    question: "What is the role of intelligent systems in surveillance?",
+    answer: "To automate monitoring, collect data, identify patterns and detect potential threats or unusual behaviour."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Basic Concepts",
+    question: "What technologies are used in intelligent surveillance systems?",
+    answer: "Machine learning, facial recognition, biometric scanning and real-time data analytics."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Basic Concepts",
+    question: "What is an anomaly in surveillance?",
+    answer: "An unusual activity or pattern that differs from expected behaviour and may require investigation."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Basic Concepts",
+    question: "What are the benefits of intelligent surveillance?",
+    answer: "Faster threat detection, improved security, automated monitoring and better-informed decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Basic Concepts",
+    question: "What are the privacy risks of intelligent surveillance?",
+    answer: "Excessive data collection, unauthorised tracking, misuse of personal information and reduced privacy."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Closed-Circuit Television (CCTV)",
+    question: "What is CCTV?",
+    answer: "Closed-Circuit Television, a system of cameras used to monitor and record activities in specific locations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Closed-Circuit Television (CCTV)",
+    question: "How do intelligent CCTV systems improve surveillance?",
+    answer: "They use object recognition and behaviour analysis to detect suspicious activities in real time."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Closed-Circuit Television (CCTV)",
+    question: "What is one advantage of intelligent CCTV?",
+    answer: "It reduces reliance on continuous manual monitoring by automatically identifying potential threats."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Biometric Scanning",
+    question: "What is biometric scanning?",
+    answer: "Using unique physical or behavioural characteristics to identify or verify a person."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Biometric Scanning",
+    question: "What are three examples of biometric scanning?",
+    answer: "Facial recognition, fingerprint recognition and iris recognition."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Biometric Scanning",
+    question: "How is biometric scanning used in surveillance?",
+    answer: "To verify identities and control access to secure locations or digital systems."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Biometric Scanning",
+    question: "What is one risk of biometric surveillance?",
+    answer: "Biometric information could be misused, stolen or used to identify people without appropriate consent."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Customer Loyalty Schemes",
+    question: "How do intelligent systems use customer loyalty data?",
+    answer: "They analyse purchasing behaviour to identify trends, predict needs and personalise offers."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Customer Loyalty Schemes",
+    question: "What is customer profiling?",
+    answer: "Analysing collected information to build a profile of a customer's preferences, behaviour or interests."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Customer Loyalty Schemes",
+    question: "What is one benefit of intelligent customer profiling?",
+    answer: "Businesses can provide more relevant recommendations and targeted promotions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Customer Loyalty Schemes",
+    question: "What is one privacy concern with customer loyalty schemes?",
+    answer: "Customers' purchasing habits may be tracked extensively or their data used in ways they did not expect."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Network Sniffing",
+    question: "What is network sniffing?",
+    answer: "Capturing and inspecting network traffic to examine data travelling across a network."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Network Sniffing",
+    question: "How can intelligent systems use network sniffing for surveillance?",
+    answer: "They analyse network traffic to identify suspicious activity, malware, unauthorised access or possible data leaks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Network Sniffing",
+    question: "How does network sniffing support cybersecurity?",
+    answer: "It helps detect threats and investigate unusual network activity."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Network Sniffing",
+    question: "What is one risk associated with network sniffing?",
+    answer: "Improper use may expose private communications or sensitive information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Fraud Prevention",
+    question: "How do intelligent systems detect potential fraud?",
+    answer: "They analyse transactions and user activity to identify unusual patterns or suspicious behaviour."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Fraud Prevention",
+    question: "What happens when a system detects a possible fraudulent transaction?",
+    answer: "It may trigger an alert, flag the transaction for review or temporarily block the activity."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Fraud Prevention",
+    question: "What is one benefit of intelligent fraud detection?",
+    answer: "It can identify suspicious activity quickly and reduce financial losses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Fraud Prevention",
+    question: "Why must fraud detection systems be monitored for errors?",
+    answer: "Legitimate transactions may be incorrectly flagged, while genuine fraud may go undetected."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Social Media Monitoring and Trolling",
+    question: "How do intelligent systems monitor social media?",
+    answer: "They analyse posts and interactions to detect abusive language, hate speech and spam."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Social Media Monitoring and Trolling",
+    question: "What is natural language processing (NLP)?",
+    answer: "A branch of AI that enables computers to analyse and interpret human language."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Social Media Monitoring and Trolling",
+    question: "How can NLP support automated content moderation?",
+    answer: "It identifies potentially harmful or inappropriate content and can flag or remove it according to platform rules."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Social Media Monitoring and Trolling",
+    question: "What is one limitation of automated content moderation?",
+    answer: "Systems may misunderstand context, sarcasm or cultural differences, leading to incorrect decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Applying Intelligent Surveillance",
+    question: "How does physical surveillance differ from digital surveillance?",
+    answer: "Physical surveillance monitors locations and activities, while digital surveillance monitors network traffic, online behaviour or digital transactions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Applying Intelligent Surveillance",
+    question: "Why is human oversight important in intelligent surveillance?",
+    answer: "People can assess context, review uncertain results and help prevent inaccurate or unfair decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Applying Intelligent Surveillance",
+    question: "How can enterprises use intelligent surveillance responsibly?",
+    answer: "By limiting data collection, protecting information, controlling access and complying with privacy requirements."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "The Role of Intelligent Systems in Surveillance",
+    subtopic: "Applying Intelligent Surveillance",
+    question: "What is the overall role of intelligent systems in surveillance?",
+    answer: "To automate monitoring, detect suspicious patterns, improve security and support decision-making while managing privacy risks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Basic Concepts",
+    question: "How does AI improve efficiency in an IoT network?",
+    answer: "By analysing data in real time, making autonomous decisions and predicting changes to optimise device performance."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Basic Concepts",
+    question: "How does AI reduce human intervention in IoT networks?",
+    answer: "It learns from patterns and feedback to make decisions and adjust devices automatically."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Basic Concepts",
+    question: "How does AI reduce resource waste in IoT networks?",
+    answer: "It optimises the use of resources such as energy, water, time and network capacity."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Basic Concepts",
+    question: "How does AI improve IoT network reliability?",
+    answer: "It identifies problems, predicts potential failures and helps systems respond to changing conditions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Smart Energy Grids",
+    question: "How does AI improve smart energy grids?",
+    answer: "It predicts energy demand and adjusts electricity distribution to balance supply and demand."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Smart Energy Grids",
+    question: "What data can AI use to manage energy distribution?",
+    answer: "Energy usage patterns, weather conditions and predicted electricity demand."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Smart Energy Grids",
+    question: "How can AI reduce blackouts in smart energy grids?",
+    answer: "By detecting potential overloads and adjusting energy distribution before problems escalate."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Smart Energy Grids",
+    question: "What are the benefits of AI-powered smart energy grids?",
+    answer: "Reduced costs, improved energy efficiency and more reliable electricity distribution."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Intelligent Traffic Systems",
+    question: "How do intelligent traffic systems use AI?",
+    answer: "They analyse traffic conditions and adjust traffic signals in real time to improve traffic flow."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Intelligent Traffic Systems",
+    question: "What data can AI use to manage traffic?",
+    answer: "GPS information, camera footage and data from IoT sensors."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Intelligent Traffic Systems",
+    question: "How can AI reduce traffic congestion?",
+    answer: "By adapting traffic signals to current vehicle flow and identifying congestion patterns."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Intelligent Traffic Systems",
+    question: "How can intelligent traffic systems support emergency services?",
+    answer: "They can coordinate traffic management and help prioritise routes for emergency vehicles."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Intelligent Traffic Systems",
+    question: "What are the benefits of AI-powered traffic systems?",
+    answer: "Reduced congestion, lower fuel consumption and improved traffic management."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Predictive Maintenance in Manufacturing",
+    question: "What is predictive maintenance?",
+    answer: "Using data analysis to predict equipment faults before they occur so maintenance can be performed early."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Predictive Maintenance in Manufacturing",
+    question: "How does AI support predictive maintenance?",
+    answer: "It analyses machine performance, vibration data and maintenance history to identify signs of possible failure."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Predictive Maintenance in Manufacturing",
+    question: "How do machine learning models improve predictive maintenance?",
+    answer: "They refine predictions by learning from new performance data and feedback."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Predictive Maintenance in Manufacturing",
+    question: "How does predictive maintenance benefit manufacturing?",
+    answer: "It reduces downtime, prevents unexpected breakdowns and extends equipment lifespan."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Predictive Maintenance in Manufacturing",
+    question: "What is downtime?",
+    answer: "The period when equipment or a system is unavailable or not operating."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Smart Irrigation Systems",
+    question: "How does AI improve smart irrigation?",
+    answer: "It uses sensor data and predictions to apply water when and where crops need it."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Smart Irrigation Systems",
+    question: "What data can AI use to control irrigation?",
+    answer: "Soil moisture levels, rainfall forecasts and crop water requirements."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Smart Irrigation Systems",
+    question: "How does smart irrigation reduce water waste?",
+    answer: "It prevents unnecessary watering by adjusting irrigation to soil conditions and expected rainfall."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Smart Irrigation Systems",
+    question: "What are the benefits of AI-powered smart irrigation?",
+    answer: "Conserved water, healthier crops, reduced costs and lower environmental impact."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Comparing Applications",
+    question: "How does AI improve efficiency in energy grids, traffic, manufacturing and agriculture?",
+    answer: "It balances electricity demand, optimises traffic flow, predicts equipment faults and reduces unnecessary water use."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Comparing Applications",
+    question: "What is the overall benefit of combining AI and IoT?",
+    answer: "Connected devices can collect data and use AI to make faster, more accurate and more efficient decisions automatically."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "AI Supporting Efficiency in an IoT Network",
+    subtopic: "Comparing Applications",
+    question: "Why is real-time data important in AI-powered IoT networks?",
+    answer: "It allows systems to respond quickly to changing conditions and make timely decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Understanding IF / THEN Logic in Algorithms",
+    subtopic: "Basic Concepts",
+    question: "What is binary selection in an algorithm?",
+    answer: "Making a decision between two possible paths based on a condition."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Understanding IF / THEN Logic in Algorithms",
+    subtopic: "Basic Concepts",
+    question: "What determines which path a binary selection follows?",
+    answer: "Whether a condition evaluates to true or false."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Understanding IF / THEN Logic in Algorithms",
+    subtopic: "Basic Concepts",
+    question: "What are the four keywords used for binary selection in pseudocode?",
+    answer: "IF, THEN, ELSE and ENDIF."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Understanding IF / THEN Logic in Algorithms",
+    subtopic: "IF / THEN Keywords",
+    question: "What is the purpose of IF in pseudocode?",
+    answer: "Introduces the condition that will be evaluated."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Understanding IF / THEN Logic in Algorithms",
+    subtopic: "IF / THEN Keywords",
+    question: "What is the purpose of THEN in pseudocode?",
+    answer: "Introduces the instructions executed when the condition is true."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Understanding IF / THEN Logic in Algorithms",
+    subtopic: "IF / THEN Keywords",
+    question: "What is the purpose of ELSE in pseudocode?",
+    answer: "Introduces the instructions executed when the condition is false."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Understanding IF / THEN Logic in Algorithms",
+    subtopic: "IF / THEN Keywords",
+    question: "What is the purpose of ENDIF in pseudocode?",
+    answer: "Marks the end of the IF statement."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Understanding IF / THEN Logic in Algorithms",
+    subtopic: "Applying Binary Selection",
+    question: "What happens when an IF condition is true?",
+    answer: "The instructions following THEN are executed."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Understanding IF / THEN Logic in Algorithms",
+    subtopic: "Applying Binary Selection",
+    question: "What happens when an IF condition is false and an ELSE branch exists?",
+    answer: "The instructions following ELSE are executed."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Understanding IF / THEN Logic in Algorithms",
+    subtopic: "Applying Binary Selection",
+    question: "What is the main purpose of binary selection?",
+    answer: "To allow an algorithm to make decisions and follow different paths depending on a condition."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Basic Concepts",
+    question: "What is an expert system?",
+    answer: "An intelligent system that simulates the decision-making ability of a human expert."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Basic Concepts",
+    question: "What are the two main elements expert systems use to reach conclusions?",
+    answer: "Facts and rules."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of developing expert system rules?",
+    answer: "To encode expert knowledge so the system can interpret inputs and make decisions or recommendations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Basic Concepts",
+    question: "What is an IF–THEN statement in an expert system?",
+    answer: "A rule that specifies what conclusion or action follows when a condition is met."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Basic Concepts",
+    question: "Why are consistent, repeatable rules important in expert systems?",
+    answer: "They enable automated, reliable decision-making and reduce reliance on individual human expertise."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Components of an Expert System",
+    question: "What are the three main components of an expert system?",
+    answer: "Knowledge base, inference engine and user interface."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Components of an Expert System",
+    question: "What is the purpose of the knowledge base?",
+    answer: "To store facts about the problem domain and rules connecting facts to conclusions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Components of an Expert System",
+    question: "What is the purpose of the inference engine?",
+    answer: "To apply rules to known facts and infer new information or conclusions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Components of an Expert System",
+    question: "What is the purpose of the user interface?",
+    answer: "To allow users to enter information and view conclusions or recommendations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Facts, Rules and Inference",
+    question: "What is a fact in an expert system?",
+    answer: "A known piece of information or input, obtained from users, data collection or sensors."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Facts, Rules and Inference",
+    question: "What is a rule in an expert system?",
+    answer: "An IF–THEN statement that connects facts or conditions to possible conclusions or decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Facts, Rules and Inference",
+    question: "How does an inference engine produce a recommendation?",
+    answer: "It systematically applies rules to known facts to derive logical conclusions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Facts, Rules and Inference",
+    question: "What is inference in an expert system?",
+    answer: "The process of using facts and rules to derive new information or conclusions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Facts, Rules and Inference",
+    question: "What is an intermediate fact?",
+    answer: "A fact produced as the conclusion of one rule that can be used by another rule."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Inference Methods",
+    question: "What is forward chaining?",
+    answer: "An inference method that starts with known facts and applies rules to reach conclusions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Inference Methods",
+    question: "What is backward chaining?",
+    answer: "An inference method that starts with a goal or possible conclusion and works backwards to identify the facts needed to support it."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Inference Methods",
+    question: "What is the difference between forward and backward chaining?",
+    answer: "Forward chaining moves from facts to conclusions, while backward chaining moves from a goal to the required facts."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Importance of Expert System Rules",
+    question: "How do expert system rules help enterprises?",
+    answer: "They automate complex decisions, improve response speed and support consistent decision-making."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Importance of Expert System Rules",
+    question: "What can happen if expert system rules are poorly defined?",
+    answer: "The system may misinterpret inputs or produce unreliable or incorrect conclusions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Developing Expert System Rules",
+    subtopic: "Importance of Expert System Rules",
+    question: "Why must expert knowledge be accurately represented in rules?",
+    answer: "So the system can apply appropriate reasoning and produce meaningful recommendations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Basic Concepts",
+    question: "What is a smart irrigation system?",
+    answer: "An intelligent system that automatically waters crops or gardens based on environmental conditions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of a smart irrigation system?",
+    answer: "To conserve water and energy, reduce labour and costs, and improve plant health and crop yields."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Basic Concepts",
+    question: "What technologies can a smart irrigation system use?",
+    answer: "IoT sensors, machine learning algorithms and IF–THEN rules."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Basic Concepts",
+    question: "What environmental conditions can influence irrigation decisions?",
+    answer: "Soil moisture, temperature, time of day and weather forecasts."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Facts and Inputs",
+    question: "What are facts in a smart irrigation expert system?",
+    answer: "Known inputs collected from sensors or other data sources."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Facts and Inputs",
+    question: "What facts are provided in the example?",
+    answer: "Soil moisture is LOW, temperature is HIGH, time is 12:00 PM and rain forecast = NO."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Facts and Inputs",
+    question: "Why are sensor facts important to an expert system?",
+    answer: "They provide the information needed to evaluate rules and determine appropriate actions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Developing Expert System Rules",
+    question: "What is the purpose of Rule 1: IF rain forecast = YES THEN skip irrigation?",
+    answer: "To prevent unnecessary watering when rain is expected."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Developing Expert System Rules",
+    question: "What is the purpose of Rule 2: IF soil moisture is LOW AND temperature is HIGH THEN irrigation required?",
+    answer: "To identify when crops may need watering due to dry soil and high temperatures."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Developing Expert System Rules",
+    question: "What is the purpose of Rule 3: IF time is before 10:00 AM OR after 4:00 PM THEN schedule watering next day 10:00 AM?",
+    answer: "To reschedule watering when the current time falls outside the permitted watering period."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Developing Expert System Rules",
+    question: "What is the purpose of Rule 4: IF irrigation required AND rain forecast = NO THEN activate pump after 4:00 PM?",
+    answer: "To activate irrigation when watering is needed and rain is not expected, after the specified time."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Developing Expert System Rules",
+    question: "What is the purpose of Rule 5: IF irrigation is scheduled AND pump is activated THEN log water usage?",
+    answer: "To record water consumption for monitoring and resource management."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Applying the Rules",
+    question: "What is the system's output for the example conditions?",
+    answer: "Watering is scheduled for after 4:00 PM, and the pump will activate if it does not rain."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Applying the Rules",
+    question: "Why does the system consider the rain forecast before watering?",
+    answer: "To avoid wasting water when natural rainfall may provide sufficient moisture."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Applying the Rules",
+    question: "How do IF–THEN rules automate irrigation decisions?",
+    answer: "They evaluate sensor facts and apply predefined conditions to determine when watering should occur."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Importance and Benefits",
+    question: "Why must smart irrigation rules be clearly defined?",
+    answer: "To ensure the system makes consistent, appropriate decisions under different environmental conditions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Importance and Benefits",
+    question: "How can smart irrigation reduce environmental impact?",
+    answer: "By minimising unnecessary water use and reducing wasted energy and resources."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Importance and Benefits",
+    question: "How can smart irrigation improve crop yields?",
+    answer: "By maintaining soil moisture at suitable levels for plant growth."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Importance and Benefits",
+    question: "What could happen if the irrigation rules were incorrect or incomplete?",
+    answer: "The system could water at unsuitable times, waste resources or fail to provide crops with enough water."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Developing Expert System Rules: Smart Irrigation System",
+    subtopic: "Importance and Benefits",
+    question: "How does this example demonstrate an expert system?",
+    answer: "It uses sensor facts and IF–THEN rules to automate decisions that would otherwise require human knowledge and judgement."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Basic Concepts",
+    question: "What is a decision tree?",
+    answer: "A visual tool that represents decisions, conditions and their possible outcomes in a branching structure."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Basic Concepts",
+    question: "What does each decision point in a decision tree do?",
+    answer: "Evaluates a condition and branches into different outcomes based on the result."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Basic Concepts",
+    question: "What types of conditions can decision trees use?",
+    answer: "True/false conditions and value-based conditions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Basic Concepts",
+    question: "What does each branch in a decision tree represent?",
+    answer: "A possible outcome or path resulting from a decision."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Purpose and Applications",
+    question: "Why are decision trees useful?",
+    answer: "They visually show how conditions and combinations of variables lead to specific actions or outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Purpose and Applications",
+    question: "How do decision trees help project teams evaluate options?",
+    answer: "They display possible outcomes and the paths leading to them, making alternatives easier to compare."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Purpose and Applications",
+    question: "When are decision trees especially useful?",
+    answer: "When a system involves multiple variables, several possible outcomes or uncertain conditions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Purpose and Applications",
+    question: "How can decision trees help analyse consequences?",
+    answer: "They map possible decisions and outcomes, helping users understand the potential consequences of different choices."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Decision Trees in Systems",
+    question: "How does a decision tree represent decision-making logic?",
+    answer: "It starts with a decision and follows branches according to conditions until an outcome or action is reached."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Decision Trees in Systems",
+    question: "What is the main advantage of representing decisions visually?",
+    answer: "It makes complex decision logic easier to understand, analyse and communicate."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Decision Trees in Systems",
+    question: "How can combinations of variables affect a decision tree's outcome?",
+    answer: "Different combinations of conditions can lead to different branches and final actions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Introduction to Decision Trees",
+    subtopic: "Decision Trees in Systems",
+    question: "How are decision trees related to IF–THEN logic?",
+    answer: "Both use conditions to determine which action or outcome should follow."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Basic Concepts",
+    question: "What is a certainty factor (CF)?",
+    answer: "A numerical value representing how confident an expert system is in a fact or rule conclusion."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Basic Concepts",
+    question: "Why are certainty factors used in expert systems?",
+    answer: "To represent uncertainty and avoid treating all information as completely reliable."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Basic Concepts",
+    question: "What range can certainty factors use?",
+    answer: "From −1 to +1, or 0% to 100% in simplified models."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Basic Concepts",
+    question: "What does a CF of +1 represent?",
+    answer: "Complete certainty that a fact or conclusion is true."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Basic Concepts",
+    question: "What does a CF of 0 represent?",
+    answer: "Unknown or neutral certainty."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Basic Concepts",
+    question: "What does a CF of −1 represent?",
+    answer: "Complete certainty that the opposite of a fact or conclusion is true."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Certainty Factors in Expert Systems",
+    question: "How can certainty factors be assigned in an expert system?",
+    answer: "A predefined CF can be attached to each rule or observation."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Certainty Factors in Expert Systems",
+    question: "How can an expert system combine certainty factors from multiple rules?",
+    answer: "Using methods such as minimum, average or Bayesian updating, depending on the system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Certainty Factors in Expert Systems",
+    question: "How can certainty factors influence decision-making?",
+    answer: "Conclusions can be ranked or weighted according to their certainty factors."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Certainty Factors in Decision Trees",
+    question: "How does a traditional decision tree usually represent outcomes?",
+    answer: "Through branches representing choices such as YES/NO or other fixed outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Certainty Factors in Decision Trees",
+    question: "How can certainty factors be incorporated into a decision tree?",
+    answer: "By labelling branches or nodes with CF values to represent confidence in possible outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Certainty Factors in Decision Trees",
+    question: "How can certainty factors help choose a path through a decision tree?",
+    answer: "CF values can be compared to identify the path with the strongest supporting confidence."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Certainty Factors in Decision Trees",
+    question: "How can certainty factors along a path be combined using an average?",
+    answer: "Add the CF values and divide by the number of factors."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Certainty Factors in Decision Trees",
+    question: "What is the formula for calculating the average certainty factor?",
+    answer: "Average CF = Sum of CF values ÷ Number of CF values."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Certainty Factors in Decision Trees",
+    question: "What is an important limitation when combining certainty factors?",
+    answer: "The appropriate method depends on the system; simply averaging values is not always a valid way to combine uncertainty."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Applying Certainty Factors",
+    question: "What does a higher positive CF generally indicate?",
+    answer: "Greater confidence that a fact or conclusion is true."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Applying Certainty Factors",
+    question: "What does a negative CF indicate?",
+    answer: "Confidence that the opposite of a fact or conclusion is true."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Applying Certainty Factors",
+    question: "Why are certainty factors useful when information is incomplete or uncertain?",
+    answer: "They allow the system to represent different confidence levels instead of making decisions as though every fact is certain."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Applying Certainty Factors",
+    question: "How do certainty factors improve decision-tree reasoning?",
+    answer: "They add confidence information to branches, helping the system compare possible outcomes under uncertainty."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Applying Certainty Factors Through a Decision Tree",
+    subtopic: "Applying Certainty Factors",
+    question: "What is the main purpose of applying certainty factors through a decision tree?",
+    answer: "To support more informed decisions by considering both possible outcomes and the confidence in the evidence supporting them."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Basic Concepts",
+    question: "What is a Decision Support System (DSS)?",
+    answer: "A system that uses data and analytical tools to support decision-making."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Basic Concepts",
+    question: "Why must data sources in a DSS be verified?",
+    answer: "To ensure decisions are based on accurate, current, relevant and trustworthy information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Basic Concepts",
+    question: "What data sources can a DSS use?",
+    answer: "IoT sensors, enterprise databases, web services and external APIs."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Basic Concepts",
+    question: "What risks can arise from using unverified data?",
+    answer: "Errors, inefficiencies, biased conclusions and unreliable decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Source Validation and Authority",
+    question: "What is source validation?",
+    answer: "Checking the credibility and trustworthiness of a data source before using it in a DSS."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Source Validation and Authority",
+    question: "What does authority mean when evaluating a data source?",
+    answer: "Who created or published the data and whether they have appropriate expertise or credibility."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Source Validation and Authority",
+    question: "Why should external data sources be carefully assessed?",
+    answer: "Their authenticity, authority and reputation may not be established or governed by the enterprise."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Source Validation and Authority",
+    question: "How can the credibility of a data source be verified?",
+    answer: "Check the publisher's credentials, peer reviews, institutional affiliations and reputation."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Source Validation and Authority",
+    question: "Why might internal enterprise databases be considered more trustworthy?",
+    answer: "They may be managed under established IT protocols and organisational controls, although their data still requires verification."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Data Consistency and Cross-Verification",
+    question: "What is data cross-verification?",
+    answer: "Comparing data against multiple independent sources to check its accuracy and consistency."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Data Consistency and Cross-Verification",
+    question: "Why should data be checked against independent sources?",
+    answer: "Agreement between reputable sources increases confidence in the data's validity."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Data Consistency and Cross-Verification",
+    question: "Give an example of cross-verifying enterprise data.",
+    answer: "Comparing sales figures from a point-of-sale system with accounting or customer relationship management (CRM) data."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Data Consistency and Cross-Verification",
+    question: "What is data reconciliation?",
+    answer: "The process of comparing datasets and resolving or investigating differences between them."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Data Consistency and Cross-Verification",
+    question: "How can data redundancy help verify information?",
+    answer: "Keeping overlapping records allows systems to compare information and identify inconsistencies."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Data Consistency and Cross-Verification",
+    question: "What should a DSS do when data sources contain conflicting information?",
+    answer: "Flag the inconsistencies for investigation before relying on the data for analysis or decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Time-Stamping and Version Control",
+    question: "What is time-stamping?",
+    answer: "Recording when data was collected, created or updated."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Time-Stamping and Version Control",
+    question: "Why is time-stamping important in a DSS?",
+    answer: "It helps determine whether data is current and relevant to the decision being made."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Time-Stamping and Version Control",
+    question: "In which situations is data timeliness especially important?",
+    answer: "Time-sensitive areas such as logistics, market analysis and real-time monitoring."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Time-Stamping and Version Control",
+    question: "What is version control for datasets?",
+    answer: "Managing changes to datasets so different versions can be identified and tracked."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Time-Stamping and Version Control",
+    question: "Why should older dataset versions be archived?",
+    answer: "To support auditing, historical comparisons and tracking changes over time."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Time-Stamping and Version Control",
+    question: "How does version control help prevent poor decisions?",
+    answer: "It helps ensure appropriate, up-to-date data is used rather than outdated or obsolete information."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Applying Data Verification",
+    question: "What are the three key methods for verifying DSS data sources?",
+    answer: "Source validation and authority, data consistency and cross-verification, and time-stamping and version control."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Verifying Data Sources Used in a Decision Support System (DSS)",
+    subtopic: "Applying Data Verification",
+    question: "How do these verification methods improve DSS decision-making?",
+    answer: "They help ensure data is credible, consistent and current, reducing the risk of unreliable conclusions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of using flowcharts when developing an expert system's knowledge base?",
+    answer: "To visually represent decision logic and show relationships between conditions and outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Basic Concepts",
+    question: "How do flowcharts help developers create IF–THEN rules?",
+    answer: "They show how facts are evaluated and how decisions lead to actions or conclusions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Basic Concepts",
+    question: "What is a knowledge base in an expert system?",
+    answer: "A component that stores facts and IF–THEN rules used to reach conclusions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Flowchart Symbols and Logic",
+    question: "Which flowchart symbol represents a decision or IF condition?",
+    answer: "A diamond."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Flowchart Symbols and Logic",
+    question: "What does a decision diamond evaluate?",
+    answer: "A condition that determines which path the process follows."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Flowchart Symbols and Logic",
+    question: "How are THEN results represented in a flowchart?",
+    answer: "As outcomes or actions connected to the relevant decision branch."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Flowchart Symbols and Logic",
+    question: "What do branches from a decision diamond commonly represent?",
+    answer: "Alternative outcomes, such as YES/NO or TRUE/FALSE."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Developing IF–THEN Rules",
+    question: "What should developers identify before creating flowchart rules?",
+    answer: "Clearly defined facts or input conditions, such as sensor data or human actions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Developing IF–THEN Rules",
+    question: "How should decisions and their outcomes be connected?",
+    answer: "Each decision should lead to the appropriate action or conclusion for that condition."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Developing IF–THEN Rules",
+    question: "What does it mean to chain rules logically?",
+    answer: "The result of one rule becomes a condition or fact used by a later rule."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Developing IF–THEN Rules",
+    question: "Why should related decisions be grouped into smaller modules?",
+    answer: "To simplify the flowchart and make the logic easier to understand and maintain."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Developing IF–THEN Rules",
+    question: "Why must all possible outcomes be included in a flowchart?",
+    answer: "To ensure the system can handle alternative conditions, including NO or FALSE outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Benefits and Applications",
+    question: "How do flowcharts help identify problems in expert system rules?",
+    answer: "They make missing outcomes, incorrect logic and unclear relationships easier to identify."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Benefits and Applications",
+    question: "How do flowcharts help test different scenarios?",
+    answer: "Developers can trace each decision path to check whether the expected outcome is reached."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Using Flowcharts to Develop a Knowledge Base of IF–THEN Rules",
+    subtopic: "Benefits and Applications",
+    question: "What is the main benefit of using flowcharts to develop IF–THEN rules?",
+    answer: "They provide a clear visual representation of the expert system's reasoning, helping developers create, test and refine rules."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Basic Concepts",
+    question: "What is involved in designing and modelling an automated smart system?",
+    answer: "Planning how a system collects data, processes it and responds intelligently to achieve its goals."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Basic Concepts",
+    question: "Why is modelling important when designing a smart system?",
+    answer: "It provides a blueprint of system behaviour, helping developers identify decision points and ensure predictable operation."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Basic Concepts",
+    question: "What tools can be used to model a smart system?",
+    answer: "Flowcharts, decision trees, infographics and data flow diagrams (DFDs)."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Basic Concepts",
+    question: "What hardware components may be included in an automated smart system?",
+    answer: "Sensors, microcontrollers and actuators."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Key Steps in System Design",
+    question: "What is the purpose of defining the system's purpose and scope?",
+    answer: "To identify what the system must do, the problem it solves and its intended users."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Key Steps in System Design",
+    question: "What are inputs and outputs in a smart system?",
+    answer: "Inputs are data collected from users or sensors; outputs are the actions or information produced by the system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Key Steps in System Design",
+    question: "Give examples of inputs and outputs in a smart system.",
+    answer: "Inputs: motion, temperature and pressure readings. Outputs: turning on lights or activating alarms."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Key Steps in System Design",
+    question: "What is the purpose of developing rules and logic?",
+    answer: "To define how the system responds to different input conditions using IF–THEN rules."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Key Steps in System Design",
+    question: "What is the purpose of modelling tools during system design?",
+    answer: "To visually represent processes, data movement, decisions and system responses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Key Steps in System Design",
+    question: "Why must a smart system be tested and evaluated?",
+    answer: "To identify errors, refine the model and ensure all possible conditions are handled correctly."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Flowcharts",
+    question: "What is a flowchart?",
+    answer: "A diagram that represents the steps and decision paths within a process or system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Flowcharts",
+    question: "Which flowchart symbol represents collected data and displayed outputs?",
+    answer: "A parallelogram."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Flowcharts",
+    question: "How can flowcharts help design automated responses?",
+    answer: "They map decision points and show which actions follow particular conditions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Data Flow Diagrams (DFDs)",
+    question: "What is a data flow diagram (DFD)?",
+    answer: "A diagram showing how data enters, moves through and leaves a system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Data Flow Diagrams (DFDs)",
+    question: "How do DFDs represent data movement?",
+    answer: "They use flowlines with arrows to show the direction of data between system components and external entities."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Data Flow Diagrams (DFDs)",
+    question: "How can a DFD represent system inputs and outputs?",
+    answer: "It shows data entering from external entities and information flowing back to external entities."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Data Flow Diagrams (DFDs)",
+    question: "What is the difference between a flowchart and a DFD?",
+    answer: "A flowchart focuses on process steps and decision logic, while a DFD focuses on how data moves through a system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Applying System Design",
+    question: "How do sensors, microcontrollers and actuators work together in a smart system?",
+    answer: "Sensors collect data, microcontrollers process it and apply logic, and actuators carry out physical actions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Applying System Design",
+    question: "Why must all possible conditions be considered during modelling?",
+    answer: "To prevent unhandled situations and ensure the system responds appropriately to different inputs."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Designing and Modelling an Automated Smart System",
+    subtopic: "Applying System Design",
+    question: "What is the overall goal of designing and modelling an automated smart system?",
+    answer: "To create a reliable, efficient system that processes data and performs appropriate actions to meet its intended purpose."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Basic Concepts",
+    question: "What is automated processing?",
+    answer: "Using software to complete tasks automatically with minimal or no manual input."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Basic Concepts",
+    question: "What are the benefits of automated processing?",
+    answer: "It improves efficiency, consistency and speed, reduces human error and frees time for complex tasks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Basic Concepts",
+    question: "How is automated processing implemented?",
+    answer: "By defining triggers, configuring logic-based rules and integrating systems so data and actions occur automatically."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Basic Concepts",
+    question: "What is a trigger in automated processing?",
+    answer: "An event or condition that starts an automated task or action."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Basic Concepts",
+    question: "What is the purpose of logic-based rules in automated processing?",
+    answer: "To determine which actions software should perform when specified conditions are met."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Basic Concepts",
+    question: "Why is system integration important for automation?",
+    answer: "It allows connected platforms to exchange data and perform coordinated actions automatically."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Chatbot Systems",
+    question: "What is an AI-based chatbot?",
+    answer: "Software that uses artificial intelligence to interpret user input and generate human-like responses."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Chatbot Systems",
+    question: "What technologies do AI chatbots commonly use?",
+    answer: "Natural language processing (NLP) and machine learning (ML)."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Chatbot Systems",
+    question: "What is natural language processing (NLP)?",
+    answer: "Technology that enables computers to process and interpret human language."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Chatbot Systems",
+    question: "How do AI chatbots differ from keyword-driven bots?",
+    answer: "AI chatbots can interpret context and handle open-ended conversations, while keyword-driven bots mainly respond to recognised words or phrases."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Chatbot Systems",
+    question: "How can machine learning improve AI chatbots?",
+    answer: "It can help them adapt and improve responses through learning from previous interactions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Chatbot Systems",
+    question: "Where are AI chatbots commonly used?",
+    answer: "Virtual assistants, customer service and enterprise support."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Chatbot Systems",
+    question: "What are the benefits of AI chatbots?",
+    answer: "They provide more personalised, adaptive and intuitive communication while automating responses to users."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Data Analysis Tools",
+    question: "What are automated data analysis tools?",
+    answer: "Software platforms that collect, clean, process and analyse data with minimal human input."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Data Analysis Tools",
+    question: "What tasks can automated data analysis tools perform?",
+    answer: "Scheduled data imports, rule-based filtering, real-time analytics and data visualisation."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Data Analysis Tools",
+    question: "Why are automated data analysis tools useful in intelligent systems?",
+    answer: "They generate meaningful insights efficiently and provide timely information for decision-making."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Data Analysis Tools",
+    question: "How do data visualisations support decision-making?",
+    answer: "They present information visually, making patterns, trends and comparisons easier to identify."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Agent Tools",
+    question: "What are agent tools in intelligent systems?",
+    answer: "Software components that autonomously monitor conditions, make decisions and perform tasks based on goals, inputs and programmed rules."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Agent Tools",
+    question: "How do autonomous agents respond to changing conditions?",
+    answer: "They monitor their environment and act according to predefined rules or learned behaviours."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Agent Tools",
+    question: "How can agents communicate with other systems?",
+    answer: "By exchanging information and coordinating tasks with other software systems or agents."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Agent Tools",
+    question: "What tasks can agent tools automate?",
+    answer: "Network monitoring, data retrieval, event response and personalisation."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Comparing Automated Processing Tools",
+    question: "What is the main difference between chatbots, data analysis tools and agent tools?",
+    answer: "Chatbots communicate with users, data analysis tools process and interpret data, and agents autonomously monitor and perform tasks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Implementing Automated Processing Using Software",
+    subtopic: "Comparing Automated Processing Tools",
+    question: "How do automated processing tools improve enterprise operations?",
+    answer: "They reduce repetitive manual work, improve consistency and enable faster responses using data and predefined logic."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Basic Concepts",
+    question: "What is a Decision Support System (DSS)?",
+    answer: "A system that uses data and analytical tools to support enterprise decision-making."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Basic Concepts",
+    question: "What does assessing DSS output involve?",
+    answer: "Evaluating how effectively the system's recommendations or actions achieve desired outcomes."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Basic Concepts",
+    question: "What are the three key factors used to assess DSS output?",
+    answer: "Accuracy, timeliness and relevance."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Basic Concepts",
+    question: "What criteria can be used to evaluate DSS performance?",
+    answer: "Organisational goals, key performance indicators (KPIs) and predefined success criteria."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Basic Concepts",
+    question: "Why is assessing DSS output important?",
+    answer: "To ensure the system produces reliable recommendations and supports effective decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Graphing and Visualising Data",
+    question: "Why is data visualisation used to assess DSS output?",
+    answer: "To show whether system-guided decisions have improved outcomes and to identify trends, patterns and anomalies."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Graphing and Visualising Data",
+    question: "What visualisation tools can be used to assess DSS performance?",
+    answer: "Bar graphs, line charts and comparative dashboards."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Graphing and Visualising Data",
+    question: "How can a line chart help evaluate DSS performance?",
+    answer: "It shows trends and changes in outcomes over time."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Graphing and Visualising Data",
+    question: "How can a bar graph help evaluate DSS performance?",
+    answer: "It compares values between categories or different periods."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Graphing and Visualising Data",
+    question: "How can visualisations help stakeholders?",
+    answer: "They make performance results easier to interpret, communicate and use when refining the system."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Graphing and Visualising Data",
+    question: "How can customer satisfaction scores be used to assess a DSS?",
+    answer: "By comparing scores before and after implementing a recommendation to measure its impact."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Comparing Proposed and Actual Outputs",
+    question: "What does comparing proposed versus actual outputs involve?",
+    answer: "Recording what the DSS predicted or recommended and comparing it with the real-world result."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Comparing Proposed and Actual Outputs",
+    question: "Why should proposed and actual outputs be compared?",
+    answer: "To identify discrepancies, inaccurate predictions, overestimations and overlooked variables."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Comparing Proposed and Actual Outputs",
+    question: "What might a difference between proposed and actual outputs indicate?",
+    answer: "Problems with input data, system assumptions, algorithms or external factors."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Comparing Proposed and Actual Outputs",
+    question: "How can proposed-versus-actual comparisons improve a DSS?",
+    answer: "They help developers refine rules, algorithms and data quality to improve future recommendations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Comparing Proposed and Actual Outputs",
+    question: "What is an example of a proposed-versus-actual comparison?",
+    answer: "A DSS predicts a 15% sales increase, but actual sales rise by only 5%."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Comparing Proposed and Actual Outputs",
+    question: "What does the difference between the predicted 15% increase and actual 5% increase suggest?",
+    answer: "The recommendation did not achieve the predicted result, so the causes of the discrepancy should be investigated."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Applying Assessment Techniques",
+    question: "How can a DSS used for supply chain optimisation be evaluated?",
+    answer: "By measuring whether its recommendations reduce delivery times or inventory costs over time."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Applying Assessment Techniques",
+    question: "How do KPIs help assess DSS output?",
+    answer: "They provide measurable targets for determining whether recommendations achieve organisational objectives."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Applying Assessment Techniques",
+    question: "Why should DSS output be assessed continuously?",
+    answer: "To identify problems, monitor changing performance and ensure the system remains reliable and effective."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Assessing Output Produced by a Decision Support System (DSS)",
+    subtopic: "Applying Assessment Techniques",
+    question: "What is the overall purpose of assessing DSS output?",
+    answer: "To measure decision effectiveness, identify weaknesses and improve the reliability of future recommendations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Basic Concepts",
+    question: "What is an expert system?",
+    answer: "An intelligent system that uses facts, rules and an inference engine to simulate human expert decision-making."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Basic Concepts",
+    question: "How do expert systems improve the efficiency of intelligent systems?",
+    answer: "They automate decisions, solve problems quickly and consistently, and reduce the need for human intervention."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Basic Concepts",
+    question: "How do expert systems represent human reasoning?",
+    answer: "By using IF–THEN rules to evaluate facts and determine appropriate conclusions or actions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Basic Concepts",
+    question: "What is the role of an inference engine in an expert system?",
+    answer: "To apply rules to known facts and generate conclusions or recommendations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Supercomputers",
+    question: "How do supercomputers support expert systems?",
+    answer: "They provide the processing power needed for large-scale data analysis, simulations and real-time decision-making."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Supercomputers",
+    question: "How does parallel processing improve intelligent system efficiency?",
+    answer: "It allows multiple calculations or tasks to be processed simultaneously, reducing processing time."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Supercomputers",
+    question: "Where are supercomputers and expert systems commonly used together?",
+    answer: "Scientific research, weather prediction and national security."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Supercomputers",
+    question: "Why are supercomputers useful for complex expert systems?",
+    answer: "They can process large datasets and evaluate many rules or scenarios quickly."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Digital Assistants",
+    question: "How do digital assistants use expert system logic?",
+    answer: "They apply rules to respond to common queries and perform routine tasks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Digital Assistants",
+    question: "Give examples of digital assistants that use intelligent system technologies.",
+    answer: "Siri and Alexa."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Digital Assistants",
+    question: "How do digital assistants use natural language processing (NLP)?",
+    answer: "NLP helps them interpret and respond to users' spoken or written language."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Digital Assistants",
+    question: "How can machine learning improve digital assistants?",
+    answer: "It can help them adapt and improve functionality based on data and previous interactions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Digital Assistants",
+    question: "How do expert systems improve digital assistant efficiency?",
+    answer: "They enable quick responses, schedule management and automated assistance with routine tasks."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Autonomous Vehicles",
+    question: "How do autonomous vehicles use expert systems?",
+    answer: "They apply rules to sensor data to support navigation and real-time driving decisions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Autonomous Vehicles",
+    question: "What types of rules might an autonomous vehicle use?",
+    answer: "Rules relating to traffic laws, object detection and environmental conditions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Autonomous Vehicles",
+    question: "How do expert systems help autonomous vehicles behave safely and predictably?",
+    answer: "They provide consistent responses to recognised situations, such as stopping at red lights."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Autonomous Vehicles",
+    question: "How do expert systems and AI models work together in autonomous vehicles?",
+    answer: "Expert rules provide structured decision logic, while AI models help interpret complex sensor data and environmental conditions."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Streaming Services",
+    question: "How do streaming services use expert systems?",
+    answer: "They apply rules to user preferences and behaviours to recommend relevant content."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Streaming Services",
+    question: "What information can streaming recommendation systems analyse?",
+    answer: "Genre preferences, watch or listening history, and trends among similar users."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Streaming Services",
+    question: "How do expert systems improve the efficiency of streaming services?",
+    answer: "They automate personalised recommendations, helping users find relevant content quickly."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Streaming Services",
+    question: "How can expert systems work with AI and big data analytics in streaming services?",
+    answer: "They combine rule-based logic with large-scale data analysis to provide more personalised recommendations."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Comparing Applications",
+    question: "What is the common benefit of expert systems across these applications?",
+    answer: "They automate complex or repetitive decisions, improving speed, consistency and efficiency."
+  },
+  {
+    unit: "Unit 3: Intelligent Systems",
+    topic: "Expert Systems Contributing to the Efficiency of Intelligent Systems",
+    subtopic: "Comparing Applications",
+    question: "How do expert systems contribute differently across industries?",
+    answer: "Supercomputers support complex calculations, digital assistants automate routine tasks, autonomous vehicles support driving decisions, and streaming services personalise recommendations."
+  },
+
     // ---- paste new cards above this line (keep the comma after each }) ----
 
 ], ["Unit 1: Data Science", "Unit 2: Data Visualisation", "Unit 3: Intelligent Systems", "Unit 4: Enterprise Project"]);
