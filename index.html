@@ -10,8 +10,8 @@
 
 <style>
 	/* ===== Flashcards: clean responsive stylesheet (laptop + iPhone) ===== */
-:root{--bg:#f5f6fa;--sf:#fff;--sf2:#eceff4;--tx:#18202f;--mu:#64708a;--bd:#dde2ea;--pr:#2563eb;--ok:#16a34a;--no:#dc2626;--r:16px;--sh:0 6px 20px rgba(20,30,60,.08);--ol:#000}
-@media(prefers-color-scheme:dark){:root{--bg:#0f1420;--sf:#181f2e;--sf2:#222b3d;--tx:#eef1f7;--mu:#98a3bb;--bd:#2c3649;--sh:none;--ol:#fff}}
+:root{--bg:#f5f6fa;--sf:#fff;--sf2:#eceff4;--tx:#18202f;--mu:#56627a;--bd:#dde2ea;--pr:#2563eb;--ok:#15803d;--prt:#1d4ed8;--ring:#1d4ed8;--no:#dc2626;--r:16px;--sh:0 6px 20px rgba(20,30,60,.08);--ol:#000}
+@media(prefers-color-scheme:dark){:root{--bg:#0f1420;--sf:#181f2e;--sf2:#222b3d;--tx:#eef1f7;--mu:#98a3bb;--bd:#2c3649;--sh:none;--ol:#fff;--prt:#8ab4ff;--ring:#8ab4ff}}
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
 html{-webkit-text-size-adjust:100%}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,sans-serif;background:var(--bg);color:var(--tx);line-height:1.4;min-height:100dvh;
@@ -27,9 +27,9 @@ button{cursor:pointer;touch-action:manipulation}
 /* colour-coded chips */
 .label{font-size:11px;font-weight:800;color:var(--mu);text-transform:uppercase;letter-spacing:.6px;margin:12px 0 6px}
 .chips{display:flex;gap:8px;overflow-x:auto;padding:2px 2px 8px;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;scrollbar-width:thin}
-.chip{--c:#64748b;flex:none;scroll-snap-align:start;min-height:44px;padding:0 16px;border-radius:99px;border:2px solid var(--c);background:transparent;color:var(--c);font-weight:700;font-size:14px;display:flex;align-items:center;gap:6px}
-.chip small{opacity:.75;font-weight:600}
-.chip.on{background:var(--c);color:#fff}
+.chip{--c:#64748b;flex:none;scroll-snap-align:start;min-height:44px;padding:0 16px;border-radius:99px;border:2px solid var(--c);background:transparent;color:var(--tx);font-weight:700;font-size:14px;display:flex;align-items:center;gap:6px}
+.chip small{font-weight:600}
+.chip.on{background:var(--c);color:var(--ci,#fff)}
 
 /* tools */
 input,select{width:100%;min-height:44px;padding:0 14px;border:1px solid var(--bd);border-radius:12px;background:var(--sf);font-size:16px}
@@ -51,12 +51,12 @@ select{appearance:none;-webkit-appearance:none;padding-right:44px;background-ima
 /* card */
 .meta{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:14px 0 10px}
 .tags{display:flex;gap:6px;flex-wrap:wrap}
-.tag{padding:5px 10px;border-radius:8px;color:#fff;font-size:12px;font-weight:800;background:#64748b}
+.tag{--c:#64748b;--ci:#fff;padding:5px 10px;border-radius:8px;color:var(--ci);font-size:12px;font-weight:800;background:var(--c)}.tag.u{background:var(--sf2);color:var(--tx);border:2px solid var(--c)}
 .cnt{color:var(--mu);font-size:14px;font-weight:700;white-space:nowrap}
-.scene{perspective:1200px;height:min(55dvh,440px);min-height:280px}
+.scene{perspective:1200px;height:min(55vh,440px);height:min(55dvh,440px);min-height:280px;touch-action:pan-y}
 .card{position:relative;width:100%;height:100%;transform-style:preserve-3d;transition:transform .5s ease;cursor:pointer}
 .card.flipped{transform:rotateY(180deg)}
-.face{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:44px 28px 36px;
+.face{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;justify-content:safe center;text-align:center;padding:44px 28px 36px;
   background:var(--sf);border:1px solid var(--bd);border-radius:22px;box-shadow:var(--sh);backface-visibility:hidden;-webkit-backface-visibility:hidden;overflow:auto}
 .front{border-top:8px solid var(--sc,var(--pr))}
 .back{transform:rotateY(180deg);border-top:8px solid var(--tc,var(--pr));background:linear-gradient(135deg,var(--sf),var(--sf2))}
@@ -81,13 +81,13 @@ select{appearance:none;-webkit-appearance:none;padding-right:44px;background-ima
 /* quiz */
 .ov{position:fixed;inset:0;background:rgba(10,15,30,.75);display:none;align-items:center;justify-content:center;padding:16px;z-index:50}
 .ov.on{display:flex}
-.modal{background:var(--sf);border-radius:22px;padding:24px;width:100%;max-width:640px;max-height:90dvh;overflow-y:auto}
+.modal{background:var(--sf);border-radius:22px;padding:24px;width:100%;max-width:640px;max-height:90vh;max-height:90dvh;overflow-y:auto;overscroll-behavior:contain}
 .qh{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:6px}
 .qctx{color:var(--mu);font-size:13px;margin-bottom:14px}
 .qq{font-size:clamp(19px,4.5vw,24px);line-height:1.35;margin-bottom:18px}
 .ans{display:flex;flex-direction:column;gap:10px}
 .a{min-height:48px;padding:12px 16px;text-align:left;font-weight:600;background:var(--sf);border:1px solid var(--bd);border-radius:12px;display:flex;align-items:center;gap:12px}
-.a:not(:disabled):hover{outline:2px solid var(--ol);outline-offset:0}
+@media(hover:hover){.a:not(:disabled):hover{outline:2px solid var(--ol);outline-offset:0}}
 .lt{flex:none;width:28px;height:28px;border-radius:8px;background:var(--sf2);color:var(--tx);display:flex;align-items:center;justify-content:center;font-weight:800;font-size:14px}
 .a.c{background:#dcfce7;border-color:var(--ok);color:#166534}
 .a.w{background:#fee2e2;border-color:var(--no);color:#991b1b}
@@ -129,7 +129,7 @@ header.site{background:var(--sf);border-bottom:1px solid var(--bd);position:stic
 .hr{justify-self:end;display:flex;align-items:center;gap:10px}
 .hstats{display:flex;gap:10px}
 .stat{background:var(--sf2);padding:8px 12px;border-radius:10px;font-size:13px;white-space:nowrap}
-.stat strong{color:var(--pr)}
+.stat strong{color:var(--prt)}
 .panel{background:var(--sf);border:1px solid var(--bd);border-radius:18px;padding:20px;box-shadow:var(--sh);margin-bottom:18px}
 body.fs header.site{display:none!important}
 
@@ -139,7 +139,6 @@ body.fs header.site{display:none!important}
   .htitle{font-size:20px}
   .app{padding:20px 15px 120px}
   .panel{padding:16px}
-  .scene{height:400px}
   .face{padding:30px}
   .face h2{font-size:24px}
   .face p{font-size:19px}
@@ -159,13 +158,13 @@ body.fs header.site{display:none!important}
 .panel.collapsed .pbody{display:none}
 .panel>.label:first-child{margin-top:0}
 .lrow{display:flex;justify-content:space-between;align-items:center}
-.lrow b{color:var(--pr)}
-.link{background:none;border:0;color:var(--pr);font-weight:700;font-size:14px;min-height:36px;padding:0 4px}
+.lrow b{color:var(--prt)}
+.link{background:none;border:0;color:var(--prt);font-weight:700;font-size:14px;min-height:36px;padding:0 4px}
 .dot{flex:none;width:12px;height:12px;border-radius:50%}
 .tbar{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:12px}
-.tsub{margin:14px 0 6px;font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;color:var(--c);border-bottom:2px solid var(--c);padding-bottom:4px}
+.tsub{margin:14px 0 6px;font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;color:var(--tx);border-bottom:2px solid var(--c);padding-bottom:4px}
 .trow{display:flex;align-items:center;gap:10px;min-height:44px;padding:4px 6px;border-radius:10px;cursor:pointer}
-.trow:hover{background:var(--sf2)}
+@media(hover:hover){.trow:hover{background:var(--sf2)}}
 .trow small{color:var(--mu)}
 .pic{display:none;max-width:100%;max-height:200px;object-fit:contain;border-radius:12px;margin-top:12px}
 .pic.big{max-height:240px;margin:0 auto 16px}
@@ -226,10 +225,34 @@ kbd{background:var(--sf);border:1px solid var(--bd);border-bottom-width:2px;bord
 .lu{margin-bottom:10px}
 @media(max-width:650px){.steps{grid-template-columns:1fr}}
 .ver h3 small{color:var(--mu);font-weight:600;margin-left:6px}
+/* ===== Accessibility + mobile additions ===== */
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+:focus-visible{outline:3px solid var(--ring);outline-offset:2px}
+.card:focus-visible{outline-offset:5px;border-radius:22px}
+.modal:focus{outline:none}
+body.mo{overflow:hidden}
+.ov{padding:10px}
+.qfoot{display:flex;justify-content:flex-end;gap:10px;flex-wrap:wrap;margin-top:16px}
+.fb small{font-size:13px}
+.rev,.kn{min-width:0}
+.htitle{min-width:0;overflow:hidden;text-overflow:ellipsis}
+@media(max-width:700px){.app{padding-bottom:130px}}
+@media(max-width:400px){.g{display:none}.nav{width:46px}.bar{gap:5px}.bar button{font-size:14px}.rev,.kn{padding:0 6px}.flipb{padding:0 8px}.htitle{font-size:17px}}
+@media(max-height:500px) and (orientation:landscape){.scene{height:calc(100dvh - 200px);min-height:180px}.face{padding:18px}}
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{transition-duration:.01ms!important;animation-duration:.01ms!important;scroll-behavior:auto!important}
+  .scene{perspective:none}
+  .card,.card.flipped{transform:none;transform-style:flat}
+  .face{backface-visibility:visible;-webkit-backface-visibility:visible}
+  .back{transform:none;visibility:hidden}
+  .card.flipped .front{visibility:hidden}
+  .card.flipped .back{visibility:visible}
+}
 	</style>
 </head>
 <body>
-<header class="site"><div class="wrap hd">
+<div id="live" class="sr" aria-live="polite" aria-atomic="true"></div>
+<header class="site" id="siteHdr"><div class="wrap hd">
   <div class="brand"><div class="logo">F</div><div><h1>Study Flashcards</h1><p>Subjects • Topics • Subtopics</p></div></div>
   <h2 class="htitle">Flashcard Study</h2>
   <div class="hr">
@@ -243,7 +266,7 @@ kbd{background:var(--sf);border:1px solid var(--bd);border-bottom-width:2px;bord
   </div>
 </div></header>
 
-<div class="app">
+<main class="app" id="mainApp">
   <section class="panel" id="panel">
   <div class="phead"><h3>Filters</h3><div class="pact">
     <div class="sfield"><label for="search">Search</label><input type="search" id="search" placeholder="Search cards..."></div>
@@ -256,48 +279,50 @@ kbd{background:var(--sf);border:1px solid var(--bd);border-bottom-width:2px;bord
   <div id="unitWrap" style="display:none"><div class="label">Unit <b id="ucount"></b></div><div class="chips wrapall" id="unitChips"></div></div>
   <div class="label lrow"><span>Topic <b id="tcount"></b></span><button class="link" id="moreT">⋯ More topics</button></div>
   <div class="chips wrapall" id="topicChips" style="display:none"></div>
+  <div class="label">Show cards</div>
+  <div class="chips wrapall" id="statChips" role="group" aria-label="Show cards by progress"></div>
   </div>
   </section>
 
   <div id="empty" class="empty" style="display:none"><h2>No flashcards found</h2><p>Add cards in your subject .js files or change the filters.</p></div>
   <div id="area">
     <div class="meta"><div class="tags" id="tags"></div><div class="fsrow"><div class="mprog" title="Completion"><div id="pf"></div></div><div class="cnt" id="cnt"></div><button class="btn" id="fsb"><img class="ico" src="images/icons/fullscreen.png" alt=""><span>Full screen</span></button></div></div>
-    <div class="scene"><div class="card" id="card">
-      <div class="face front" id="front"><span class="side">Question</span><h2 id="q"></h2><img class="pic" id="qimg" alt="Question image"><span class="hint">Tap to reveal</span></div>
-      <div class="face back" id="back"><span class="side">Answer</span><p id="a"></p><img class="pic" id="aimg" alt="Answer image"><span class="hint">Tap to flip back</span></div>
+    <div class="scene"><div class="card" id="card" role="button" tabindex="0" aria-label="Flashcard. Press Enter or Space to flip." aria-describedby="q">
+      <div class="face front" id="front"><span class="side">Question</span><h2 id="q"></h2><img class="pic" id="qimg" alt="Question image"><span class="hint" aria-hidden="true">Tap to reveal</span></div>
+      <div class="face back" id="back"><span class="side">Answer</span><p id="a"></p><img class="pic" id="aimg" alt="Answer image"><span class="hint" aria-hidden="true">Tap to flip back</span></div>
     </div></div>
     <div class="bar">
       <button class="nav" id="prev" aria-label="Previous"><img class="ico" src="images/icons/arrow-left.png" alt=""></button>
-      <button class="rev" id="rev">✕ Review</button>
+      <button class="rev" id="rev" aria-keyshortcuts="R"><span class="g" aria-hidden="true">✕ </span>Review</button>
       <button class="flipb" id="flip">Flip</button>
-      <button class="kn" id="kn">✓ Know it</button>
+      <button class="kn" id="kn" aria-keyshortcuts="K"><span class="g" aria-hidden="true">✓ </span>Know it</button>
       <button class="nav" id="next" aria-label="Next"><img class="ico" src="images/icons/arrow-right.png" alt=""></button>
     </div>
   </div>
-</div>
+</main>
 
-<div class="ov" id="ov"><div class="modal">
-  <div class="qh"><h2>Quick Quiz</h2><span class="pill" id="qtl"></span></div>
+<div class="ov" id="ov"><div class="modal" role="dialog" aria-modal="true" aria-labelledby="qtitle" aria-describedby="qq" tabindex="-1">
+  <div class="qh"><h2 id="qtitle">Quick Quiz</h2><span class="pill" id="qtl"></span><button class="btn sm" id="qskip">Skip</button></div>
   <div class="qctx" id="qctx"></div><div class="qq" id="qq"></div><img class="pic big" id="qimgQ" alt="Question image">
   <div class="ans" id="qa"></div>
   <div class="sa" id="sa"><textarea id="si" placeholder="Type your answer..."></textarea><button class="btn pri" id="sub">Submit</button></div>
-  <div class="fb" id="fb"></div>
-  <div style="text-align:right;margin-top:16px"><button class="btn" id="cq" style="display:none">Continue (Enter)</button></div>
+  <div class="fb" id="fb" aria-live="polite"></div>
+  <div class="qfoot"><button class="btn" id="ovr" style="display:none">I was right</button><button class="btn pri" id="cq" style="display:none">Continue</button></div>
 </div></div>
 
-<div class="ov" id="sov"><div class="modal wide">
+<div class="ov" id="sov"><div class="modal wide" role="dialog" aria-modal="true" aria-labelledby="stl" tabindex="-1">
   <div class="qh ctr"><h2 id="stl">Topics</h2><button class="btn sm" id="sdone">Done</button></div>
   <div class="tf">
     <div class="sfield"><label for="sOrder">Order by</label><select id="sOrder"><option value="az">A–Z</option><option value="za">Z–A</option><option value="hi">High number of cards</option><option value="lo">Low number of cards</option></select></div>
     <div class="sfield" id="sUnitWrap"><label for="sUnit">Filter by unit</label><select id="sUnit"></select></div>
   </div>
-  <input type="search" id="ssearch" placeholder="Search topics and subtopics...">
+  <input type="search" id="ssearch" aria-label="Search topics and subtopics" placeholder="Search topics and subtopics...">
   <div class="tbar"><button class="btn sm" id="sall">Select all</button><button class="btn sm" id="snone">Clear all</button><span class="ptx" id="sinfo"></span></div>
   <div id="slist"></div>
 </div></div>
 
-<div class="ov" id="oov"><div class="modal">
-  <div class="qh"><h2>More options</h2><button class="btn sm" id="odone">Done</button></div>
+<div class="ov" id="oov"><div class="modal" role="dialog" aria-modal="true" aria-labelledby="otitle" tabindex="-1">
+  <div class="qh"><h2 id="otitle">More options</h2><button class="btn sm" id="odone">Done</button></div>
   <div class="more-body">
     <div><label for="qFreq">Auto quiz</label><select id="qFreq"><option value="0">Off</option><option value="1">Every card</option><option value="3">Every 3 cards</option><option value="5">Every 5 cards</option><option value="10">Every 10 cards</option></select></div>
     <div><label for="qType">Question type</label><select id="qType"><option value="random">Random</option><option value="multiple">Multiple choice</option><option value="short">Short answer</option></select></div>
@@ -305,9 +330,9 @@ kbd{background:var(--sf);border:1px solid var(--bd);border-bottom-width:2px;bord
   </div>
 </div></div>
 
-<div class="ov" id="rov"><div class="modal">
-  <div class="qh ctr"><h2>⚠ Reset everything?</h2></div>
-  <p class="rn"><b>This cannot be undone.</b> Resetting will permanently erase the following from this device:</p>
+<div class="ov" id="rov"><div class="modal" role="alertdialog" aria-modal="true" aria-labelledby="rtitle" aria-describedby="rdesc" tabindex="-1">
+  <div class="qh ctr"><h2 id="rtitle">⚠ Reset everything?</h2></div>
+  <p class="rn" id="rdesc"><b>This cannot be undone.</b> Resetting will permanently erase the following from this device:</p>
   <ul class="rl">
     <li>All cards you marked "Know it"</li>
     <li>All cards you marked "Review"</li>
@@ -319,8 +344,8 @@ kbd{background:var(--sf);border:1px solid var(--bd);border-bottom-width:2px;bord
   <div class="racts"><button class="btn" id="rcancel">Cancel</button><button class="btn danger" id="rconfirm">Yes, reset everything</button></div>
 </div></div>
 
-<div class="ov" id="hov"><div class="modal">
-  <div class="qh ctr"><h2>Help</h2><button class="btn sm" id="hdone">Done</button></div>
+<div class="ov" id="hov"><div class="modal" role="dialog" aria-modal="true" aria-labelledby="htitle" tabindex="-1">
+  <div class="qh ctr"><h2 id="htitle">Help</h2><button class="btn sm" id="hdone">Done</button></div>
   <div class="tabs">
     <button class="btn sm pri" data-tab="how">How to use</button>
     <button class="btn sm" data-tab="faq">FAQ</button>
@@ -336,20 +361,20 @@ kbd{background:var(--sf);border:1px solid var(--bd);border-bottom-width:2px;bord
       <div class="step"><div class="n">4</div><h3>Test yourself</h3><p>Open <b>More options</b> to turn on quick quizzes, pick the question type or shuffle your cards.</p></div>
     </div>
     <div class="keys"><h3>Keyboard shortcuts</h3><div class="krow">
-      <span class="k"><kbd>Space</kbd> Flip card</span>
+      <span class="k"><kbd>Space</kbd> / <kbd>Enter</kbd> Flip card</span><span class="k"><kbd>K</kbd> Know it</span><span class="k"><kbd>R</kbd> Review</span>
       <span class="k"><kbd>←</kbd> <kbd>→</kbd> Previous / next</span>
       <span class="k"><kbd>A</kbd>–<kbd>D</kbd> Quiz answer</span>
       <span class="k"><kbd>Enter</kbd> Quiz continue</span>
-      <span class="k"><kbd>Esc</kbd> Exit full screen</span>
+      <span class="k"><kbd>Esc</kbd> Close window / exit full screen</span><span class="k"><kbd>Tab</kbd> Move between buttons</span>
     </div></div>
   </div>
 
   <div class="tp" id="tp-faq">
     <details class="faq"><summary>How do I choose what to study?</summary><p>Select a subject at the top, then narrow it down with units and topics. Tap "More topics" to pick specific subtopics. If nothing is selected, you'll see every card in that subject.</p></details>
     <details class="faq"><summary>Is my progress saved?</summary><p>Yes. Your Known and Review cards and your quiz score are saved in your browser on this device, so they'll still be here next time you visit. They won't carry over to a different device or browser.</p></details>
-    <details class="faq"><summary>How do I reset my progress?</summary><p>Clear this website's data in your browser settings. This removes your saved Known and Review cards and your quiz score.</p></details>
-    <details class="faq"><summary>What do "Know it" and "Review" do?</summary><p>They let you mark how you're going. "Know it" means you're confident with the card, and "Review" flags it for more practice. Your totals appear at the top of the page.</p></details>
-    <details class="faq"><summary>How do the quick quizzes work?</summary><p>Open "More options" to have a quiz pop up every few cards. You can choose multiple choice, short answer or a mix. For multiple choice, press A, B, C or D on your keyboard, then Enter to continue.</p></details>
+    <details class="faq"><summary>How do I reset my progress?</summary><p>Press the Reset button at the top of the page and confirm. This erases your Known and Review cards, quiz score and saved filters from this device.</p></details>
+    <details class="faq"><summary>What do "Know it" and "Review" do?</summary><p>They let you mark how you're going. "Know it" means you're confident with the card, and "Review" flags it for more practice. Your totals appear at the top of the page. Use "Show cards" in the filters to study only your Review pile, unseen cards or known cards. Keyboard: K = Know it, R = Review.</p></details>
+    <details class="faq"><summary>How do the quick quizzes work?</summary><p>Open "More options" to have a quiz pop up every few cards. You can choose multiple choice, short answer or a mix. For multiple choice, press A, B, C or D on your keyboard, then Enter to continue. Short answers forgive small typos, and if you were marked wrong unfairly tap "I was right". Quiz results update your progress: right answers are marked Known and wrong answers go to Review.</p></details>
     <details class="faq"><summary>Why can't I find a card I'm looking for?</summary><p>Check that the right subject, unit and topic are selected and that the search box is empty. Press "Clear" to reset your filters.</p></details>
     <details class="faq"><summary>Can I use this on my phone?</summary><p>Yes. Swipe left or right on the card to move between cards, and use Full screen for a distraction-free view.</p></details>
     <details class="faq"><summary>Is my data shared with anyone?</summary><p>No. Your progress is stored only on your own device and isn't sent anywhere.</p></details>
@@ -363,6 +388,9 @@ kbd{background:var(--sf);border:1px solid var(--bd);border-bottom-width:2px;bord
         <li>Your study position and filters are now saved automatically, so you can pick up where you left off.</li>
         <li>Added a Reset button that clears all saved progress after you confirm.</li>
         <li>The Topic filter row shows 5 topics, with the rest under "More topics".</li>
+        <li>New "Show cards" filter: study only your Review pile, unseen or known cards.</li>
+        <li>Quiz answers now update your Known and Review lists, short answers allow small typos, and quiz wrong options come from the same topic first.</li>
+        <li>Better keyboard, screen-reader and phone support, including K / R shortcuts and reduced-motion support.</li>
       </ul>
     </div>
   </div>
@@ -382,21 +410,56 @@ const uniq = a => [...new Set(a)];
 const shuf = a => { for (let i = a.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; [a[i], a[j]] = [a[j], a[i]]; } return a; };
 const ico = (n, cls) => `<img class="ico" src="images/icons/${n}.png" alt="">`;
 
+/* colour contrast: pick readable text for any fill, darkening it if neither white nor near-black reaches 4.5:1 */
+const _cx = document.createElement("canvas").getContext("2d");
+const rgbOf = c => { _cx.fillStyle = "#000"; _cx.fillStyle = c; const v = _cx.fillStyle; return v[0] === "#" ? [1,3,5].map(i => parseInt(v.substr(i,2),16)) : v.match(/[\d.]+/g).slice(0,3).map(Number); };
+const lum = a => { const [r,g,b] = a.map(v => { v /= 255; return v <= .03928 ? v/12.92 : Math.pow((v+.055)/1.055, 2.4); }); return .2126*r + .7152*g + .0722*b; };
+const cr = (a, b) => { const x = lum(a), y = lum(b); return (Math.max(x,y)+.05)/(Math.min(x,y)+.05); };
+const solCache = {};
+function solid(col) { if (solCache[col]) return solCache[col]; const rgb = rgbOf(col), W = [255,255,255]; let o;
+  if (cr(rgb, W) >= 4.5) o = {bg:col, fg:"#fff"}; else if (cr(rgb, [17,17,17]) >= 4.5) o = {bg:col, fg:"#111"};
+  else { let k = 0, d = rgb; while (cr(d, W) < 4.5 && k < .95) { k += .05; d = rgb.map(v => Math.round(v*(1-k))); } o = {bg:`rgb(${d})`, fg:"#fff"}; }
+  return solCache[col] = o; }
+const cs = col => { const x = solid(col); return `--c:${esc(x.bg)};--ci:${x.fg}`; };
+
+/* screen-reader announcements */
+let liveT; const live = m => { const el = $("live"); clearTimeout(liveT); el.textContent = ""; liveT = setTimeout(() => el.textContent = m, 60); };
+
+/* modal manager: role=dialog focus handling, focus trap, Escape, focus return, background inert */
+const modalStack = [], FOCUSABLE = 'a[href],button:not([disabled]),input:not([disabled]),select:not([disabled]),textarea:not([disabled]),summary,[tabindex]:not([tabindex="-1"])';
+function setBg() { const on = modalStack.length > 0; $("siteHdr").inert = on; $("mainApp").inert = on; document.body.classList.toggle("mo", on); }
+function openModal(id, focusSel) { const ov = $(id); if (ov.classList.contains("on")) return;
+  modalStack.push({id, opener: document.activeElement}); ov.classList.add("on"); setBg();
+  const m = ov.querySelector(".modal"); (m.querySelector(focusSel || FOCUSABLE) || m).focus(); }
+function closeModal(id) { const k = modalStack.findIndex(x => x.id === id); if (k < 0) return; const {opener} = modalStack.splice(k, 1)[0];
+  $(id).classList.remove("on"); setBg();
+  if (!modalStack.length) { const t = opener && opener !== document.body && document.contains(opener) && opener.getClientRects().length ? opener : $("card"); t.focus({preventScroll:true}); } }
+function trapTab(e) { const top = modalStack[modalStack.length - 1]; if (!top) return; const m = $(top.id).querySelector(".modal");
+  const f = [...m.querySelectorAll(FOCUSABLE)].filter(el => el.getClientRects().length), a = document.activeElement;
+  if (!f.length) { e.preventDefault(); m.focus(); return; }
+  if (e.shiftKey && (a === f[0] || a === m || !m.contains(a))) { e.preventDefault(); f[f.length-1].focus(); }
+  else if (!e.shiftKey && (a === f[f.length-1] || !m.contains(a))) { e.preventDefault(); f[0].focus(); } }
+
 /* colour coding: subject = its own colour; main topic = hue-shifted shade of the subject colour */
 const hue = h => { const [r,g,b] = [1,3,5].map(i => parseInt(h.substr(i,2),16)/255), m = Math.max(r,g,b), d = m - Math.min(r,g,b);
   if (!d) return 0; const H = m==r ? ((g-b)/d)%6 : m==g ? (b-r)/d+2 : (r-g)/d+4; return (H*60+360)%360; };
 const topicsOf = s => uniq(cards.filter(c => c.subject === s).map(c => c.topic));
 const inUnits = c => !units.size || units.has(c.unit);
 const topicsFiltered = s => uniq(cards.filter(c => c.subject === s && inUnits(c)).map(c => c.topic));
-const tCol = (s, t) => { const sj = SUBJECTS.find(x => x.name === s); return `hsl(${(hue(sj.colour) + topicsOf(s).indexOf(t) * 24) % 360} 62% 42%)`; };
+const tCol = (s, t) => { const sj = SUBJECTS.find(x => x.name === s); return `hsl(${(hue(sj.colour) + topicsOf(s).indexOf(t) * 24) % 360}, 62%, 42%)`; };
 
 let known = ld("knownFlashcards", []), rev = ld("reviewFlashcards", []);
+let KS = new Set(known), RS = new Set(rev), status = "all";   /* status filter: all | unseen | review | known */
+const IDS = new Set(cards.map(c => c.id));
+const stOf = c => KS.has(c.id) ? "known" : RS.has(c.id) ? "review" : "unseen";
+const statusOK = c => status === "all" || stOf(c) === status;
 let qs = ld("quizSettings", {f:0, t:"random"}), st = ld("quizStats", {n:0, ok:0});
 st = {n:+st.n||0, ok:Math.min(+st.ok||0, +st.n||0)};
 let subj = SUBJECTS[0].name, topics = new Set(), units = new Set(), subtops = new Set(), list = [...cards], i = 0, seen = 0, ac = null;
 const sS = ld("studyState", null);
 if (sS && SUBJECTS.some(x => x.name === sS.subj)) { subj = sS.subj; units = new Set(sS.units || []); topics = new Set(sS.topics || []); subtops = new Set(sS.subtops || []); }
-const saveState = () => sv("studyState", {subj, units:[...units], topics:[...topics], subtops:[...subtops], i, search:$("search").value});
+if (sS && ["all","unseen","review","known"].includes(sS.status)) status = sS.status;
+const saveState = () => sv("studyState", {subj, units:[...units], topics:[...topics], subtops:[...subtops], i, status, search:$("search").value});
 
 function subOK(c) {
   return !subtops.size || subtops.has(c.subject + "||" + c.topic + "||" + c.subtopic);
@@ -406,73 +469,116 @@ function chips() {
   units = new Set([...units].filter(u => us.includes(u)));
   $("unitWrap").style.display = us.length ? "block" : "none";
   $("ucount").textContent = units.size ? `(${units.size} selected)` : "";
-  $("unitChips").innerHTML = us.length ? `<button class="chip${units.size ? "" : " on"}" style="--c:${esc(sj.colour)}" data-u="*">All units</button>` + us.map(u => `<button class="chip${units.has(u) ? " on" : ""}" style="--c:${esc(sj.colour)}" data-u="${esc(u)}">${esc(u)}</button>`).join("") : "";
+  const ch = (on, col, attr, txt) => `<button class="chip${on ? " on" : ""}" style="${cs(col)}" ${attr} aria-pressed="${on}">${txt}</button>`;
+  $("unitChips").innerHTML = us.length ? ch(!units.size, sj.colour, 'data-u="*"', "All units") + us.map(u => ch(units.has(u), sj.colour, `data-u="${esc(u)}"`, esc(u))).join("") : "";
   topics = new Set([...topics].filter(k => { const [s, t] = k.split("||"); return s === subj && cards.some(c => c.subject === s && c.topic === t && inUnits(c)); }));
-  $("subjChips").innerHTML = SUBJECTS.map(s => `<button class="chip${subj===s.name?" on":""}" style="--c:${esc(s.colour)}" data-s="${esc(s.name)}">${esc(s.name)} <small>${cards.filter(c => c.subject === s.name).length}</small></button>`).join("");
+  $("subjChips").innerHTML = SUBJECTS.map(s => ch(subj === s.name, s.colour, `data-s="${esc(s.name)}"`, `${esc(s.name)} <small>${cards.filter(c => c.subject === s.name).length}</small>`)).join("");
   const keys = topicsFiltered(subj).map(t => subj + "||" + t);
   $("topicChips").style.display = keys.length ? "flex" : "none";
-  $("topicChips").innerHTML = `<button class="chip${topics.size ? "" : " on"}" style="--c:${esc(sj.colour)}" data-t="*">All topics</button>` +
-    keys.slice(0, 5).map(k => { const [s, t] = k.split("||"); return `<button class="chip${topics.has(k) ? " on" : ""}" style="--c:${tCol(s, t)}" data-t="${esc(k)}">${esc(t)}</button>`; }).join("");
+  $("topicChips").innerHTML = ch(!topics.size, sj.colour, 'data-t="*"', "All topics") +
+    keys.slice(0, 5).map(k => { const [s, t] = k.split("||"); return ch(topics.has(k), tCol(s, t), `data-t="${esc(k)}"`, esc(t)); }).join("");
   $("tcount").textContent = topics.size ? `(${topics.size} selected)` : "";
   subtops = new Set([...subtops].filter(k => { const [s, t] = k.split("||"); return s === subj && (!topics.size || topics.has(s + "||" + t)); }));
+  statChips();
+}
+const STS = [["all","All","#2563eb"], ["unseen","Unseen","#475569"], ["review","Needs review","#b91c1c"], ["known","Known","#15803d"]];
+function statChips() {
+  const n = {all:0, unseen:0, review:0, known:0};
+  cards.forEach(c => { if (c.subject === subj && inUnits(c) && (!topics.size || topics.has(c.subject + "||" + c.topic)) && subOK(c)) { n.all++; n[stOf(c)]++; } });
+  $("statChips").innerHTML = STS.map(([k, l, col]) => `<button class="chip${status === k ? " on" : ""}" style="${cs(col)}" data-st="${k}" aria-pressed="${status === k}">${l} <small>${n[k]}</small></button>`).join("");
 }
 function filt() {
   const q = $("search").value.trim().toLowerCase();
-  list = cards.filter(c => c.subject===subj && inUnits(c) && (!topics.size||topics.has(c.subject+"||"+c.topic)) && subOK(c) &&
+  list = cards.filter(c => c.subject===subj && inUnits(c) && (!topics.size||topics.has(c.subject+"||"+c.topic)) && subOK(c) && statusOK(c) &&
     (!q || (c.question+" "+c.answer+" "+c.topic+" "+c.subtopic).toLowerCase().includes(q)));
   i = 0; show();
 }
 function show() {
-  $("card").classList.remove("flipped");
+  $("card").classList.remove("flipped"); faces(false);
   const none = !list.length; $("empty").style.display = none ? "block" : "none"; $("area").style.display = none ? "none" : "block";
+  if (none) { const m = {unseen:["Nothing unseen here","You've seen every card in this selection."], review:["Review pile is empty","No cards in this selection are marked for review."], known:["No known cards yet","Mark cards \u201cKnow it\u201d and they'll appear here."]}[status] || ["No flashcards found","Add cards in your subject .js files or change the filters."];
+    $("empty").innerHTML = `<h2>${m[0]}</h2><p>${m[1]}</p>`; if (document.body.classList.contains("fs")) setFs(false); }
   saveState();
   if (none) return;
   const c = list[i], tc = tCol(c.subject, c.topic);
   $("q").textContent = c.question; $("a").textContent = c.answer; setImg($("qimg"), c.questionImage); setImg($("aimg"), c.answerImage);
   $("front").style.setProperty("--sc", c.colour); $("back").style.setProperty("--tc", tc);
-  $("tags").innerHTML = `<span class="tag" style="background:${esc(c.colour)}">${esc(c.subject)}</span>${c.unit ? `<span class="tag" style="background:${esc(c.colour)};opacity:.8">${esc(c.unit)}</span>` : ""}<span class="tag" style="background:${tc}">${esc(c.topic)}</span>`;
+  renderTags();
   const p = Math.round((i + 1) / list.length * 100);
   $("cnt").textContent = `${i+1} / ${list.length} · ${p}%`; $("pf").style.width = p + "%";
+  $("card").setAttribute("aria-label", `Flashcard ${i+1} of ${list.length}. Press Enter or Space to flip.`);
 }
+function renderTags() { if (!list.length) return; const c = list[i], tc = tCol(c.subject, c.topic), s = stOf(c);
+  $("tags").innerHTML = `<span class="tag" style="${cs(c.colour)}">${esc(c.subject)}</span>${c.unit ? `<span class="tag u" style="${cs(c.colour)}">${esc(c.unit)}</span>` : ""}<span class="tag" style="${cs(tc)}">${esc(c.topic)}</span>${s !== "unseen" ? `<span class="tag" style="${cs(s === "known" ? "#15803d" : "#b91c1c")}">${s === "known" ? "✓ Known" : "✕ Review"}</span>` : ""}`; }
+function faces(f) { $("front").setAttribute("aria-hidden", f); $("back").setAttribute("aria-hidden", !f); $("card").setAttribute("aria-describedby", f ? "a" : "q"); }
 function setImg(el, src) { el.onerror = () => el.style.display = "none"; if (src) { el.src = src; el.style.display = "block"; } else { el.removeAttribute("src"); el.style.display = "none"; } }
 function stats() {
   $("sC").textContent = cards.length;
-  $("sK").textContent = known.filter(id => cards.some(c => c.id===id)).length; $("sR").textContent = rev.filter(id => cards.some(c => c.id===id)).length;
+  $("sK").textContent = known.filter(id => IDS.has(id)).length; $("sR").textContent = rev.filter(id => IDS.has(id)).length; statChips();
 }
-const flip = () => list.length && $("card").classList.toggle("flipped");
-function go(d) { if (!list.length) return; i = (i + d + list.length) % list.length; if (d > 0) { seen++; if (qs.f && seen % qs.f === 0) setTimeout(quiz, 250); } show(); }
-function mark(k) {
-  if (!list.length) return; const id = list[i].id;
-  if (k) { if (!known.includes(id)) known.push(id); rev = rev.filter(x => x!==id); } else { if (!rev.includes(id)) rev.push(id); known = known.filter(x => x!==id); }
-  sv("knownFlashcards", known); sv("reviewFlashcards", rev); stats(); go(1);
-}
+function flip() { if (!list.length) return; const f = $("card").classList.toggle("flipped"); faces(f); live(f ? "Answer: " + (list[i].answer || "shown as an image") : "Question: " + list[i].question); }
+function go(d, kept) { if (!list.length) return; i = kept ? (i >= list.length ? 0 : i) : (i + d + list.length) % list.length;
+  if (d > 0) { seen++; if (qs.f && seen % qs.f === 0) setTimeout(quiz, 250); } show(); live(`Card ${i+1} of ${list.length}. Question: ${list[i].question}`); }
+function setStatus(id, s) { known = known.filter(x => x !== id); rev = rev.filter(x => x !== id); (s === "known" ? known : rev).push(id);
+  sv("knownFlashcards", known); sv("reviewFlashcards", rev); KS = new Set(known); RS = new Set(rev); stats(); }
+function mark(k) { if (!list.length) return; const c = list[i]; setStatus(c.id, k ? "known" : "review");
+  if (!statusOK(c)) { list.splice(i, 1); if (!list.length) { show(); return; } go(1, true); } else go(1); }
 
 /* quiz */
+const norm = v => v.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^\p{L}\p{N}\s]/gu, "").replace(/\s+/g, " ").trim();
+function lev(a, b) { if (a === b) return 0; let p = Array.from({length:b.length+1}, (_, j) => j);
+  for (let x = 1; x <= a.length; x++) { const r = [x]; for (let y = 1; y <= b.length; y++) r[y] = Math.min(p[y]+1, r[y-1]+1, p[y-1] + (a[x-1] === b[y-1] ? 0 : 1)); p = r; } return p[b.length]; }
+const tol = n => n <= 3 ? 0 : n <= 7 ? 1 : n <= 14 ? 2 : Math.min(Math.floor(n*.15), 5);
+const digs = s => (s.match(/\d+/g) || []).join(",");               /* numbers must match exactly: "12" is not a typo of "13" */
+const close = (u, c) => digs(u) === digs(c) && lev(u, c) <= tol(c.length);
+
+/* wrong options: same subtopic first, then topic, subject, then anywhere; closest in length preferred */
+function distractors(c) {
+  const used = new Set([norm(c.answer)]), L = c.answer.length, out = [];
+  const tiers = [x => x.subject === c.subject && x.topic === c.topic && x.subtopic === c.subtopic, x => x.subject === c.subject && x.topic === c.topic, x => x.subject === c.subject, () => true];
+  for (const t of tiers) { if (out.length >= 3) break; const cand = [];
+    cards.forEach(x => { const n = x.answer && norm(x.answer); if (n && !used.has(n) && t(x)) { used.add(n); cand.push(x.answer); } });
+    cand.map(a => [Math.abs(a.length - L) * (.7 + Math.random()*.6) + Math.random(), a]).sort((p, q) => p[0] - q[0]).slice(0, 3 - out.length).forEach(p => out.push(p[1])); }
+  return out;
+}
 function quiz() {
+  if (modalStack.length) return;
   const pool = (list.length ? list : cards).filter(c => c.answer && c.answer.trim()); if (!pool.length) return;
   ac = pool[Math.random()*pool.length|0];
-  const opts = shuf([ac.answer, ...shuf(uniq(pool.concat(cards).map(c => c.answer).filter(a => a && a !== ac.answer))).slice(0,3)]);
+  const opts = shuf([ac.answer, ...distractors(ac)]);
   const mc = (qs.t==="random" ? Math.random()<.5 : qs.t==="multiple") && opts.length > 1;
   $("qtl").textContent = mc ? "Multiple choice" : "Short answer"; $("qq").textContent = ac.question; setImg($("qimgQ"), ac.questionImage);
-  $("qctx").textContent = `${ac.subject} • ${ac.topic} • ${ac.subtopic}`; $("fb").className = "fb"; $("cq").style.display = "none"; $("ov").classList.add("on");
+  $("qctx").textContent = `${ac.subject} • ${ac.topic} • ${ac.subtopic}`; $("fb").className = "fb"; $("fb").innerHTML = ""; $("cq").style.display = "none"; $("ovr").style.display = "none";
   $("qa").style.display = mc ? "flex" : "none"; $("sa").style.display = mc ? "none" : "flex"; $("qa").innerHTML = "";
   if (mc) opts.forEach((o, n) => { const b = document.createElement("button"); b.className = "a"; b.dataset.v = o; b.innerHTML = `<span class="lt">${"ABCD"[n]}</span><span></span>`; b.lastChild.textContent = o; b.onclick = () => pick(b, o); $("qa").appendChild(b); });
-  else { $("si").value = ""; $("si").focus(); }
+  else $("si").value = "";
+  openModal("ov", mc ? ".a" : "#si");
 }
 function pick(b, o) { const all = [...document.querySelectorAll(".a")]; all.forEach(x => x.disabled = true);
-  const ok = o === ac.answer; b.classList.add(ok ? "c" : "w"); if (!ok) all.forEach(x => x.dataset.v === ac.answer && x.classList.add("c")); done(ok); }
-const nm = v => v.toLowerCase().replace(/[^\w\s]/g,"").replace(/\s+/g," ").trim();
-function chk() { if ($("cq").style.display === "block") return; const u = nm($("si").value), c = nm(ac.answer); let ok = u === c;
-  if (!ok && c.length > 35) { const k = c.split(" ").filter(w => w.length > 4); ok = k.filter(w => u.includes(w)).length >= Math.ceil(k.length*.45); } done(ok); }
-function done(ok) { st.n++; if (ok) st.ok++; sv("quizStats", st); $("fb").className = "fb " + (ok ? "c" : "w");
-  $("fb").innerHTML = ok ? "<b>Correct!</b>" : "<b>Not quite.</b><br>Answer: " + esc(ac.answer); $("cq").style.display = "block"; stats(); }
+  const ok = o === ac.answer, mk = (x, t) => x.lastChild.insertAdjacentHTML("beforeend", ` <b>${t}</b>`);   /* text marker so colour isn't the only cue */
+  b.classList.add(ok ? "c" : "w"); mk(b, ok ? "✓ Correct" : "✕ Your answer");
+  if (!ok) all.forEach(x => { if (x.dataset.v === ac.answer) { x.classList.add("c"); mk(x, "✓ Correct"); } }); done(ok); }
+function chk() { if ($("cq").style.display === "block") return; const u = norm($("si").value), c = norm(ac.answer);
+  if (u === c) return done(true);
+  if (u && close(u, c)) return done(true, "Close enough, spelling allowed. Answer: " + ac.answer);
+  let ok = false;
+  if (u && c.length > 35) { const k = c.split(" ").filter(w => w.length > 4), uw = u.split(" ");
+    ok = k.filter(w => u.includes(w) || uw.some(x => digs(x) === digs(w) && lev(x, w) <= (w.length > 7 ? 2 : 1))).length >= Math.ceil(k.length*.45); }
+  done(ok); }
+function done(ok, note) { st.n++; if (ok) st.ok++; sv("quizStats", st); setStatus(ac.id, ok ? "known" : "review");
+  const mc = $("qa").style.display !== "none"; $("fb").className = "fb " + (ok ? "c" : "w");
+  $("fb").innerHTML = (ok ? "<b>Correct!</b>" + (note ? "<br>" + esc(note) : "") : "<b>Not quite.</b><br>Answer: " + esc(ac.answer)) + `<br><small>${ok ? "Marked as Known." : "Added to Review."}</small>`;
+  $("ovr").style.display = !ok && !mc ? "inline-flex" : "none"; $("cq").style.display = "block"; $("cq").focus(); renderTags(); }
+$("ovr").onclick = () => { st.ok = Math.min(st.ok + 1, st.n); sv("quizStats", st); setStatus(ac.id, "known");
+  $("fb").className = "fb c"; $("fb").innerHTML = "<b>Marked correct.</b><br><small>Marked as Known.</small>"; $("ovr").style.display = "none"; renderTags(); $("cq").focus(); };
 
 /* events */
 $("subjChips").onclick = e => { const b = e.target.closest("[data-s]"); if (b) { subj = b.dataset.s; topics = new Set(); subtops = new Set(); units = new Set(); chips(); filt(); } };
 $("unitChips").onclick = e => { const b = e.target.closest("[data-u]"); if (!b) return; const u = b.dataset.u; if (u === "*") units.clear(); else units.has(u) ? units.delete(u) : units.add(u); chips(); filt(); };
 $("topicChips").onclick = e => { const b = e.target.closest("[data-t]"); if (!b) return; const k = b.dataset.t; if (k === "*") { topics.clear(); subtops.clear(); } else topics.has(k) ? topics.delete(k) : topics.add(k); chips(); filt(); };
 $("search").oninput = filt;
-$("clr").onclick = () => { topics = new Set(); units = new Set(); subtops = new Set(); $("search").value = ""; chips(); filt(); };
+$("statChips").onclick = e => { const b = e.target.closest("[data-st]"); if (b) { status = b.dataset.st; statChips(); filt(); } };
+$("clr").onclick = () => { status = "all"; topics = new Set(); units = new Set(); subtops = new Set(); $("search").value = ""; chips(); filt(); };
 $("ptog").onclick = () => { const c = $("panel").classList.toggle("collapsed"); $("ptog").innerHTML = ico(c ? "arrow-down" : "arrow-up"); $("ptog").setAttribute("aria-expanded", !c); $("ptog").setAttribute("aria-label", c ? "Expand filters" : "Collapse filters"); };
 
 /* topic module: selected subject only; topics collapse/expand, subtopics in 3 columns */
@@ -499,8 +605,8 @@ function slist() {
 $("ssearch").oninput = slist;
 $("sOrder").onchange = slist;
 $("sUnit").onchange = () => { const v = $("sUnit").value; if (v === "__m") return; units = v ? new Set([v]) : new Set(); chips(); filt(); slist(); };
-$("moreT").onclick = () => { $("ssearch").value = ""; slist(); $("sov").classList.add("on"); };
-$("sdone").onclick = () => $("sov").classList.remove("on");
+$("moreT").onclick = () => { $("ssearch").value = ""; slist(); openModal("sov"); };
+$("sdone").onclick = () => closeModal("sov");
 $("slist").onclick = e => { const b = e.target.closest("[data-to]"); if (!b) return; const k = b.dataset.to; openT.has(k) ? openT.delete(k) : openT.add(k); slist(); };
 $("slist").onchange = e => { const k = e.target.dataset.k, sk = e.target.dataset.sk;
   if (k) { if (e.target.checked) topics.add(k); else { topics.delete(k); subtops = new Set([...subtops].filter(x => !x.startsWith(k + "||"))); } }
@@ -510,42 +616,53 @@ $("slist").onchange = e => { const k = e.target.dataset.k, sk = e.target.dataset
 $("sall").onclick = () => { topics = new Set(topicsFiltered(subj).map(t => subj + "||" + t)); chips(); filt(); slist(); };
 $("snone").onclick = () => { topics = new Set(); subtops = new Set(); chips(); filt(); slist(); };
 
-$("opt").onclick = () => $("oov").classList.add("on");
-$("odone").onclick = () => $("oov").classList.remove("on");
-$("shuf").onclick = () => { shuf(list); i = 0; show(); $("oov").classList.remove("on"); };
+$("opt").onclick = () => openModal("oov");
+$("odone").onclick = () => closeModal("oov");
+$("shuf").onclick = () => { shuf(list); i = 0; show(); closeModal("oov"); };
 $("card").onclick = flip; $("flip").onclick = flip; $("next").onclick = () => go(1); $("prev").onclick = () => go(-1);
+$("card").onkeydown = e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); flip(); } };
 $("kn").onclick = () => mark(true); $("rev").onclick = () => mark(false);
 $("qFreq").onchange = $("qType").onchange = () => { qs = {f:+$("qFreq").value, t:$("qType").value}; sv("quizSettings", qs); };
-$("sub").onclick = chk; $("cq").onclick = () => $("ov").classList.remove("on");
+$("sub").onclick = chk; $("cq").onclick = () => closeModal("ov"); $("qskip").onclick = () => closeModal("ov");
 $("si").onkeydown = e => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); $("cq").style.display === "block" ? $("cq").click() : chk(); } };
 
 /* reset all saved progress */
-$("reset").onclick = () => $("rov").classList.add("on");
-$("rcancel").onclick = () => $("rov").classList.remove("on");
+$("reset").onclick = () => openModal("rov", "#rcancel");
+$("rcancel").onclick = () => closeModal("rov");
 $("rconfirm").onclick = () => {
   ["knownFlashcards","reviewFlashcards","quizStats","quizSettings","studyState"].forEach(k => { try { localStorage.removeItem(k); } catch (e) {} });
-  known = []; rev = []; st = {n:0, ok:0}; qs = {f:0, t:"random"}; seen = 0;
+  known = []; rev = []; KS = new Set(); RS = new Set(); status = "all"; st = {n:0, ok:0}; qs = {f:0, t:"random"}; seen = 0;
   subj = SUBJECTS[0].name; topics = new Set(); units = new Set(); subtops = new Set(); openT.clear(); $("search").value = "";
-  $("qFreq").value = 0; $("qType").value = "random"; $("rov").classList.remove("on"); chips(); stats(); filt();
+  $("qFreq").value = 0; $("qType").value = "random"; closeModal("rov"); chips(); stats(); filt();
 };
 
 /* help module with tabs */
-$("help").onclick = () => $("hov").classList.add("on");
-$("hdone").onclick = () => $("hov").classList.remove("on");
+$("help").onclick = () => openModal("hov");
+$("hdone").onclick = () => closeModal("hov");
 document.querySelectorAll("[data-tab]").forEach(b => b.onclick = () => {
   document.querySelectorAll("[data-tab]").forEach(x => x.classList.toggle("pri", x === b));
   document.querySelectorAll(".tp").forEach(p => p.classList.toggle("on", p.id === "tp-" + b.dataset.tab)); });
 
-document.onkeydown = e => {
-  if ($("ov").classList.contains("on")) { if (document.activeElement.tagName === "TEXTAREA") return;
+document.addEventListener("keydown", e => {
+  if (e.key === "Tab") return trapTab(e);
+  const top = modalStack[modalStack.length - 1];
+  if (e.key === "Escape" && top) { e.preventDefault(); closeModal(top.id); return; }
+  if (top) { if (top.id !== "ov" || document.activeElement.tagName === "TEXTAREA") return;
     if (e.key === "Enter" && $("cq").style.display === "block") { e.preventDefault(); $("cq").click(); }
-    else if (e.key.length === 1 && !e.ctrlKey && !e.metaKey) { const b = document.querySelectorAll(".a")["abcd".indexOf(e.key.toLowerCase())]; if (b && !b.disabled) b.click(); }
+    else if (e.key.length === 1 && !e.ctrlKey && !e.metaKey && !e.altKey) { const b = document.querySelectorAll(".a")["abcd".indexOf(e.key.toLowerCase())]; if (b && !b.disabled) b.click(); }
     return; }
-  if (e.key === "Escape" && !document.fullscreenElement && document.body.classList.contains("fs")) { setFs(false); return; } if (/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName) || document.querySelector(".ov.on")) return;
-  if (e.code === "Space") { e.preventDefault(); flip(); } else if (e.key === "ArrowRight") go(1); else if (e.key === "ArrowLeft") go(-1); };
-let x0 = 0; const sc = document.querySelector(".scene");   /* swipe on phones */
-sc.addEventListener("touchstart", e => x0 = e.touches[0].clientX, {passive:true});
-sc.addEventListener("touchend", e => { const dx = e.changedTouches[0].clientX - x0; if (Math.abs(dx) > 60) go(dx < 0 ? 1 : -1); });
+  if (e.key === "Escape" && !document.fullscreenElement && document.body.classList.contains("fs")) { setFs(false); return; }
+  const t = e.target; if (/INPUT|TEXTAREA|SELECT/.test(t.tagName) || t.isContentEditable || e.ctrlKey || e.metaKey || e.altKey) return;
+  if (e.code === "Space") { if (t.closest("button,a,summary,[role=button]")) return; e.preventDefault(); flip(); }   /* focused controls handle Space themselves */
+  else if (e.repeat) return;
+  else if (e.key === "ArrowRight") go(1); else if (e.key === "ArrowLeft") go(-1);
+  else if (e.key.toLowerCase() === "k") mark(true); else if (e.key.toLowerCase() === "r") mark(false);
+});
+let x0 = 0, y0 = 0, tch = false; const sc = document.querySelector(".scene");   /* swipe on phones: ignore mostly-vertical gestures (scrolling a long card) */
+sc.addEventListener("touchstart", e => { tch = e.touches.length === 1; x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; }, {passive:true});
+sc.addEventListener("touchcancel", () => tch = false, {passive:true});
+sc.addEventListener("touchend", e => { if (!tch) return; tch = false; const dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0;
+  if (Math.abs(dy) > Math.abs(dx)) return; if (Math.abs(dx) > 60) go(dx < 0 ? 1 : -1); });
 
 /* full screen / focus mode (CSS-based so it also works on iPhone; uses the browser Fullscreen API where available) */
 const fsb = $("fsb"), de = document.documentElement;
